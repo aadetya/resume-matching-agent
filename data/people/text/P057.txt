@@ -1,0 +1,32 @@
+Candidate P057
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Full Stack Developer | Finger Lakes Research Institute | 2023-06 to Present
+Develop microservices for data-heavy applications; cut API response times by 40% using GraphQL and Redis caching. Lead SPA performance initiatives, achieving 95+ Lighthouse scores.
+IT Specialist | Coast Guard Base Boston | 2021-10 to 2023-05
+Managed network and security systems; implemented RBAC/ABAC policies that reduced unauthorized access incidents by 60%. Trained 30+ personnel on secure workflows.
+Communications Technician | Coast Guard Cutter Vigilant | 2019-03 to 2021-09
+Maintained satellite and radio comms; optimized data transmission for reconnaissance missions, improving reliability by 25%. Self-taught JavaScript and Node.js.
+Electronics Technician | Coast Guard Station New York | 2016-08 to 2019-02
+Repaired radar and navigation systems; authored technical documentation adopted by 3 stations. Completed intensive front-end development bootcamp.
+Deckhand | Lake Ontario Shipping Co. | 2013-02 to 2016-07
+Assisted in cargo operations; maintained deck equipment. Gained hands-on experience with navigation software, sparking interest in software development.
+Apprentice Electrician | IBEW Local 86 | 2009-06 to 2012-12
+Completed 4-year union apprenticeship; installed wiring in commercial buildings. Developed systematic troubleshooting skills.
+SKILLS
+Authorization (RBAC, ABAC); HTML5; GraphQL; Microservices architecture; Redis; Web performance optimization; CSS3; Node.js; React; Vue.js; TypeScript; npm/yarn/pnpm; Sentry; Git; Slack; Vite
+EDUCATION
+Bachelor of Science | Computer Science | Rochester Institute of Technology
+2019-09 to 2023-06
+PROJECTS
+Mission Dashboard
+Built a real-time SPA for patrol scheduling using React and GraphQL, reducing coordination time by 30%. Technologies used: Node.js, Redis.
+Secure Comms Tracker
+Developed a Vue.js app to log and track secure communications, implementing RBAC to restrict sensitive data. Technologies used: TypeScript, Node.js, PostgreSQL.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2023-01
+Certified Kubernetes Application Developer (CKAD)
+Issued by Cloud Native Computing Foundation.
+2024-01

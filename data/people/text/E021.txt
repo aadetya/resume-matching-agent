@@ -1,0 +1,9 @@
+Candidate E021
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Big Data Engineer | Verizon Communications | 2018-03 to Present
+SKILLS
+Apache Spark; Apache Airflow; Python; Data validation; SQL; Kafka
+EDUCATION
+Data Engineering | Vallejo Regional Apprenticeship Program
+2017-09 to 2018-06

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "frozen_queries_sha256": "7312d031bd705733250ed22802d53584461a55fe76f38d883807bb09cb945f6e",
+  "frozen_rubric_sha256": "c83034dc7af8cc6a9f877cff05b0f7cc74b3397f77f4d1be25b58fb19d805e9f",
+  "blind_packet_sha256": "3d8ca10f654b81fbd496538b1b37070c949690bc6a264091509b1018361ed446",
+  "source_selection_sha256": "78316e7e25713e241a39848d242756fce2339d1b2c303e9262830ec6d8e712eb",
+  "ranking_inspected_before_freeze": false,
+  "reviewer_type": "Two AI reviewers; no human annotator",
+  "note": "Version2 removes bios and sourceIDs before any labels are written; clarifies certification-only skill evidence. Reviewers receive final sanitized profiles and rubric only. Disagreements are adjudicated before computing retrieval metrics."
+}

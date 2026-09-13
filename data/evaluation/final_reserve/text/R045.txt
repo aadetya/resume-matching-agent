@@ -1,0 +1,27 @@
+Candidate R045
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Branch Manager | Arizona Central Credit Union | 2016-03 to 2022-10
+Managed branch operations, led a team of 10, and consistently exceeded sales targets. Implemented process improvements that reduced transaction times and increased customer satisfaction.
+Assistant Branch Manager | First Interstate Bank | 2014-06 to 2016-02
+Supported branch manager in daily operations, supervised tellers, and handled escalations. Recognized for exceptional customer service and ability to resolve complex issues.
+Personal Banker | Wells Fargo | 2012-01 to 2014-05
+Opened accounts, processed loan applications, and provided financial guidance to customers. Developed strong sales and relationship management skills.
+Freelance Full Stack Developer | Self-employed | 2023-01 to Present
+Developed a full-stack inventory management app for a local boutique using Node.js, SQL, and JWT authentication. Also built a responsive portfolio site with cross-browser compatibility.
+SKILLS
+Unit testing (Jest, Mocha); SQL; Node.js; Authentication (JWT, OAuth); Responsive design; Cross-browser compatibility; Web performance optimization; HTML/CSS; Express; REST APIs
+EDUCATION
+Bachelor of Business Administration | Finance | Howard University
+2007-09 to 2011-06
+Certificate | Full Stack Development | Full Stack Web Development Bootcamp
+2022-09 to 2023-06
+PROJECTS
+Inventory Management System
+Full-stack app for a local retail store to track stock, sales, and reorders. Built with Node.js, Express, MySQL, and JWT authentication, deployed on Heroku.
+Personal Portfolio Website
+Responsive website showcasing previous work and resume. Focused on performance optimization and cross-browser compatibility. Technologies used: HTML, CSS, JavaScript, React.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2023-01

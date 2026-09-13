@@ -1,0 +1,24 @@
+Vikram Sen
+cand_ml_020@example.test
+
+PROFILE
+Machine Learning Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+
+Machine Learning Engineer | Mosaic Example Works | Jan 2019 - Jan 2021
+Built Python training pipelines with split checks and reproducible feature transformations.
+Trained PyTorch models and inspected errors by class before changing model capacity.
+Used Docker in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+Machine Learning Engineer | Cedar Fiction Studio | Jan 2023 - Jan 2025
+Built Python training pipelines with split checks and reproducible feature transformations.
+Trained PyTorch models and inspected errors by class before changing model capacity.
+Used Docker in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+TECHNOLOGIES
+Python, PyTorch, Docker
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

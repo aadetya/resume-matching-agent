@@ -1,0 +1,4 @@
+# Reciprocal-rank fusion constant for local candidate retrieval.
+# Screening recommendations use reviewed criterion evidence, not ranking weights.
+version: criteria-evidence-v2
+rrf_k: 60

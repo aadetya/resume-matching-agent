@@ -1,0 +1,34 @@
+Candidate R029
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Data Engineer | Pacific Research Institute | 2022-06 to Present
+Design and maintain ML data pipelines for insurance risk models. Optimize Spark jobs and Redshift queries, reducing processing time by 40%.
+Data Engineer | InsureTech Analytics | 2021-01 to 2022-05
+Built real-time data pipelines using Kafka and Spark Streaming. Implemented Lambda architecture for batch and stream processing.
+Data Engineer | Coastal Data Systems | 2019-10 to 2020-12
+Developed ETL pipelines with AWS Glue and Airflow. Focused on data partitioning and query performance.
+Data Analyst | State Farm Insurance | 2018-04 to 2019-09
+Performed data analysis and supported underwriting teams. Started building internal ETL processes to automate reporting.
+Junior Data Engineer | Apex Analytics | 2017-01 to 2018-03
+Assisted in building data pipelines for client projects. Learned Spark and Redshift on the job.
+Data Analyst | HealthFirst Insurance | 2015-06 to 2016-12
+Generated reports and dashboards. Moved into a data engineering role after automating data extraction.
+Data Analyst | Ventura County | 2014-01 to 2015-05
+Analyzed public health data and created SQL queries for various departments.
+SKILLS
+Query tuning; ETL pipeline development; Scala/Spark development; Data warehousing; Orchestration; Real-time data processing; Data transformation; API integration; Lambda architecture; Data partitioning strategies; Data modeling; Python; SQL; Data quality
+EDUCATION
+Bachelor of Science | Computer Science | California State University, Northridge
+2009-09 to 2013-06
+PROJECTS
+Real-time Claims Processing Pipeline
+Designed a streaming pipeline using Kafka and Spark to process insurance claims in near real-time, reducing latency to under 5 minutes. Technologies used: Apache Kafka, Apache Spark, AWS Glue, Redshift.
+Data Warehouse Optimization
+Refactored partitioning and sort keys on Redshift tables, improving query performance by 60% and reducing costs. Technologies used: Query tuning.
+CERTIFICATIONS
+AWS Certified Big Data – Specialty
+Issued by Amazon Web Services.
+2020-01
+Databricks Certified Data Engineer Associate
+Issued by Databricks.
+2022-01

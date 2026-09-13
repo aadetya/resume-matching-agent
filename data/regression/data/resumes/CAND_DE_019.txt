@@ -1,0 +1,15 @@
+Sara Patel
+cand_de_019@example.test
+
+PROFILE
+A focused resume with one directly supported technical skill.
+
+CAREER HISTORY
+Data Engineer | Northstar Fiction Labs | Jan 2021 - Jan 2026
+Used Apache Spark for a small internal workflow. Maintained weekly report spreadsheets and checked imported totals with business analysts.
+
+TECHNOLOGIES
+Apache Spark
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

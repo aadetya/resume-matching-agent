@@ -1,0 +1,30 @@
+Candidate P134
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Web Developer | Community Tech Alliance | 2022-06 to Present
+Rebuilding the nonprofit's event platform on serverless architecture, ensuring cross-browser compatibility and high accessibility. Leading migration of legacy Rails app to a microservices setup.
+Lead Web Developer | Volunteer Hub | 2020-03 to 2022-05
+Led a team of 5 developers building a volunteer management system with real-time features, implementing WebSocket load balancing and caching strategies. Also oversaw front-end architecture and mentored junior developers.
+Senior Web Developer | Green Future Foundation | 2019-01 to 2020-02
+Developed donation platforms and event microsites using server-side rendering and Event-driven Architecture to handle high traffic peaks. Improved monitoring and logging to reduce downtime by 30%.
+Web Developer | TechBridge Solutions | 2017-06 to 2018-12
+Built custom web applications for nonprofit clients, focusing on cross-browser compatibility and performance optimization. Used Express.js and Webpack for bundling and debugging.
+Junior Web Developer | DataMinds Inc. | 2015-01 to 2017-05
+Assisted in maintenance and feature enhancement of client portals, implementing caching strategies and testing procedures. Gained practical experience with WebSockets and microservices.
+Web Developer Intern | Innovate Labs | 2014-06 to 2014-12
+Interned on a team developing a React-based dashboard. Assisted with bug fixes and cross-browser compatibility testing.
+SKILLS
+Cross-browser Compatibility; Event-driven Architecture; Testing/Debugging; WebSockets; Version Control (Git); Monitoring and Logging; Caching Strategies; Server-side Rendering; Load Balancing; Microservices Architecture; NestJS; Express.js; Babel; Webpack
+EDUCATION
+Bachelor of Science | Computer Science | University of Virginia
+2008-09 to 2012-06
+PROJECTS
+Real-Time Donation Tracker
+Built a real-time donation tracking dashboard using WebSockets and event-driven architecture, enabling live updates for fundraising events. Deployed on AWS Lambda with caching strategies. Technologies used: NestJS, Express.js.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2023-01
+Certified JavaScript Developer
+Issued by W3Schools.
+2015-01

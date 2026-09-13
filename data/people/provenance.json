@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "dataset_id": "akzaidan/People",
+  "source_url": "https://huggingface.co/datasets/akzaidan/People",
+  "source_file": "profiles.parquet",
+  "source_sha256": "dd2d3b70642260b046f33034f3c19b608be5b72ad582005408d5256526490b42",
+  "source_bytes": 178078918,
+  "source_row_count": 248522,
+  "license": "MIT (declared by publisher)",
+  "snapshot_date": "2026-09-01",
+  "snapshot_basis": "Project evaluation cutoff; publisher does not document a collection reference date. Present is evaluated as of this cutoff, not assumed verified current employment.",
+  "selection_seed": "people-screening-v1-20260911",
+  "selection_protocol": "Source checksum pinned; exact occupational strata; seeded round-robin career cohorts; holdout selected first; no scorer/extractor/labels used.",
+  "eligible_source_roles": {
+    "frontend": [
+      "frontend engineer",
+      "react developer"
+    ],
+    "backend": [
+      "backend engineer",
+      "python developer",
+      "full stack developer"
+    ],
+    "data": [
+      "data engineer",
+      "big data engineer",
+      "streaming data engineer"
+    ],
+    "devops": [
+      "devops engineer"
+    ],
+    "ml": [
+      "machine learning engineer"
+    ],
+    "adjacent": [
+      "operations analyst"
+    ]
+  },
+  "quotas": {
+    "active": {
+      "frontend": 22,
+      "backend": 22,
+      "data": 16,
+      "devops": 16,
+      "ml": 14,
+      "adjacent": 10
+    },
+    "holdout": {
+      "frontend": 10,
+      "backend": 10,
+      "data": 8,
+      "devops": 8,
+      "ml": 7,
+      "adjacent": 7
+    }
+  },
+  "inspected_relevant_rows": 3408,
+  "schema_exclusions": {},
+  "pool_sizes": {
+    "backend": 931,
+    "devops": 310,
+    "frontend": 620,
+    "ml": 310,
+    "data": 929,
+    "adjacent": 308
+  },
+  "removed_fields": [
+    "age",
+    "bio",
+    "career_interests",
+    "city",
+    "country",
+    "desired_salary",
+    "ethnicity",
+    "experience_years",
+    "gender",
+    "languages",
+    "legal_status",
+    "sponsorship_needed",
+    "state",
+    "work_location_preferences"
+  ],
+  "retained_profile_fields": {
+    "user": [
+      "skills"
+    ],
+    "experience": [
+      "company",
+      "title",
+      "start_date",
+      "end_date",
+      "description",
+      "is_internship"
+    ],
+    "education": [
+      "school",
+      "degree",
+      "field_of_study",
+      "start_date",
+      "end_date",
+      "description"
+    ],
+    "projects": [
+      "name",
+      "description",
+      "start_date",
+      "end_date"
+    ],
+    "certifications": [
+      "name",
+      "description",
+      "date"
+    ]
+  },
+  "counts": {
+    "holdout": {
+      "adjacent": 7,
+      "backend": 10,
+      "ml": 7,
+      "frontend": 10,
+      "devops": 8,
+      "data": 8
+    },
+    "active": {
+      "devops": 16,
+      "data": 16,
+      "adjacent": 10,
+      "backend": 22,
+      "frontend": 22,
+      "ml": 14
+    }
+  },
+  "cohorts": {
+    "holdout": {
+      "entry_level": 2,
+      "visa_constrained": 4,
+      "standard": 5,
+      "bootcamp_self_taught": 4,
+      "military_transition": 5,
+      "return_to_work": 4,
+      "senior_specialist": 3,
+      "over_qualified": 4,
+      "career_changer": 3,
+      "sparse_profile": 6,
+      "student_intern": 4,
+      "manager_lead": 1,
+      "gig_contract": 5
+    },
+    "active": {
+      "senior_specialist": 7,
+      "student_intern": 9,
+      "over_qualified": 8,
+      "career_changer": 8,
+      "entry_level": 7,
+      "return_to_work": 8,
+      "standard": 9,
+      "manager_lead": 6,
+      "bootcamp_self_taught": 8,
+      "military_transition": 8,
+      "visa_constrained": 8,
+      "sparse_profile": 7,
+      "gig_contract": 7
+    }
+  },
+  "seniority": {
+    "holdout": {
+      "entry": 7,
+      "senior": 17,
+      "mid": 13,
+      "staff": 5,
+      "junior": 5,
+      "intern": 2,
+      "manager": 1
+    },
+    "active": {
+      "senior": 29,
+      "intern": 8,
+      "entry": 10,
+      "junior": 14,
+      "mid": 26,
+      "manager": 2,
+      "principal": 7,
+      "staff": 4
+    }
+  }
+}

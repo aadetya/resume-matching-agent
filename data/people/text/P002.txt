@@ -1,0 +1,17 @@
+Candidate P002
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+IT Intern | Lowcountry Rentals | 2023-06 to 2023-08
+Assisted with data entry and basic IT support. Learned about database management and reporting.
+Part-time Cashier (Returning) | Charleston Seafood Market | 2021-05 to 2022-08
+Handled transactions and customer service. Left for a year, returned briefly after studies resumed.
+SKILLS
+Apache Spark Streaming; Fault tolerance in streaming; Data partitioning; Consumer group management; Data governance for real-time data; Data lakes and lakehouses; Apache Kafka; Apache Spark; Amazon Kinesis; Apache Hudi; Python; SQL
+EDUCATION
+Associate of Applied Science | Computer Technology | Trident Technical College
+2023-09 to 2025-06
+PROJECTS
+Real-Time Sensor Data Pipeline
+Built a simulated IoT data pipeline using Kafka and Spark Streaming to process temperature readings. Implemented fault tolerance and partitioning. Technologies used: Apache Kafka, Apache Spark Streaming, Apache Hudi.
+Lakehouse Explorer
+Created a small lakehouse project using Hudi and Spark to manage streaming data. Focused on data governance and partitioning strategies. Technologies used: Apache Spark, Apache Hudi.

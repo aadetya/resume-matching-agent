@@ -1,0 +1,25 @@
+Candidate P063
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Bartender | The Rusty Spur | 2019-04 to 2024-01
+Orchestrated high-volume beverage service and managed inventory with a keen eye for operational efficiency. Leveraged strong interpersonal skills to foster a loyal clientele.
+Machine Learning Intern (Contract) | Local Autonomous Systems Startup | 2024-02 to 2024-06
+Assisted in building a sensor fusion model for a prototype autonomous vehicle. Implemented data augmentation pipelines and contributed to model evaluation, improving accuracy by 12%.
+Bartender | The Rusty Spur | 2024-07 to Present
+Continuing to provide exceptional service while actively seeking a full-time role as a Machine Learning Engineer. Applying data-driven mindset to optimize workflow and customer satisfaction.
+SKILLS
+Python; scikit-learn; TensorFlow; PyTorch; Deep Learning; Model Evaluation; Model Deployment; SQL; R; Hadoop; Data Visualization; Hyperparameter Tuning; NumPy; PostgreSQL; Kubeflow; Seaborn; dbt; Apache Kafka
+EDUCATION
+Associate of Science | Computer Science | Victor Valley College
+2020-09 to 2023-06
+Bachelor of Science | Computer Science | California State University, San Bernardino
+2023-09 to 2025-06
+PROJECTS
+Predictive Maintenance for HVAC Systems
+Developed a time-series model using LSTM to predict equipment failures, achieving an F1-score of 0.85. Deployed via TensorFlow Serving and containerized with Docker. Technologies used: Python, Kubeflow, NumPy.
+Real-time Sentiment Analysis Pipeline
+Built a streaming data pipeline with Apache Kafka and dbt to analyze customer feedback. Utilized Scikit-learn for sentiment classification and visualized results with Seaborn.
+CERTIFICATIONS
+TensorFlow Developer Certificate
+Issued by TensorFlow.
+2024-01

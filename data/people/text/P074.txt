@@ -1,0 +1,28 @@
+Candidate P074
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Streaming Data Engineer | Bay Area Financial Insights Inc. | 2023-03 to Present
+Leverage cutting-edge streaming technologies to architect robust data pipelines, ensuring real-time analytics for investment strategies. Spearhead performance tuning and implement stateful stream processing to deliver tangible business value.
+Data Engineer | Pinoy's Delivery Service | 2021-01 to 2023-02
+Engineered conventional batch processing to support operational analytics, while self-learning streaming paradigms. Transitioned to streaming data platforms, building foundational knowledge in Kafka and stream processing.
+Junior Data Analyst | Smith Family Grocers | 2020-01 to 2020-12
+Managed data entry and generated reports for a family-owned grocery chain. Gained exposure to data processing and developed a passion for real-time analytics, prompting a career pivot.
+SKILLS
+Data lakes and lakehouses; Performance tuning for streaming workloads; Checkpointing and recovery; Stateful stream processing; Data ingestion; Avro serialization; Streaming joins; Monitoring and alerting for streaming; Confluent Platform; Materialize; RisingWave; Apache Kafka; Kafka Streams
+EDUCATION
+Certificate in Data Analytics | Data Analytics | Community College of San Jose
+2019-09 to 2020-06
+Streaming Data Engineering | Online Bootcamp
+2020-09 to 2021-06
+PROJECTS
+Real-Time Fraud Detection Pipeline
+Built a end-to-end streaming pipeline for a financial services client, leveraging Confluent Platform and RisingWave for stateful processing and real-time alerts. Reduced fraud detection latency by 80%. Technologies used: Materialize.
+Streaming Analytics Dashboard
+Developed a real-time dashboard for operational metrics using Materialize and Kafka Streams, enabling instant visibility and proactive decision-making. Technologies used: Avro.
+CERTIFICATIONS
+Confluent Certified Developer for Apache Kafka
+Issued by Confluent.
+2022-01
+Google Cloud Professional Data Engineer
+Issued by Google.
+2023-01

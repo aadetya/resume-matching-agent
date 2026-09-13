@@ -1,0 +1,23 @@
+Candidate P040
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Customer Support Specialist | Idaho Power | 2014-06 to 2018-08
+Handled high-volume inbound calls, resolved customer inquiries, and escalated technical issues. Documented recurring problems and collaborated with IT to improve system workflows.
+Senior Call Center Representative | Albertsons Companies | 2018-09 to 2022-02
+Led a team of 12 representatives, implemented quality assurance metrics, and reduced average handle time by 20%. Championed digital transformation initiatives and spearheaded the adoption of a new CRM platform.
+Junior Backend Engineer | Zions Bancorporation | 2023-03 to Present
+Developing and maintaining backend services using Go and GCP. Integration with event-driven architecture, implementing rate limiting, and optimizing SQL queries for performance.
+SKILLS
+Go; Node.js; GCP; Event-driven architecture; API versioning; Database design; Containerization; Logging; Data serialization; gRPC; Rate limiting; SQL optimization; Performance tuning; Java; REST APIs; Microservices; PostgreSQL
+EDUCATION
+Associate of Science | Computer Science | College of Western Idaho
+2019-09 to 2021-06
+Bachelor of Science | Computer Science | Boise State University
+2021-09 to 2023-06
+PROJECTS
+Ticket Management System
+Designed a microservices-based system that handled ticket creation and assignment using event-driven patterns and GCP Pub/Sub. Implemented API versioning and documentation. Utilized containerization with Docker and Kubernetes. Technologies used: Go.
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Issued by Amazon Web Services.
+2022-01

@@ -1,0 +1,28 @@
+Candidate R003
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Streaming Data Engineer | DataStream Solutions | 2017-02 to 2022-03
+Led design of real-time IOT data pipelines for healthcare clients. Implemneted kafka and flink solutions for streaming ETL and windowing.
+Big Data Engineer | HealthTech Analytics | 2013-05 to 2017-01
+Built batch and streaming processing piplines. Used spark and delta lake for med device data, transitioned to kafka for real-time.
+Data Engineer | CloudStream Federal | 2010-06 to 2013-04
+Developed ETL for federal sensor data. Used apache spark and iceberg. Introduced cdc for database sync.
+Junior Data Analyst | Pinnacle Marketing Group | 2008-01 to 2010-05
+Data analysis for marketing campaigns. Learned sql and reporting. Moved to data engineering due to interest.
+SKILLS
+Streaming ETL; Stateful stream processing; Windowing and watermarking; Apache Kafka; Streaming SQL; Change data capture (CDC); Apache Iceberg; Redpanda; Delta Lake; Apache Spark; Apache Flink
+EDUCATION
+Associate of Science | Computer Science | Santa Ana College
+2003-09 to 2005-06
+Bachelor of Science | Computer Science | California State University, Fullerton
+2005-09 to 2007-06
+PROJECTS
+Real-Time Patient Monitoring Pipeline
+Designed a flink pipeline for IOT vitals streaming with watermarks and event-time windows. Reduced alert latency by 40%. Technologies used: Apache Kafka, Apache Flink, Apache Iceberg.
+CERTIFICATIONS
+Confluent Certified Developer for Apache Kafka
+Issued by Confluent.
+2019-01
+Google Cloud Professional Data Engineer
+Issued by Google.
+2021-01

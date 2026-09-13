@@ -1,0 +1,26 @@
+Candidate P146
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Software Engineer | Dyson Retail Technology | 2022-03 to Present
+Leading backend development for a major e-commerce platform, focusing on API optimization and cloud infrastructure. Mentoring junior engineers, managing CI/CD pipelines, and ensuring security best practices.
+Software Engineering Team Lead | BrightPath Solutions | 2019-06 to 2022-02
+Led a team of 5 engineers building scalable backend services for an online retail client. Oversaw project planning, code reviews, and deployment, while personally developing key microservices.
+Software Engineer | DataStream Analytics | 2016-01 to 2019-05
+Developed RESTful APIs and integrated third-party services for e-commerce platforms. Improved system performance by 30% through database optimization and caching strategies.
+Information Systems Specialist | Army National Guard | 2011-02 to 2015-12
+Managed and maintained critical communication systems, ensuring secure data transmission and network availability. Developed technical documentation and trained personnel on system operations.
+SKILLS
+object-oriented programming; API development; cloud services; CI/CD pipelines; data structures; technical documentation; security best practices; performance optimization; integration testing; environment configuration; frontend basics; dependency management; AWS; Jira; VS Code; Travis CI
+EDUCATION
+Bachelor of Science | Computer Science | Texas State University
+2012-09 to 2016-06
+PROJECTS
+E-commerce Checkout Optimization
+Led a project to reduce checkout latency by 40% through API refactoring and caching. Implemented automated integration tests and deployed using CI/CD pipelines. Technologies used: AWS, Travis CI, Node.js.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2020-01
+Certified Scrum Master (CSM)
+Issued by Scrum Alliance.
+2019-01

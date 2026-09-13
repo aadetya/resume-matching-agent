@@ -1,0 +1,17 @@
+Candidate P050
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Machine Learning Intern | TechnoVista Solutions | 2024-06 to Present
+Spearheaded the development of a cutting-edge recommendation engine leveraging reinforcement learning algorithms, synergizing with cross-functional teams to drive user engagement metrics. Championed the adoption of MLOps best practices, including containerization and CI/CD pipelines, to ensure seamless model deployment.
+Data Analyst Intern | Apex Analytics | 2023-06 to 2023-08
+Leveraged advanced SQL queries to extract and transform large datasets from PostgreSQL databases, fueling business intelligence dashboards that significantly enhanced decision-making processes. Orchestrated comprehensive data preprocessing pipelines using Pandas, ensuring data integrity and accuracy.
+SKILLS
+Keras; TensorFlow; Computer Vision; Data Preprocessing; SQL; Model Selection; Pandas; Matplotlib; PostgreSQL; Azure; Docker; Jupyter; Git
+EDUCATION
+Associate of Science | Computer Science | Fremont Community College
+2022-09 to 2024-06
+PROJECTS
+Autonomous Maze Solver
+Developed a reinforcement learning agent using Q-learning and deep Q-networks to navigate dynamic mazes. Integrated computer vision for real-time obstacle detection and Keras for model training, achieving a 90% success rate. Technologies used: Python, TensorFlow, OpenCV.
+Movie Recommendation System
+Built a collaborative filtering-based recommendation engine for media content using TensorFlow and SQL. Enhanced user experience by personalizing suggestions based on viewing history, with a focus on scalability and performance. Technologies used: Python, PostgreSQL.

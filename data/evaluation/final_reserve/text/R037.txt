@@ -1,0 +1,23 @@
+Candidate R037
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Analyst | Midwest Family Goods | 2021-03 to Present
+Own end-to-end analytics. Built dbt models for sales reporting. Optimized Redshift queries. Maintain data catalog.
+Data Analyst | Prairie State Retail | 2019-01 to 2021-02
+Built dashboards for inventory and sales. Streamlined ETL with Stitch. Profiled data for quality issues. Documented processes.
+Junior Data Analyst | Prairie State Retail | 2017-06 to 2018-12
+Assisted with SQL queries. Created ad-hoc reports. Learned data warehouse basics. Supported senior analysts.
+Inventory Clerk | Warehouse Solutions Inc. | 2015-08 to 2017-05
+Managed inventory records. Worked with spreadsheets. Gained understanding of supply chain.
+SKILLS
+ETL/ELT; Warehouse performance tuning; Dashboard development; Data cataloging; SQL; Data transformation; Data governance; Data profiling; dbt; Airflow; Stitch; Python; Git; Tableau; Snowflake
+EDUCATION
+Bachelor of Science | Computer Information Systems | Howard University
+2011-09 to 2015-06
+PROJECTS
+Sales Performance Dashboard
+Developed dbt models for sales KPIs. Automated weekly reporting with Airflow. Technologies used: SQL.
+CERTIFICATIONS
+dbt Certified Developer
+Issued by dbt Labs.
+2022-01

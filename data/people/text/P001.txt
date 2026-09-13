@@ -1,0 +1,28 @@
+Candidate P001
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior DevOps Engineer | Gulf Coast Financial Services | 2015-03 to Present
+Hybrid 2-3 days. Lead cloud infra on Azure, IaC with Ansible, CI/CD via GitLab CI/Jenkins. Measure service health with New Relic, run chaos drills, cut release rollback time by 40%. Mentor two engineers, still hands-on.
+DevOps Engineer | Tampa Bay Credit Union | 2010-06 to 2015-02
+Migrated on-prem apps to Azure, built CI/CD, config with Ansible. Improved observability with New Relic. Part of incident response, disaster recovery drills.
+Systems Administrator | Suncoast Insurance Group | 2005-08 to 2010-05
+Lateral move from IT support. Managed Windows/Linux servers, network config, backups. Hand-rolled deployment scripts. Started automating with Ansible.
+IT Support Technician | Family-owned Bay Area Realty | 2003-01 to 2005-07
+First job. Desktop support, basic networking, learned scripting on the side.
+SKILLS
+Cloud platform management; Infrastructure as Code (IaC); Configuration management; Release management and rollback strategies; Observability and distributed tracing; Disaster recovery planning; Security hardening and compliance; Chaos engineering; Performance tuning; Network configuration and troubleshooting; Infrastructure testing; Build automation; Ansible; Azure; Docker; GitLab CI; Jenkins; New Relic
+EDUCATION
+Bachelor of Science | Computer Science | Florida A&M University
+1998-09 to 2002-06
+PROJECTS
+Disaster Recovery Automation
+Built automated failover for critical banking apps using Azure Site Recovery and Ansible playbooks. Reduced RTO from hours to minutes. Technologies used: PowerShell.
+Observability Pipeline
+Centralized logging and metrics with New Relic, added distributed tracing to microservices. Enabled quick root cause analysis in prod. Technologies used: Docker, Kubernetes.
+CERTIFICATIONS
+Microsoft Certified: DevOps Engineer Expert
+Issued by Microsoft.
+2021-01
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2019-01

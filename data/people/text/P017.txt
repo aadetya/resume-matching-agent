@@ -1,0 +1,21 @@
+Candidate P017
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+IT Support Technician | Arkansas Data Systems | 2023-08 to Present
+Resolved 30+ tickets weekly, slashed average resolution time by 25% by automating log analysis workflows with ELK Stack. Supported GCP migration of internal apps, cutting downtime 40% during cutover.
+Barista | Mugshots Coffee House | 2021-05 to 2023-07
+Managed rush-hour inventory, reduced waste 15% by shifting to just-in-time restocking. Trained 4 new hires on POS and customer service protocols.
+SKILLS
+Log management and analysis; Serverless and event-driven architecture; Chaos engineering; Version control strategies; Blue/green and canary deployments; Infrastructure as Code (IaC); Disaster recovery planning; Release management and rollback strategies; Scripting and automation; Cloud platform management; GCP; Docker; ELK Stack; ArgoCD; Datadog; GitHub Actions; Terraform
+EDUCATION
+Bachelor of Science | Computer Science | University of Arkansas at Little Rock
+2022-09 to 2024-06
+Associate of Science | Information Technology | Pulaski Technical College
+2020-09 to 2022-06
+PROJECTS
+Serverless Disaster Recovery Simulation
+Designed a Chaotic GCP serverless architecture that fails over to a secondary region in under 5 minutes, achieving 99.9% uptime in testing. Technologies used: Terraform, Docker.
+Blue/Green Deployment Pipeline
+Built a GitHub Actions pipeline for blue/green deployments, reducing rollback time from 20 min to 2 min using ArgoCD and Datadog metrics.
+Log Anomaly Detection with ELK
+Implemented ELK-based log analysis for a mock e-commerce platform, cutting false security alerts by 50% with custom regex patterns. Technologies used: ELK Stack.

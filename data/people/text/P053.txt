@@ -1,0 +1,26 @@
+Candidate P053
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Development Intern | San Diego Research Institute | 2023-06 to 2023-08
+Spearheaded the development of a mobile-first web application for data visualization, leveraging Angular and enhancing user engagement by 25% through responsive design and accessibility compliance.
+Web Development Assistant | Institute for Climate Studies | 2023-09 to 2024-01
+Collaborated with cross-functional teams to implement Vue.js components and optimized build processes using Vite, resulting in a 20% reduction in load times and improved code maintainability.
+Freelance Web Developer | Self-employed | 2024-02 to Present
+Designing and developing responsive websites for local businesses, focusing on WCAG compliance and integrating CI/CD pipelines to automate testing and deployment.
+SKILLS
+Angular; CI/CD; Build Tools (Webpack, Vite); CSS-in-JS; Web Accessibility (WCAG); Vue.js; Git; npm; Jest; Yarn; JavaScript; TypeScript; HTML5; CSS3
+EDUCATION
+Bachelor of Science | Computer Science | California State University San Marcos
+2021-09 to 2025-06
+PROJECTS
+Accessible Education Dashboard
+Developed a fully accessible dashboard for tracking student progress, implementing WCAG 2.1 standards and using Angular with CSS-in-JS for styling. Technologies used: Jest.
+Mobile-First Study Tracker
+Built a PWA using Vue.js and Vite to help students manage study schedules, featuring offline support and push notifications. Technologies used: Yarn.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2024-01
+freeCodeCamp Responsive Web Design Certification
+Issued by freeCodeCamp.
+2023-01

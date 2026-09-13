@@ -1,0 +1,25 @@
+Candidate P099
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Developer (Contract) | Community Credit Union of Central Mass | 2023-06 to Present
+Building a React component library for online banking features, using Storybook for documentation. Integrating REST APIs and optimizing performance.
+Senior Frontend Developer (Contract) | Bay State Bank | 2022-01 to 2023-05
+Led the migration of a legacy banking portal to React with Redux. Improved load times by 30% through code splitting and performance tuning.
+Lead Frontend Engineer | Quinsigamond Community Bank | 2019-03 to 2021-12
+Managed a team of five developers building internal banking tools. Standardized on TypeScript and Storybook, reducing bugs by 40%.
+React Developer | Worcester Municipal Federal Credit Union | 2017-05 to 2019-02
+Developed responsive customer-facing portals using React and Redux. Integrated payment APIs and ensured cross-browser compatibility.
+Junior Frontend Developer | Central Mass Web Agency | 2015-06 to 2017-04
+Built marketing sites for local businesses using JavaScript and REST APIs. Assisted in migrating a client to React.
+SKILLS
+TypeScript; Redux; Static Site Generation (SSG); REST API Integration; JavaScript (ES6+); Git; Performance Optimization; Storybook; Express; Prettier; CSS; HTML; Jest; Webpack
+EDUCATION
+Bachelor of Science | Computer Science | Worcester State University
+2011-09 to 2015-06
+PROJECTS
+Banking Component Library
+Developed a reusable React component library for financial applications, documented with Storybook and styled with a design system. Technologies used: TypeScript, Prettier.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2021-01

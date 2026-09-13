@@ -1,0 +1,19 @@
+Candidate R049
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior Full Stack Developer | HealthFirst Solutions | 2023-06 to Present
+Developed and maintained features for a patient portal, increasing user engagement by 15% and reducing page load time by 20%. Implemented role-based access control, ensuring HIPAA compliance.
+Shift Supervisor | Peet's Coffee | 2020-03 to 2023-05
+Supervised a team of 8, increased sales by 10% through upselling, and implemented a mobile ordering process that cut wait times by 25%.
+SKILLS
+JavaScript (ES6+); TypeScript; React; Node.js; MongoDB; PostgreSQL; MySQL; REST APIs; Git; AWS; Heroku; Postman; Sentry; End-to-end testing (Cypress, Playwright); Accessibility (a11y); Responsive design; Authorization (RBAC, ABAC); Microservices architecture; State management (Redux, Zustand)
+EDUCATION
+Full Stack Development | Apprenticeship Program
+2022-09 to 2023-06
+PROJECTS
+HealthTrack
+Built a full stack health monitoring dashboard using React, Node.js, and MongoDB, featuring real-time data visualization and user authentication.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

@@ -1,0 +1,23 @@
+Candidate P175
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Data Engineer | NovaGrid Analytics | 2021-03 to Present
+Lead data platform architecture. Built real-time ingestion pipelines with NiFi and Airflow. Optimized Delta Lake storage.
+Lead Big Data Engineer | CloudStream Systems | 2018-02 to 2021-02
+Led team of 5 engineers. Migrated on-prem HDFS to AWS EMR. Implemented dbt for transformations.
+Senior Big Data Engineer | NovaGrid Analytics | 2015-06 to 2017-12
+Designed data models. Built MapReduce jobs. Introduced Snowflake for warehousing.
+Big Data Engineer | Sentinel Data Corp | 2012-01 to 2015-05
+Built batch pipelines. Maintained HDFS clusters. Handled data validation.
+SKILLS
+MapReduce; Distributed computing; Data ingestion; Delta Lake; Snowflake; HDFS; Data validation; Apache NiFi; Apache Airflow; dbt; Amazon EMR; Python; SQL; Spark; Kafka
+PROJECTS
+Real-time IoT Pipeline
+Designed streaming pipeline for sensor data using NiFi, Kafka, and Airflow. Reduced latency by 60%. Technologies used: Apache NiFi, Apache Kafka, Apache Airflow.
+CERTIFICATIONS
+Cloudera Certified Professional (CCP) Data Engineer
+Issued by Cloudera.
+2016-01
+AWS Certified Big Data - Specialty
+Issued by Amazon Web Services.
+2019-01

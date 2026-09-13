@@ -1,0 +1,21 @@
+Candidate R030
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+IT Support Specialist | Legacy Bank & Trust | 2023-06 to 2024-02
+Provided technical support for internal systems. Collaborated with the API team to document and test new endpoints for internal banking applications.
+Junior API Integration Engineer | Legacy Bank & Trust | 2024-03 to Present
+Design and implement GraphQL APIs for internal financial services. Ensure backward compatibility, monitor performance, and enforce security protocols like OAuth 2.0.
+SKILLS
+Backward compatibility and deprecation policies; Serverless functions (AWS Lambda, Azure Functions); OAuth 2.0 and OpenID Connect; Load testing and stress testing; API monitoring and observability; GraphQL schema design; API documentation best practices; CI/CD for API deployment; Rate limiting and throttling; Event-driven architecture; Node.js; Python; PostgreSQL
+EDUCATION
+Associate of Applied Science | Software Development | Collin College
+2021-09 to 2023-06
+PROJECTS
+GraphQL API for Book Store
+Built a GraphQL API for a mock book store with schema design, query optimization, and implemented rate limiting and throttling using Redis. Technologies used: Node.js, AWS Lambda.
+Serverless E-commerce API
+Developed a serverless e-commerce API using AWS API Gateway and Lambda. Implemented OAuth 2.0 authentication and integrated Datadog for monitoring. Technologies used: AWS Lambda.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

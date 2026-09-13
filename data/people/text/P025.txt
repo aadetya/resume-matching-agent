@@ -1,0 +1,16 @@
+Candidate P025
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Software Engineer | EdTech Innovations | 2016-03 to Present
+Led development of a learning management system; designed APIs and real-time collaboration features.
+Senior Software Engineer | BrightPath Learning | 2008-01 to 2016-02
+Built data pipelines and Flask services for student analytics.
+Software Engineer | Academic Systems Inc. | 2001-07 to 2007-11
+Developed and maintained student information systems.
+Junior Developer | State University IT | 1999-09 to 2001-06
+Supported campus web applications and database queries.
+SKILLS
+WebSockets; GIL; MySQL; Virtual environments; Flask; RESTful APIs; Refactoring; PostgreSQL; Redis; Integration testing; GitHub; GitHub Actions; tox; Jenkins; Git; Pipenv; Kubernetes
+EDUCATION
+B.S. | Computer Science | Howard University
+1995-09 to 1999-06

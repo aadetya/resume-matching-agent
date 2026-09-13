@@ -1,0 +1,19 @@
+Candidate P152
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+IT Support Technician | Alabama Power Cooperative | 2023-06 to 2024-07
+Provided technical support and assisted with internal network issues. Gained exposure to server management and basic scripting.
+SKILLS
+API authentication and authorization; Asynchronous processing patterns; Data serialization (JSON, Protobuf, Avro); CI/CD for API deployment; HTTP protocol semantics; OAuth 2.0 and OpenID Connect; RESTful API design; OpenAPI/Swagger specification; Apigee; gRPC; Git; NGINX; Terraform; AWS API Gateway
+EDUCATION
+Bachelor of Science | Computer Science | Birmingham-Southern College
+2019-09 to 2023-06
+PROJECTS
+API Gateway for Local Library System
+Developed a RESTful API gateway using AWS API Gateway and Lambda to manage book checkouts. Implemented OAuth 2.0 authorization and OpenAPI specs. Technologies used: AWS Lambda.
+Real-time Chat Application
+Built a gRPC-based chat service with message streaming and authentication. Utilized Protobuf for message serialization and NGINX as a reverse proxy.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

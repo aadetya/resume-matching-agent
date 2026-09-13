@@ -1,0 +1,23 @@
+Candidate P084
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Cloud Infrastructure Engineer | Family-Owned Logistics & Consulting | 2023-08 to Present
+Designed and implemented cloud infrastructure solutions, focusing on CI/CD pipelines, containerization, and monitoring systems. Managed Kubernetes clusters and ensured high availability of critical services.
+DevOps Engineer Intern | Regional Financial Services Firm | 2023-01 to 2023-07
+Assisted in automating deployment processes and implementing monitoring solutions. Gained hands-on experience with infrastructure as code and secrets management.
+Senior IT Support Specialist | TechHelp Solutions | 2021-05 to 2023-01
+Provided advanced technical support and managed IT infrastructure. Led initiatives to improve system reliability and security, and coordinated with development teams on deployment processes.
+SKILLS
+Secrets management; Infrastructure as Code (IaC); Build automation; CI/CD pipeline design; Scripting and automation; Version control strategies; Incident response and management; Security hardening and compliance; Backup and restore procedures; Linux system administration; Infrastructure testing; Kubernetes; Docker; ELK Stack; GCP; Python; Bash; Terraform; Prometheus; Git
+EDUCATION
+Bachelor of Science | Computer Science | Tennessee State University
+2019-09 to 2023-06
+PROJECTS
+Automated CI/CD Pipeline for a Banking Application
+Designed and built a fully automated CI/CD pipeline using GCP, Docker, Kubernetes, and ArgoCD, incorporating security scanning and secrets management.
+Monitoring and Logging Stack for Microservices
+Implemented ELK Stack and Grafana to provide centralized logging and real-time monitoring for a microservices-based system, improving incident response times. Technologies used: Docker.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2023-01

@@ -1,0 +1,19 @@
+Candidate P107
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Web Development Intern | Sandia National Laboratories | 2024-01 to Present
+Built headless commerce prototypes for internal lab store, processing 200+ transactions/day. Reduced page load time by 40% by optimizing session management.
+Research Assistant | University of New Mexico | 2023-05 to 2023-12
+Assisted in analyzing customer data from e-commerce APIs, improving dataset integrity by 25%. Implemented A/B testing scripts that increased hypothesis validity by 30%.
+Retail Associate | Albuquerque Pharmacy | 2022-06 to 2023-04
+Handled daily sales and inventory data entry, boosting accuracy of order management by 15%.
+SKILLS
+Headless commerce; Order management systems; Continuous integration and deployment; Mobile commerce; Customer data management; Microservices architecture; Pricing and promotion logic; Session and state management; A/B testing; Fraud detection and prevention; Kubernetes; WooCommerce; Java; REST APIs; Git
+EDUCATION
+Bachelor of Science | Computer Science | University of New Mexico
+2021-09 to 2025-06
+PROJECTS
+Headless Commerce Platform
+Developed a headless commerce system using WooCommerce as a backend and React frontend. Integrated payment gateway and reduced checkout time by 50%. Technologies used: Java, Kubernetes.
+Fraud Detection Model
+Built a fraud detection algorithm using machine learning, achieving an 85% accuracy rate. Deployed on Kubernetes for real-time screening. Technologies used: Java, Python.

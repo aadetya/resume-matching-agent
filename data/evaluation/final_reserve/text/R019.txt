@@ -1,0 +1,21 @@
+Candidate R019
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Deckhand / Fisherman | North Pacific Seafoods | 2015-03 to 2023-10
+Worked on commercial fishing vessels in the Bering Sea, responsible for deck operations, gear maintenance, and catch processing. Developed strong problem-solving and teamwork skills in high-pressure environments.
+Deckhand / Fisherman | Alaska Fishermen's Cooperative | 2008-04 to 2013-11
+Crew member on a salmon seiner, handling net mending, fish sorting, and vessel upkeep. Learned to adapt quickly to changing weather and operational demands.
+Backend Engineer (Contract) | Cascadia Tech Partners | 2024-01 to 2024-06
+Developed REST APIs for a client using Python and Docker, implementing JWT authentication and OAuth2 flows. Wrote unit tests and ensured backward compatibility for legacy endpoints.
+SKILLS
+Python; Git; Docker; JWT; OAuth2; Message queues; Idempotency; Temporal; Terraform; Unit testing; Backward compatibility; Caching strategies
+EDUCATION
+Certificate | Marine Technology | United States Coast Guard Training Center
+2007-09 to 2008-06
+PROJECTS
+Order Processing System
+Built a message-queue-based order processing system for a mock e-commerce platform, ensuring idempotent processing and caching strategies to handle duplicate events. Technologies used: Python, Docker, Temporal, Message queues, Idempotency.
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Issued by Amazon Web Services.
+2024-01

@@ -1,0 +1,9 @@
+{
+  "dataset_id": "akzaidan/People",
+  "revision": "82242bb397d893284643c29f85d5dae082e02ad2",
+  "card_url": "https://huggingface.co/datasets/akzaidan/People/raw/82242bb397d893284643c29f85d5dae082e02ad2/README.md",
+  "card_sha256": "23d4863a97cf4ddb724f1faef47214188c3bbf9662ea7c685e91c0df72981cd3",
+  "declared_license": "mit",
+  "retrieved_on": "2026-09-11",
+  "note": "Publisher declares MIT in dataset card; no separate license file accompanies this release."
+}

@@ -1,0 +1,30 @@
+Candidate E031
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Machine Learning Engineer | Naperville Community Unit School District 203 | 2024-01 to Present
+Build speech recognition models for classroom engagement. Lead model selection and hyperparameter tuning. Deploy on Azure.
+Senior Machine Learning Engineer | Telecom Solutions Inc. | 2019-06 to 2022-03
+Developed speech-based customer service models. Led deep learning initiatives. Optimized Spark pipelines.
+Machine Learning Engineer | Verizon Media | 2016-05 to 2019-05
+Built recommender systems for content personalization. Used PyTorch and Keras. Managed big data infrastructure.
+Data Scientist | AT&T | 2013-01 to 2016-04
+Applied machine learning to network optimization. Built predictive models with scikit-learn and LightGBM.
+Junior Machine Learning Engineer | T-Mobile | 2011-07 to 2012-12
+Assisted in building churn prediction models. Performed data preprocessing and model evaluation.
+SKILLS
+Deep Learning; PyTorch; Keras; Spark; Hadoop; Recommender Systems; Model Selection; scikit-learn; Hyperparameter Tuning; Big Data Technologies; LightGBM; PostgreSQL; dbt; Power BI; Azure
+EDUCATION
+Master of Science | Computer Science | Howard University
+2009-09 to 2011-06
+Bachelor of Science | Computer Engineering | Morehouse College
+2005-09 to 2009-06
+PROJECTS
+Speech Recognition for Classroom Engagement
+Developed a deep learning model to transcribe classroom discussions and provide real-time feedback. Improved engagement metrics by 20%. Technologies used: PyTorch, Keras, Azure.
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2019-01
+Microsoft Certified: Azure Data Scientist Associate
+Issued by Microsoft.
+2024-01

@@ -1,0 +1,25 @@
+Candidate E002
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior Python Developer | Palmetto Health IT | 2023-06 to Present
+Developing and maintaining RESTful APIs for internal health data systems using Flask, Celery for async tasks, and MySQL. Implemented CI/CD pipelines with Jenkins and containerized microservices with Kubernetes for on-prem deployment.
+Graduate Research Assistant | University of South Carolina | 2022-08 to 2023-05
+Developed Python scripts for processing medical imaging data, optimized pipelines for concurrent processing using multiprocessing and GIL considerations, and maintained version-controlled codebase.
+Software Development Intern | IT Ukraine | 2022-05 to 2022-08
+Assisted in developing web applications with Django for clients in the healthcare sector, performed code reviews, and wrote unit tests. Configured Jenkins jobs for continuous integration.
+SKILLS
+Virtual environments; Flask; Django; Code review; Version control; Linux command line; Debugging; Celery; Concurrency; GIL; Type hints; RESTful APIs; Jenkins; PyCharm; Kubernetes; Docker; Git; Bash scripting; SQL
+EDUCATION
+Master of Science | Computer Science | University of South Carolina
+2022-09 to 2024-06
+Bachelor of Science | Software Engineering | National Technical University of Ukraine
+2017-09 to 2021-06
+PROJECTS
+Automated CI/CD Pipeline for Healthcare App
+Designed a Jenkins pipeline to build, test, and deploy a Flask-based patient portal to Kubernetes clusters, reducing deployment time by 60% and improving system reliability. Technologies used: Docker.
+Asynchronous Task Processing Engine
+Implemented a Celery-based task queue for processing medical records in parallel, leveraging concurrency and handling GIL limitations with multiprocessing to achieve 3x throughput. Technologies used: Python, Redis.
+CERTIFICATIONS
+PCEP – Certified Entry-Level Python Programmer
+Issued by Python Institute.
+2021-01

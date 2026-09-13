@@ -1,0 +1,27 @@
+Candidate E035
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+DevOps Engineer | Regional Health System of North Texas | 2022-03 to Present
+I own the Kubernetes platform that runs our patient-facing applications, and I've been instrumental in moving us from manual deployments to a fully automated CI/CD pipeline using GitHub Actions and Argo CD. I also run chaos experiments on our staging environment to ensure we can handle unexpected failures without impacting patient care.
+Junior DevOps Engineer | North Texas Medical Center | 2021-01 to 2022-02
+Initially I was responsible for maintaining the legacy Puppet configuration management system, but I gradually transitioned the infrastructure to Ansible and started containerizing applications with Docker. I also assisted with the implementation of Datadog for monitoring and worked on disaster recovery planning for critical systems.
+Systems Administrator | Garland Community College | 2019-06 to 2020-12
+While working on my PhD, I managed the college's Linux servers and network infrastructure. That role gave me a solid grounding in Linux system administration and troubleshooting, and I built a small CI/CD pipeline for our internal tools.
+SKILLS
+Network configuration and troubleshooting; CI/CD pipeline design; Infrastructure testing; Infrastructure as Code (IaC); Version control strategies; Configuration management; Disaster recovery planning; Chaos engineering; Kubernetes cluster administration; Blue/green and canary deployments; Linux system administration; Docker; Puppet; New Relic; Datadog; Chef; Ansible; GitHub Actions
+EDUCATION
+PhD | Computer Science | University of Texas at Dallas
+2016-09 to 2021-06
+Master of Science | Computer Science | University of Texas at Dallas
+2014-09 to 2016-06
+Bachelor of Science | Computer Engineering | University of Texas at Arlington
+2010-09 to 2014-06
+PROJECTS
+Kubernetes Cluster Migration
+Led the migration of legacy VM-based services to a Kubernetes cluster, implementing GitOps with Argo CD and establishing blue/green deployment strategies. Technologies used: Docker, Ansible.
+Disaster Recovery Automation
+Developed automated failover and backup restore procedures for critical health systems, using scripts and infrastructure as code to reduce recovery time from hours to minutes. Technologies used: AWS, Terraform, Python.
+CERTIFICATIONS
+CKA: Certified Kubernetes Administrator
+Issued by Cloud Native Computing Foundation.
+2022-01

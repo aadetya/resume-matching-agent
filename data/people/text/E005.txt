@@ -1,0 +1,25 @@
+Candidate E005
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Engineer | Temecula Valley Software Solutions | 2023-01 to Present
+Developing e-commerce features for retail clients, focusing on SSR optimization and building reusable design systems. Working with Figma to translate designs into code.
+Frontend Developer | Inland Empire Web Studio | 2021-06 to 2022-12
+Built and mantained marketing sites for local businesses, implemented responsive layouts and used Jest for unit testing.
+Web Developer | Temecula Valley Software Solutions | 2019-03 to 2021-05
+Worked on a team building a internal dashboard, used Cypress for e2e testing and inroduced pnpm for faster builds.
+Junior Frontend Developer | Fresno State University | 2018-06 to 2019-02
+Maintained college website, helped migrate from jquery to react and implemented a design system foundation.
+SKILLS
+Server-Side Rendering (SSR); CSS-in-JS; HTML5; Testing (Jest, React Testing Library, Cypress); Design Systems; Version Control (Git); Static Site Generation (SSG); React; TypeScript; Node.js
+EDUCATION
+Associate of Science | Computer Science | Mt. San Jacinto College
+2014-09 to 2016-06
+Bachelor of Science | Computer Science | California State University, Fresno
+2016-09 to 2018-06
+PROJECTS
+E-commerce Storefront Template
+Open-source headless commerce template using SSR and SSG, integrated with Stripe and product search. Technologies used: React, Next.js, CSS-in-JS, GraphQL.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Coursera.
+2021-01

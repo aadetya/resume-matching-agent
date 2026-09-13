@@ -1,0 +1,30 @@
+Candidate P196
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Python Developer | University of California, Davis Health | 2019-03 to Present
+Lead developer for research data platform. Built CI/CD with Travis CI, dockerized services, and optimized Redis caching. Mentoring junior devs.
+Python Developer | State of California Technology | 2016-08 to 2019-02
+Developed web apps for public services. Worked on integration testing and unit tests. Collaborated with cross-functional teams.
+Junior Python Developer | University of California, Davis | 2014-06 to 2016-07
+Started as an intern, moved to full-time. Built internal tools using Flask and learned AWS and basic concurrency.
+IT Support Technician | California State University, Sacramento | 2012-09 to 2014-05
+Provided technical support while finishing degree. Gained foundational knowledge of networking and scripting.
+SKILLS
+Python; Django; Flask; CI/CD pipelines; Integration testing; AWS; Concurrency; Redis; Unit testing; JavaScript; React; SQL; Git; Travis CI; Docker; Pipenv
+EDUCATION
+Master of Science | Computer Science | California State University, Sacramento
+2014-09 to 2016-06
+Bachelor of Science | Computer Science | California State University, Sacramento
+2010-09 to 2014-06
+PROJECTS
+Research Data Platform
+Built a Flask-based platform for managing clinical research data. Integrated Redis for caching and Celery for async tasks. Implemented unit and integration tests. Technologies used: Python, AWS, Docker, Travis CI.
+Open Data Portal
+Developed a public data portal for state data. Automated deployment with Travis CI and Docker. Reduced load with Redis caching. Technologies used: Python, Django, AWS.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2021-01
+PCPP – Certified Professional in Python Programming
+Issued by Python Institute.
+2018-01

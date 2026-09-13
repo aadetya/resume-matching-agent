@@ -1,0 +1,28 @@
+Candidate R017
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Big Data Engineer | Coastal Logistics Group | 2021-08 to Present
+Build and maintain scalable data pipelines for shipment tracking. Manage HBase clusters and optimize Iceberg tables for real-time analytics.
+Data Engineer | Carolina Freight Solutions | 2019-03 to 2021-07
+Designed ETL workflows. Migrated on-prem Hadoop to AWS S3 and Databricks. Reduced query times by 40%.
+Operations Coordinator | Port City Warehousing | 2016-01 to 2019-02
+Coordinated warehouse logistics. Learned SQL and automation tools on the job. Transitioned to data engineering.
+Warehouse Associate | Port City Warehousing | 2014-06 to 2015-12
+Handled inventory. Picked up basic data entry and reporting.
+SKILLS
+Apache HBase; Cluster management; Delta Lake; Apache Iceberg; HDFS; SQL; NoSQL databases; Distributed computing; Apache Cassandra; Apache Flink; Apache Hadoop; Databricks; Amazon S3; Apache Hudi
+EDUCATION
+Associate of Science | Computer Science | Cape Fear Community College
+2016-09 to 2018-06
+PROJECTS
+Streaming analytics for fleet tracking
+Used Flink and Kafka to process real-time GPS data. Integrated with S3 and Iceberg. Technologies used: Apache Flink, Apache Kafka, Amazon S3, Apache Iceberg.
+Data lake optimization
+Implemented Hudi and Delta Lake to improve merge and upsert performance. Technologies used: Apache Hudi.
+CERTIFICATIONS
+AWS Certified Big Data - Specialty
+Issued by Amazon Web Services.
+2022-01
+Databricks Certified Associate Developer for Apache Spark
+Issued by Databricks.
+2020-01

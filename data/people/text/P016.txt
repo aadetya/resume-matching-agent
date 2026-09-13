@@ -1,0 +1,27 @@
+Candidate P016
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Manufacturing Data Analyst | Midwest Precision Manufacturing | 2021-06 to Present
+I develop and maintain internal tools to track production efficiency. I use Python and Flask to build dashboards and APIs that the plant managers rely on daily, and I set up automated tests to keep everything stable.
+Junior Developer (Internal Transfer) | Midwest Precision Manufacturing | 2019-01 to 2021-05
+Moved from IT support to the software team. I wrote scripts to automate inventory reports and started building small Flask apps for the warehouse staff. This is where I learned about version control and deployment with Jenkins and AWS.
+IT Support Technician | Midwest Precision Manufacturing | 2018-06 to 2018-12
+Provided tech support to the plant floor. I fixed hardware issues and helped implement a barcode system. I also wrote small Python scripts to speed up data entry, which sparked my interest in development.
+Research Assistant (Backend Support) | Federal University of Minas Gerais | 2017-02 to 2018-05
+During my master's in Brazil, I helped build a web platform for sharing research data. I worked with Python and PostgreSQL, and I learned about multithreading and Redis to handle concurrent user requests.
+SKILLS
+Python; Flask; AWS; PostgreSQL; Redis; Multithreading; Unit testing; Integration testing; Version control; Pip; GIL; WebSockets; GitHub Actions; Jenkins; Visual Studio Code; GitHub
+EDUCATION
+Master's | Computer Science | Federal University of Minas Gerais
+2015-09 to 2017-06
+PhD | Computer Science | Grand Valley State University
+2019-09 to date unavailable
+PROJECTS
+Plant Production Dashboard
+Developed a Flask-based dashboard that visualizes real-time production metrics from the plant floor. Used WebSockets for live updates and integrated a Redis cache to handle high traffic. Technologies used: Python, AWS.
+Automated Test Suite
+Created a comprehensive suite of unit and integration tests for internal APIs using pytest. Integrated with GitHub Actions to run tests on every push. Technologies used: Python, Jenkins.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2023-01

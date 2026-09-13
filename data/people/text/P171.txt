@@ -1,0 +1,30 @@
+Candidate P171
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Frontend Engineer | CivicWeb Solutions | 2021-03 to Present
+Lead a team of 4 frontend developers building accessible civic portals. Manage sprint priorities, code reviews, and stakeholder communication. Reduced page load times by 30% through performance optimization.
+Senior React Developer | CivicWeb Solutions | 2018-01 to 2021-02
+Developed and maintained React applications for public services. Implemented Redux state management and reusable component libraries. Mentored junior developers and conducted accessibility audits.
+React Developer | CivicWeb Solutions | 2013-06 to 2017-12
+Built user interfaces for municipal websites using React and CSS3. Worked with APIs and ensured cross-browser compatibility. Participated in daily stand-ups and agile ceremonies.
+Junior Web Developer | Technovate Startup | 2012-01 to 2013-05
+Assisted in building marketing websites and internal tools. Used HTML, CSS, and basic JavaScript. Collaborated with senior developers on feature implementation.
+SKILLS
+Git; Context API; Component Architecture; Accessibility (a11y); React Router; CSS3; Redux; Debugging; Redux DevTools; npm; MongoDB; Yarn; pnpm; Firebase; Docker; TypeScript; GraphQL
+EDUCATION
+Bachelor of Science | Computer Science | University of Missouri - Kansas City
+2008-09 to 2012-06
+Master of Science | Information Technology | Western Governors University
+2016-09 to 2018-06
+PROJECTS
+Public Records Portal
+Led the redesign of a public records portal for Independence city government, improving accessibility and mobile responsiveness. Used React and Context API to manage complex state. Technologies used: CSS3.
+Citizen Feedback Dashboard
+Built a real-time dashboard for citizen feedback, using Redux and Redux DevTools for state management. Integrated Firebase for real-time data sync. Technologies used: React.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Coursera.
+2021-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2022-01

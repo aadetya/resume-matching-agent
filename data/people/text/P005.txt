@@ -1,0 +1,17 @@
+Candidate P005
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+HR Operations Assistant | Permian Basin Manufacturing Co. | 2023-06 to Present
+Support HR operations with reporting and process documentation. Previously in production, transferred internally after completing a PhD.
+Production Associate | Permian Basin Manufacturing Co. | 2022-01 to 2023-05
+Worked on the plant floor, gaining direct exposure to workforce scheduling and shift data.
+SKILLS
+Dashboard creation; Time-to-fill analysis; Salary analysis; Stakeholder management; HR data analysis; Report automation; SOP documentation; Excel; SAP SuccessFactors; BambooHR; Oracle HCM; R; Zendesk; DocuSign
+EDUCATION
+PhD | Industrial Engineering | Texas A&M University
+2018-09 to 2023-06
+PROJECTS
+Time-to-Fill Dashboard
+Built an Excel dashboard to track time-to-fill for plant positions, automating monthly reports for HR.
+Salary Analysis for Shift Roles
+Analyzed salary data for production roles using R, identifying outliers and recommending updates to pay bands.

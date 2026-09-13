@@ -1,0 +1,19 @@
+Candidate P173
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Project Engineer | Coastal Bend Construction Group | 2012-06 to 2023-08
+Supervised commercial construction projects, focused on QA/QC and integration testing of building systems. Led cross-functional teams, ensuring compliance with specifications and schedules.
+Freelance Developer | Self-employed | 2024-01 to 2024-08
+Developed a real-time chat application using WebSockets and React, deployed via CI/CD pipeline. Wrote integration tests with Jest and used GitHub for version control.
+SKILLS
+Jest; WebSockets; React; Build automation (CI/CD); Bundlers (Webpack, Vite, Rollup); Integration testing; Node.js; SQL; Jira; Postman; GitHub; Visual Studio Code; React DevTools; Python
+EDUCATION
+PhD | Civil Engineering | Texas A&M University
+2006-09 to 2011-06
+PROJECTS
+Real-time Chat App
+Built a real-time chat application with WebSockets, React, and Node.js. Implemented authentication, message history, and online presence. Used Jest for integration testing and set up CI/CD with GitHub Actions.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

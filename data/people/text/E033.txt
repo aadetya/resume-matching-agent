@@ -1,0 +1,23 @@
+Candidate E033
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+IT Support Technician | Tulsa Community College | 2023-08 to Present
+Provide Tier 1/2 support. Manage backups and GCP instances for lab environments. Improve cost efficiency through monitoring with Datadog.
+Signal Support Systems Specialist | United States Army | 2019-07 to 2023-06
+Maintained tactical comm systems, implemented backup/restore drills, and coordinated with NSA/CYBERCOM. Learned disaster recovery planning and configuration management.
+Warehouse Associate | Quicktrip Distribution | 2017-05 to 2019-06
+Loaded/unloaded trucks, learned DC operations, and flexible scheduling.
+SKILLS
+Microservices deployment; Cloud platform management; Version control strategies; Configuration management; Terraform; GCP; GitLab CI; Backup and restore procedures; Cost optimization; Disaster recovery planning; New Relic; Datadog; Splunk
+EDUCATION
+Associate of Science | Information Technology | Tulsa Community College
+2023-09 to date unavailable
+PROJECTS
+CI/CD Pipeline Project
+Built a CI/CD pipeline using GitLab CI to automate deployment of a containerized app to GCP, integrating New Relic for monitoring. Technologies used: Docker.
+Disaster Recovery Simulation
+Simulated failure scenarios and developed recovery procedures using Terraform and GCP snapshots, ensuring RTO/RPO met standards. Technologies used: Cloud Storage.
+CERTIFICATIONS
+CompTIA Security+
+Issued by CompTIA.
+2022-01

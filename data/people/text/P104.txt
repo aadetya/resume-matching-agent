@@ -1,0 +1,19 @@
+Candidate P104
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior DevOps Engineer | National Retail Chain Logistics Division | 2021-08 to 2022-12
+Maintained Jenkins pipelines, wrote Groovy scripts, managed on-prem Puppet configurations.
+DevOps Engineer | Telecom Infrastructure Services (acquired by National Retail Chain) | 2023-01 to Present
+Shift work supporting release engineering. Implemented IaC with Puppet, monitoring with Grafana, service mesh for microservices.
+SKILLS
+Infrastructure as Code (IaC); Monitoring and alerting; Scripting and automation; Infrastructure testing; Version control strategies; Serverless and event-driven architecture; Service mesh implementation; Helm; Puppet; Jenkins; Grafana; Python; AWS; Docker; Kubernetes
+EDUCATION
+Associate of Applied Science | Computer Science | Baton Rouge Community College
+2018-09 to 2021-06
+PROJECTS
+CI/CD Pipeline Overhaul
+Rebuilt Jenkins pipelines with shared libraries, cut deployment time by 40%. Added automated infrastructure tests. Technologies used: Groovy, Puppet, Grafana.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2023-01

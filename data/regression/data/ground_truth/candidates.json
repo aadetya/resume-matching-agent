@@ -1,0 +1,1981 @@
+[
+  {
+    "candidate_id": "CAND_FE_001",
+    "name": "John Morgan",
+    "family": "FE",
+    "number": 1,
+    "skills": [
+      "git",
+      "javascript",
+      "react",
+      "testing",
+      "typescript"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "react": 8.0,
+      "javascript": 8.0,
+      "typescript": 8.0,
+      "testing": 8.0,
+      "git": 8.0
+    },
+    "direct": true,
+    "layout": 0
+  },
+  {
+    "candidate_id": "CAND_FE_002",
+    "name": "Jane Morgan",
+    "family": "FE",
+    "number": 2,
+    "skills": [
+      "git",
+      "javascript",
+      "react",
+      "testing",
+      "typescript"
+    ],
+    "experience_years": 7,
+    "skill_years": {
+      "react": 7.0,
+      "javascript": 7.0,
+      "typescript": 7.0,
+      "testing": 7.0,
+      "git": 7.0
+    },
+    "direct": true,
+    "layout": 1
+  },
+  {
+    "candidate_id": "CAND_FE_003",
+    "name": "Maya Morgan",
+    "family": "FE",
+    "number": 3,
+    "skills": [
+      "git",
+      "javascript",
+      "react",
+      "testing",
+      "typescript"
+    ],
+    "experience_years": 6,
+    "skill_years": {
+      "react": 6.0,
+      "javascript": 6.0,
+      "typescript": 6.0,
+      "testing": 6.0,
+      "git": 6.0
+    },
+    "direct": true,
+    "layout": 2
+  },
+  {
+    "candidate_id": "CAND_FE_004",
+    "name": "Arjun Morgan",
+    "family": "FE",
+    "number": 4,
+    "skills": [
+      "git",
+      "javascript",
+      "react",
+      "testing",
+      "typescript"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "react": 5.0,
+      "javascript": 5.0,
+      "typescript": 5.0,
+      "testing": 5.0,
+      "git": 5.0
+    },
+    "direct": true,
+    "layout": 3
+  },
+  {
+    "candidate_id": "CAND_FE_005",
+    "name": "Sofia Morgan",
+    "family": "FE",
+    "number": 5,
+    "skills": [
+      "git",
+      "javascript",
+      "react",
+      "testing",
+      "typescript"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "react": 4.0,
+      "javascript": 4.0,
+      "typescript": 4.0,
+      "testing": 4.0,
+      "git": 4.0
+    },
+    "direct": true,
+    "layout": 4
+  },
+  {
+    "candidate_id": "CAND_FE_006",
+    "name": "Rohan Morgan",
+    "family": "FE",
+    "number": 6,
+    "skills": [
+      "javascript",
+      "react",
+      "testing",
+      "typescript"
+    ],
+    "experience_years": 3,
+    "skill_years": {
+      "react": 3.0,
+      "javascript": 3.0,
+      "typescript": 3.0,
+      "testing": 3.0
+    },
+    "direct": true,
+    "layout": 5
+  },
+  {
+    "candidate_id": "CAND_FE_007",
+    "name": "Elena Morgan",
+    "family": "FE",
+    "number": 7,
+    "skills": [
+      "javascript",
+      "react",
+      "testing",
+      "typescript"
+    ],
+    "experience_years": 2,
+    "skill_years": {
+      "react": 2.0,
+      "javascript": 2.0,
+      "typescript": 2.0,
+      "testing": 2.0
+    },
+    "direct": true,
+    "layout": 6
+  },
+  {
+    "candidate_id": "CAND_FE_008",
+    "name": "Kabir Morgan",
+    "family": "FE",
+    "number": 8,
+    "skills": [
+      "javascript",
+      "react",
+      "testing",
+      "typescript"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "react": 8.0,
+      "javascript": 8.0,
+      "typescript": 8.0,
+      "testing": 8.0
+    },
+    "direct": true,
+    "layout": 7
+  },
+  {
+    "candidate_id": "CAND_FE_009",
+    "name": "Priya Morgan",
+    "family": "FE",
+    "number": 9,
+    "skills": [
+      "javascript",
+      "react",
+      "testing",
+      "typescript"
+    ],
+    "experience_years": 7,
+    "skill_years": {
+      "react": 7.0,
+      "javascript": 7.0,
+      "typescript": 7.0,
+      "testing": 7.0
+    },
+    "direct": true,
+    "layout": 8
+  },
+  {
+    "candidate_id": "CAND_FE_010",
+    "name": "Nikhil Morgan",
+    "family": "FE",
+    "number": 10,
+    "skills": [
+      "javascript",
+      "react",
+      "testing",
+      "typescript"
+    ],
+    "experience_years": 6,
+    "skill_years": {
+      "react": 6.0,
+      "javascript": 6.0,
+      "typescript": 6.0,
+      "testing": 6.0
+    },
+    "direct": true,
+    "layout": 9
+  },
+  {
+    "candidate_id": "CAND_FE_011",
+    "name": "Nora Morgan",
+    "family": "FE",
+    "number": 11,
+    "skills": [
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "react": 5.0,
+      "javascript": 5.0,
+      "typescript": 5.0
+    },
+    "direct": true,
+    "layout": 0
+  },
+  {
+    "candidate_id": "CAND_FE_012",
+    "name": "Dev Morgan",
+    "family": "FE",
+    "number": 12,
+    "skills": [
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "react": 4.0,
+      "javascript": 4.0,
+      "typescript": 4.0
+    },
+    "direct": true,
+    "layout": 1
+  },
+  {
+    "candidate_id": "CAND_FE_013",
+    "name": "Lina Morgan",
+    "family": "FE",
+    "number": 13,
+    "skills": [
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "experience_years": 3,
+    "skill_years": {
+      "react": 3.0,
+      "javascript": 3.0,
+      "typescript": 3.0
+    },
+    "direct": true,
+    "layout": 2
+  },
+  {
+    "candidate_id": "CAND_FE_014",
+    "name": "Omar Morgan",
+    "family": "FE",
+    "number": 14,
+    "skills": [
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "experience_years": 2,
+    "skill_years": {
+      "react": 2.0,
+      "javascript": 2.0,
+      "typescript": 2.0
+    },
+    "direct": true,
+    "layout": 3
+  },
+  {
+    "candidate_id": "CAND_FE_015",
+    "name": "Asha Morgan",
+    "family": "FE",
+    "number": 15,
+    "skills": [
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "react": 8.0,
+      "javascript": 8.0,
+      "typescript": 8.0
+    },
+    "direct": true,
+    "layout": 4
+  },
+  {
+    "candidate_id": "CAND_FE_016",
+    "name": "Ishan Morgan",
+    "family": "FE",
+    "number": 16,
+    "skills": [
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 5
+  },
+  {
+    "candidate_id": "CAND_FE_017",
+    "name": "Zoya Morgan",
+    "family": "FE",
+    "number": 17,
+    "skills": [
+      "javascript",
+      "react"
+    ],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 6
+  },
+  {
+    "candidate_id": "CAND_FE_018",
+    "name": "Neel Morgan",
+    "family": "FE",
+    "number": 18,
+    "skills": [],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 7
+  },
+  {
+    "candidate_id": "CAND_FE_019",
+    "name": "Sara Morgan",
+    "family": "FE",
+    "number": 19,
+    "skills": [
+      "javascript"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "javascript": 5.0
+    },
+    "direct": false,
+    "layout": 8
+  },
+  {
+    "candidate_id": "CAND_FE_020",
+    "name": "Vikram Morgan",
+    "family": "FE",
+    "number": 20,
+    "skills": [
+      "javascript",
+      "react",
+      "typescript"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "react": 4.0,
+      "javascript": 4.0,
+      "typescript": 4.0
+    },
+    "direct": true,
+    "layout": 9
+  },
+  {
+    "candidate_id": "CAND_BE_001",
+    "name": "John Shah",
+    "family": "BE",
+    "number": 1,
+    "skills": [
+      "docker",
+      "fastapi",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "python": 8.0,
+      "sql": 8.0,
+      "fastapi": 8.0,
+      "postgresql": 8.0,
+      "docker": 8.0
+    },
+    "direct": true,
+    "layout": 0
+  },
+  {
+    "candidate_id": "CAND_BE_002",
+    "name": "Jane Shah",
+    "family": "BE",
+    "number": 2,
+    "skills": [
+      "docker",
+      "fastapi",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "experience_years": 7,
+    "skill_years": {
+      "python": 7.0,
+      "sql": 7.0,
+      "fastapi": 7.0,
+      "postgresql": 7.0,
+      "docker": 7.0
+    },
+    "direct": true,
+    "layout": 1
+  },
+  {
+    "candidate_id": "CAND_BE_003",
+    "name": "Maya Shah",
+    "family": "BE",
+    "number": 3,
+    "skills": [
+      "docker",
+      "fastapi",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "experience_years": 6,
+    "skill_years": {
+      "python": 6.0,
+      "sql": 6.0,
+      "fastapi": 6.0,
+      "postgresql": 6.0,
+      "docker": 6.0
+    },
+    "direct": true,
+    "layout": 2
+  },
+  {
+    "candidate_id": "CAND_BE_004",
+    "name": "Arjun Shah",
+    "family": "BE",
+    "number": 4,
+    "skills": [
+      "docker",
+      "fastapi",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "python": 5.0,
+      "sql": 5.0,
+      "fastapi": 5.0,
+      "postgresql": 5.0,
+      "docker": 5.0
+    },
+    "direct": true,
+    "layout": 3
+  },
+  {
+    "candidate_id": "CAND_BE_005",
+    "name": "Sofia Shah",
+    "family": "BE",
+    "number": 5,
+    "skills": [
+      "docker",
+      "fastapi",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "python": 4.0,
+      "sql": 4.0,
+      "fastapi": 4.0,
+      "postgresql": 4.0,
+      "docker": 4.0
+    },
+    "direct": true,
+    "layout": 4
+  },
+  {
+    "candidate_id": "CAND_BE_006",
+    "name": "Rohan Shah",
+    "family": "BE",
+    "number": 6,
+    "skills": [
+      "fastapi",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "experience_years": 3,
+    "skill_years": {
+      "python": 3.0,
+      "sql": 3.0,
+      "fastapi": 3.0,
+      "postgresql": 3.0
+    },
+    "direct": true,
+    "layout": 5
+  },
+  {
+    "candidate_id": "CAND_BE_007",
+    "name": "Elena Shah",
+    "family": "BE",
+    "number": 7,
+    "skills": [
+      "fastapi",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "experience_years": 2,
+    "skill_years": {
+      "python": 2.0,
+      "sql": 2.0,
+      "fastapi": 2.0,
+      "postgresql": 2.0
+    },
+    "direct": true,
+    "layout": 6
+  },
+  {
+    "candidate_id": "CAND_BE_008",
+    "name": "Kabir Shah",
+    "family": "BE",
+    "number": 8,
+    "skills": [
+      "fastapi",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "python": 8.0,
+      "sql": 8.0,
+      "fastapi": 8.0,
+      "postgresql": 8.0
+    },
+    "direct": true,
+    "layout": 7
+  },
+  {
+    "candidate_id": "CAND_BE_009",
+    "name": "Priya Shah",
+    "family": "BE",
+    "number": 9,
+    "skills": [
+      "fastapi",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "experience_years": 7,
+    "skill_years": {
+      "python": 7.0,
+      "sql": 7.0,
+      "fastapi": 7.0,
+      "postgresql": 7.0
+    },
+    "direct": true,
+    "layout": 8
+  },
+  {
+    "candidate_id": "CAND_BE_010",
+    "name": "Nikhil Shah",
+    "family": "BE",
+    "number": 10,
+    "skills": [
+      "fastapi",
+      "postgresql",
+      "python",
+      "sql"
+    ],
+    "experience_years": 6,
+    "skill_years": {
+      "python": 6.0,
+      "sql": 6.0,
+      "fastapi": 6.0,
+      "postgresql": 6.0
+    },
+    "direct": true,
+    "layout": 9
+  },
+  {
+    "candidate_id": "CAND_BE_011",
+    "name": "Nora Shah",
+    "family": "BE",
+    "number": 11,
+    "skills": [
+      "fastapi",
+      "python",
+      "sql"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "python": 5.0,
+      "sql": 5.0,
+      "fastapi": 5.0
+    },
+    "direct": true,
+    "layout": 0
+  },
+  {
+    "candidate_id": "CAND_BE_012",
+    "name": "Dev Shah",
+    "family": "BE",
+    "number": 12,
+    "skills": [
+      "fastapi",
+      "python",
+      "sql"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "python": 4.0,
+      "sql": 4.0,
+      "fastapi": 4.0
+    },
+    "direct": true,
+    "layout": 1
+  },
+  {
+    "candidate_id": "CAND_BE_013",
+    "name": "Lina Shah",
+    "family": "BE",
+    "number": 13,
+    "skills": [
+      "fastapi",
+      "python",
+      "sql"
+    ],
+    "experience_years": 3,
+    "skill_years": {
+      "python": 3.0,
+      "sql": 3.0,
+      "fastapi": 3.0
+    },
+    "direct": true,
+    "layout": 2
+  },
+  {
+    "candidate_id": "CAND_BE_014",
+    "name": "Omar Shah",
+    "family": "BE",
+    "number": 14,
+    "skills": [
+      "fastapi",
+      "python",
+      "sql"
+    ],
+    "experience_years": 2,
+    "skill_years": {
+      "python": 2.0,
+      "sql": 2.0,
+      "fastapi": 2.0
+    },
+    "direct": true,
+    "layout": 3
+  },
+  {
+    "candidate_id": "CAND_BE_015",
+    "name": "Asha Shah",
+    "family": "BE",
+    "number": 15,
+    "skills": [
+      "fastapi",
+      "python",
+      "sql"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "python": 8.0,
+      "sql": 8.0,
+      "fastapi": 8.0
+    },
+    "direct": true,
+    "layout": 4
+  },
+  {
+    "candidate_id": "CAND_BE_016",
+    "name": "Ishan Shah",
+    "family": "BE",
+    "number": 16,
+    "skills": [
+      "fastapi",
+      "python",
+      "sql"
+    ],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 5
+  },
+  {
+    "candidate_id": "CAND_BE_017",
+    "name": "Zoya Shah",
+    "family": "BE",
+    "number": 17,
+    "skills": [
+      "python",
+      "sql"
+    ],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 6
+  },
+  {
+    "candidate_id": "CAND_BE_018",
+    "name": "Neel Shah",
+    "family": "BE",
+    "number": 18,
+    "skills": [],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 7
+  },
+  {
+    "candidate_id": "CAND_BE_019",
+    "name": "Sara Shah",
+    "family": "BE",
+    "number": 19,
+    "skills": [
+      "sql"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "sql": 5.0
+    },
+    "direct": false,
+    "layout": 8
+  },
+  {
+    "candidate_id": "CAND_BE_020",
+    "name": "Vikram Shah",
+    "family": "BE",
+    "number": 20,
+    "skills": [
+      "fastapi",
+      "python",
+      "sql"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "python": 4.0,
+      "sql": 4.0,
+      "fastapi": 4.0
+    },
+    "direct": true,
+    "layout": 9
+  },
+  {
+    "candidate_id": "CAND_DE_001",
+    "name": "John Patel",
+    "family": "DE",
+    "number": 1,
+    "skills": [
+      "airflow",
+      "kafka",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "sql": 8.0,
+      "spark": 8.0,
+      "python": 8.0,
+      "airflow": 8.0,
+      "kafka": 8.0
+    },
+    "direct": true,
+    "layout": 0
+  },
+  {
+    "candidate_id": "CAND_DE_002",
+    "name": "Jane Patel",
+    "family": "DE",
+    "number": 2,
+    "skills": [
+      "airflow",
+      "kafka",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 7,
+    "skill_years": {
+      "sql": 7.0,
+      "spark": 7.0,
+      "python": 7.0,
+      "airflow": 7.0,
+      "kafka": 7.0
+    },
+    "direct": true,
+    "layout": 1
+  },
+  {
+    "candidate_id": "CAND_DE_003",
+    "name": "Maya Patel",
+    "family": "DE",
+    "number": 3,
+    "skills": [
+      "airflow",
+      "kafka",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 6,
+    "skill_years": {
+      "sql": 6.0,
+      "spark": 6.0,
+      "python": 6.0,
+      "airflow": 6.0,
+      "kafka": 6.0
+    },
+    "direct": true,
+    "layout": 2
+  },
+  {
+    "candidate_id": "CAND_DE_004",
+    "name": "Arjun Patel",
+    "family": "DE",
+    "number": 4,
+    "skills": [
+      "airflow",
+      "kafka",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "sql": 5.0,
+      "spark": 5.0,
+      "python": 5.0,
+      "airflow": 5.0,
+      "kafka": 5.0
+    },
+    "direct": true,
+    "layout": 3
+  },
+  {
+    "candidate_id": "CAND_DE_005",
+    "name": "Sofia Patel",
+    "family": "DE",
+    "number": 5,
+    "skills": [
+      "airflow",
+      "kafka",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "sql": 4.0,
+      "spark": 4.0,
+      "python": 4.0,
+      "airflow": 4.0,
+      "kafka": 4.0
+    },
+    "direct": true,
+    "layout": 4
+  },
+  {
+    "candidate_id": "CAND_DE_006",
+    "name": "Rohan Patel",
+    "family": "DE",
+    "number": 6,
+    "skills": [
+      "airflow",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 3,
+    "skill_years": {
+      "sql": 3.0,
+      "spark": 3.0,
+      "python": 3.0,
+      "airflow": 3.0
+    },
+    "direct": true,
+    "layout": 5
+  },
+  {
+    "candidate_id": "CAND_DE_007",
+    "name": "Elena Patel",
+    "family": "DE",
+    "number": 7,
+    "skills": [
+      "airflow",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 2,
+    "skill_years": {
+      "sql": 2.0,
+      "spark": 2.0,
+      "python": 2.0,
+      "airflow": 2.0
+    },
+    "direct": true,
+    "layout": 6
+  },
+  {
+    "candidate_id": "CAND_DE_008",
+    "name": "Kabir Patel",
+    "family": "DE",
+    "number": 8,
+    "skills": [
+      "airflow",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "sql": 8.0,
+      "spark": 8.0,
+      "python": 8.0,
+      "airflow": 8.0
+    },
+    "direct": true,
+    "layout": 7
+  },
+  {
+    "candidate_id": "CAND_DE_009",
+    "name": "Priya Patel",
+    "family": "DE",
+    "number": 9,
+    "skills": [
+      "airflow",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 7,
+    "skill_years": {
+      "sql": 7.0,
+      "spark": 7.0,
+      "python": 7.0,
+      "airflow": 7.0
+    },
+    "direct": true,
+    "layout": 8
+  },
+  {
+    "candidate_id": "CAND_DE_010",
+    "name": "Nikhil Patel",
+    "family": "DE",
+    "number": 10,
+    "skills": [
+      "airflow",
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 6,
+    "skill_years": {
+      "sql": 6.0,
+      "spark": 6.0,
+      "python": 6.0,
+      "airflow": 6.0
+    },
+    "direct": true,
+    "layout": 9
+  },
+  {
+    "candidate_id": "CAND_DE_011",
+    "name": "Nora Patel",
+    "family": "DE",
+    "number": 11,
+    "skills": [
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "sql": 5.0,
+      "spark": 5.0,
+      "python": 5.0
+    },
+    "direct": true,
+    "layout": 0
+  },
+  {
+    "candidate_id": "CAND_DE_012",
+    "name": "Dev Patel",
+    "family": "DE",
+    "number": 12,
+    "skills": [
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "sql": 4.0,
+      "spark": 4.0,
+      "python": 4.0
+    },
+    "direct": true,
+    "layout": 1
+  },
+  {
+    "candidate_id": "CAND_DE_013",
+    "name": "Lina Patel",
+    "family": "DE",
+    "number": 13,
+    "skills": [
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 3,
+    "skill_years": {
+      "sql": 3.0,
+      "spark": 3.0,
+      "python": 3.0
+    },
+    "direct": true,
+    "layout": 2
+  },
+  {
+    "candidate_id": "CAND_DE_014",
+    "name": "Omar Patel",
+    "family": "DE",
+    "number": 14,
+    "skills": [
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 2,
+    "skill_years": {
+      "sql": 2.0,
+      "spark": 2.0,
+      "python": 2.0
+    },
+    "direct": true,
+    "layout": 3
+  },
+  {
+    "candidate_id": "CAND_DE_015",
+    "name": "Asha Patel",
+    "family": "DE",
+    "number": 15,
+    "skills": [
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "sql": 8.0,
+      "spark": 8.0,
+      "python": 8.0
+    },
+    "direct": true,
+    "layout": 4
+  },
+  {
+    "candidate_id": "CAND_DE_016",
+    "name": "Ishan Patel",
+    "family": "DE",
+    "number": 16,
+    "skills": [
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 5
+  },
+  {
+    "candidate_id": "CAND_DE_017",
+    "name": "Zoya Patel",
+    "family": "DE",
+    "number": 17,
+    "skills": [
+      "spark",
+      "sql"
+    ],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 6
+  },
+  {
+    "candidate_id": "CAND_DE_018",
+    "name": "Neel Patel",
+    "family": "DE",
+    "number": 18,
+    "skills": [],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 7
+  },
+  {
+    "candidate_id": "CAND_DE_019",
+    "name": "Sara Patel",
+    "family": "DE",
+    "number": 19,
+    "skills": [
+      "spark"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "spark": 5.0
+    },
+    "direct": false,
+    "layout": 8
+  },
+  {
+    "candidate_id": "CAND_DE_020",
+    "name": "Vikram Patel",
+    "family": "DE",
+    "number": 20,
+    "skills": [
+      "python",
+      "spark",
+      "sql"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "sql": 4.0,
+      "spark": 4.0,
+      "python": 4.0
+    },
+    "direct": true,
+    "layout": 9
+  },
+  {
+    "candidate_id": "CAND_DO_001",
+    "name": "John Reed",
+    "family": "DO",
+    "number": 1,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "linux",
+      "monitoring",
+      "terraform"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "aws": 8.0,
+      "kubernetes": 8.0,
+      "terraform": 8.0,
+      "linux": 8.0,
+      "monitoring": 8.0
+    },
+    "direct": true,
+    "layout": 0
+  },
+  {
+    "candidate_id": "CAND_DO_002",
+    "name": "Jane Reed",
+    "family": "DO",
+    "number": 2,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "linux",
+      "monitoring",
+      "terraform"
+    ],
+    "experience_years": 7,
+    "skill_years": {
+      "aws": 7.0,
+      "kubernetes": 7.0,
+      "terraform": 7.0,
+      "linux": 7.0,
+      "monitoring": 7.0
+    },
+    "direct": true,
+    "layout": 1
+  },
+  {
+    "candidate_id": "CAND_DO_003",
+    "name": "Maya Reed",
+    "family": "DO",
+    "number": 3,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "linux",
+      "monitoring",
+      "terraform"
+    ],
+    "experience_years": 6,
+    "skill_years": {
+      "aws": 6.0,
+      "kubernetes": 6.0,
+      "terraform": 6.0,
+      "linux": 6.0,
+      "monitoring": 6.0
+    },
+    "direct": true,
+    "layout": 2
+  },
+  {
+    "candidate_id": "CAND_DO_004",
+    "name": "Arjun Reed",
+    "family": "DO",
+    "number": 4,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "linux",
+      "monitoring",
+      "terraform"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "aws": 5.0,
+      "kubernetes": 5.0,
+      "terraform": 5.0,
+      "linux": 5.0,
+      "monitoring": 5.0
+    },
+    "direct": true,
+    "layout": 3
+  },
+  {
+    "candidate_id": "CAND_DO_005",
+    "name": "Sofia Reed",
+    "family": "DO",
+    "number": 5,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "linux",
+      "monitoring",
+      "terraform"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "aws": 4.0,
+      "kubernetes": 4.0,
+      "terraform": 4.0,
+      "linux": 4.0,
+      "monitoring": 4.0
+    },
+    "direct": true,
+    "layout": 4
+  },
+  {
+    "candidate_id": "CAND_DO_006",
+    "name": "Rohan Reed",
+    "family": "DO",
+    "number": 6,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "linux",
+      "terraform"
+    ],
+    "experience_years": 3,
+    "skill_years": {
+      "aws": 3.0,
+      "kubernetes": 3.0,
+      "terraform": 3.0,
+      "linux": 3.0
+    },
+    "direct": true,
+    "layout": 5
+  },
+  {
+    "candidate_id": "CAND_DO_007",
+    "name": "Elena Reed",
+    "family": "DO",
+    "number": 7,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "linux",
+      "terraform"
+    ],
+    "experience_years": 2,
+    "skill_years": {
+      "aws": 2.0,
+      "kubernetes": 2.0,
+      "terraform": 2.0,
+      "linux": 2.0
+    },
+    "direct": true,
+    "layout": 6
+  },
+  {
+    "candidate_id": "CAND_DO_008",
+    "name": "Kabir Reed",
+    "family": "DO",
+    "number": 8,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "linux",
+      "terraform"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "aws": 8.0,
+      "kubernetes": 8.0,
+      "terraform": 8.0,
+      "linux": 8.0
+    },
+    "direct": true,
+    "layout": 7
+  },
+  {
+    "candidate_id": "CAND_DO_009",
+    "name": "Priya Reed",
+    "family": "DO",
+    "number": 9,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "linux",
+      "terraform"
+    ],
+    "experience_years": 7,
+    "skill_years": {
+      "aws": 7.0,
+      "kubernetes": 7.0,
+      "terraform": 7.0,
+      "linux": 7.0
+    },
+    "direct": true,
+    "layout": 8
+  },
+  {
+    "candidate_id": "CAND_DO_010",
+    "name": "Nikhil Reed",
+    "family": "DO",
+    "number": 10,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "linux",
+      "terraform"
+    ],
+    "experience_years": 6,
+    "skill_years": {
+      "aws": 6.0,
+      "kubernetes": 6.0,
+      "terraform": 6.0,
+      "linux": 6.0
+    },
+    "direct": true,
+    "layout": 9
+  },
+  {
+    "candidate_id": "CAND_DO_011",
+    "name": "Nora Reed",
+    "family": "DO",
+    "number": 11,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "terraform"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "aws": 5.0,
+      "kubernetes": 5.0,
+      "terraform": 5.0
+    },
+    "direct": true,
+    "layout": 0
+  },
+  {
+    "candidate_id": "CAND_DO_012",
+    "name": "Dev Reed",
+    "family": "DO",
+    "number": 12,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "terraform"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "aws": 4.0,
+      "kubernetes": 4.0,
+      "terraform": 4.0
+    },
+    "direct": true,
+    "layout": 1
+  },
+  {
+    "candidate_id": "CAND_DO_013",
+    "name": "Lina Reed",
+    "family": "DO",
+    "number": 13,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "terraform"
+    ],
+    "experience_years": 3,
+    "skill_years": {
+      "aws": 3.0,
+      "kubernetes": 3.0,
+      "terraform": 3.0
+    },
+    "direct": true,
+    "layout": 2
+  },
+  {
+    "candidate_id": "CAND_DO_014",
+    "name": "Omar Reed",
+    "family": "DO",
+    "number": 14,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "terraform"
+    ],
+    "experience_years": 2,
+    "skill_years": {
+      "aws": 2.0,
+      "kubernetes": 2.0,
+      "terraform": 2.0
+    },
+    "direct": true,
+    "layout": 3
+  },
+  {
+    "candidate_id": "CAND_DO_015",
+    "name": "Asha Reed",
+    "family": "DO",
+    "number": 15,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "terraform"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "aws": 8.0,
+      "kubernetes": 8.0,
+      "terraform": 8.0
+    },
+    "direct": true,
+    "layout": 4
+  },
+  {
+    "candidate_id": "CAND_DO_016",
+    "name": "Ishan Reed",
+    "family": "DO",
+    "number": 16,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "terraform"
+    ],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 5
+  },
+  {
+    "candidate_id": "CAND_DO_017",
+    "name": "Zoya Reed",
+    "family": "DO",
+    "number": 17,
+    "skills": [
+      "aws",
+      "kubernetes"
+    ],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 6
+  },
+  {
+    "candidate_id": "CAND_DO_018",
+    "name": "Neel Reed",
+    "family": "DO",
+    "number": 18,
+    "skills": [],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 7
+  },
+  {
+    "candidate_id": "CAND_DO_019",
+    "name": "Sara Reed",
+    "family": "DO",
+    "number": 19,
+    "skills": [
+      "kubernetes"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "kubernetes": 5.0
+    },
+    "direct": false,
+    "layout": 8
+  },
+  {
+    "candidate_id": "CAND_DO_020",
+    "name": "Vikram Reed",
+    "family": "DO",
+    "number": 20,
+    "skills": [
+      "aws",
+      "kubernetes",
+      "terraform"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "aws": 4.0,
+      "kubernetes": 4.0,
+      "terraform": 4.0
+    },
+    "direct": true,
+    "layout": 9
+  },
+  {
+    "candidate_id": "CAND_ML_001",
+    "name": "John Sen",
+    "family": "ML",
+    "number": 1,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "monitoring",
+      "python",
+      "pytorch",
+      "statistics"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "python": 8.0,
+      "pytorch": 8.0,
+      "docker": 8.0,
+      "statistics": 8.0,
+      "monitoring": 8.0,
+      "machine_learning": 8.0
+    },
+    "direct": true,
+    "layout": 0
+  },
+  {
+    "candidate_id": "CAND_ML_002",
+    "name": "Jane Sen",
+    "family": "ML",
+    "number": 2,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "monitoring",
+      "python",
+      "pytorch",
+      "statistics"
+    ],
+    "experience_years": 7,
+    "skill_years": {
+      "python": 7.0,
+      "pytorch": 7.0,
+      "docker": 7.0,
+      "statistics": 7.0,
+      "monitoring": 7.0,
+      "machine_learning": 7.0
+    },
+    "direct": true,
+    "layout": 1
+  },
+  {
+    "candidate_id": "CAND_ML_003",
+    "name": "Maya Sen",
+    "family": "ML",
+    "number": 3,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "monitoring",
+      "python",
+      "pytorch",
+      "statistics"
+    ],
+    "experience_years": 6,
+    "skill_years": {
+      "python": 6.0,
+      "pytorch": 6.0,
+      "docker": 6.0,
+      "statistics": 6.0,
+      "monitoring": 6.0,
+      "machine_learning": 6.0
+    },
+    "direct": true,
+    "layout": 2
+  },
+  {
+    "candidate_id": "CAND_ML_004",
+    "name": "Arjun Sen",
+    "family": "ML",
+    "number": 4,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "monitoring",
+      "python",
+      "pytorch",
+      "statistics"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "python": 5.0,
+      "pytorch": 5.0,
+      "docker": 5.0,
+      "statistics": 5.0,
+      "monitoring": 5.0,
+      "machine_learning": 5.0
+    },
+    "direct": true,
+    "layout": 3
+  },
+  {
+    "candidate_id": "CAND_ML_005",
+    "name": "Sofia Sen",
+    "family": "ML",
+    "number": 5,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "monitoring",
+      "python",
+      "pytorch",
+      "statistics"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "python": 4.0,
+      "pytorch": 4.0,
+      "docker": 4.0,
+      "statistics": 4.0,
+      "monitoring": 4.0,
+      "machine_learning": 4.0
+    },
+    "direct": true,
+    "layout": 4
+  },
+  {
+    "candidate_id": "CAND_ML_006",
+    "name": "Rohan Sen",
+    "family": "ML",
+    "number": 6,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "python",
+      "pytorch",
+      "statistics"
+    ],
+    "experience_years": 3,
+    "skill_years": {
+      "python": 3.0,
+      "pytorch": 3.0,
+      "docker": 3.0,
+      "statistics": 3.0,
+      "machine_learning": 3.0
+    },
+    "direct": true,
+    "layout": 5
+  },
+  {
+    "candidate_id": "CAND_ML_007",
+    "name": "Elena Sen",
+    "family": "ML",
+    "number": 7,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "python",
+      "pytorch",
+      "statistics"
+    ],
+    "experience_years": 2,
+    "skill_years": {
+      "python": 2.0,
+      "pytorch": 2.0,
+      "docker": 2.0,
+      "statistics": 2.0,
+      "machine_learning": 2.0
+    },
+    "direct": true,
+    "layout": 6
+  },
+  {
+    "candidate_id": "CAND_ML_008",
+    "name": "Kabir Sen",
+    "family": "ML",
+    "number": 8,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "python",
+      "pytorch",
+      "statistics"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "python": 8.0,
+      "pytorch": 8.0,
+      "docker": 8.0,
+      "statistics": 8.0,
+      "machine_learning": 8.0
+    },
+    "direct": true,
+    "layout": 7
+  },
+  {
+    "candidate_id": "CAND_ML_009",
+    "name": "Priya Sen",
+    "family": "ML",
+    "number": 9,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "python",
+      "pytorch",
+      "statistics"
+    ],
+    "experience_years": 7,
+    "skill_years": {
+      "python": 7.0,
+      "pytorch": 7.0,
+      "docker": 7.0,
+      "statistics": 7.0,
+      "machine_learning": 7.0
+    },
+    "direct": true,
+    "layout": 8
+  },
+  {
+    "candidate_id": "CAND_ML_010",
+    "name": "Nikhil Sen",
+    "family": "ML",
+    "number": 10,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "python",
+      "pytorch",
+      "statistics"
+    ],
+    "experience_years": 6,
+    "skill_years": {
+      "python": 6.0,
+      "pytorch": 6.0,
+      "docker": 6.0,
+      "statistics": 6.0,
+      "machine_learning": 6.0
+    },
+    "direct": true,
+    "layout": 9
+  },
+  {
+    "candidate_id": "CAND_ML_011",
+    "name": "Nora Sen",
+    "family": "ML",
+    "number": 11,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "python",
+      "pytorch"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "python": 5.0,
+      "pytorch": 5.0,
+      "docker": 5.0,
+      "machine_learning": 5.0
+    },
+    "direct": true,
+    "layout": 0
+  },
+  {
+    "candidate_id": "CAND_ML_012",
+    "name": "Dev Sen",
+    "family": "ML",
+    "number": 12,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "python",
+      "pytorch"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "python": 4.0,
+      "pytorch": 4.0,
+      "docker": 4.0,
+      "machine_learning": 4.0
+    },
+    "direct": true,
+    "layout": 1
+  },
+  {
+    "candidate_id": "CAND_ML_013",
+    "name": "Lina Sen",
+    "family": "ML",
+    "number": 13,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "python",
+      "pytorch"
+    ],
+    "experience_years": 3,
+    "skill_years": {
+      "python": 3.0,
+      "pytorch": 3.0,
+      "docker": 3.0,
+      "machine_learning": 3.0
+    },
+    "direct": true,
+    "layout": 2
+  },
+  {
+    "candidate_id": "CAND_ML_014",
+    "name": "Omar Sen",
+    "family": "ML",
+    "number": 14,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "python",
+      "pytorch"
+    ],
+    "experience_years": 2,
+    "skill_years": {
+      "python": 2.0,
+      "pytorch": 2.0,
+      "docker": 2.0,
+      "machine_learning": 2.0
+    },
+    "direct": true,
+    "layout": 3
+  },
+  {
+    "candidate_id": "CAND_ML_015",
+    "name": "Asha Sen",
+    "family": "ML",
+    "number": 15,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "python",
+      "pytorch"
+    ],
+    "experience_years": 8,
+    "skill_years": {
+      "python": 8.0,
+      "pytorch": 8.0,
+      "docker": 8.0,
+      "machine_learning": 8.0
+    },
+    "direct": true,
+    "layout": 4
+  },
+  {
+    "candidate_id": "CAND_ML_016",
+    "name": "Ishan Sen",
+    "family": "ML",
+    "number": 16,
+    "skills": [
+      "docker",
+      "python",
+      "pytorch"
+    ],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 5
+  },
+  {
+    "candidate_id": "CAND_ML_017",
+    "name": "Zoya Sen",
+    "family": "ML",
+    "number": 17,
+    "skills": [
+      "python",
+      "pytorch"
+    ],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 6
+  },
+  {
+    "candidate_id": "CAND_ML_018",
+    "name": "Neel Sen",
+    "family": "ML",
+    "number": 18,
+    "skills": [],
+    "experience_years": 5,
+    "skill_years": {},
+    "direct": false,
+    "layout": 7
+  },
+  {
+    "candidate_id": "CAND_ML_019",
+    "name": "Sara Sen",
+    "family": "ML",
+    "number": 19,
+    "skills": [
+      "machine_learning",
+      "pytorch"
+    ],
+    "experience_years": 5,
+    "skill_years": {
+      "pytorch": 5.0,
+      "machine_learning": 5.0
+    },
+    "direct": false,
+    "layout": 8
+  },
+  {
+    "candidate_id": "CAND_ML_020",
+    "name": "Vikram Sen",
+    "family": "ML",
+    "number": 20,
+    "skills": [
+      "docker",
+      "machine_learning",
+      "python",
+      "pytorch"
+    ],
+    "experience_years": 4,
+    "skill_years": {
+      "python": 4.0,
+      "pytorch": 4.0,
+      "docker": 4.0,
+      "machine_learning": 4.0
+    },
+    "direct": true,
+    "layout": 9
+  }
+]

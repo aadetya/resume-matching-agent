@@ -1,0 +1,20 @@
+Candidate P023
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Python Developer | Meridian Professional Services | 2019-03 to Present
+Lead migration of legacy systems to modern Python stack; design GraphQL APIs and optimize PostgreSQL performance for government clients.
+Senior Python Developer | Meridian Professional Services | 2016-01 to 2019-02
+Developed RESTful APIs and AWS-based solutions; introduced unit testing and type hints to improve code quality.
+Python Developer | Cumberland Data Systems | 2014-01 to 2015-12
+Built and maintained Python applications; focused on concurrency and debugging for data processing workflows.
+Junior Python Developer | Cumberland Data Systems | 2012-06 to 2013-12
+Supported senior developers; wrote unit tests and assisted with debugging and performance tuning.
+SKILLS
+Python; AWS; PostgreSQL; GraphQL; RESTful APIs; Concurrency; Debugging; Performance optimization; Type hints; Unit testing; Docker; Jenkins; GitLab; Unittest; Visual Studio Code; PyCharm; CI/CD; Microservices
+EDUCATION
+Associate of Applied Science | Computer Programming | Nashville State Community College
+2010-09 to 2012-06
+CERTIFICATIONS
+PCPP – Certified Professional in Python Programming
+Issued by Python Institute.
+2018-01

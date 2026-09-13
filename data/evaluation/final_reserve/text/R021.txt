@@ -1,0 +1,23 @@
+Candidate R021
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Communications Systems Specialist (Mobile App Developer) | United States Space Force | 2017-06 to 2021-03
+Developed and maintained internal logistics tracking applications for satellite communications, focusing on real-time data synchronization and offline capabilities. Collaborated with cross-functional teams to implement secure mobile solutions.
+Senior React Native Developer (Contract) | Fusion Logistics Solutions | 2021-04 to 2023-08
+Led the development of a cross-platform mobile app for fleet management, integrating push notifications, crash reporting, and deep linking to enhance driver efficiency. Mentored junior developers and enforced code quality standards.
+Lead React Native Developer (Staffing) | Spartan Tech Staffing | 2023-09 to Present
+Currently leading a mobile development team for a logistics client, architecting secure offline-first solutions and coordinating with product managers to deliver high-impact features. Managing a team of four developers and ensuring alignment with security best practices.
+SKILLS
+Deep linking; Native Modules; React Navigation; Push notifications; Crashlytics; TypeScript; Offline storage; Redux; Jest; Git; REST APIs
+EDUCATION
+Certificate | Full Stack Web Development | Lambda School (now Bloom Institute of Technology)
+2015-09 to 2016-06
+Associate of Applied Science | Communications Technology | Community College of the Air Force
+2012-09 to 2014-06
+PROJECTS
+Offline-First Logistics Tracker
+Developed a React Native app for tracking military cargo with full offline storage using SQLite and sync protocols, handling unreliable network conditions in remote locations. Technologies used: Redux, Native Modules.
+CERTIFICATIONS
+Meta React Native Certification
+Issued by Meta.
+2022-01

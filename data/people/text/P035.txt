@@ -1,0 +1,30 @@
+Candidate P035
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Developer | TravelNest Solutions | 2023-01 to Present
+Optimize booking flows and performance for a travel platform. Implement SSR/SSG with Next.js, reduce LCP by 40%, and maintain a design system with React and CSS3. Write comprehensive tests with Jest and Cypress.
+Junior Frontend Engineer | Global Bookings Inc. | 2021-05 to 2022-12
+Built responsive cross-browser UI for hotel booking interfaces. Contributed to migration from AngularJS to React, implemented PWA features, and optimized bundle size using Vite.
+Web Developer (Contract) | Lima Digital Studio | 2020-06 to 2021-04
+Developed marketing pages for travel clients using HTML5, CSS3, and JavaScript. Focused on performance and SEO. Collaborated with designers in Figma.
+Research Assistant (Part-time) | Universidad de Lima | 2019-03 to 2020-05
+Assisted in a research project on user interface design for low-bandwidth environments. Implemented prototypes in React and conducted usability testing.
+SKILLS
+React; Next.js; TypeScript; JavaScript; CSS3; HTML5; Responsive Design; Performance Optimization; PWA; Testing (Jest, React Testing Library, Cypress); Angular; SSR; SSG; Design Systems; Figma; Vite; pnpm
+EDUCATION
+Master of Science | Computer Science | University of Missouri-Kansas City
+2021-09 to 2023-06
+Bachelor of Engineering | Computer Science | Universidad de Lima
+2016-09 to 2020-06
+PROJECTS
+Booking Experience Performance Audit
+Audited and optimized a travel booking flow; reduced First Contentful Paint from 3.2s to 1.5s and improved Lighthouse score from 62 to 94. Technologies used: React, Next.js.
+PWA Travel Companion
+Built a progressive web app for travelers providing offline itineraries and currency exchange rates. Implemented service workers, offline caching, and push notifications. Technologies used: React, PWA.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Coursera.
+2023-01
+freeCodeCamp Responsive Web Design Certification
+Issued by freeCodeCamp.
+2020-01

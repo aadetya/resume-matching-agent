@@ -1,0 +1,18 @@
+Candidate R036
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Frontend Engineer | Delta Energy Cooperative | 2015-03 to 2018-06
+Developed accessible customer portals and outage reporting tools. Led frontend architecture for web and mobile.
+Frontend Engineer | Magnolia Electric Power | 2012-02 to 2015-02
+Built interactive dashboards for energy usage. Implemented responsive layouts and PWA features.
+Junior Frontend Engineer | Capital City Utilities | 2010-01 to 2011-08
+Created and maintained marketing pages and email templates. Assisted with accessibility improvements.
+SKILLS
+React; Design Systems; Server-Side Rendering (SSR); Progressive Web Apps (PWA); Responsive Design; Build Tools (Webpack, Vite); WebSockets; Webpack; Yarn; Sentry; GitLab; VS Code; Storybook; Chrome DevTools
+EDUCATION
+Bachelor of Science | Computer Science | Jackson State University
+2005-09 to 2009-06
+CERTIFICATIONS
+W3C Front-End Web Developer Professional Certificate
+Issued by W3C.
+2020-01

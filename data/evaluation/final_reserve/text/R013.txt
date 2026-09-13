@@ -1,0 +1,19 @@
+Candidate R013
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Point of Sale Support Specialist | National Retail Chain | 2023-08 to 2024-02
+Handled shift work for point-of-sale systems, including network configuration, hardware troubleshooting, and coordinating with HQ for patching. Supported backup and restore procedures for register data.
+Junior DevOps Technician | National Retail Chain | 2024-03 to Present
+Currently maintaining CI/CD pipelines and container orchestration for inventory microservices. Implemented secrets management and monitoring, and participated in chaos engineering drills. Upgraded Chef configurations to harden compliance.
+SKILLS
+Security hardening and compliance; Build automation; Backup and restore procedures; Microservices deployment; Chaos engineering; Version control strategies; Container orchestration; Infrastructure testing; Secrets management; Network configuration and troubleshooting; Configuration management; Monitoring and alerting; Chef; Kubernetes; Azure; CI/CD pipelines
+EDUCATION
+DevOps | Full Stack DevOps Bootcamp
+2023-09 to 2024-06
+PROJECTS
+Kubernetes Home Lab
+Set up a multi-node K8s cluster with Azure Arc, integrating monitoring and alerting, practicing backup and restore, and systematically implementing chaos experiments to test resilience. Technologies used: Kubernetes, Terraform, Prometheus.
+CERTIFICATIONS
+Microsoft Certified: DevOps Engineer Expert
+Issued by Microsoft.
+2024-01

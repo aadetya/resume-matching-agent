@@ -1,0 +1,26 @@
+Candidate P011
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Big Data Engineer | Red River Manufacturing Corp. | 2018-03 to Present
+Design and maintain data lake architecture for IoT sensor data and production metrics. Implement ETL pipelines using Apache NiFi and Airflow, optimize Spark jobs, and manage HDFS and Cassandra clusters.
+Data Engineer | Red River Manufacturing Corp. | 2015-01 to 2018-02
+Developed data warehousing solutions and batch processing pipelines. Migrated on-prem Hadoop workloads to cloud-based Delta Lake, cutting processing time by 30%.
+BI Analyst | Red River Manufacturing Corp. | 2011-06 to 2014-12
+Analyzed production data and created dashboards in Tableau. Gained deep domain knowledge of manufacturing KPIs, OEE and downtime analysis.
+SKILLS
+Apache Spark; Apache Airflow; Data lake architecture; Data warehousing; Delta Lake; Apache Hudi; HDFS; Apache Cassandra; Snowflake; Cluster management; Apache NiFi; Apache Hadoop; Apache Flink; Python; SQL
+EDUCATION
+PhD | Computer Science | Louisiana State University
+2005-09 to 2011-06
+PROJECTS
+Real-Time Production Monitoring
+Built a streaming pipeline using Flink and NiFi to ingest sensor data into Cassandra, enabling real-time machine health alerts. Technologies used: Apache Flink, Apache NiFi, Apache Cassandra.
+Data Lake Optimization
+Refactored data lake storage using Hudi and Delta Lake, reducing storage costs by 25% and improving query performance by 40%. Technologies used: Apache Hudi, Apache Spark.
+CERTIFICATIONS
+Cloudera Certified Professional (CCP) Data Engineer
+Issued by Cloudera.
+2019-01
+DataBricks Certified Associate Developer for Apache Spark
+Issued by DataBricks.
+2021-01

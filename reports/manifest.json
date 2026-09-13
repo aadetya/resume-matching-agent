@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "scope": "Published evaluation records. Scores, selected IDs, interpretation failures, labels and source/model hashes are retained. Conversation histories, machine-specific paths and duplicate all-candidate passage inventories are omitted. Original hashes identify the measured records before this presentation projection; these files do not claim to be byte-identical original exports.",
+  "records": [
+    {
+      "path": "reports/ranking_validation/meaning.json",
+      "original_sha256": "7f31e145e3c96b640c0560e966dce5682e24b8e4520eda787940304fdb29991e",
+      "sha256": "7f31e145e3c96b640c0560e966dce5682e24b8e4520eda787940304fdb29991e"
+    },
+    {
+      "path": "reports/ranking_validation/regression-frozen.json",
+      "original_sha256": "d167fec6fc8cf116f2766928830a73fe1a8f1c71c24e449b473f307f5a0ffcca",
+      "sha256": "5a4d9758d6e1ea4a474107086a91b5216a6d5a14ee9808a0df5444dbdb47d78f"
+    },
+    {
+      "path": "reports/ranking_validation/holdout-frozen.json",
+      "original_sha256": "47ce43bbe5dc76fbfc5d4efd9c1fc5250c61215ccc5a5f30552343a7fc66055f",
+      "sha256": "c49d760dd17d7019d7b7fb475d69aad9701899c8efa9096898028a177872e0d4"
+    },
+    {
+      "path": "reports/ranking_validation/regression-conversation.json",
+      "original_sha256": "70c30cc7f7a6d14d60afb0705c6c6bace120b2b8b951a71dad121301d4cd2f2f",
+      "sha256": "2b7b3d160b51f51b2fbe2b800a8b4a5e8ddfb6d85eead170b888a6597264e127"
+    },
+    {
+      "path": "reports/ranking_validation/interpretation-review.json",
+      "original_sha256": "c0d258490653af4d262aa6e5038e6068c58ed722790e2e44a657a7059da606bb",
+      "sha256": "c0d258490653af4d262aa6e5038e6068c58ed722790e2e44a657a7059da606bb"
+    },
+    {
+      "path": "reports/ranking_validation/backend-conversation-retest.json",
+      "original_sha256": "39d9151eab270d11b0cabd7d9be9c7f3003f2191f358efe013cd08a939f64a08",
+      "sha256": "a6da371ddf1b059939ed94a0e17d31ee0ace58bd3827731eaaecc8152a828939"
+    },
+    {
+      "path": "reports/ranking_validation/backend-interpretation-review.json",
+      "original_sha256": "149b881ffd24b82001eea10c84e6cc383de28fe7eda3dc7127cbe0193a082835",
+      "sha256": "149b881ffd24b82001eea10c84e6cc383de28fe7eda3dc7127cbe0193a082835"
+    },
+    {
+      "path": "reports/ranking_validation/scope-retest.json",
+      "original_sha256": "67bff3a549867143ef6886caedfc319c1f42a1011a53775e8cd45463c5da79fa",
+      "sha256": "67bff3a549867143ef6886caedfc319c1f42a1011a53775e8cd45463c5da79fa"
+    },
+    {
+      "path": "reports/ranking_validation/quote-repair.json",
+      "original_sha256": "0c05112f7bc4a019182c49cdc9bff646e546ef9e07265d111b2cf2deb500fa94",
+      "sha256": "0c05112f7bc4a019182c49cdc9bff646e546ef9e07265d111b2cf2deb500fa94"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/protocol.json",
+      "original_sha256": "b776aa94714471a88af38220cb214caae97d12eb2dbb4ec6734c4278f98080aa",
+      "sha256": "b776aa94714471a88af38220cb214caae97d12eb2dbb4ec6734c4278f98080aa"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/models.json",
+      "original_sha256": "5ee26363f794d27685e04218221067216381d5111c4d9042fa913743cbded7e9",
+      "sha256": "462ceabde11ddb98c60e140737eba835a0602da04b34e693be1006cec7712ecf"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/qwen4-info.json",
+      "original_sha256": "064e915b75e6b6e23515f87a17ff79c078c119f512b97991720e573dc53dbf23",
+      "sha256": "e901a4d60ad659c45c21df7442320008c734b86414f23716cc6b959e5e754abc"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/mxbai-info.json",
+      "original_sha256": "068acfb90a20385664d6adac5d71af87d09aadaa8bfd2213871da641622f933d",
+      "sha256": "329bf69669c71bc948a4de10ad79c17f8c89d4fad1e41a7e5530f698f8409dc1"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/jina35-info.json",
+      "original_sha256": "79eff888a3f0baefdc6bd78e7e099fd240ecade5c04f4f6734b26dc2e7a696d1",
+      "sha256": "6b9f2dffe7d00e4424a61cd22444b2b8464bff8101fb3f91e9f46c3484a6fdcb"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/minilm-mps-meaning.json",
+      "original_sha256": "e8fdb2313d5b6de36755d931e835b212aec757caadd4e660b968bcbf88190ee7",
+      "sha256": "e8fdb2313d5b6de36755d931e835b212aec757caadd4e660b968bcbf88190ee7"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/jina-mps-meaning.json",
+      "original_sha256": "e284e9f5389089a5965ad93282b8df185d6e69e145768987c427e0ec9827e6c0",
+      "sha256": "c0fb54e58b551b622fbb8e27c58236b7c1a578ebcf5895098a88f4a84e2ec202"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/jina35-mps-meaning.json",
+      "original_sha256": "8fbd1324969efa5dd9d8366b8bcb8acad46f1aec3e796c52de45ba5bce233568",
+      "sha256": "916a53505bb49737e053ef2fcfa6a1ba5463eba8d86ecacf7761343f54c01f3c"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/mxbai-mps-meaning.json",
+      "original_sha256": "2b98199d1d3e05da7e605ec807e8fd65bbeb70300e442d74a94296d3a2bf871a",
+      "sha256": "2b98199d1d3e05da7e605ec807e8fd65bbeb70300e442d74a94296d3a2bf871a"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/mxbai-mps-meaning-saturated.json",
+      "original_sha256": "c47f1718ed1c19098232b54b3e13bfbf410c2f825bd93c304e7da383876105b0",
+      "sha256": "c47f1718ed1c19098232b54b3e13bfbf410c2f825bd93c304e7da383876105b0"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/qwen-mps-meaning.json",
+      "original_sha256": "b3c2e876c36a05af2a5cfa1edaf52a4f27f266bfda2b05009c231bc4bae20e55",
+      "sha256": "b3c2e876c36a05af2a5cfa1edaf52a4f27f266bfda2b05009c231bc4bae20e55"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/qwen4-mps-meaning.json",
+      "original_sha256": "ae334a3946e6a700aa8a4c0f4ac5f2fb1e2f77ec51f6679c33282e6ac1486961",
+      "sha256": "ae334a3946e6a700aa8a4c0f4ac5f2fb1e2f77ec51f6679c33282e6ac1486961"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/minilm-mps-external.json",
+      "original_sha256": "75e06be75117087002a3e64f6588e93f58a95b667061556bfc5866467f53eddc",
+      "sha256": "75e06be75117087002a3e64f6588e93f58a95b667061556bfc5866467f53eddc"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/minilm-mps-excluir.json",
+      "original_sha256": "20f30b8ce050f68bc27daca74add93706b3c07a8d4b05a1c32178f156d554614",
+      "sha256": "20f30b8ce050f68bc27daca74add93706b3c07a8d4b05a1c32178f156d554614"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/qwen-mps-external.json",
+      "original_sha256": "51b4299defe159d0f56ef49ad3a1a7530aa76822ec8f877bf3e88a67f44f2edd",
+      "sha256": "51b4299defe159d0f56ef49ad3a1a7530aa76822ec8f877bf3e88a67f44f2edd"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/qwen-mps-excluir.json",
+      "original_sha256": "1b6d6642f565099d47d9688492f4565fcf05c7b26ddaa69b5bdca3090a99bf31",
+      "sha256": "1b6d6642f565099d47d9688492f4565fcf05c7b26ddaa69b5bdca3090a99bf31"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/qwen4-mps-external.json",
+      "original_sha256": "5e87bffe938ea8ff27af9dc1b4c7724cbbc38ed9207dafc9cc3136e29737dae2",
+      "sha256": "5e87bffe938ea8ff27af9dc1b4c7724cbbc38ed9207dafc9cc3136e29737dae2"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/qwen4-mps-excluir.json",
+      "original_sha256": "39ee7ca54d12659388bbcbc258244fa749d45d4dd9e4af4a700a00fe6721f4ba",
+      "sha256": "39ee7ca54d12659388bbcbc258244fa749d45d4dd9e4af4a700a00fe6721f4ba"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/corrected-baseline-frozen.json",
+      "original_sha256": "fd932b36ca00bc927fe3ebc0580364235fba44c5b61692259403ed84956f6361",
+      "sha256": "7c56cf23a38c877aa046662445f2f258d2e7d0ec18feb5b241c85b873fa606f0"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/previous-holdout.json",
+      "original_sha256": "d1ab25c17b6aafa58471a6da35e0814c6a0c873431bde3284e2789f833597464",
+      "sha256": "785a2b6ccd4929d5841fb3308374d1428cc607876477e7dc1ae39b2828ea2f5f"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/qwen4-mps-production.json",
+      "original_sha256": "2fbe2f75e2191a2472626800c6177addf1c4d56f0252b53c7d194cf2a9477d48",
+      "sha256": "2fbe2f75e2191a2472626800c6177addf1c4d56f0252b53c7d194cf2a9477d48"
+    },
+    {
+      "path": "reports/ranking_validation/experiments/qwen4-mlx4-meaning.json",
+      "original_sha256": "7abce43404384206cf0bb6f9cd305b52bc5ea467dbed429b2bffb7ad2e250aab",
+      "sha256": "7abce43404384206cf0bb6f9cd305b52bc5ea467dbed429b2bffb7ad2e250aab"
+    },
+    {
+      "path": "reports/semantic_evaluation/final-reserve-summary.json",
+      "original_sha256": "cd382483043705d10f41e6d15446b78a6ed519dfc73d35cecf90aa9b262e43f9",
+      "sha256": "b09e19225d1fb7b240bcce4b5856f5b3397f3b6e5958b9c7d61b22c6b4fc8622"
+    },
+    {
+      "path": "reports/semantic_evaluation/release-reserve-summary.json",
+      "original_sha256": "130e15d3ec29fb91685b24265c3001c95616b8db6cba4e1be0ed717a847a3a6e",
+      "sha256": "61c350975b26b8171f9f23bcad35648ce1d6fbbae184e94d8ab660bf9ba6db59"
+    },
+    {
+      "path": "reports/workflow/verification.json",
+      "original_sha256": "662228cfa724b0ab4737f621bf93cebef7683b428ce38fccb28035ac3d94806d",
+      "sha256": "fd80325d5ee3fee1304a2c137e3900ea0183b9528049b3f06f7382fad92d467d"
+    }
+  ],
+  "verification": [
+    "reports/verification/checks.json",
+    "reports/verification/tests.xml",
+    "reports/verification/model-tests.xml",
+    "reports/verification/corpus-audit.json"
+  ],
+  "annotation_metadata": {
+    "scope": "Reviewer names are expressed by their AI annotation role. Human-review declarations, source text, judgments, reasons, scores and original measurement hashes are unchanged. Each content hash excludes only the listed metadata fields and was checked against the original record.",
+    "files": {
+      "data/contextual_diagnostics.json": {
+        "original_sha256": "faa4012c2d0a4b50f73ece7ef682f878a95f55db02aae0bddfb1e675b5a65982",
+        "sha256": "a2a800cea05c1ea8be858744088bd4f8e88bbf4c52cfe29f04ebc1f7252d6ed1",
+        "metadata_fields": [
+          [
+            "annotation_provenance",
+            "author"
+          ]
+        ],
+        "unchanged_content_sha256": "7985409789e43b688099baa8179de7b403d28e25d91e4a7e4561669e89b24d8f"
+      },
+      "data/evaluation/semantic_audit_cases.json": {
+        "original_sha256": "7f17670afa01749e38cbfef24531ee4865c4f246f4e841fe4d88f513ff304784",
+        "sha256": "60928ff1ccbed2fa33c354d94bca6e20890813089334e284060916776f03b4be",
+        "metadata_fields": [
+          [
+            "annotation_provenance",
+            "author"
+          ]
+        ],
+        "unchanged_content_sha256": "a5fc416d3edbfa716f437170bd5567d573d49dc22441a93a9008e3e3447328be"
+      },
+      "data/evaluation/final_reserve/judgments.json": {
+        "original_sha256": "68f7302bbb63513e71315f24d69d74827d97b82068e2fc36525c6afff7b9b52c",
+        "sha256": "6277e528f3b3939a262d5adb7f8a3b2667a3a5d2aafb3e97632c86c317cf8eae",
+        "metadata_fields": [
+          [
+            "annotation_provenance",
+            "author"
+          ]
+        ],
+        "unchanged_content_sha256": "4e1f218935f5cae365ae9bfd85e932fca49f1ee03b725dc7dc505940637d1b7f"
+      },
+      "data/holdout/review_protocol.json": {
+        "original_sha256": "0fdabfb46ec6fbe9802caa60ca280b6a53337193950d0b2072da011f9ca1b38a",
+        "sha256": "b6ba99c0a5315c92db04ca5429146d151a8cdd0128305d964894ff0c4fd22187",
+        "metadata_fields": [
+          [
+            "reviewer_type"
+          ]
+        ],
+        "unchanged_content_sha256": "53a91fe35a99d9751fde06b5afc33595277b068a7c363b0e7a02012392f267e5"
+      },
+      "data/holdout/judgments.json": {
+        "original_sha256": "d63037c00cfbc62ecc64fe472c743db8e9f9cca7693ac9495ecfb81fd5cee180",
+        "sha256": "a170a4e106b311db5d13e8b1e00672e26b91244309765bc5ace030f72ae5d0b4",
+        "metadata_fields": [
+          [
+            "metadata",
+            "reviewer_type"
+          ]
+        ],
+        "unchanged_content_sha256": "822a56fe37e142274a326a2c35a1f20f9326a88e14368aa0948e59333830e2dc"
+      },
+      "data/holdout/reviews/reviewer_a.json": {
+        "original_sha256": "888a39b7e6207282358d4558ade0e0fb99339d0510f2a76dbe04aa06ac96e491",
+        "sha256": "dc1d16ee9f8c1d0b2521f985662387accb5282d2c89ede533edd224f3ecbbaad",
+        "metadata_fields": [
+          [
+            "reviewer_type"
+          ]
+        ],
+        "unchanged_content_sha256": "0dbff8bd7f1486eea9ddf4a1254b027a9dc538c0be377cac0503784b1ca4751d"
+      },
+      "data/holdout/reviews/reviewer_b.json": {
+        "original_sha256": "eb64b6098af021bf73c8d36b916c82a41ec58d4329d3bc1119a1fac857a6d183",
+        "sha256": "d77092aef99a6c6e623ff19f395b7b351e229a08cca73c0260351e66c49028b0",
+        "metadata_fields": [
+          [
+            "reviewer_type"
+          ],
+          [
+            "independence_statement"
+          ]
+        ],
+        "unchanged_content_sha256": "70cf8dea7b89b1ce73cc16ee5dcc7f6fc71a3f5a12f31262c9bc5677e136e2a5"
+      }
+    }
+  }
+}

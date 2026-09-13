@@ -1,0 +1,23 @@
+Candidate P199
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+IT Support Technician | Knox County Government | 2023-06 to 2024-01
+Provided technical support for county employees, resolving hardware and software issues. Assisted with system updates and maintained inventory.
+Web Developer (Contract) | Knox County Schools | 2024-02 to 2024-07
+Developed and maintained WordPress-based websites for schools. Customized themes and plugins, ensured accessibility and performance.
+Junior Web Developer | Tennessee Department of Education | 2024-08 to Present
+Build and maintain web applications for educational programs using Django and React. Collaborate with team on API integration and performance optimization.
+SKILLS
+RESTful APIs; Server-side Rendering; TypeScript; WebSockets; CSS; Web Performance Optimization; Containerization (Docker); Version Control (Git); Authentication/Authorization (OAuth, JWT); Database Management (SQL, NoSQL); Django; pnpm; Svelte; React; Node.js; Python; MySQL
+EDUCATION
+Bachelor of Science | Computer Science | University of Tennessee, Knoxville
+2021-09 to 2023-06
+PROJECTS
+Education Resource Portal
+Developed a resource portal for teachers with Django and React, featuring user authentication and RESTful APIs. Technologies used: JWT.
+Performance Optimization for School Websites
+Optimized WordPress sites for faster loading and better core web vitals. Technologies used: CSS, Web Performance Optimization.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2023-01

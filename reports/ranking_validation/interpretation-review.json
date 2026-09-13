@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "source_receipt_sha256": "70c30cc7f7a6d14d60afb0705c6c6bace120b2b8b951a71dad121301d4cd2f2f",
+  "reviewer_code_sha256": "530b9b48fa9c8814984680383e38ecc50c057f5b42be03ae1904b74084aa314f",
+  "model": "gpt-5.6-luna",
+  "scope": "Separate model calls blinded to candidates and scores. No independent human review; correlated model errors remain possible.",
+  "rows": [
+    {
+      "query_id": "FE_development",
+      "query": "Find Frontend Engineer candidates with React and JavaScript, and at least 3 years of overall employment. Prefer TypeScript, automated testing, Git.",
+      "review": {
+        "findings": [
+          {
+            "dimension": "mandatory_conditions",
+            "faithful": true,
+            "reason": "The interpretation preserves Frontend Engineer/frontend-equivalent role requirements and requires both React and JavaScript independently, matching the request's AND relationship.",
+            "request_quote": "Find Frontend Engineer candidates with React and JavaScript"
+          },
+          {
+            "dimension": "preferences",
+            "faithful": true,
+            "reason": "TypeScript, automated testing, and Git are all represented as preferences rather than mandatory conditions.",
+            "request_quote": "Prefer TypeScript, automated testing, Git."
+          },
+          {
+            "dimension": "experience_scope",
+            "faithful": true,
+            "reason": "The interpretation requires at least 3 years of total employment and explicitly distinguishes this from role-specific or skill-specific experience.",
+            "request_quote": "at least 3 years of overall employment"
+          },
+          {
+            "dimension": "added_restrictions",
+            "faithful": true,
+            "reason": "No material unstated restriction was added. The evidence standards appropriately clarify equivalent frontend work and employment evidence without narrowing the user's conditions.",
+            "request_quote": ""
+          }
+        ],
+        "reference_matches_request": true,
+        "reference_reason": "The reference matches the request's role, mandatory React and JavaScript requirements, 3-year overall-experience threshold, and three preferences. Its shorter representation omits explanatory semantics but does not change the stated conditions."
+      },
+      "model_judged_faithful": true,
+      "payload_sha256": "21d86e4754f4137860d220452cd75c7340c4159f2ccab0c450e8c3e7b4d8d1d4",
+      "usage": {
+        "input_tokens": 2615,
+        "input_tokens_details": {
+          "cache_write_tokens": 2612,
+          "cached_tokens": 0
+        },
+        "output_tokens": 253,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2868
+      }
+    },
+    {
+      "query_id": "FE_paraphrase",
+      "query": "Please shortlist people who have done Frontend Engineer work with both React and JavaScript. They need at least three years of overall employment. Experience with TypeScript, automated testing, Git would be useful but is optional.",
+      "review": {
+        "findings": [
+          {
+            "dimension": "mandatory_conditions",
+            "faithful": true,
+            "reason": "The interpretation preserves Frontend Engineer/frontend-developer role work and requires both React and JavaScript, correctly treating \u201cboth\u201d as an AND requirement.",
+            "request_quote": "have done Frontend Engineer work with both React and JavaScript"
+          },
+          {
+            "dimension": "preferences",
+            "faithful": true,
+            "reason": "TypeScript, automated testing, and Git are represented as optional nice-to-have preferences rather than mandatory screening conditions.",
+            "request_quote": "Experience with TypeScript, automated testing, Git would be useful but is optional"
+          },
+          {
+            "dimension": "experience_scope",
+            "faithful": true,
+            "reason": "The interpretation correctly applies the three-year threshold to overall employment, not to individual skills, and does not impose skill-specific durations.",
+            "request_quote": "at least three years of overall employment"
+          },
+          {
+            "dimension": "added_restrictions",
+            "faithful": true,
+            "reason": "No additional unstated restriction is added. The role-equivalence and evidence details clarify how to establish the requested conditions without narrowing or broadening them.",
+            "request_quote": ""
+          }
+        ],
+        "reference_matches_request": true,
+        "reference_reason": "The reference preserves the same role, mandatory React and JavaScript requirements, three years of overall experience, and the same three optional preferences. Its shorter labels are equivalent, and the identical source text confirms the match."
+      },
+      "model_judged_faithful": true,
+      "payload_sha256": "7d50c0c209485aa9bc56156efb885686310ceae8ef9a5b7119235d2007bbfc4c",
+      "usage": {
+        "input_tokens": 2694,
+        "input_tokens_details": {
+          "cache_write_tokens": 2691,
+          "cached_tokens": 0
+        },
+        "output_tokens": 272,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2966
+      }
+    },
+    {
+      "query_id": "BE_development",
+      "query": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker.",
+      "review": {
+        "findings": [
+          {
+            "dimension": "mandatory_conditions",
+            "faithful": false,
+            "reason": "The interpretation omits the requested Backend Engineer role and the mandatory Python and SQL skills.",
+            "request_quote": "Find Backend Engineer candidates with Python and SQL"
+          },
+          {
+            "dimension": "preferences",
+            "faithful": false,
+            "reason": "The interpretation omits all three stated preferences: FastAPI, PostgreSQL, and Docker.",
+            "request_quote": "Prefer FastAPI, PostgreSQL, Docker."
+          },
+          {
+            "dimension": "experience_scope",
+            "faithful": false,
+            "reason": "The request requires at least 3 years of overall employment, but the interpretation sets the minimum to 0 and does not preserve the overall-experience scope.",
+            "request_quote": "at least 3 years of overall employment"
+          },
+          {
+            "dimension": "added_restrictions",
+            "faithful": true,
+            "reason": "No additional unstated restrictions appear in the interpretation; it omits requirements but does not add any.",
+            "request_quote": ""
+          }
+        ],
+        "reference_matches_request": true,
+        "reference_reason": "The reference preserves the Backend Engineer role, Python and SQL as separate mandatory requirements, the three preferences, and a 3-year overall-experience threshold. Its backend_developer label is an equivalent role normalization."
+      },
+      "model_judged_faithful": false,
+      "payload_sha256": "29c475e23a87482f085c0f265aaf342f9285ee1a0602d12ab408b53f06089ed2",
+      "usage": {
+        "input_tokens": 634,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 0
+        },
+        "output_tokens": 243,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 877
+      }
+    },
+    {
+      "query_id": "DE_paraphrase",
+      "query": "Please shortlist people who have done Data Engineer work with both SQL and Apache Spark. They need at least three years of overall employment. Experience with Python, Airflow, Kafka would be useful but is optional.",
+      "review": {
+        "findings": [
+          {
+            "dimension": "mandatory_conditions",
+            "faithful": true,
+            "reason": "The interpretation preserves the required Data Engineer role or equivalent work and treats SQL and Apache Spark as separate mandatory conditions joined by AND, matching \u201cboth SQL and Apache Spark.\u201d",
+            "request_quote": "Please shortlist people who have done Data Engineer work with both SQL and Apache Spark."
+          },
+          {
+            "dimension": "preferences",
+            "faithful": true,
+            "reason": "Python, Airflow, and Kafka are all represented as optional preferred skills rather than mandatory requirements.",
+            "request_quote": "Experience with Python, Airflow, Kafka would be useful but is optional."
+          },
+          {
+            "dimension": "experience_scope",
+            "faithful": true,
+            "reason": "The interpretation uses a threshold of at least three years of total employment, not skill-specific experience, matching the request\u2019s overall-employment wording.",
+            "request_quote": "They need at least three years of overall employment."
+          },
+          {
+            "dimension": "added_restrictions",
+            "faithful": true,
+            "reason": "No additional candidate restrictions are imposed. The evidence standards clarify how to establish the requested conditions without narrowing or broadening them.",
+            "request_quote": ""
+          }
+        ],
+        "reference_matches_request": true,
+        "reference_reason": "The reference preserves the same role, mandatory SQL and Spark requirements, three-year overall-employment threshold, and optional Python, Airflow, and Kafka preferences. Its title is shorter, but the structured conditions match the request."
+      },
+      "model_judged_faithful": true,
+      "payload_sha256": "f906cf512cb1e954b231f37feced670dcdd7b070633298ba225eb805da2d976b",
+      "usage": {
+        "input_tokens": 2814,
+        "input_tokens_details": {
+          "cache_write_tokens": 2811,
+          "cached_tokens": 0
+        },
+        "output_tokens": 281,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3095
+      }
+    },
+    {
+      "query_id": "ML_paraphrase",
+      "query": "Please shortlist people who have done Machine Learning Engineer work with both Python and PyTorch. They need at least three years of overall employment. Experience with Docker, statistics, observability would be useful but is optional.",
+      "review": {
+        "findings": [
+          {
+            "dimension": "mandatory_conditions",
+            "faithful": true,
+            "reason": "The interpretation preserves Machine Learning Engineer work plus both Python and PyTorch as mandatory conditions. The two separate must-have groups correctly require both skills, and equivalent role evidence is a reasonable paraphrase rather than a change.",
+            "request_quote": "have done Machine Learning Engineer work with both Python and PyTorch"
+          },
+          {
+            "dimension": "preferences",
+            "faithful": true,
+            "reason": "Docker, statistics, and observability are correctly represented as optional preferences rather than mandatory screening requirements.",
+            "request_quote": "Experience with Docker, statistics, observability would be useful but is optional"
+          },
+          {
+            "dimension": "experience_scope",
+            "faithful": true,
+            "reason": "The three-year threshold is correctly applied to overall employment, not only skill-related or Machine Learning Engineer experience. The threshold is preserved exactly.",
+            "request_quote": "at least three years of overall employment"
+          },
+          {
+            "dimension": "added_restrictions",
+            "faithful": true,
+            "reason": "No additional unstated restrictions are added. The interpretation explicitly avoids restricting overall employment to the requested role and does not impose extra literal-title, ownership, or date requirements beyond what is needed to establish the stated conditions.",
+            "request_quote": ""
+          }
+        ],
+        "reference_matches_request": true,
+        "reference_reason": "The reference preserves the same role, mandatory Python and PyTorch requirements, optional Docker/statistics/observability preferences, and three-year overall-employment threshold. Its shorter title is consistent with the request and does not materially alter the conditions."
+      },
+      "model_judged_faithful": true,
+      "payload_sha256": "caefb92476dc8deea72e897c1d614c6f8ff42a10ad772e903523e1d061b0aacb",
+      "usage": {
+        "input_tokens": 2792,
+        "input_tokens_details": {
+          "cache_write_tokens": 2789,
+          "cached_tokens": 0
+        },
+        "output_tokens": 301,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3093
+      }
+    }
+  ]
+}

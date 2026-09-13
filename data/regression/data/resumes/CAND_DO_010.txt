@@ -1,0 +1,21 @@
+Nikhil Reed
+cand_do_010@example.test
+
+PROFILE
+DevOps Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+
+DevOps Engineer | Northstar Fiction Labs | 2020-01 to 2026-01
+Operated AWS services with budget checks, least-privilege access, and tested recovery procedures.
+Diagnosed Kubernetes scheduling failures and configured readiness checks before deployment.
+Used Terraform, Linux in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+Consultant | Cedar Fiction Studio | Jan 2024 - Jan 2025
+Operated AWS services with budget checks, least-privilege access, and tested recovery procedures.
+
+TECHNOLOGIES
+AWS, Kubernetes, Terraform, Linux
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

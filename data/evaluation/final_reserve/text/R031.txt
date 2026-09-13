@@ -1,0 +1,23 @@
+Candidate R031
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Developer Intern | Wanderlust Solutions | 2024-06 to Present
+Working on improving the booking flow performance and adding new features to the customer dashboard using React and Redux.
+Teaching Assistant | State University | 2024-01 to 2024-05
+Assisted in introductory computer science courses, helping students with HTML, CSS, and JavaScript assignments.
+Junior Web Developer (Part-time) | Tidal Media Group | 2023-06 to 2023-12
+Developed and maintained marketing landing pages for travel clients, focusing on responsive design and performance optimization.
+SKILLS
+React; JavaScript; CSS3; HTML5; Responsive Design; REST API Integration; State Management; Jest; Redux; Express; Node.js; Git; Performance Optimization; Server-Side Rendering (SSR); React Router
+EDUCATION
+Bachelor's | Computer Science | State University
+2021-09 to 2025-06
+PROJECTS
+Travel Itinerary Planner
+A React app that integrates with external APIs to help users plan trips, featuring state management and responsive design. Technologies used: Redux, REST API Integration, CSS3.
+Real-time Weather Dashboard
+A full-stack project using Express and React, displaying weather data with SSR to improve initial load time. Technologies used: Server-Side Rendering (SSR), Jest.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2024-01

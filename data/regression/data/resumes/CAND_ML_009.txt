@@ -1,0 +1,18 @@
+Priya Sen
+cand_ml_009@example.test
+
+PROFILE
+Machine Learning Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+CAREER HISTORY
+Machine Learning Engineer | Atlas Sample Services | January 2019 to January 2026
+Built Python training pipelines with split checks and reproducible feature transformations.
+Trained PyTorch models and inspected errors by class before changing model capacity.
+Used Docker, statistics in delivery work, with peer review and documented failure cases.
+Owned a analytics workflow; checked outputs against recorded examples before release.
+
+TECHNOLOGIES
+Python, PyTorch, Docker, statistics
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

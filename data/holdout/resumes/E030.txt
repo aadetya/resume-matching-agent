@@ -1,0 +1,9 @@
+Candidate E030
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+React Developer | Amarillo Web Works | 2023-06 to Present
+SKILLS
+Accessibility (a11y); State Management; Static Site Generation (SSG); pnpm
+EDUCATION
+Associate of Science | Computer Science | Amarillo College
+2019-09 to 2021-06

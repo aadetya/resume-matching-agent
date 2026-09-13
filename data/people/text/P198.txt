@@ -1,0 +1,32 @@
+Candidate P198
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Director of Engineering | Kratos Studios | 2020-03 to Present
+Lead a team of 15 engineers across web and backend. Manage budget of $2M, oversee infrastructure on AWS and Kubernetes, set technical direction. Refactored legacy codebase to microservices.
+Senior Software Engineer | Arcadia Aerospace Systems | 2016-08 to 2020-02
+Developed full-stack applications for simulation software. Managed CI/CD pipelines and containerized deployments. Mentored junior engineers and took on lead role for a few projects.
+Software Developer | Insight Technology Solutions | 2014-01 to 2016-07
+Built and maintained web applications for clients. Implemented unit tests and integration tests. Worked with PostgreSQL and Git.
+Retail Sales Associate | GameStop | 2012-05 to 2013-12
+Assisted customers and managed inventory. Recognized for strong problem-solving skills, led me to pursue software development.
+Junior Developer (Intern) | TechStart Arizona | 2013-06 to 2013-08
+Assisted in developing internal tools. Gained foundational skills in Git and frontend basics.
+SKILLS
+debugging; refactoring; cloud services; object-oriented programming; containerization; dependency management; CI/CD pipelines; unit testing; integration testing; version control (Git); backend basics; frontend basics; AWS; Kubernetes; PostgreSQL; JavaScript; Java; Python; Node.js; React; SQL
+EDUCATION
+Associate of Science | Computer Science | Rio Salado College
+2010-09 to 2013-06
+Bachelor of Science | Software Engineering | Arizona State University
+2014-09 to 2016-06
+PROJECTS
+Game Analytics Dashboard
+Built a real-time analytics platform for game telemetry. Integrated with AWS and Kubernetes for scalability. Technologies used: PostgreSQL, React, Node.js.
+Legacy System Refactoring
+Led refactoring of a legacy airline tracking system to modern microservices, improving deployment frequency by 60%. Technologies used: Java, Spring, Docker, GitLab.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2018-01
+Certified Scrum Master (CSM)
+Issued by Scrum Alliance.
+2021-01

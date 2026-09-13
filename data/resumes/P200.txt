@@ -1,0 +1,27 @@
+Candidate P200
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior React Native Developer | Tennessee Department of Health | 2021-03 to Present
+Lead development of a statewide health inspection app used by 300+ field agents. Reduced sync time by 40% by optimizing SQLite and WebSockets. Migrated from JavaScript to TypeScript, cutting crash rate by 25%.
+React Native Developer | Tennessee Department of Health | 2018-06 to 2021-02
+Developed and maintained multiple cross-platform apps for public health programs. Implemented biometric authentication and offline-first storage, improving field usability by 30%. Worked in rotating shifts to support 24/7 ops.
+Mobile Developer (Contract) | Volunteer State Health Analytics | 2017-05 to 2018-05
+Contract role building a patient portal app. Integrated GraphQL and Apollo Client, reducing API response times by 50%. Shipped to both iOS and Android within 6 months.
+Frontend Developer | Mid-South IT Services | 2015-01 to 2017-04
+Developed web and mobile interfaces for healthcare clients. Built several React Native prototypes using Expo, leading to a 20% increase in client engagement. Handled multiple contracts simultaneously with overlapping timelines.
+Junior Web Developer | Rutherford County Government | 2013-02 to 2014-12
+Maintained county websites and internal tools. Automated data entry tasks using Python, saving 10 hours per week. Supported the migration to a new content management system.
+SKILLS
+React Native; MobX; TypeScript; Hermes; Performance optimization; WebSockets; SQLite; Native Modules; GraphQL; Biometric authentication; Firebase; Apollo Client; App lifecycle; Jira; Flipper; Confluence; Expo; React DevTools; Visual Studio Code; CI/CD; Redux; Jest
+EDUCATION
+Bachelor of Science | Computer Science | University of Tennessee, Knoxville
+2014-09 to 2018-06
+PROJECTS
+Field Health Inspector App
+React Native app with offline SQLite storage, real-time sync via WebSockets, and biometric login. Used by 300+ inspectors; cut report submission time by 45%. Technologies used: Biometric authentication.
+Patient Portal Mobile App
+Cross-platform app for viewing medical records and messaging providers. Used GraphQL and Apollo Client to reduce data usage by 30%. Technologies used: React Native, Firebase.
+CERTIFICATIONS
+Meta React Native Certification
+Issued by Meta.
+2022-01

@@ -1,0 +1,9 @@
+Candidate R038
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior React Developer | Dominion Energy Cooperative | 2023-01 to Present
+SKILLS
+React; React Native; JavaScript; Cypress; Yarn; REST API Integration; Context API
+EDUCATION
+Bachelor of Science | Computer Science | Hampden-Sydney College
+2018-09 to 2022-06

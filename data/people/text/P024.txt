@@ -1,0 +1,19 @@
+Candidate P024
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Distribution Associate | Metro Logistics Solutions | 2023-06 to Present
+Process inbound and outbound shipments, operate warehouse management systems, and coordinate with team leads to meet daily distribution targets. Developed a script to automate inventory tracking, reducing manual errors by 20%.
+SKILLS
+Snowflake; Apache Flink; Apache Iceberg; Google BigQuery; Apache HBase; HDFS; Apache Hadoop; Python; Distributed computing; Cluster management; Data validation; Databricks
+EDUCATION
+Certificate in Data Engineering | Data Engineering | Coding Bootcamp
+2023-09 to 2024-06
+PROJECTS
+Real-Time Streaming Pipeline with Apache Flink
+Built a streaming pipeline to ingest and process clickstream data in real time, using Flink and Kafka, and stored results in Iceberg tables on Snowflake. Technologies used: Apache Flink, Apache Iceberg.
+Batch ETL with Hadoop Ecosystem
+Designed a batch ETL job using Hadoop and HBase to process log files and load aggregated data into BigQuery for analytics. Technologies used: Apache Hadoop, Apache HBase, Google BigQuery, Python.
+CERTIFICATIONS
+Databricks Certified Associate Developer for Apache Spark
+Issued by Databricks.
+2024-01

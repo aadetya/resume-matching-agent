@@ -1,0 +1,201 @@
+{
+  "corpus_size": 200,
+  "initial_shortlist": 10,
+  "initial_candidates_scored": 200,
+  "initial_candidate_assessment_calls": 0,
+  "requirements_revisions": 2,
+  "requirements": {
+    "title": "Backend developers with 4+ years of overall experience, Python, and SQL",
+    "role": "backend_developer",
+    "must_have": [
+      [
+        "python"
+      ],
+      [
+        "sql"
+      ]
+    ],
+    "nice_to_have": [
+      "docker"
+    ],
+    "minimum_years": 4.0,
+    "skill_years": {},
+    "source_text": "Also require SQL. Docker is preferred.",
+    "semantic_brief": "Screen for backend developer role or equivalent backend development work, Python, SQL, and at least 4 years of overall professional experience. Python and SQL are mandatory and may be evidenced by claimed skills or demonstrated use. Docker is preferred but not mandatory. Overall experience includes employment across occupations, including stated internships or employment during study, unless the resume does not provide enough information.",
+    "unresolved": [],
+    "capability_skills": [],
+    "evidence_standards": [
+      {
+        "criterion_id": "c_22ff6c7bfd44fe10",
+        "capability": "Work as a backend developer, or perform equivalent work centered on backend development.",
+        "requested_depth": "role",
+        "experience_basis": "not_applicable",
+        "evidence_scope": "role_or_equivalent_work",
+        "sufficient_evidence": "A source stating a backend developer role or describing work equivalent to backend development at the requested role depth.",
+        "equivalence_boundary": "Different wording or an equivalent backend-focused implementation may establish the role; adjacent work without a backend-development focus does not by itself establish it.",
+        "uncertainty_boundary": "No qualifying role or equivalent work is evidenced; ambiguous role descriptions remain unresolved; conflicting descriptions require clarification. Missing dates do not by themselves negate role evidence."
+      },
+      {
+        "criterion_id": "c_1396d1486dd0a43d",
+        "capability": "Python capability.",
+        "requested_depth": "presence",
+        "experience_basis": "not_applicable",
+        "evidence_scope": "source_claim",
+        "sufficient_evidence": "An explicit Python claim or source work demonstrating Python capability.",
+        "equivalence_boundary": "Different wording or a narrower Python implementation may establish the capability; work with adjacent technologies alone does not.",
+        "uncertainty_boundary": "No Python claim or demonstrating work is evidenced; ambiguous technology references remain unresolved; contradictory evidence requires clarification. Missing dates do not by themselves negate skill presence."
+      },
+      {
+        "criterion_id": "c_6e8b2f2be6d8bc7b",
+        "capability": "SQL capability, meaning the ability to work with SQL.",
+        "requested_depth": "presence",
+        "experience_basis": "not_applicable",
+        "evidence_scope": "source_claim",
+        "sufficient_evidence": "An explicit claim of SQL capability or source evidence demonstrating work with SQL establishes presence.",
+        "equivalence_boundary": "Different wording or a narrower SQL implementation may demonstrate the same SQL capability; adjacent database or data technology without evidence of SQL does not by itself establish it. No particular SQL product or dialect is required.",
+        "uncertainty_boundary": "No SQL claim or demonstrating evidence is absence of evidence, not proof of inability. Indirect or unclear database references are ambiguous; contradictory source evidence remains unresolved. Dates are not required for this presence criterion."
+      },
+      {
+        "criterion_id": "c_17b00654333a3045",
+        "capability": "At least 4 years of total employment across all stated employment, including employment outside the requested role and employment during study when stated.",
+        "requested_depth": "employment",
+        "experience_basis": "total_employment",
+        "evidence_scope": "all_employment",
+        "sufficient_evidence": "Dated evidence covering at least 4 years of total employment, with enough information to establish the aggregate employment duration.",
+        "equivalence_boundary": "Different employment wording or employment in different occupations may count toward the total; internships and stated employment during study may count when they are part of the documented employment history. Undated projects, isolated tasks, or a skills list do not establish employment duration.",
+        "uncertainty_boundary": "Less than 4 years is insufficient; missing or incomplete dates prevent reliable aggregation; overlapping or contradictory employment periods require resolution rather than unsupported counting. Missing detail about hours or continuity does not by itself negate stated employment."
+      },
+      {
+        "criterion_id": "c_cda4a38e783b5630",
+        "capability": "Docker capability, meaning the ability to work with Docker.",
+        "requested_depth": "presence",
+        "experience_basis": "not_applicable",
+        "evidence_scope": "source_claim",
+        "sufficient_evidence": "An explicit claim of Docker capability or source evidence demonstrating work with Docker establishes presence.",
+        "equivalence_boundary": "Different wording or a narrower Docker implementation may demonstrate the same Docker capability; adjacent containerization or deployment technology without evidence of Docker does not by itself establish it. No particular Docker product, version, or workflow is required.",
+        "uncertainty_boundary": "No Docker claim or demonstrating evidence is absence of evidence, not proof of inability. Indirect or unclear container references are ambiguous; contradictory source evidence remains unresolved. Dates are not required for this presence criterion."
+      }
+    ],
+    "standards_signature": "f639b9e4a88f696051f493355f6f9395ef6ec3775a2034a55395ede38a4f7576",
+    "requirement_sources": [
+      {
+        "source_id": "request_e7f83361735a067c",
+        "kind": "user_request",
+        "text": "Find backend developers with 4+ years of overall experience and Python."
+      },
+      {
+        "source_id": "request_0cf1cfe1597e882e",
+        "kind": "user_request",
+        "text": "Also require SQL. Docker is preferred."
+      }
+    ],
+    "criterion_meanings": [
+      {
+        "criterion_id": "c_22ff6c7bfd44fe10",
+        "conditions": [
+          {
+            "source_id": "request_e7f83361735a067c",
+            "quote": "backend developers"
+          }
+        ],
+        "examples": [],
+        "assumptions": [],
+        "requested_depth": "role",
+        "experience_basis": "not_applicable",
+        "evidence_scope": "role_or_equivalent_work"
+      },
+      {
+        "criterion_id": "c_1396d1486dd0a43d",
+        "conditions": [
+          {
+            "source_id": "request_e7f83361735a067c",
+            "quote": "Python"
+          }
+        ],
+        "examples": [],
+        "assumptions": [],
+        "requested_depth": "presence",
+        "experience_basis": "not_applicable",
+        "evidence_scope": "source_claim"
+      },
+      {
+        "criterion_id": "c_6e8b2f2be6d8bc7b",
+        "conditions": [
+          {
+            "source_id": "request_0cf1cfe1597e882e",
+            "quote": "Also require SQL."
+          }
+        ],
+        "examples": [],
+        "assumptions": [],
+        "requested_depth": "presence",
+        "experience_basis": "not_applicable",
+        "evidence_scope": "source_claim"
+      },
+      {
+        "criterion_id": "c_17b00654333a3045",
+        "conditions": [
+          {
+            "source_id": "request_e7f83361735a067c",
+            "quote": "4+ years of overall experience"
+          }
+        ],
+        "examples": [],
+        "assumptions": [],
+        "requested_depth": "employment",
+        "experience_basis": "total_employment",
+        "evidence_scope": "all_employment"
+      },
+      {
+        "criterion_id": "c_cda4a38e783b5630",
+        "conditions": [
+          {
+            "source_id": "request_0cf1cfe1597e882e",
+            "quote": "Docker is preferred."
+          }
+        ],
+        "examples": [],
+        "assumptions": [],
+        "requested_depth": "presence",
+        "experience_basis": "not_applicable",
+        "evidence_scope": "source_claim"
+      }
+    ]
+  },
+  "detailed_reviews": 10,
+  "pending_reviews": [],
+  "complete_source_coverage": true,
+  "detailed_model_calls": 44,
+  "detailed_cache_hits": 0,
+  "memo_model_calls": 2,
+  "memo_claims_checked": 24,
+  "memo_claims_supported": true,
+  "priorities_supported": true,
+  "comparison": {
+    "candidate_ids": [
+      "P196",
+      "P132"
+    ],
+    "populated": true
+  },
+  "interview_questions": 5,
+  "unique_source_spans": 845,
+  "source_mismatches": [],
+  "models": [
+    "gpt-5.6-luna"
+  ],
+  "tool_operations": [
+    "extract_requirements",
+    "rag_search",
+    "expand_search",
+    "extract_requirements",
+    "rag_search",
+    "expand_search",
+    "deep_screen",
+    "compare_candidates",
+    "compare_candidates",
+    "apply_recommendations",
+    "generate_interview_questions"
+  ],
+  "scope": "Source integrity and workflow validation. This is not independent hiring-accuracy evaluation."
+}

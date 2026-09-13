@@ -1,0 +1,9 @@
+Candidate E048
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior DevOps Engineer | Stockton Unified School District | 2018-03 to Present
+SKILLS
+Service mesh implementation; Cost optimization; Version control strategies; Docker
+EDUCATION
+Bachelor of Science | Computer Science | Howard University
+2011-09 to 2015-06

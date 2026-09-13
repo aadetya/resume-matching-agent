@@ -1,0 +1,9 @@
+Candidate P119
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Tooling Engineer | TechBridge Solutions | 2017-03 to Present
+SKILLS
+Performance profiling of builds; CI/CD pipeline design; Code quality and linting tools; GitHub Actions; Python; Docker
+EDUCATION
+Certificate | Computer Programming | Kirkwood Community College
+2015-09 to 2016-06

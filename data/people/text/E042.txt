@@ -1,0 +1,23 @@
+Candidate E042
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior Backend Developer | University of Houston | 2022-06 to Present
+Develop and maintain backend services for the university's financial aid portal, handling student data and award disbursements. Implemented WebSocket notifications for real-time updates and redesigned the database schema to support new federal reporting requirements.
+Full Stack Developer Intern | Texas Southern University | 2021-08 to 2022-05
+Built RESTful APIs and integrated authentication for the university's alumni portal. Worked with TypeScript and PostgreSQL to provide secure data access for alumni records.
+IT Support Technician | Houston Community College | 2020-01 to 2021-08
+Provided technical support for faculty and students, troubleshooting network and hardware issues. Assisted with system migrations and maintained documentation for IT procedures.
+SKILLS
+Java; PostgreSQL; TypeScript; WebSocket; Distributed transactions; Containerization; Authentication and authorization; Database design; Data serialization; Serverless computing
+EDUCATION
+Certificate | Full Stack Web Development | Houston Community College
+2019-09 to 2021-06
+PROJECTS
+University Event Ticketing Platform
+Developed a serverless microservice for event ticket sales using AWS Lambda and EventBridge, handling hundreds of concurrent WebSocket connections during peak sales. Technologies used: Java, TypeScript, PostgreSQL.
+Student Grade Notification System
+Built a system that sends real-time grade updates to students via WebSocket, using distributed transactions to ensure consistency across multiple services. Technologies used: Java.
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Issued by Amazon Web Services.
+2023-01

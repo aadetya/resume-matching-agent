@@ -1,0 +1,23 @@
+Candidate P013
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Claims Adjuster | Pikes Peak Insurance Group | 2015-03 to 2020-11
+Managed auto and home claims, investigating and settling losses. Led a small team of adjusters in the final year.
+Senior Claims Adjuster | Rocky Mountain Mutual | 2011-01 to 2015-02
+Handled complex commercial claims and mentored junior staff. Moved back to IC role after a brief supervisory stint.
+Claims Representative | Frontier Insurance | 2010-06 to 2010-12
+Processed claims and supported customer inquiries.
+Freelance Frontend Developer | Self-employed | 2023-01 to Present
+Built a few small SPAs for local businesses, focusing on accessible UI and modern tooling.
+SKILLS
+HTML5; Build Tools (Webpack, Vite); REST APIs; Version Control (Git); Design Systems; Svelte; Testing (Jest, React Testing Library, Cypress); Web Accessibility (WCAG); Static Site Generation (SSG); JavaScript; CSS
+EDUCATION
+Bachelor of Science | Business Administration | University of Kansas
+2006-09 to 2010-06
+PROJECTS
+Hiking Trail Companion
+A Svelte SPA for tracking Colorado hikes, using public REST APIs and offline support. Highlighted accessibility features. Technologies used: Vite, Jest, Cypress.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Coursera.
+2023-01

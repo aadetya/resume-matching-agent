@@ -1,0 +1,24 @@
+Vikram Shah
+cand_be_020@example.test
+
+PROFILE
+Backend Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+
+Backend Engineer | Mosaic Example Works | Jan 2019 - Jan 2021
+Implemented Python services that validate incoming orders and recover from duplicate requests.
+Investigated slow SQL queries and added indexes after reading execution plans.
+Used FastAPI in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+Backend Engineer | Cedar Fiction Studio | Jan 2023 - Jan 2025
+Implemented Python services that validate incoming orders and recover from duplicate requests.
+Investigated slow SQL queries and added indexes after reading execution plans.
+Used FastAPI in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+TECHNOLOGIES
+Python, SQL, FastAPI
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

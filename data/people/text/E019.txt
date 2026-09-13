@@ -1,0 +1,23 @@
+Candidate E019
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+General Manager | Heritage Funeral Home | 2015-06 to 2024-08
+Oversaw all operations of a full-service funeral home, managing staff, coordinating services, and ensuring regulatory compliance. Directed family relations and community outreach, growing revenue year over year.
+Assistant Funeral Director | Good Shepherd Mortuary | 2013-01 to 2015-05
+Supported funeral arrangements and embalming, managed schedules, and provided compassionate care to grieving families. Maintained meticulous records and coordinated with cemeteries and clergy.
+Funeral Director Apprentice | Peaceful Rest Mortuary | 2011-06 to 2012-12
+Apprenticed in all aspects of funeral service, from embalming and restorative art to client arrangement and funeral direction. Developed strong organizational and communication skills.
+ML Engineering Contract | Freelance/Independent | 2024-09 to Present
+Building a recommendation system for a local e-commerce client using Python and collaborative filtering. Currently implementing model evaluation and hyperparameter tuning with MLflow.
+SKILLS
+Python; Feature Engineering; Model Evaluation; Hyperparameter Tuning; Time Series Analysis; Spark; Big Data Technologies; Data Preprocessing; Model Monitoring; Reinforcement Learning; MLflow; Kubeflow; Power BI; Git
+EDUCATION
+Bachelor of Science | Business Administration | University of Tennessee
+2007-09 to 2011-06
+PROJECTS
+E-commerce Recommendation System
+Developed a hybrid recommender using collaborative filtering and content-based methods for a small online retailer. Achieved a 30% increase in click-through rate in initial A/B tests. Technologies used: Python, Spark, MLflow.
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2024-01

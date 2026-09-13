@@ -1,0 +1,15 @@
+Candidate P167
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Tooling Engineer | Nimbus Cloud Systems | 2019-03 to Present
+Lead the internal tooling team, managing 5 engineers. Oversee the security tooling stack, including binary signing and monitoring, and manage a $2M annual budget.
+Staff Tooling Engineer | Nimbus Cloud Systems | 2016-01 to 2019-02
+Architected and maintained the artifact management and dependency management systems. Led the migration to GitOps practices.
+Release Engineer | Atlas Dynamics | 2013-06 to 2015-12
+Owned the build and release pipelines for a growing SaaS product. Implemented package distribution for internal and external use.
+Build Engineer | Nimbus Cloud Systems | 2010-09 to 2013-05
+Managed CI/CD pipelines and infrastructure. Implemented monitoring and alerting for build systems.
+IT Support Technician | Pioneer Manufacturing | 2004-02 to 2010-08
+Provided desktop support and managed on-premises infrastructure. Automated repetitive tasks with scripts.
+SKILLS
+Configuration management; Dependency management; On-premises infrastructure; Scripting (Python, Bash, Groovy); Version control systems (Git); Artifact management; Binary signing and notarization; Monitoring and alerting setup; Package distribution (npm, pip, apt); Team leadership; Budgeting; CI/CD pipeline design

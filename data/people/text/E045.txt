@@ -1,0 +1,26 @@
+Candidate E045
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Operations Analyst | Los Angeles Unified School District | 2013-01 to 2019-06
+Managed onboarding and offboarding for 3,500+ employees annually; reduced processing time by 25% by standardizing SOPs and leveraging Excel for data cleanup. Designed Power BI dashboards that tracked headcount and turnover, improving visibility for leadership.
+HR Generalist | Glendale Unified School District | 2009-08 to 2012-12
+Coordinated employee lifecycle processes, including onboarding, benefits enrollment, and exit interviews. Implemented a new HRIS module that cut data entry errors by 18% and served as the liaison between IT and HR for system fixes.
+Operations Coordinator | Long Beach Community College District | 2006-01 to 2009-06
+Supported student enrollment operations and data entry for reporting. Developed a troubleshooting guide for common system issues, reducing helpdesk tickets by 12% (tracked via Zendesk).
+SKILLS
+Stakeholder management; SOP documentation; Root cause analysis; HR policy implementation; Data visualization; HRIS data management; Headcount planning; Onboarding coordination; Excel advanced functions; Workforce analytics; Statistical analysis; Process improvement; Employee lifecycle management; Project management
+EDUCATION
+Master's degree | Public Administration | University of Southern California
+2004-09 to 2006-06
+Bachelor's degree | Business Administration | California State University, Long Beach
+2000-09 to 2004-06
+PROJECTS
+Onboarding Efficiency Initiative
+Led a cross-functional team to reduce new hire processing time by 30% through a redesigned workflow and document automation using Google Sheets scripts. Technologies used: Python.
+CERTIFICATIONS
+PHR (Professional in Human Resources)
+Issued by HRCI.
+2015-01
+Six Sigma Green Belt
+Issued by ASQ.
+2014-01

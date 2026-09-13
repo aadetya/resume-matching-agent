@@ -1,0 +1,21 @@
+Candidate R034
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+IT Support Specialist | Lane County Public Health | 2023-06 to Present
+Provide tier 1 support for county health staff. Shift work includes nights and weekends. Assisted with internal web tools, mobile responsiveness, and accessibility fixes.
+Front Desk Associate | Lane County Parks and Recreation | 2022-05 to 2023-05
+Front desk at community center. Handled registrations, scheduling, customer service. Also updated facility web pages using a CMS.
+SKILLS
+React; Angular; Tailwind CSS; Responsive Design; Web Accessibility (WCAG); Progressive Web Apps (PWA); Build Tools (Webpack, Vite); Core Web Vitals; pnpm; Vite; Sentry
+EDUCATION
+Associate of Applied Science | Web Development | Lane Community College
+2021-09 to 2023-06
+PROJECTS
+Health Resource Locator PWA
+PWA for finding county health services. Built with React, Tailwind, Vite. Focus on offline support and WCAG accessibility. Technologies used: Tailwind CSS.
+Internal Dashboard for County IT
+Angular dashboard for tracking support tickets. Improved load time and core web vitals. Technologies used: Webpack, Sentry.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Coursera.
+2023-01

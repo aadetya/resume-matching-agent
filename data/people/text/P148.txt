@@ -1,0 +1,26 @@
+Candidate P148
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Big Data Engineer | Pacific Energy Data Solutions | 2015-03 to Present
+Leading a team of data engineers in migrating legacy on-premise Hadoop ecosystems to cloud-native data lakehouse architectures. Orchestrating cross-functional stakeholder alignment to deliver scalable data pipelines that drive operational analytics and predictive maintenance initiatives.
+Big Data Engineer | Pacific Energy Data Solutions | 2012-06 to 2015-02
+Developed and maintained ETL pipelines ingesting sensor data from smart meters into Hadoop and cloud platforms. Implemented data validation and quality checks to ensure accuracy for downstream analytics.
+Data Engineer | Grid Insights Consulting | 2010-01 to 2012-05
+Assisted clients in the utilities sector with data architecture assessments and implementation of big data solutions. Gained exposure to various technologies and best practices in data engineering.
+IT Analyst | Meridian Staffing | 2003-05 to 2009-12
+Started in IT support roles and gradually transitioned into data-related tasks. Supported data migration projects and gained foundational knowledge in databases and SQL.
+SKILLS
+Delta Lake; Amazon EMR; Google BigQuery; Apache Spark; HDFS; Data ingestion; ETL pipelines; Apache Hive; SQL; Cluster management; Data lake architecture; Apache Hudi; Apache Flink; Amazon S3; Apache NiFi; Data Governance; Team Leadership
+EDUCATION
+Bachelor of Science | Information Technology | University of Phoenix
+2008-09 to 2012-06
+PROJECTS
+Data Lakehouse Migration
+Architected and led the migration of on-premise Hive data warehouse to a cloud-based Delta Lake on Amazon S3, reducing storage costs by 30% and improving query performance by 50%. Technologies used: Apache Spark, Amazon EMR.
+CERTIFICATIONS
+Google Professional Data Engineer
+Issued by Google.
+2020-01
+AWS Certified Big Data - Specialty
+Issued by Amazon Web Services.
+2018-01

@@ -1,0 +1,32 @@
+Candidate E010
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Data Engineer | Telecom Systems Corp | 2012-03 to 2023-01
+Led the design and implementation of the enterprise data platform, optimizing data pipelines for streaming and batch processing. Drove data governance and lineage initiatives, while mentoring junior engineers and collaborating with cross-functional teams to ensure data quality and performance.
+Lead Data Engineer | Verizon | 2008-06 to 2012-02
+Managed a team of data engineers to develop scalable ETL pipelines, utilizing Talend and Stitch for data integration. Implemented data partitioning strategies and query tuning to improve performance and reduce operational costs.
+Senior Data Engineer | AT&T | 2004-01 to 2008-05
+Developed and maintained data integration solutions using Talend and MySQL, focusing on data cleansing and quality testing. Implemented batch processing jobs and ensured data lineage documentation for compliance.
+Data Engineer | Sprint | 2000-02 to 2003-12
+Assisted in the design of data pipelines for call detail record (CDR) processing, using Stitch and Talend. Performed data cleansing and schema design tasks to support analytics.
+Manufacturing Associate | Honeywell | 1997-06 to 2000-01
+Operated assembly line equipment and performed quality checks. This role provided hands-on experience with process improvement and attention to detail.
+SKILLS
+Schema design; Performance tuning; Data quality testing; Data partitioning; Data lineage; Data cleansing; Streaming data processing; Data governance; Batch processing; ELT pipeline development; Query tuning; Scala/Spark development; Talend; Stitch; MySQL; Data warehousing; Airflow
+EDUCATION
+Associate of Science | Computer Science | Johnson County Community College
+1995-09 to 1997-06
+Bachelor of Science | Computer Science | University of Kansas
+1997-09 to 1999-06
+PROJECTS
+Real-time Data Streaming Platform
+Architected a streaming data processing platform using Scala/Spark to handle millions of events per day, ensuring low latency and high availability. Technologies used: Kafka.
+Data Governance Framework
+Implemented a company-wide data governance framework, including data lineage tracking and quality testing, resulting in improved compliance and trust in data. Technologies used: Talend, Stitch, MySQL.
+CERTIFICATIONS
+AWS Certified Big Data – Specialty
+Issued by Amazon Web Services.
+2018-01
+Google Professional Data Engineer
+Issued by Google.
+2020-01

@@ -1,0 +1,32 @@
+Candidate P143
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Machine Learning Engineer | Midwest Distribution Networks | 2018-06 to Present
+Spearheading the development and deployment of predictive analytics solutions that optimize route efficiency and inventory forecasting. Leveraging advanced machine learning models, including reinforcement learning, to drive continuous improvement and operational excellence.
+Senior Machine Learning Engineer | Great Lakes Fulfillment Services | 2014-03 to 2018-05
+Architected and deployed recommender systems for internal logistics optimization, significantly enhancing cross-docking operations. Collaborated with cross-functional teams to integrate MLflow and Kafka pipelines, ensuring robust model monitoring and real-time data streaming.
+Machine Learning Engineer | Badger State Freight Co. | 2012-01 to 2014-02
+Developed predictive maintenance models for fleet vehicles using LightGBM and feature engineering techniques, resulting in reduced downtime and cost savings. Gained hands-on experience with cloud platforms like AWS and Azure for model deployment.
+Junior Data Analyst | Central Insurance Group | 2008-06 to 2011-12
+Provided analytical support for claims processing and risk assessment. Led efforts to restructure data reporting, showcasing an early aptitude for translating raw data into actionable insights.
+SKILLS
+Model Deployment; Python; Recommender Systems; LightGBM; Model Evaluation; Feature Engineering; Reinforcement Learning; MLflow; Apache Kafka; Azure; AWS; Jupyter; Git; Data Engineering; MLOps
+EDUCATION
+Associate of Science | Computer Science | Madison College
+2005-09 to 2007-06
+Bachelor of Science | Computer Science | University of Wisconsin-Madison
+2007-09 to 2009-06
+Master of Science | Data Science | University of Wisconsin-Madison
+2016-09 to 2018-06
+PROJECTS
+Dynamic Route Optimization
+Developed a reinforcement learning model to optimize delivery routes in real-time, considering traffic and weather, saving 15% in fuel costs. Technologies used: Python, Apache Kafka, Azure.
+Predictive Inventory System
+Built a LightGBM-based system to forecast inventory demand across multiple warehouses, achieving 95% accuracy and reducing stockouts. Technologies used: Python, AWS, MLflow.
+CERTIFICATIONS
+TensorFlow Developer Certificate
+Issued by Google.
+2019-01
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2020-01

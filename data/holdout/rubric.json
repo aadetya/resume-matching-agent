@@ -1,0 +1,16 @@
+{
+  "label_protocol": "Independent agent review of sanitized source profiles; no runtime extraction, scores, rankings or generator metadata supplied to reviewers. Not human hiring judgments.",
+  "snapshot_date": "2026-09-01",
+  "total_experience": "Calendar-month union of dated employment, including internships and unrelated jobs. End month excluded; null end means project snapshot. Titles alone do not establish skill duration.",
+  "role_evidence": "Use dated employment titles and explicit responsibilities. Target occupations/career aspirations are not proof. Software includes software/frontend/backend/full-stack development. A full-stack job may also support frontend or backend when responsibilities explicitly demonstrate that side. Data/ML/DevOps are distinct unless separate software development work is evidenced. Q01 accepts a generic software/full-stack title as role existence even without duties, with grade1 when substantive work is missing. Q02/Q03 require dated frontend/backend title or explicit relevant duties for a full-stack/generic software title.",
+  "skill_evidence": "Mandatory skill existence may be supported by explicit skills lists, projects or work, with conventional equivalents such as PySpark=Spark. Do not infer JavaScript from React, SQL from PostgreSQL alone, or Python from PyTorch alone. React Native alone is not browser React experience. Negated skills and an aspiration to learn do not count. A named certification explicitly supports that named skill existence only, not dated employment or duration.",
+  "mandatory_pass": "All mandatory skills, a supported requested role, and at least 36 union months of total employment. Unknown evidence fails this documentary gate, not a claim that the candidate lacks the ability.",
+  "grades": {
+    "0": "No meaningful role/work match, or no required skill evidence for a skill-bearing query.",
+    "1": "Related candidate with a mandatory gap, uncertain role, or only listed/project skills and no substantive relevant employment evidence.",
+    "2": "All mandatory conditions supported; relevant dated work described, but depth is limited or some core tools appear only outside employment.",
+    "3": "All mandatory conditions supported; substantive relevant dated responsibilities explicitly demonstrate every core tool. For Q01, substantive dated software-development duties suffice. Preferred tools may help explain comparisons but do not independently earn grade3."
+  },
+  "review_output": "For each of50 candidates, record union_months, experience reasoning, quality flags and six judgments {job_id,grade,mandatory_pass,reason,evidence:[{path,quote}]}. Evidence paths refer to raw profile JSON e.g. experience.0.description or user.skills. Use verbatim quotes and never runtime metadata.",
+  "privacy": "Reviewer packets omit biographies, sourceIDs,cohorts,demographics,targetoccupations,precomputedexperience and runtimeoutputs. Actual work history is retained."
+}

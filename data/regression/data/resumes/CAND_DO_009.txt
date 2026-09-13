@@ -1,0 +1,18 @@
+Priya Reed
+cand_do_009@example.test
+
+PROFILE
+DevOps Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+CAREER HISTORY
+DevOps Engineer | Atlas Sample Services | January 2019 to January 2026
+Operated AWS services with budget checks, least-privilege access, and tested recovery procedures.
+Diagnosed Kubernetes scheduling failures and configured readiness checks before deployment.
+Used Terraform, Linux in delivery work, with peer review and documented failure cases.
+Owned a analytics workflow; checked outputs against recorded examples before release.
+
+TECHNOLOGIES
+AWS, Kubernetes, Terraform, Linux
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

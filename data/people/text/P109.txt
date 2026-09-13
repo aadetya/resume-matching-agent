@@ -1,0 +1,19 @@
+Candidate P109
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Development Intern | Regional Health System | 2023-06 to 2023-08
+Leveraged TypeScript and React to develop and enhance user interface components for a patient portal, ensuring cross-platform compatibility and adherence to WCAG 2.1 standards. Implemented state management solutions and wrote comprehensive unit tests using Jest and Cypress to ensure seamless user experiences.
+Web Development Intern | Community College Web Services | 2023-01 to 2023-05
+Collaborated with a cross-functional team to migrate legacy JavaScript code to TypeScript, improving code maintainability and type safety. Utilized Git and Bitbucket for version control and participated in code reviews to ensure best practices.
+Peer Tutor (Computer Science) | Community College | 2022-09 to 2022-12
+Assisted fellow students in understanding fundamental programming concepts including JavaScript, HTML, and CSS, fostering a collaborative learning environment and reinforcing my own expertise in front-end technologies.
+SKILLS
+State management (Redux, MobX, Zustand); Jest; CSS3; Code splitting; Promises; Node.js; Cypress; Version control (Git); HTML5; Responsive Design; Web Accessibility
+EDUCATION
+Certificate in Web Development | Web Development | Community College
+2021-09 to 2023-06
+PROJECTS
+Patient Portal UI Revamp
+Redesigned and implemented key user interface components for a patient portal using TypeScript and React, optimizing performance through code splitting and lazy loading. Ensured accessibility compliance and conducted end-to-end testing with Cypress. Technologies used: Redux, Jest.
+Inventory Management Dashboard
+Built a responsive dashboard for a retail client to track inventory levels in real-time, leveraging Node.js and WebSockets. Utilized state management with Zustand and implemented unit tests with Jest to achieve over 90% coverage. Technologies used: TypeScript.

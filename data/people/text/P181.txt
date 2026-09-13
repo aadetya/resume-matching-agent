@@ -1,0 +1,15 @@
+Candidate P181
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior E-commerce Engineer | Family-owned local business | 2019-03 to Present
+E-commerce Engineer | Logistics firm | 2015-01 to 2019-02
+Systems Engineer | US Marine Corps | 2003-06 to 2014-12
+SKILLS
+Fraud detection and prevention; Shopping cart development; Performance monitoring and alerting; PWA development; Subscription management; Database design and optimization; Inventory management; Microservices architecture; Customer data management; Analytics and tracking implementation; Java; React; Docker; Braintree; Python; GraphQL
+EDUCATION
+Bachelor of Science | Computer Science | An HBCU
+1999-09 to 2003-06
+CERTIFICATIONS
+Stripe Certified Developer
+Issued by Stripe.
+2022-01

@@ -1,0 +1,23 @@
+Candidate P151
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+General Manager | Fashion Retail Group | 2016-06 to 2024-03
+Managed a team of 35, oversaw store operations and inventory for a high-volume store. Increased sales by 20% year-over-year through effective merchandising and customer engagement strategies.
+Assistant Store Manager | Regional Apparel Chain | 2011-04 to 2016-05
+Supported store operations, managed inventory levels, and supervised staff. Reduced shrinkage by 15% through improved inventory tracking.
+E-commerce Contract Developer | Independent | 2023-01 to 2023-12
+Developed a headless commerce solution for a local boutique using WooCommerce and Stripe. Implemented custom pricing logic and webhook integrations.
+SKILLS
+E-commerce platform development; Search engine optimization for e-commerce; A/B testing; Headless commerce; Shopping cart development; Webhook and event-driven architecture; Performance monitoring and alerting; Customer data management; Order management systems; Pricing and promotion logic; Node.js; Python; Stripe; Magento; WooCommerce; Kafka; BigCommerce
+EDUCATION
+Associate of Applied Science | Computer Information Systems | Memphis Technical Institute
+2022-09 to 2024-06
+PROJECTS
+Custom Order Management System
+Built a custom OMS for a small apparel brand, integrating with BigCommerce and Kafka for real-time inventory updates. Technologies used: Node.js.
+A/B Testing Suite
+Developed an A/B testing framework for e-commerce product pages, measuring conversion uplift. Technologies used: Python, Node.js.
+CERTIFICATIONS
+Magento Certified Professional Developer
+Issued by Adobe.
+2024-01

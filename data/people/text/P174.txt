@@ -1,0 +1,30 @@
+Candidate P174
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Staff Full Stack Engineer | University of Nebraska Digital Innovation Lab | 2018-03 to Present
+Spearheading the architecture and delivery of a suite of e-commerce and research platforms, championing accessibility and performance as first-class citizens, while mentoring a distributed pod of engineers.
+Senior Full Stack Engineer | University of Nebraska | 2014-06 to 2018-02
+Designed and maintained microservices powering campus-wide e-commerce and student services, driving a 30% improvement in page load times through rigorous performance optimization and caching strategies.
+Full Stack Developer | Nebraska Public Media | 2012-01 to 2014-05
+Contributed to the development of a content management system and digital archive, integrating role-based access control (RBAC/ABAC) and implementing robust unit testing suites to ensure code quality.
+Junior Web Developer | Nebraska Web Solutions | 2010-08 to 2011-12
+Debugged and enhanced client-facing e-commerce websites, fortified SQL queries, and leveraged Firebase / Sentry for real-time monitoring and crash reporting.
+SKILLS
+Accessibility (a11y); Authorization (RBAC, ABAC); Web performance optimization; SQL; Unit testing (Jest, Mocha); Microservices architecture; React; Node.js; TypeScript; GraphQL; Firebase; Sentry; Vercel; Docker; CI/CD
+EDUCATION
+Master of Science | Computer Science | University of Nebraska
+2012-09 to 2014-06
+Bachelor of Science | Computer Science | University of Nebraska
+2006-09 to 2010-06
+PROJECTS
+Accessibility-First E-commerce Framework
+Led the design of an open-source component library and framework that enforces WCAG 2.1 AA compliance, resulting in a 40% reduction in accessibility defect reports across campus platforms. Technologies used: React, TypeScript, Jest, Mocha.
+Performance Monitoring Pipeline
+Architected a real-time observability pipeline using Sentry and custom dashboards, enabling proactive identification of performance bottlenecks and a 25% improvement in Lighthouse scores. Technologies used: Node.js, GraphQL, Vercel.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2020-01
+Certified Kubernetes Application Developer (CKAD)
+Issued by Cloud Native Computing Foundation.
+2019-01

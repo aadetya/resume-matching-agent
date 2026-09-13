@@ -1,0 +1,34 @@
+Candidate P115
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Machine Learning Engineer | Sentinel AI Solutions | 2021-06 to Present
+Lead development of autonomous systems, improving model accuracy by 23% via advanced hyperparameter tuning and cross-validation. Deployed computer vision and NLP models to production, reducing inference time by 40%.
+Machine Learning Engineer | DataForge Analytics | 2018-03 to 2021-05
+Built recommender systems and data preprocessing pipelines using Spark, handling 1.2B events daily. Increased model AUC by 15% through feature engineering and model evaluation.
+Lead Data Scientist | Quantitative Systems Inc. | 2014-01 to 2017-12
+Managed a team of 5 data scientists, delivering predictive models for logistics optimization. Reduced maintenance costs by 18% through data-driven decision models.
+Data Analyst | US Air Force | 2012-01 to 2013-12
+Analyzed mission data to improve resource allocation, cutting operational costs by 12% through statistical analysis and reporting.
+Data Scientist | Quantitative Systems Inc. | 2010-03 to 2011-12
+Developed early machine learning models for anomaly detection in sensor data. Improved detection rates by 28% using computer vision techniques.
+Intelligence Analyst | US Air Force | 2006-01 to 2009-12
+Processed and analyzed intelligence data, translating raw data into actionable insights. Utilized data preprocessing to support mission planning.
+SKILLS
+Spark; Recommender Systems; Computer Vision; Model Evaluation; Keras; Cross-validation; Natural Language Processing; Data Preprocessing; Hyperparameter Tuning; Model Deployment; Airflow; Git; NumPy; Seaborn; Python; Pandas; SQL; Docker
+EDUCATION
+Associate of Science | Computer Science | Augusta Technical College
+2008-09 to 2010-06
+Bachelor of Science | Computer Science | Georgia State University
+2010-09 to 2013-06
+PROJECTS
+Autonomous Drone Navigation
+Developed a computer vision system for autonomous drone navigation, achieving 96% obstacle avoidance accuracy using Keras and deployed via Docker.
+Real-time Recommendation Engine
+Built a real-time recommendation engine using Spark and Airflow, improving click-through rate by 25% through collaborative filtering. Technologies used: Recommender Systems.
+CERTIFICATIONS
+TensorFlow Developer Certificate
+Issued by Google.
+2022-01
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2021-01

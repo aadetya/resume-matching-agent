@@ -1,0 +1,18 @@
+Priya Patel
+cand_de_009@example.test
+
+PROFILE
+Data Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+CAREER HISTORY
+Data Engineer | Atlas Sample Services | January 2019 to January 2026
+Built SQL transformations with explicit grain, null checks, and late-arriving data handling.
+Used Apache Spark to compact partitioned event data and avoid repeated full-table scans.
+Used Python, Airflow in delivery work, with peer review and documented failure cases.
+Owned a analytics workflow; checked outputs against recorded examples before release.
+
+TECHNOLOGIES
+SQL, Apache Spark, Python, Airflow
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

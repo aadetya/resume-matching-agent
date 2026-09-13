@@ -1,0 +1,21 @@
+Candidate P045
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Production Associate | Augusta Manufacturing Solutions | 2023-06 to 2024-01
+Assembled components and monitored equipment on the line. Started assisting with digital inventory logs.
+IT Support Intern (Internal Transfer) | Augusta Manufacturing Solutions | 2024-02 to Present
+Moved to IT support to help with internal tools. Built a small Vue.js dashboard for shift scheduling, using a Node.js backend and a simple API.
+SKILLS
+Kubernetes; HTML5; TypeScript; Node.js; Vue.js; CI/CD pipelines; Accessibility (a11y); Cross-browser compatibility; Unit testing (Jest, Mocha); Redis; Authorization (RBAC, ABAC); End-to-end testing (Cypress, Playwright)
+EDUCATION
+Certificate in Web Development | Computer Science | Augusta Technical College
+2023-09 to 2024-06
+PROJECTS
+Shift Scheduling Dashboard
+Internal tool for plant managers. Vue.js front-end, Node.js/Express API, uses Redis for session data. Implemented RBAC for admin vs viewer.
+Personal Portfolio Site
+Static site built with HTML5, TypeScript, and Vue.js. Focused on accessibility and cross-browser compatibility. Technologies used: Accessibility (a11y).
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

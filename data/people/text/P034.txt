@@ -1,0 +1,21 @@
+Candidate P034
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Developer Intern | Indiana Public Media | 2024-06 to Present
+Developed accessible UI components for news articles using Angular and implemented SSR with Next.js. Collaborated with designers in Figma to ensure responsive design.
+Sales Associate | Best Buy | 2022-05 to 2023-08
+Assisted customers with electronics purchases and provided technical support. Gained communication skills and basic troubleshooting experience.
+SKILLS
+Angular; Next.js; Svelte; Vue.js; HTML5; Redux; CSS-in-JS; Server-Side Rendering (SSR); Web Accessibility (WCAG); Webpack; Cypress; Git; Figma
+EDUCATION
+Bachelor of Science | Computer Science | Purdue University
+2021-09 to 2025-06
+PROJECTS
+Personal Portfolio Site
+Built a responsive portfolio using Next.js and CSS-in-JS, featuring project showcases and blog. Implemented WCAG accessibility standards. Technologies used: HTML5.
+Media Dashboard
+Created a dashboard for media analytics using Angular and Redux. Integrated with REST APIs and used Cypress for testing.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Coursera.
+2024-01

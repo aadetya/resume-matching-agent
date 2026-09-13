@@ -1,0 +1,25 @@
+Candidate E016
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Developer (Contract) | Kansas Department of Health and Environment | 2024-08 to Present
+Working on an internal dashboard for healthcare compliance, building responsive components with Vue.js and TypeScript, and integrating real-time updates via WebSockets. Adapting to a shift-work schedule to coordinate with backend teams across time zones.
+Junior Web Developer | Johnson County IT Services | 2023-11 to 2024-07
+Supported the county's public-facing health services portal, implementing responsive design fixes and migrating legacy components to Vue.js. Collaborated on cross-browser compatibility and used Cypress for automated testing.
+Technical Support Specialist | University of Kansas Health System | 2023-01 to 2023-10
+Provided technical support to clinical staff, troubleshooting web-based applications and logging issues. Gained exposure to healthcare workflows and user needs, which sparked an interest in frontend development.
+SKILLS
+Component Libraries; Responsive Design; Svelte; Next.js; WebSockets; Cross-Browser Compatibility; TypeScript; Static Site Generation (SSG); Vue.js; Chrome DevTools; Cypress; Playwright; Node.js; ESLint; VS Code; Babel
+EDUCATION
+Bachelor's Degree | Computer Engineering | University of Tehran
+2016-09 to 2021-06
+Certificate | Full-Stack Development | Coding Dojo
+2022-09 to 2023-06
+PROJECTS
+Healthcare Compliance Dashboard
+Built a real-time dashboard for tracking compliance metrics using Vue.js and WebSockets, with role-based access control and data visualization. Technologies used: TypeScript, Node.js.
+Personal Portfolio with SSG
+Created a portfolio site using Next.js and static site generation, focusing on performance and accessibility. Technologies used: TypeScript, Static Site Generation (SSG).
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2023-01

@@ -1,0 +1,30 @@
+Candidate R027
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead API Engineer | Prairie View A&M University | 2023-08 to Present
+Spearheaded the university's API transformation, designing and implementing RESTful and gRPC services. Led a team in migrating legacy systems to serverless architectures, improving system reliability and reducing operational costs.
+API Engineer | Accenture | 2019-06 to 2023-07
+Designed and developed APIs for enterprise clients, specializing in API gateway configurations and authentication. Implemented comprehensive API documentation using OpenAPI, enhancing developer adoption and reducing integration time by 30%.
+Integration Specialist | Cognizant | 2016-01 to 2019-05
+Focused on integrating third-party services and data serialization techniques. Automated testing workflows using Postman/Newman, significantly improving deployment efficiency.
+Junior Software Engineer | MTN Ghana | 2013-01 to 2015-12
+Developed and maintained internal tools and APIs for telecom operations. Gained foundational experience in API design and data serialization.
+SKILLS
+Postman/Newman automation; Serverless functions (AWS Lambda, Azure Functions); API gateway configuration; gRPC service implementation; API documentation best practices; Backward compatibility and deprecation policies; API authentication and authorization; OpenAPI/Swagger specification; Event-driven architecture; Data serialization (JSON, Protobuf, Avro); GraphQL; NGINX; Datadog; AWS API Gateway; Terraform; CI/CD pipelines; Microservices architecture
+EDUCATION
+PhD | Computer Science | Prairie View A&M University
+2019-09 to 2024-06
+Bachelor's | Computer Science | University of Ghana
+2008-09 to 2012-06
+PROJECTS
+University-wide API Management Platform
+Architected a centralized API gateway for the university, integrating multiple systems and implementing robust security and versioning policies. Enhanced cross-departmental data sharing and reduced redundancy. Technologies used: AWS API Gateway, Terraform, Serverless.
+Real-time Student Data Streaming
+Built an event-driven architecture using AWS Lambda and Kafka to stream student records to various campus systems. Improved data consistency and provided real-time analytics capabilities. Technologies used: Apache Kafka.
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate
+Issued by Amazon Web Services.
+2022-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2021-01

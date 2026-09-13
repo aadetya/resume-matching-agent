@@ -1,0 +1,23 @@
+Candidate P102
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Frontend Engineer | Solano County IT Services | 2021-03 to Present
+Led frontend architecture for county public-facing applications, improving Core Web Vitals scores and implementing comprehensive testing strategies. Mentored a team of four developers and drove adoption of Tailwind CSS and modern state management.
+Frontend Engineer | Bay Area Rapid Transit (BART) | 2018-06 to 2021-02
+Developed and maintained rider-facing web applications, focusing on accessibility and cross-browser compatibility. Implemented real-time data visualizations and automated testing pipelines.
+Web Developer | Vallejo Lumber & Hardware | 2016-05 to 2018-05
+Built and maintained the company's e-commerce and inventory systems, integrating third-party APIs and improving page load times. Also handled internal tooling for staff.
+Junior Frontend Developer | Vallejo Lumber & Hardware | 2015-02 to 2016-04
+Assisted in website updates, created responsive layouts, and fixed cross-browser issues. Collaborated with the marketing team to implement UI changes.
+SKILLS
+Redux; Cross-Browser Compatibility; Core Web Vitals; Tailwind CSS; Testing (Jest, React Testing Library, Cypress); Angular; JavaScript (ES6+); Node.js; GraphQL; CSS-in-JS; REST APIs
+EDUCATION
+Bachelor of Science | Computer Science | Howard University
+2011-09 to 2015-06
+PROJECTS
+County Services Portal
+Redesigned and rebuilt the portal using Angular and Redux, achieving a 30% reduction in load time and passing WCAG AA accessibility standards. Technologies used: Tailwind CSS, Jest.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2022-01

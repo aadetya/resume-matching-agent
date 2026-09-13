@@ -1,0 +1,28 @@
+Candidate E007
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+DevOps Engineer | Telecom Solutions Inc. | 2018-01 to 2019-06
+Managed release pipelines and implemented containerized applications using Docker and Kubernetes. Worked on shift rotation to ensure system availability.
+Systems Administrator | Telecom Solutions Inc. | 2015-06 to 2017-12
+Maintained network infrastructure and implemented backup and restore procedures. Assisted with logging configurations and system monitoring.
+Network Administrator | National Retail Chain | 2010-03 to 2015-05
+Supported corporate retail network, including POS systems and store connectivity. Configured network devices and resolved connectivity issues.
+IT Support Specialist | National Retail Chain | 2007-02 to 2010-02
+Provided helpdesk support and managed user accounts. Gained exposure to version control and IT operations.
+SKILLS
+Backup and restore procedures; Security hardening and compliance; Version control strategies; Container orchestration; Network configuration and troubleshooting; Log management and analysis; Docker; New Relic; Azure; Kubernetes; GCP; Splunk; Terraform
+EDUCATION
+Bachelor of Science | Information Technology | University of Massachusetts Lowell
+2012-09 to 2016-06
+PROJECTS
+Automated Backup System
+Designed and implemented a backup automation system using Terraform and Azure, reducing manual effort and ensuring data integrity. Technologies used: Shell.
+Kubernetes Cluster Monitoring
+Set up monitoring for a Kubernetes cluster using New Relic and Splunk, enabling proactive issue detection and performance analysis.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2017-01
+CKA: Certified Kubernetes Administrator
+Issued by CNCF.
+2018-01

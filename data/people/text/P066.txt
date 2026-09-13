@@ -1,0 +1,15 @@
+Candidate P066
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+HR Operations Intern | Escondido Union School District | 2024-06 to 2024-08
+Assisted with onboarding and offboarding processes, maintained employee records in Oracle HCM, and generated HR metrics reports, including time-to-fill analysis.
+Office Assistant | University Admissions Office | 2023-09 to 2024-05
+Supported daily office operations, data entry, and document management; helped with events coordination.
+SKILLS
+Onboarding coordination; HR compliance; HR metrics reporting; Workforce analytics; Statistical analysis; Headcount planning; Time-to-fill analysis; Data visualization; Excel; Communication; Problem solving
+EDUCATION
+Bachelor of Arts | Economics | Claremont McKenna College
+2022-09 to 2026-06
+PROJECTS
+Onboarding Process Analysis
+Analyzed onboarding steps for a school district, identifying bottlenecks and proposing improvements; used ChartHop for headcount planning simulations. Technologies used: Excel.

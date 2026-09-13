@@ -1,0 +1,16 @@
+Candidate R040
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Logistics Coordinator | Rocky Mountain Distribution | 2023-06 to Present
+Oversee daily dispatch and tracking for a regional distribution fleet. Automated route updates using AWS Lambda and API Gateway, cutting reporting time by 30%.
+SKILLS
+Serverless functions (AWS Lambda, Azure Functions); Data serialization (JSON, Protobuf, Avro); OpenAPI/Swagger specification; HTTP protocol semantics; Postman/Newman automation; API performance optimization; Asynchronous processing patterns; Containerization (Docker) and orchestration (Kubernetes); Kong; AWS API Gateway; Git
+PROJECTS
+API Gateway Monitoring Dashboard
+Built a dashboard to monitor internal API usage and performance using AWS API Gateway and Lambda, with Postman tests for validation. Technologies used: AWS Lambda, OpenAPI.
+Inventory Sync Service
+Developed a serverless service to sync inventory data between warehouse systems and the main ERP using JSON and Protobuf serialization. Technologies used: AWS Lambda, API Gateway.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

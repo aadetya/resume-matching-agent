@@ -1,0 +1,30 @@
+Candidate P135
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Node.js Developer | Regional HealthPartners | 2022-03 to Present
+Spearheading the design and implementation of robust, scalable microservices for patient data management, leveraging Node.js and Fastify to ensure optimal performance and security. Collaborating with cross-functional teams to deliver seamless integrations with hospital systems, driving operational excellence.
+Node.js Developer | MediSync Solutions | 2019-06 to 2022-02
+Engineered RESTful APIs and real-time features for a patient portal, utilizing WebSockets to enable instant messaging and notifications. Played a pivotal role in refactoring legacy code to microservices architecture, enhancing system reliability and maintainability.
+Junior Node.js Developer | AccraTech Solutions | 2016-01 to 2019-05
+Developed and maintained various web applications, focusing on server-side logic and API development. Contributed to the implementation of authentication and authorization protocols, ensuring secure access to client resources.
+SKILLS
+Node.js; JavaScript; TypeScript; RESTful API design; Microservices architecture; NoSQL; Event-driven programming; WebSockets; PostgreSQL; TypeORM; Fastify; Jest; Yarn; AWS; Docker; Kubernetes; Memory leak detection; Serverless computing
+EDUCATION
+Master of Science | Computer Science | Middle Tennessee State University
+2020-09 to 2022-06
+Bachelor of Science | Computer Engineering | Accra Technical University
+2012-09 to 2016-06
+Certificate | Web Development | Nashville State Community College
+2018-09 to 2019-06
+PROJECTS
+Real-time Patient Monitoring Dashboard
+Designed and implemented a real-time dashboard for monitoring patient vitals using Node.js, WebSockets, and PostgreSQL. Enabled healthcare providers to receive instant alerts and visualize data trends. Technologies used: React.
+Microservices Migration for Legacy System
+Led the migration of a monolithic healthcare system to a microservices architecture, improving scalability and deployment efficiency. Utilized Docker and Kubernetes for container orchestration. Technologies used: Node.js, AWS.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2023-01
+OpenJS Node.js Application Developer (JSNAD)
+Issued by OpenJS Foundation.
+2021-01

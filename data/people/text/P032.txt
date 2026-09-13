@@ -1,0 +1,21 @@
+Candidate P032
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Machine Learning Engineer I | Desert Financial Credit Union | 2022-06 to Present
+Developed and deployed recommendation models for member cross-selling, improving click-through rate by 18% within 6 months. Currently maintaining and monitoring 3 production models, reducing inference latency by 25%.
+Data Analyst | Arizona Community Bank | 2021-01 to 2022-05
+Analyzed customer transaction data using SQL and Python, generated weekly reports on product usage trends, and identified a 12% churn risk segment that led to a targeted retention campaign.
+Electrician Apprentice | Local 640 Union | 2019-01 to 2020-12
+Installed and maintained electrical systems across residential and commercial sites, consistently completing projects ahead of schedule, averaging 10% under budget.
+SKILLS
+Time Series Analysis; Model Deployment; Recommender Systems; Hyperparameter Tuning; A/B Testing; Model Evaluation; Big Data Technologies; Cross-validation; PostgreSQL; Seaborn; MongoDB; Matplotlib; Azure; Git; Apache Kafka; Python
+EDUCATION
+Bachelor of Science | Data Science | Arizona State University
+2016-09 to 2020-06
+PROJECTS
+Recommendation Engine for Credit Union
+Built collaborative filtering and content-based recommender for loan products, achieving 15% increase in cross-sell conversions and deployed on Azure. Technologies used: Python, Apache Kafka, PostgreSQL.
+CERTIFICATIONS
+Microsoft Certified: Azure Data Scientist Associate
+Issued by Microsoft.
+2022-01

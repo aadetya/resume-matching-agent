@@ -1,0 +1,21 @@
+Candidate P096
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior DevOps Engineer | Erie Federal Systems | 2024-01 to Present
+Spearheaded the migration of legacy workloads to Azure, orchestrating containerized deployments with Kubernetes and streamlining CI/CD pipelines to achieve a 30% reduction in deployment time. Championed cost optimization initiatives, saving the agency $50k annually by right-sizing compute resources.
+Shift Lead | Lakeview Coffee Co. | 2020-06 to 2023-12
+Managed daily operations and led a team of baristas, ensuring exceptional customer service. Developed problem-solving and multitasking skills while coordinating inventory and scheduling.
+SKILLS
+Cloud platform management; Kubernetes cluster administration; Configuration management; Immutable infrastructure; Incident response and management; Log management and analysis; Observability and distributed tracing; Secrets management; Chaos engineering; Cost optimization; Serverless and event-driven architecture; Disaster recovery planning
+EDUCATION
+Associate of Science | Information Technology | Community College of Erie
+2022-09 to 2024-06
+PROJECTS
+Kube-Cost Optimizer
+Developed an automated tool using Terraform and Kubernetes to analyze and optimize cloud spending, resulting in a 25% cost reduction for a simulated enterprise environment. Technologies used: Azure.
+Observability Pipeline
+Implemented a centralized logging and monitoring stack using New Relic and distributed tracing to enhance system observability, reducing mean time to detection by 40% in a bootcamp capstone project. Technologies used: Docker, Azure.
+CERTIFICATIONS
+Microsoft Certified: DevOps Engineer Expert
+Issued by Microsoft.
+2024-01

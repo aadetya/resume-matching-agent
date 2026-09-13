@@ -1,0 +1,19 @@
+Candidate P165
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Logistics Coordinator | Sunshine Freight Solutions | 2021-06 to 2023-01
+Coordinated shipments and managed inventory databases. Used spreadsheets daily, which sparked interest in automating workflows.
+SKILLS
+Design Systems; Svelte; CSS-in-JS; Testing (Jest, React Testing Library, Cypress); TypeScript; Next.js; Prettier; Node.js; Sentry; Playwright; Git; HTML5; CSS3
+EDUCATION
+Certificate | Web Development | Community College of Broward County
+2022-09 to 2023-06
+PROJECTS
+Design System Playground
+Built a small design system with Svelte and CSS-in-JS to practice component-driven development. Technologies used: Storybook.
+Media Dashboard
+Created a frontend for a media company's internal dashboard using Next.js and TypeScript, integrating with mock APIs. Technologies used: Tailwind CSS.
+CERTIFICATIONS
+freeCodeCamp Responsive Web Design Certification
+Issued by freeCodeCamp.
+2023-01

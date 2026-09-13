@@ -1,0 +1,27 @@
+Candidate P177
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Reporter | Des Moines Register | 2016-06 to 2019-08
+Covered local government and business. Produced 3-5 articles weekly, drove 40% increase in digital subscription conversions through data-driven storytelling.
+Data Journalist | Iowa Public Radio | 2019-09 to 2022-02
+Analyzed public datasets with Python and SQL to support investigative reports. Built automated data pipelines, reducing manual data processing time by 70%.
+Freelance Web Developer | Self-employed | 2022-03 to 2023-01
+Built and maintained small business websites using HTML, CSS, and JavaScript. Implemented responsive design, improving mobile traffic engagement by 25% for clients.
+Junior Node.js Developer | Franchise Location | 2023-02 to Present
+Develop and maintain RESTful APIs using NestJS, TypeORM, and PostgreSQL. Collaborate on GraphQL queries and JWT-based authentication, reducing response times by 20%.
+SKILLS
+JavaScript; GraphQL; Authentication and authorization; Docker; JWT; Cloud services (AWS, GCP, Azure); PostgreSQL; TypeORM; NestJS; Node.js; Express.js
+EDUCATION
+Associate of Arts | Journalism | Des Moines Area Community College
+2014-09 to 2016-06
+Bachelor of Arts | Journalism and Mass Communication | Iowa State University
+2016-09 to 2018-06
+PROJECTS
+Newsroom Analytics Dashboard
+Built an internal dashboard for a newsroom to visualize story performance metrics. Used React, Node.js, and PostgreSQL, reducing manual reporting time by 30%. Technologies used: JavaScript.
+Secure API Boilerplate
+Developed a starter kit for secure Node.js APIs with JWT authentication, Helmet, and rate limiting. Published as open source, used by 20+ developers. Technologies used: Docker, NestJS.
+CERTIFICATIONS
+OpenJS Node.js Application Developer (JSNAD)
+Issued by OpenJS Foundation.
+2023-01

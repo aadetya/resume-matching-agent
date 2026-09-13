@@ -1,0 +1,24 @@
+Candidate P079
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Engineer | Lone Star Health Systems | 2021-01 to Present
+Built and maintain a data lakehouse for clinical data, using AWS Glue and Spark. Implemented CDC pipelines with Kafka for real-time ingestion. Work remote full-time.
+Data Analyst | Lone Star Health Systems | 2019-06 to 2020-12
+Did SQL reporting and dashboarding. Used Fivetran to sync data sources. Pushed to move into engineering, took online courses and got internal transfer.
+Medical Records Clerk | Lone Star Health Systems | 2017-03 to 2019-05
+Processed patient records and learned about HIPAA and data governance. Started learning Python and SQL on my own.
+SKILLS
+ETL pipeline development; Data lake architecture; Scala/Spark development; Data governance; Workflow scheduling; Data validation; Apache Kafka; AWS Glue; Fivetran; Google Cloud Dataflow; Real-time data processing; Data partitioning strategies; Lambda architecture; Data lineage; Schema design; Change data capture
+EDUCATION
+Certificate | Data Analytics | Dallas County Community College District
+2018-09 to 2019-06
+PROJECTS
+Real-Time Patient Monitoring Pipeline
+Designed a lambda architecture using Kafka and Spark to ingest and process streaming health sensor data. Implemneted partitioning and data validation to ensure accuracy. Technologies used: Apache Kafka, Scala, AWS Glue.
+CERTIFICATIONS
+AWS Certified Big Data – Specialty
+Issued by Amazon Web Services.
+2022-01
+Databricks Certified Data Engineer Associate
+Issued by Databricks.
+2023-01

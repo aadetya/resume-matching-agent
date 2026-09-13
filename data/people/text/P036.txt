@@ -1,0 +1,30 @@
+Candidate P036
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior React Developer | Bryan Health | 2018-03 to 2023-04
+Led the front-end team in building a patient portal with React, improving load times by 40% through performance optimization. Implemented CI/CD pipelines and migrated to Vite and pnpm, reducing build times significantly.
+React Developer | Tabitha Health Care Services | 2014-06 to 2018-02
+Developed interactive dashboards for staff and patients using React and Context API. Utilized Contentful as a headless CMS to manage content, and integrated Firebase for real-time data updates.
+Junior Web Developer | Nebraska Medicine | 2012-01 to 2014-05
+Built and maintained internal tools and websites. Gained solid foundation in JavaScript, HTML, and CSS while collaborating with senior developers on feature implementation.
+Software Engineer (Contract) | Self-employed | 2019-09 to 2020-02
+Took on freelance projects to maintain skills while caring for young children. Developed marketing sites for local businesses using static site generation and deployed them on Netlify.
+SKILLS
+Static Site Generation (SSG); React; Context API; Cypress; Babel; Vite; Performance Optimization; CI/CD; Contentful; AWS; Netlify; pnpm; Firebase; React DevTools; TypeScript; Node.js
+EDUCATION
+PhD | Computer Science | University of Nebraska-Lincoln
+2010-09 to 2016-06
+Bachelor of Science | Computer Science | University of Nebraska-Lincoln
+2006-09 to 2010-06
+PROJECTS
+Patient Portal Revamp
+Led a complete overhaul of the patient portal using React and Context API. Implemented role-based views, reduced API calls by caching, and integrated Cypress for end-to-end testing. Achieved a 40% improvement in Lighthouse performance score. Technologies used: Vite, AWS, Netlify.
+Staff Scheduling Dashboard
+Built a real-time scheduling dashboard for hospital staff using React and Firebase. Utilized static site generation for fast initial load and implemented CI/CD with GitHub Actions. Technologies used: Static Site Generation (SSG), Babel.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2023-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2022-01

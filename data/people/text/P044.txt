@@ -1,0 +1,40 @@
+Candidate P044
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Big Data Engineer | National Logistics Alliance | 2022-08 to Present
+Architecting and implementing scalable data pipelines for nationwide logistics optimization, leveraging Apache Spark and Delta Lake to enable real-time shipment tracking.
+Senior Data Integration Engineer | Crossroads Nonprofit Network | 2017-03 to 2019-06
+Spearheaded the integration of donor and volunteer data across multiple platforms, utilizing Apache Hudi to ensure near-real-time data consistency in a high-volume environment.
+Data Engineer II | Inland Empire United Way | 2016-08 to 2017-03
+Led the migration of legacy data warehouses to cloud-based solutions using Apache Hive and HDFS, improving query performance by 40%.
+Data Engineer | CargoSync Solutions | 2015-03 to 2016-07
+Developed ETL pipelines using Python and SQL to process logistics data, and introduced Apache Iceberg for improved data versioning and time travel.
+Big Data Analyst | Omega Shipping Cooperative | 2014-02 to 2015-03
+Analyzed shipping volumes and patterns using SQL and Hive, delivering actionable insights that reduced operational costs by 12%.
+ETL Developer | Pacific Freight Systems | 2013-02 to 2014-02
+Data Warehouse Developer | Golden State Transport | 2011-09 to 2013-01
+Designed data models and ETL processes for a transportation company, using SQL and Hive to support freight analytics.
+Database Administrator | Desert Express Shipping | 2010-06 to 2011-08
+Managed operational databases and developed reporting solutions using SQL to track shipment performance.
+Junior Data Analyst | Mojave Nonprofit Consortium | 2009-01 to 2010-05
+Assisted in data collection and reporting, writing SQL queries for donor and program metrics.
+Support Technician | High Desert Nonprofit Services | 2008-05 to 2008-12
+Warehouse Associate | Long Haul Freight | 2007-02 to 2008-04
+Handled inventory tasks and learned the logistics chain from the ground up.
+SKILLS
+Apache Spark; Delta Lake; SQL; Apache Iceberg; HDFS; Apache Hudi; Apache Hive; dbt; Python; Data Integration
+EDUCATION
+Data Management | Local Union Apprenticeship Program
+2006-09 to 2008-06
+PROJECTS
+Real-Time Logistics Data Pipeline
+Designed and implemented a streaming pipeline using Apache Spark and Delta Lake, enabling real-time visibility into inventory levels across regional warehouses. Technologies used: SQL, Python.
+Data Lake Optimization for Nonprofit
+Engineered a data lake on HDFS with Apache Hudi and Iceberg, improving data query performance and reducing storage costs while ensuring ACID compliance. Technologies used: Apache Hive, Apache Iceberg.
+CERTIFICATIONS
+Cloudera Certified Professional (CCP) Data Engineer
+Issued by Cloudera.
+2018-01
+Databricks Certified Associate Developer for Apache Spark
+Issued by Databricks.
+2023-01

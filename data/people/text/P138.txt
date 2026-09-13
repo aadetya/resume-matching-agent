@@ -1,0 +1,30 @@
+Candidate P138
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Full Stack Developer | University of New Hampshire | 2018-03 to Present
+Lead a team of 6 developers building and maintaining the university's e-commerce and student services platforms. Manage technical roadmap, CI/CD pipelines, and system performance. Oversee budget and cross-functional collaboration with IT and marketing.
+Senior Full Stack Developer | Granite State Web Services | 2014-06 to 2018-02
+Developed full-stack web applications for e-commerce clients using Vue.js, Node.js, and microservices. Implemented CI/CD pipelines and web performance optimizations. Mentored junior developers, improving team velocity and code quality.
+Full Stack Developer | Merrimack Valley Web Solutions | 2011-09 to 2014-05
+Built and maintained responsive web applications with HTML5, Vue.js, and Node.js. Focused on accessibility and unit testing. Collaborated with design and product teams to deliver features on time.
+Junior Full Stack Developer | New England Digital Agency | 2008-02 to 2011-08
+Assisted in development of client websites using HTML5, CSS, and JavaScript. Gained experience with Node.js and MySQL. Participated in code reviews and learned best practices for web performance.
+Web Developer (Lateral move) | State of New Hampshire IT Department | 2006-07 to 2008-01
+Moved from a support role to a web developer role. Maintained and enhanced internal web applications. Introduced unit testing and improved code documentation.
+Technical Support Specialist | State of New Hampshire IT Department | 2004-10 to 2006-06
+Provided technical support for internal systems. Learned basic web development and volunteered on web projects, leading to a lateral move.
+SKILLS
+CI/CD pipelines; Web performance optimization; Kubernetes; Vue.js; HTML5; Microservices architecture; Accessibility (a11y); Node.js; Unit testing (Jest, Mocha); npm/yarn/pnpm; Postman; Sentry; AWS; Datadog; TypeScript; Docker; GraphQL
+EDUCATION
+Bachelor of Arts | Computer Science | Colby College
+1999-09 to 2003-06
+PROJECTS
+E-commerce Platform Modernization
+Led migration from monolith to microservices architecture, improving deployment frequency and reducing downtime. Implemented Kubernetes orchestration and established CI/CD pipelines. Technologies used: Vue.js, Node.js, AWS, Docker.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2020-01
+Certified Kubernetes Application Developer (CKAD)
+Issued by Cloud Native Computing Foundation.
+2021-01

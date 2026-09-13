@@ -1,0 +1,11 @@
+Candidate R033
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Warehouse Associate | Regional Distribution Center | 2023-06 to 2023-08
+SKILLS
+REST API design; API versioning; JWT; OAuth2; Microservices architecture; Message queues; Containerization; Kubernetes; AWS; Node.js; Azure
+PROJECTS
+API for a transportation scheduling system
+Designed and implemented a RESTful API with OAuth2 authentication and JWT tokens, including versioning and containerized deployment. Technologies used: Node.js, REST API design, Containerization.
+Microservices-based notification service
+Built a microservice that consumes messages from a queue and sends notifications, deployed on Kubernetes. Technologies used: Microservices architecture, Message queues, Node.js.

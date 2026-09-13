@@ -1,0 +1,32 @@
+Candidate P087
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Operations Analyst / Frontend Developer (PWA) | Ventura Manufacturing Systems | 2018-03 to Present
+Transitioned from logistics to frontend, building internal PWA for real-time shop floor tracking that reduced reporting delays by 40%. Leading design system adoption across teams.
+Logistics Manager | Ventura Manufacturing Systems | 2014-11 to 2018-02
+Managed inbound supply chain, coordinating 15 staff. Self-taught web development during evenings to pivot careers.
+Air Force Logistics Officer | United States Air Force | 2014-01 to 2014-10
+Managed supply chain operations for missile maintenance unit. Earned MBA, began self-study of coding.
+Maintenance Scheduler | United States Air Force | 2008-05 to 2013-12
+Coordinated maintenance schedules for missile systems, ensuring operational readiness. Developed process improvements that cut downtime by 15%.
+SKILLS
+Component Libraries; Static Site Generation (SSG); Cross-Browser Compatibility; Build Tools (Webpack, Vite); Progressive Web Apps (PWA); Design Systems; REST APIs; Responsive Design; Web Performance Optimization; CSS3; HTML5; Core Web Vitals; TypeScript; GraphQL; Accessibility (a11y); Jest
+EDUCATION
+PhD | Operations Research | University of Southern California
+2019-09 to date unavailable
+MBA | Business Administration | University of California, Los Angeles
+2011-09 to 2013-06
+Bachelor's | Industrial Engineering | University of California, Berkeley
+2003-09 to 2007-06
+PROJECTS
+Internal PWA for Plant Floor Analytics
+Developed a fully offline-capable PWA with real-time dashboards, reducing manual reporting time by 50%. Integrated with REST APIs and optimized Core Web Vitals. Technologies used: React, Vite, Webpack, Figma, Storybook.
+Design System Implementation
+Led creation of a company-wide design system using Storybook, enabling consistent UI across 10 internal applications. Improved developer velocity by 30%. Technologies used: CSS3, HTML5, Figma.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2023-01
+freeCodeCamp Responsive Web Design Certification
+Issued by freeCodeCamp.
+2022-01

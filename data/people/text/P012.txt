@@ -1,0 +1,26 @@
+Candidate P012
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Machine Learning Engineer | MediCore Manufacturing Solutions | 2022-06 to Present
+Leading the development of a predictive maintenance system that uses sensor data and natural language processing of maintenance logs to reduce downtime by 20%. Building and deploying models on AWS with MLOps practices.
+Data Analyst | ChemCore Plastics | 2020-01 to 2022-05
+Analyzed production data to identify quality issues and created dashboards in Tableau. I also started experimenting with machine learning models on my own, which eventually led me to a role focused on ML.
+Production Associate | ChemCore Plastics | 2018-08 to 2019-12
+Worked on the plant floor, operating machinery and conducting quality checks. This role gave me a deep understanding of the manufacturing process and the kinds of data we generate, which became valuable when I transitioned to data roles.
+SKILLS
+scikit-learn; TensorFlow; PyTorch; XGBoost; LightGBM; Recommender Systems; Model Evaluation; Model Selection; Hadoop; Big Data Technologies; Pandas; Airflow; PostgreSQL; MLflow; Tableau; AWS; Kubernetes
+EDUCATION
+Associate of Science | Computer Science | Northern Virginia Community College
+2018-09 to 2020-06
+PROJECTS
+Predictive Maintenance for Injection Molding
+Developed an end-to-end pipeline using sensor data and NLP on maintenance logs to predict equipment failures. Utilized XGBoost and LightGBM with model evaluation and selection tools, and deployed on AWS with Airflow for scheduling. Technologies used: Python, Pandas, scikit-learn.
+Recommendation Engine for Medical Research Papers
+Built a recommender system for clinicians using collaborative filtering and content-based methods with PyTorch and TensorFlow. Integrated with a PostgreSQL database and containerized with Kubernetes for scalable serving. Technologies used: Python, Recommendation Systems.
+CERTIFICATIONS
+TensorFlow Developer Certificate
+Issued by TensorFlow.
+2022-01
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2023-01

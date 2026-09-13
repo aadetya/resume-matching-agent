@@ -1,0 +1,9 @@
+Candidate P142
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Engineer | Desert Sky Consulting | 2020-03 to Present
+SKILLS
+ELT pipeline development; Data governance; Data ingestion; Fivetran
+EDUCATION
+Certificate | Data Analytics | Mesa Community College
+2018-09 to 2019-06

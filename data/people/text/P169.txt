@@ -1,0 +1,19 @@
+Candidate P169
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Library Assistant | Frisco Public Library | 2012-03 to 2021-01
+Cataloged and managed patron data, digitized archives, assisted with web portal updates.
+Library Technician | Frisco Public Library | 2021-02 to Present
+Maintained digital collections, implemented tagging systems, supported interlibrary loan system.
+SKILLS
+Continuous integration and deployment; Search engine optimization for e-commerce; Customer data management; Shopping cart development; Caching strategies; E-commerce platform development; Personalization and recommendation engines; Performance monitoring and alerting; Supply chain integration; Adyen; Kafka; Elasticsearch; JavaScript; HTML/CSS
+EDUCATION
+Associate of Applied Science | Web Development | Collin College
+2022-09 to 2024-06
+PROJECTS
+E-commerce Storefront Demo
+Built a sample online store using Shopify, integrated payment processing with Adyen, implemented product search with Elasticsearch.
+CERTIFICATIONS
+Certified Shopify Developer
+Issued by Shopify.
+2024-01

@@ -1,0 +1,15 @@
+Sara Sen
+cand_ml_019@example.test
+
+PROFILE
+A focused resume with one directly supported technical skill.
+
+CAREER HISTORY
+Machine Learning Engineer | Northstar Fiction Labs | Jan 2021 - Jan 2026
+Used PyTorch for a small internal workflow. Labeled research examples and maintained annotation guidelines with a small research team.
+
+TECHNOLOGIES
+PyTorch
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

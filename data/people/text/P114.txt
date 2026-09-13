@@ -1,0 +1,28 @@
+Candidate P114
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Staff Software Engineer | Stockton Unified School District | 2018-03 to Present
+Led the development and maintenance of the district's student information system, overseeing a team of engineers and ensuring high reliability and scalability. Spearheaded the migration of legacy systems to cloud infrastructure, leveraging Azure and Docker.
+Senior Software Engineer | San Joaquin County Office of Education | 2012-06 to 2017-12
+Designed and implemented REST APIs for educational data exchange, improving data integration and reporting capabilities. Provided technical leadership and mentorship to junior developers, enhancing team productivity.
+Software Engineer | California Virtual Academy | 2006-01 to 2012-05
+Developed and maintained web-based learning platforms, focusing on database design and front-end technologies. Implemented CI/CD pipelines using Travis CI and GitLab, reducing deployment times by 40%.
+Software Developer | EdTech Solutions Inc. | 1999-04 to 2005-10
+Built and maintained educational software applications, writing technical documentation and ensuring cross-browser compatibility. Contributed to all phases of the software development lifecycle.
+SKILLS
+Linux command line; database design; HTML/CSS; technical documentation; HTTP; Docker; REST APIs; Travis CI; GitLab; IntelliJ IDEA; Azure; Python; Bash scripting
+EDUCATION
+Bachelor of Science | Computer Science | Howard University
+1995-09 to 1999-06
+PROJECTS
+District Data Hub
+Developed a centralized data management system to integrate student records from multiple sources, using REST APIs and Azure services. Improved data accuracy and accessibility for staff across 200 schools. Technologies used: Docker, HTML/CSS.
+Automated Deployment Pipeline
+Designed and implemented a CI/CD pipeline using Travis CI and GitLab, automating testing and deployment processes. Reduced release cycle from weeks to days and increased deployment frequency by 60%. Technologies used: Linux command line, Docker.
+CERTIFICATIONS
+AWS Certified Cloud Practitioner
+Issued by Amazon Web Services.
+2020-01
+Microsoft Certified: Azure Fundamentals
+Issued by Microsoft.
+2019-01

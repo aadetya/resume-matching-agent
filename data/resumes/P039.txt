@@ -1,0 +1,27 @@
+Candidate P039
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Claims Adjuster | Hogan & Sons Insurance | 2015-06 to 2019-11
+Managed complex claims portfolios, ensuring accurate and timely settlements. Coordinated with multiple stakeholders to streamline processes, reducing claim cycle time by 20%.
+Claims Team Lead | Hogan & Sons Insurance | 2019-12 to 2021-06
+Led a team of adjusters, driving operational excellence and mentoring new hires. Instrumental in automating reporting, which sparked a deep interest in technology and data systems.
+Junior Backend Engineer (Contract) | Local Startup Accelerator | 2022-01 to 2022-03
+Built a GraphQL API for a prototype app, implementing serverless functions on Azure and integrating with MySQL. Ensured backward compatibility and wrote integration tests.
+Backend Engineer | Heritage Financial Services | 2022-04 to Present
+Developing scalable microservices for financial transactions, leveraging Kafka for message queues and ensuring robust observability. Pioneering CI/CD pipeline design and distributed transaction handling.
+SKILLS
+Distributed transactions; Integration testing; Data serialization; GraphQL; CI/CD pipeline design; Serverless computing; Observability; Microservices architecture; Backward compatibility; Message queues; Azure; Kafka; Node.js; Git; Java; MySQL; Agile Methodologies; REST APIs
+EDUCATION
+Bachelor of Science | Business Administration | University of Arkansas
+2011-09 to 2015-06
+Master of Science | Computer Science | University of Arkansas
+2020-09 to 2022-06
+PROJECTS
+Claims Data Migration Tool
+Developed a Python script to migrate legacy claims data to a new SQL database, ensuring data integrity and reducing manual errors. Technologies used: ETL.
+Serverless Notification Service
+Designed a serverless notification service using Azure Functions and Kafka, delivering real-time updates to clients and improving system responsiveness. Technologies used: Node.js.
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Issued by Amazon Web Services.
+2023-01

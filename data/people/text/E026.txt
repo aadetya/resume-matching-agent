@@ -1,0 +1,21 @@
+Candidate E026
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+HR Operations Intern | Lone Star Energy Cooperative | 2024-06 to 2024-08
+Supported HR operations for 300+ employees. Reduced ticket resolution time by 18% by implementing a triage system in Zendesk. Generated monthly turnover reports analyzing 12 months of data.
+Research Assistant | University of Texas at Arlington | 2023-09 to 2024-05
+Conducted statistical analysis for a study on student retention. Cleaned and analyzed 10,000+ records using SQL and Excel. Presented findings at a departmental symposium.
+Student Office Assistant | UTA Career Center | 2022-08 to 2023-08
+Managed front-desk operations and processed student employment paperwork. Updated tracking spreadsheets for 200+ student hires. Improved data entry accuracy by 25%.
+SKILLS
+HR metrics reporting; Statistical analysis; Offboarding coordination; Turnover analysis; Excel advanced functions; Salary analysis; SOP documentation; Headcount planning; HR audit; HR ticket management; Power BI; Zendesk; Jira; SQL; Google Sheets; Data visualization; Process improvement
+EDUCATION
+Bachelor of Science | Business Analytics | University of Texas at Arlington
+2021-09 to 2025-06
+Master of Science | Human Resource Management | University of Texas at Arlington
+2025-09 to date unavailable
+PROJECTS
+Turnover Analysis Dashboard
+Built a Power BI dashboard tracking monthly headcount and turnover by department. Used to identify retention trends and support HR planning. Technologies used: SQL, Excel.
+Onboarding Process Audit
+Mapped current onboarding process and identified bottlenecks. Proposed streamlined steps, reducing average time-to-productivity by 3 days. Technologies used: Visio, Excel.

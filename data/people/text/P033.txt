@@ -1,0 +1,24 @@
+Candidate P033
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+DevOps Team Lead | Sentinel Logistics Solutions | 2016-03 to 2019-11
+Led a team of three in managing Kubernetes clusters and CI/CD pipelines for logistics tracking systems. Implemented service mesh to improve microservices communication and reduce latency.
+Senior DevOps Engineer | Atlantic Freight Systems | 2013-05 to 2016-02
+Designed and implemented immutable infrastructure for containerized applications. Automated build and deployment processes, reducing release times by 40%.
+DevOps Engineer | Harbor IT Services | 2011-06 to 2013-04
+Managed on-premises infrastructure and began transitioning to cloud. Implemented monitoring with Prometheus and Grafana for client systems.
+SKILLS
+Kubernetes cluster administration; CI/CD pipeline design; Immutable infrastructure; Build automation; Service mesh implementation; Security hardening and compliance; Prometheus; Grafana; Datadog; Splunk
+EDUCATION
+Associate of Applied Science | Computer Information Systems | Tidewater Community College
+2008-09 to 2011-06
+PROJECTS
+Container Platform Migration
+Led migration of legacy applications to Kubernetes, achieving zero-downtime deployment and improving resource utilization by 30%. Technologies used: Docker, Terraform.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2018-01
+CKA: Certified Kubernetes Administrator
+Issued by Cloud Native Computing Foundation.
+2019-01

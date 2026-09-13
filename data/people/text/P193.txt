@@ -1,0 +1,32 @@
+Candidate P193
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Fintech Engineer | Northstar Trading Systems | 2018-03 to Present
+Leading development of investment management systems for a venture-backed scaleup. Focus on secure data handling and integration of market data feeds. Managing a team of 6 engineers.
+Senior Software Engineer | Highbridge Capital | 2013-01 to 2018-02
+Built and maintained risk management and settlement systems. Implemented Kafka for real-time data streaming. Some blockchain prototyping.
+Software Engineer | Highbridge Capital | 2008-06 to 2012-12
+Developed software for securities settlement and payment gateway integration. Gained expertise in AML and encryption.
+Software Developer | Genesee Regional Bank | 2003-02 to 2008-05
+Worked on core banking systems. Introduced Python scripts for data analysis. Started using Go for microservices.
+Junior Developer | Pinnacle Solutions | 2001-07 to 2003-01
+First job out of school. Did web development and database work. Learned a lot.
+SKILLS
+securities settlement; data encryption; blockchain consensus mechanisms; distributed ledger technology; Anti-Money Laundering (AML); payment gateway integration; market data feeds; risk management systems; Go; Kafka; Python; Solidity; Kubernetes; AWS; SQL; React
+EDUCATION
+Associate of Science | Computer Science | Monroe Community College
+1997-09 to 1999-06
+Bachelor of Science | Computer Science | SUNY Buffalo State
+1999-09 to 2001-06
+PROJECTS
+Blockchain Settlement Prototype
+Developed a proof-of-concept for using blockchain to reduce settlement times. Implemented Solidity smart contracts and integrated with Kafka. Technologies used: Go.
+AML Monitoring System
+Built a real-time transaction monitoring system using Python and Kafka. Improved detection rates by 20%. Technologies used: AML.
+CERTIFICATIONS
+Certified Information Systems Security Professional (CISSP)
+Issued by ISC2.
+2016-01
+Certified Financial Risk Manager (FRM)
+Issued by GARP.
+2019-01

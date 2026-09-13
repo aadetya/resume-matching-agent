@@ -1,0 +1,36 @@
+Candidate P088
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Streaming Data Engineer | Veteran Health Administration | 2022-03 to Present
+Lead streaming data pipeline for patient vitals monitoring, handling 1M+ events/sec with Kafka and Flink. Implemented CDC using Debezium for EHR integration, reduced data latency from 15 min to under 1 sec. Mentor junior engineers on fault tolerance and consumer group management.
+Independent Streaming Data Consultant | Self-employed | 2020-01 to 2022-02
+Contract engagements with healthcare startups, building real-time analytics dashboards with Kafka Streams and Grafana. Delivered streaming ETL solutions for wearable device data, including schema management and windowing/watermarking for anomaly detection.
+Data Engineer (Contract) | Blue Cross of Idaho | 2019-03 to 2019-12
+Designed and maintained streaming data ingestion from claims processing systems using Apache Kafka. Applied CDC for real-time updates to data warehouse, improving downstream reporting accuracy. Collaborated with analysts to define streaming SQL queries.
+Big Data Engineer (Contract) | Intermountain Health | 2018-01 to 2019-02
+Built fault-tolerant streaming pipelines for medical device data using Flink and Kafka. Implemented windowing and watermarking to handle late-arriving data. Managed consumer groups to balance load and ensure zero data loss.
+Data Systems Engineer (Contract) | Idaho National Laboratory | 2017-01 to 2017-12
+Supported streaming data infrastructure for sensor networks. Managed Kafka cluster, fine-tuned consumer groups, and developed monitoring dashboards with Grafana. Ensured data integrity during network outages.
+Telemetry Specialist (Navy) | United States Navy | 2009-01 to 2016-12
+Ran telemetry systems on naval aircraft, collecting and processing real-time sensor data. Transitioned to civilian sector after 8 years, leveraging skills in real-time data processing and fault tolerance. Obtained Secret clearance during service.
+Retail Associate | Home Depot | 2008-01 to 2008-12
+Customer service and inventory management while deciding on career path. Learned attention to detail and operational efficiency.
+SKILLS
+Streaming ETL; Fault tolerance in streaming; Streaming SQL; Windowing and watermarking; Schema management; Change data capture (CDC); Consumer group management; Apache Kafka; Apache Flink; Real-time data processing; Debezium; Grafana; Kafka Streams; Confluent Platform
+EDUCATION
+Nuclear Engineering | Naval Nuclear Power Training Command
+2008-09 to 2009-06
+Bachelor of Science | Computer Information Systems | Boise State University
+2014-09 to 2017-06
+PROJECTS
+Real-time Patient Monitoring Pipeline
+Designed and implemented a streaming pipeline for continuous patient vitals from ICU monitors using Kafka and Flink, with Grafana dashboards for alerting and windowed aggregations for trends. Technologies used: Apache Kafka, Apache Flink, Debezium.
+CDC for Electronic Health Records
+Built a CDC system using Debezium to capture changes from a legacy SQL Server database into Kafka, enabling real-time synchronization of patient records across systems. Technologies used: Apache Kafka, Kafka Streams.
+CERTIFICATIONS
+Confluent Certified Developer for Apache Kafka
+Issued by Confluent.
+2020-01
+Google Cloud Professional Data Engineer
+Issued by Google.
+2021-01

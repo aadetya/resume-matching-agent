@@ -1,0 +1,25 @@
+Candidate P149
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Mobile Hair Stylist / Salon Owner | Belle and Blade Mobile Salon | 2013-03 to 2022-08
+Managed a mobile hair salon serving clients across the Ark-La-Tex, handling scheduling, bookkeeping, and client retention. Used POS systems and booking software daily; maintained a customer base of 80+ regulars.
+Stylist / Assistant Manager | Trendsetters Salon | 2011-01 to 2013-02
+Provided hair services and helped manage daily operations, including inventory and staff scheduling. Trained new stylists in color techniques and customer service.
+Freelance Frontend Developer (Contract) | Self-employed | 2022-10 to 2023-02
+Developed a mobile-friendly portfolio site for a local photographer using Vue.js and Tailwind CSS; integrated a REST API for a contact form. Ensured WCAG compliance and cross-browser compatibility.
+Salon Manager | Uptown Cuts | 2009-05 to 2010-12
+Oversaw daily salon operations, including staff supervision, inventory ordering, and customer service. Implemented a booking system that increased appointment efficiency by 20%.
+Assistant Stylist | Curl Up & Dye Salon | 2007-06 to 2009-04
+Assisted senior stylists with color application, shampooing, and salon upkeep. Developed strong client-facing skills and attention to detail.
+SKILLS
+Vue.js; REST APIs; Next.js; Cross-Browser Compatibility; Web Accessibility (WCAG); Testing (Jest, React Testing Library, Cypress); CI/CD; Progressive Web Apps (PWA); CSS3; Web Performance Optimization; Server-Side Rendering (SSR); Webpack; Storybook; Figma; ESLint; Jest; Cypress
+EDUCATION
+Bachelor of Science | General Studies | Louisiana State University Shreveport
+2003-09 to 2007-06
+PROJECTS
+Photographer Portfolio
+Built a responsive portfolio site with Vue.js, integrating a REST API for contact form submissions. Focused on WCAG accessibility and cross-browser compatibility. Technologies used: REST APIs, CSS3, Web Accessibility (WCAG).
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta via Coursera.
+2023-01

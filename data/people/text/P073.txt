@@ -1,0 +1,9 @@
+Candidate P073
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+IT Support Intern | A small startup | 2024-06 to Present
+SKILLS
+Artifact repository management; Secrets management; Incident response and management; Infrastructure as Code (IaC); Backup and restore procedures; Container orchestration; Version control strategies; Serverless and event-driven architecture; Monitoring and alerting; CI/CD pipeline design; Log management and analysis; Terraform; Kubernetes; ArgoCD; GitLab CI; Datadog; Prometheus; ELK Stack
+EDUCATION
+Associate of Applied Science | Information Technology | Rock Valley College
+2022-09 to 2025-06

@@ -1,0 +1,30 @@
+Candidate R009
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Full Stack Developer | Ventura Web Solutions (franchise) | 2019-03 to Present
+Lead dev for CMS platforms; handle full stack from UI to cache. Heavy use of Vue, Express, Redis, Docker for containerized deployments.
+Full Stack Developer | Agile Digital Works | 2015-06 to 2019-02
+Built and maintained CMS solutions; optimized web performance; used Angular and Vue; integrated Redis caching.
+Web Developer | Ventura Web Solutions (franchise) | 2013-01 to 2015-05
+Earlier stint; developed front-end features and some server-side scripts. Introduced Docker for dev environment consistency.
+Web Developer | Navy Cyber Systems (military) | 2012-01 to 2012-12
+Developed internal tools for CMS; used HTML5, JavaScript (ES6). Trained in agile development and version control.
+Junior Web Developer | Harbor IT Services | 2010-06 to 2011-12
+Assisted in front-end builds and API testing with Postman. Gained experience with Git and Jira.
+SKILLS
+Vue.js; Angular; JavaScript (ES6+); HTML5; Express.js; Redis; Docker; Web performance optimization; Postman; Git; Jira; GitHub/GitLab/Bitbucket
+EDUCATION
+Certificate of Completion | Web Development | Naval School of Computer Technology
+2010-09 to 2011-06
+PROJECTS
+CMS Acceleration Suite
+Developed a caching layer using Redis and Vue components to reduce load times by 40% for CMS sites. Technologies used: Vue.js, Docker.
+API Testing Framework
+Built a suite of automated API tests using Postman and integrated with CI/CD via GitHub Actions. Technologies used: Express.js.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2018-01
+Certified Kubernetes Application Developer (CKAD)
+Issued by Cloud Native Computing Foundation.
+2020-01

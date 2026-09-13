@@ -1,0 +1,21 @@
+Candidate P129
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Technical Support Specialist | Simi Valley Unified School District | 2023-06 to 2023-08
+Provided technical support to students and staff, troubleshooting hardware and software issues, and assisted with the deployment of mobile devices across the district. Learned to communicate effectively with non-technical users and manage multiple priorities in a fast-paced environment.
+Front Desk Associate | Holiday Inn Express Simi Valley | 2023-01 to 2023-05
+Managed guest check-ins and reservations, handled customer inquiries, and coordinated with housekeeping to ensure smooth operations. Developed strong interpersonal skills and attention to detail while working in a customer-facing role.
+SKILLS
+WebSockets; TurboModules; App lifecycle; JSI; Biometric authentication; Push notifications; GraphQL; Native Modules; SQLite; Crashlytics; JavaScript; React; Redux; TypeScript
+EDUCATION
+Bachelor of Science | Computer Science | Pepperdine University
+2020-09 to 2024-06
+PROJECTS
+Travel Companion App
+Developed a cross-platform mobile app for travel itinerary planning using React Native. Integrated push notifications, biometric authentication, and offline storage with SQLite. Utilized GraphQL to fetch real-time data from a REST API. Technologies used: WebSockets.
+Real-time Chat Feature
+Implemented a real-time chat feature for a social app using WebSockets and native modules. Ensured smooth communication with native code via TurboModules and JSI, and used Flipper for debugging. Technologies used: React Native.
+CERTIFICATIONS
+Meta React Native Certification
+Issued by Meta.
+2024-01

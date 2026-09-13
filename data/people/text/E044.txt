@@ -1,0 +1,34 @@
+Candidate E044
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Contract Backend Engineer | University of Washington | 2024-01 to Present
+Designing and implementing distributed backend services for research data management, focusing on reliability and scalability.
+Senior Backend Engineer (Contract) | Northwest Financial Systems | 2022-03 to 2023-12
+Built high-throughput transaction processing systems using Go and Kafka, ensuring backward compatibility and robust error handling.
+Backend Engineer (Contract) | Seattle Payment Solutions | 2020-08 to 2022-02
+Developed payment processing APIs with Node.js and TypeScript, implementing rate limiting and caching strategies.
+Backend Engineer (Contract) | DataWorks Analytics | 2019-05 to 2020-07
+Implemented message queue systems with RabbitMQ and integrated WebSocket connections for real-time data streaming.
+Junior Backend Engineer (Contract) | Pacific Tech Solutions | 2018-01 to 2019-04
+Supported backend services, writing unit tests and debugging issues.
+Software Engineer (Contract) | Freelance | 2016-10 to 2017-12
+Various short-term projects for local businesses, including a small inventory system and a booking tool.
+Technical Support Specialist | Evergreen College | 2015-06 to 2016-09
+Provided IT support and maintained student database systems.
+SKILLS
+Go; TypeScript; Node.js; Java; gRPC; WebSocket; Message queues; Kafka; RabbitMQ; Caching strategies; Rate limiting; Logging; Observability; Integration testing; Unit testing; Backward compatibility; Authentication and authorization; Temporal
+EDUCATION
+Bachelor of Arts | Computer Science | Whitman College
+2011-09 to 2015-06
+PROJECTS
+Real-time Notification Service
+Built a real-time notification system using WebSocket and Kafka, handling millions of events per day. Technologies used: Go.
+Payment API Rate Limiting
+Designed a rate limiting layer for a payment API using Redis and Go, reducing abuse and ensuring fair usage.
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Issued by Amazon Web Services.
+2021-01
+Certified Kubernetes Application Developer (CKAD)
+Issued by Cloud Native Computing Foundation.
+2019-01

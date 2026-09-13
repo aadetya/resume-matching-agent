@@ -1,0 +1,32 @@
+Candidate E028
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal DevOps Engineer | Lone Star Energy Cooperative | 2018-03 to Present
+Lead observability and reliability for grid management systems; architected Prometheus-based monitoring and alerting, automated CI/CD with Jenkins and ArgoCD, and drove chaos engineering practices.
+Lead DevOps Engineer | Gulf Coast Energy Solutions | 2013-11 to 2018-02
+Managed a team of DevOps engineers, overseeing release management, disaster recovery plans, and compliance for critical infrastructure. Implemented blue/green and canary deployment strategies.
+Senior DevOps Engineer | Texas Grid Solutions | 2008-06 to 2013-10
+Designed and maintained CI/CD pipelines, artifact repositories, and monitoring systems. Focused on performance tuning and incident response for energy trading platforms.
+DevOps Engineer | Hill Country Electric Cooperative | 2005-07 to 2008-05
+Implemented build automation and monitoring tools for grid operations. Assisted in disaster recovery planning and log management.
+Systems Administrator | Central Texas Energy Services | 2000-03 to 2005-06
+Managed on-premises servers and networks, focusing on security hardening and compliance. Supported early monitoring and alerting setups.
+IT Support Specialist | Laredo Community College | 1999-01 to 2000-02
+Provided helpdesk support and maintained computer labs. Gained initial exposure to network administration.
+SKILLS
+CI/CD pipeline design; Monitoring and alerting; Release management and rollback strategies; Incident response and management; Security hardening and compliance; Disaster recovery planning; Artifact repository management; Log management and analysis; Performance tuning; Chaos engineering; Blue/green and canary deployments; Build automation; Kubernetes; Docker; Terraform; Python scripting
+EDUCATION
+Bachelor of Science | Computer Science | Southwestern University
+1995-09 to 1999-06
+PROJECTS
+Grid Observability Platform
+Designed and deployed a Prometheus-based monitoring stack for real-time grid health, integrating alerting and log aggregation. Technologies used: Grafana, ELK, Kubernetes.
+Automated Deployment Pipeline
+Built a CI/CD pipeline with Jenkins and ArgoCD to enable blue/green deployments and canary releases, reducing rollout failures by 40%. Technologies used: Docker, Kubernetes.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2021-01
+CKA: Certified Kubernetes Administrator
+Issued by Cloud Native Computing Foundation.
+2022-01

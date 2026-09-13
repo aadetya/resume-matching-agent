@@ -1,0 +1,54 @@
+[project]
+name = "resume-matching-agent"
+version = "1.0.0"
+description = "A persistent LangGraph screening assistant with source-linked decisions"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+  "langgraph==1.2.11",
+  "langgraph-checkpoint-sqlite==3.1.1",
+  "langchain-core==1.6.2",
+  "gradio==6.26.0",
+  "openai>=2,<3",
+  "pydantic==2.13.5",
+  "filelock==3.32.6",
+  "sentence-transformers==5.7.0",
+  "spacy==3.8.16",
+  "numpy>=2,<3",
+  "rank-bm25==0.2.2",
+  "python-docx==1.2.0",
+  "pypdf>=6,<7",
+  "pymupdf==1.28.2",
+  "charset-normalizer>=3,<4",
+  "pyyaml>=6,<7",
+  "python-dateutil>=2.9,<3",
+  "reportlab>=4,<5",
+  "pandas>=2,<4",
+  "en-core-web-sm",
+  "pyarrow==23.0.1",
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "pytest-cov>=6,<8", "ruff>=0.15,<1"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/screening_agent"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+markers = ["model: loads local neural models", "live: requires an explicitly configured API key"]
+
+[tool.uv.sources]
+en-core-web-sm = { url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl" }

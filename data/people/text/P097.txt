@@ -1,0 +1,34 @@
+Candidate P097
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Full Stack Developer | Mountain Crest Health Systems | 2022-08 to Present
+Lead development of patient portal and EHR integrations. Optimize performance and accessibility.
+Full Stack Developer | Utah Valley Medical Group | 2020-03 to 2022-07
+Built telemedicine features. Maintained legacy systems.
+Full Stack Developer | Nexus HealthTech Solutions | 2019-01 to 2020-02
+Developed analytics dashboards. Integrated third-party APIs.
+Lead Full Stack Developer | Digital Health Partners | 2017-06 to 2018-12
+Led team of 5. Drove architecture decisions.
+Full Stack Developer | Innovative Health Systems | 2015-02 to 2017-05
+Developed patient scheduling and billing modules.
+Junior Full Stack Developer | HealthTech Innovations | 2013-08 to 2015-01
+Built REST APIs. Implemented responsive UIs.
+Freelance Web Developer | Self-employed | 2012-06 to 2013-07
+Built websites for local businesses.
+SKILLS
+Kubernetes; MySQL; Responsive design; State management (Redux, Zustand); Express.js; Accessibility (a11y); Angular; Web performance optimization; Docker; GraphQL; SQL; Unit testing (Jest, Mocha); Heroku; Azure; Swagger/OpenAPI; CI/CD; REST APIs
+EDUCATION
+Bachelor of Science | Computer Science | Arizona State University
+2008-09 to 2012-06
+PROJECTS
+Patient Portal Revamp
+Redesigned patient portal for accessibility, improving Lighthouse scores 40-90. Technologies used: Angular, Kubernetes, Docker, GraphQL.
+EHR Data Migration
+Led migration of legacy EHR data to MySQL on Azure, with zero downtime. Technologies used: Docker.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2019-01
+Microsoft Certified: Azure Developer Associate
+Issued by Microsoft.
+2021-01

@@ -1,0 +1,26 @@
+Candidate E032
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Big Data Engineer | Midwest Manufacturing Solutions | 2018-03 to Present
+Currently leading the design and implementation of a cloud-native data lake on AWS, leveraging BigQuery and Airflow for real-time ingestion and transformation. My focus is on ensuring data quality and performance at scale, mentoring junior engineers, and driving the adoption of best practices across the data platform.
+Big Data Engineer | Midwest Manufacturing Solutions | 2015-02 to 2018-02
+Moved from the operations research team to the data engineering group, where I built ETL pipelines and introduced NiFi for data ingestion. I was responsible for migrating on-premise data warehouses to a Hadoop-based data lake, which improved processing times by 40%.
+Operations Research Analyst | Midwest Manufacturing Solutions | 2010-01 to 2015-01
+Initially worked on production scheduling and supply chain optimization using statistical modeling. I began automating data collection and reporting with Python and SQL, which eventually led me to the data engineering world and sparked my passion for building scalable data solutions.
+SKILLS
+ETL pipelines; Google BigQuery; Apache Airflow; Apache NiFi; Data lake architecture; Data validation; Performance tuning; Data quality monitoring; Data ingestion; Apache Cassandra; Apache Flink; Apache HBase; Amazon S3; dbt; Apache Hive; Databricks; Python; SQL
+EDUCATION
+PhD | Industrial Engineering | Iowa State University
+2005-09 to 2010-06
+PROJECTS
+Real-time Quality Monitoring
+Designed and deployed a stream processing pipeline using Flink and Kafka to monitor sensor data from manufacturing lines, reducing defect detection time from minutes to seconds. Technologies used: Apache Flink, Apache Kafka, Amazon S3.
+Data Lake Migration
+Led the migration of legacy data warehouses to a data lake on AWS S3, using Hive for batch processing and implementing a medallion architecture with dbt for transformations. Technologies used: Amazon S3, Apache Hive, Databricks.
+CERTIFICATIONS
+Google Professional Data Engineer
+Issued by Google.
+2019-01
+Databricks Certified Associate Developer for Apache Spark
+Issued by Databricks.
+2021-01

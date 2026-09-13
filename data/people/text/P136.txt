@@ -1,0 +1,23 @@
+Candidate P136
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Node.js Developer | First Community Credit Union | 2022-06 to Present
+Building microservices for a member-facing banking platform. Focus on API design, GraphQL, and optimizing database queries.
+Junior Node.js Developer | First Community Credit Union | 2021-01 to 2022-05
+Supported senior developers in building APIs and debugging memory leaks. Maintained existing Node.js services.
+IT Support Technician | Ghana Telecommunications | 2018-08 to 2019-12
+Provided technical support for internal systems and assisted with network troubleshooting. Gained foundational IT skills.
+SKILLS
+Memory leak detection; Event-driven programming; TypeScript; GraphQL; JavaScript; Microservices architecture; Node.js; PostgreSQL; Prisma; Mocha; Jest; Yarn; Docker; Redis; RabbitMQ
+EDUCATION
+Bachelor of Science | Computer Science | University of Ghana
+2014-09 to 2018-06
+PROJECTS
+Real-time Notification Service
+Designed a microservice using Node.js and to push real-time notifications to members, handling thousands of concurrent connections. Technologies used: Redis, TypeScript.
+GraphQL API Gateway
+Implemented a GraphQL gateway in Node.js that aggregates data from multiple microservices, improving data fetching efficiency by 40%. Technologies used: Apollo Server, Prisma.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2023-01

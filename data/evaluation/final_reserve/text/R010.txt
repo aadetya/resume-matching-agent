@@ -1,0 +1,9 @@
+Candidate R010
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Big Data Engineer | Silver State Financial | 2017-03 to Present
+SKILLS
+Snowflake; Apache Hive; Apache Hudi; Apache Cassandra
+EDUCATION
+PhD | Computer Science | University of Nevada, Las Vegas
+2010-09 to 2016-06

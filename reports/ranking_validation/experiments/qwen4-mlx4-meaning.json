@@ -1,0 +1,206 @@
+{
+  "load_seconds": 0.8572924169711769,
+  "revision": "22e683669bc0f0bd69640a1354a6d0aebcfeede5",
+  "quantization": {
+    "bits": 4,
+    "group_size": 64
+  },
+  "rows": [
+    {
+      "id": "MEANING_001",
+      "scores": [
+        3.0703125,
+        -5.0703125
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_002",
+      "scores": [
+        3.6328125,
+        -0.6875
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_003",
+      "scores": [
+        4.4921875,
+        -2.671875
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_004",
+      "scores": [
+        4.7734375,
+        -6.65625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_005",
+      "scores": [
+        4.921875,
+        -6.8515625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_006",
+      "scores": [
+        7.0234375,
+        1.984375
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_007",
+      "scores": [
+        -0.328125,
+        -6.9296875
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_008",
+      "scores": [
+        4.578125,
+        -4.8828125
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_009",
+      "scores": [
+        4.625,
+        -5.3515625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_010",
+      "scores": [
+        3.171875,
+        -5.59375
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_011",
+      "scores": [
+        3.59375,
+        -8.015625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_012",
+      "scores": [
+        5.0078125,
+        -4.8828125
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_013",
+      "scores": [
+        6.859375,
+        -1.921875
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_014",
+      "scores": [
+        4.796875,
+        -7.7421875
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_015",
+      "scores": [
+        5.515625,
+        -8.65625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_016",
+      "scores": [
+        7.1015625,
+        0.5
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_017",
+      "scores": [
+        2.96875,
+        -6.4140625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_018",
+      "scores": [
+        5.8828125,
+        -3.953125
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_019",
+      "scores": [
+        4.5625,
+        -0.0625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_020",
+      "scores": [
+        1.578125,
+        -5.9453125
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_021",
+      "scores": [
+        1.90625,
+        -7.9609375
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_022",
+      "scores": [
+        6.3359375,
+        -3.2890625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_023",
+      "scores": [
+        7.25,
+        1.703125
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_024",
+      "scores": [
+        5.984375,
+        -6.4296875
+      ],
+      "correct": true
+    }
+  ],
+  "script_sha256": "406ab747bdb4d8a2cef212da3a05427f31aab3a580ea0dea46d722b302de4d7c",
+  "seconds": 18.043019792065024,
+  "single_batch_max_difference": 0.015625,
+  "peak_memory_bytes": 3046544556
+}

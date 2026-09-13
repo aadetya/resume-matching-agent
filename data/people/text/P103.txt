@@ -1,0 +1,18 @@
+Candidate P103
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Graduate Software Engineer | CivicTech Solutions | 2024-01 to Present
+Working on data pipelines and RESTful services for public sector clients. Participating in code reviews and Scrum ceremonies.
+Software Engineer | DataWorks Consulting | 2016-03 to 2019-12
+Developed and maintained data integration solutions. Focused on PostgreSQL optimization and CI/CD pipelines.
+Junior Software Engineer | TechBridge Associates | 2013-06 to 2016-02
+Assisted in building web applications for government clients. Utilized version control and code review practices.
+SKILLS
+Continuous integration; Scrum; Algorithms; Data structures; Code review; Security best practices; Technical documentation; RESTful services; Continuous deployment; Linux/Unix; Version control; PostgreSQL; Azure; Travis CI; Visual Studio Code; MySQL; Kubernetes
+EDUCATION
+Associate of Science | Computer Science | Orange Coast College
+2011-09 to 2013-06
+CERTIFICATIONS
+Microsoft Certified: Azure Developer Associate
+Issued by Microsoft.
+2024-01

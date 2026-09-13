@@ -1,0 +1,24 @@
+Candidate P194
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Chief Technology Officer | Savannah Technical Solutions | 2016-03 to Present
+Lead all engineering and technology strategy; oversee a team of 25 engineers and manage a $10M budget. Transitioned from hands-on development to executive leadership, architecting high-performance Node.js solutions for government clients.
+Senior Node.js Developer | Savannah Technical Solutions | 2014-02 to 2016-02
+Developed and optimized RESTful APIs and microservices for government projects; implemented caching strategies and WebSockets for real-time data; mentored junior developers.
+Node.js Developer | Savannah Technical Solutions | 2012-01 to 2014-01
+Built and maintained Node.js applications; collaborated with cross-functional teams; integrated NoSQL databases and used Sequelize for data modeling.
+SKILLS
+Node.js; Performance optimization; TypeScript; NoSQL; RESTful API design; Caching strategies; Integration testing; WebSockets; Sequelize; Fastify; NestJS; Team Leadership; Strategic Planning
+EDUCATION
+Associate of Applied Science | Information Technology | Savannah Technical College
+2009-09 to 2011-06
+PROJECTS
+GovTrade Platform
+Designed and led the development of a high-throughput API gateway for inter-agency data exchange, handling 10k requests/sec with 99.99% uptime. Technologies used: Node.js, Fastify, Redis, TypeScript.
+CERTIFICATIONS
+OpenJS Node.js Application Developer (JSNAD)
+Issued by OpenJS Foundation.
+2015-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2018-01

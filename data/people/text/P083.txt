@@ -1,0 +1,28 @@
+Candidate P083
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior DevOps Engineer | Tundra Software Solutions | 2011-01 to 2017-06
+Reduced incident resolution time by 40% through automated alerting and runbooks. Implemented blue/green deployments cutting rollback time from 30 to 5 minutes. Managed Kubernetes cluster administration for a 99.95% uptime SLA.
+DevOps Engineer | Fox River Tech Services | 2008-02 to 2010-12
+Built and maintained CI/CD pipelines, reducing release cycle from 2 weeks to 2 days. Implemented infrastructure testing using Chef, increasing deployment success rate by 25%.
+Systems Administrator | Lakeview Manufacturing | 2005-06 to 2007-11
+Administered Linux servers and automated routine maintenance, saving 10 hours per week. Collaborated on disaster recovery planning and testing.
+SKILLS
+Incident response and management; Infrastructure testing; Scripting and automation; Release management and rollback strategies; Observability and distributed tracing; Disaster recovery planning; Serverless and event-driven architecture; Kubernetes cluster administration; Blue/green and canary deployments; Linux system administration; Chaos engineering; AWS; Terraform; CI/CD; Python
+EDUCATION
+Bachelor of Science | Computer Science | University of Wisconsin-Green Bay
+2003-09 to 2005-06
+Associate of Science | Information Technology | Northeast Wisconsin Technical College
+2001-09 to 2003-06
+PROJECTS
+Disaster Recovery Automation
+Developed automated failover scripts that reduced RTO from 4 hours to 30 minutes. Used infrastructure testing and chaos engineering to validate recovery procedures. Technologies used: AWS, Terraform.
+High Availability Kubernetes Cluster
+Designed and deployed a multi-node Kubernetes cluster with Prometheus monitoring, achieving 99.95% uptime for critical services. Technologies used: Docker.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2015-01
+CKA: Certified Kubernetes Administrator
+Issued by Cloud Native Computing Foundation.
+2017-01

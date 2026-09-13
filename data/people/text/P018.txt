@@ -1,0 +1,24 @@
+Candidate P018
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior Python Developer | National Freshwater Trust | 2023-06 to Present
+Leverage my robust skill set in Flask and Redis to drive engagement and streamline our internal data pipelines, deploying Celery to manage asynchronous workflows that ensure the seamless collection and dispatch of field data across our state-wide water quality monitoring program.
+Python Developer | Coastal Cloud Consulting | 2022-01 to 2023-05
+Collaborated with a dynamic team to design and implement RESTful APIs for a client in the environmental sector, accelerating their data analysis capabilities and enhancing stakeholder satisfaction through my expertise in unit testing and code reviews.
+Field Technician | South Atlantic Plumbing Union | 2019-03 to 2021-12
+Honed my troubleshooting and problem-solving skills in a field-based environment, coordinating logistics and ensuring the successful completion of projects while developing a strong foundation for my transition into the tech industry.
+SKILLS
+Flask; Asynchronous programming; RESTful APIs; Redis; Debugging; Celery; Unit testing; PostgreSQL; Version control; Code review; SQLAlchemy; Docker
+EDUCATION
+Associate of Science | Computer Science | Brevard Community College
+2020-09 to 2022-06
+PROJECTS
+Data Pipeline for Water Quality Monitoring
+Built a distributed data pipeline using Celery and Redis to ingest and process water quality data from sensors, improving throughput and reliability. Containerized with Docker for consistent deployment. Technologies used: Python, PostgreSQL, Flask.
+CERTIFICATIONS
+PCAP – Certified Associate in Python Programming
+Issued by Python Institute.
+2023-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

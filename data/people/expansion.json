@@ -1,0 +1,2022 @@
+{
+  "schema_version": 1,
+  "selection_seed": "people-expansion-v1-20260911",
+  "source_sha256": "dd2d3b70642260b046f33034f3c19b608be5b72ad582005408d5256526490b42",
+  "protocol": "Append 100 distinct source profiles. Reserve 20 sampling places for Python and React co-mentions; distribute 80 across broader occupational strata. Balance source titles, career cohorts and seniority within each stratum with seeded tie breaks. Do not use runtime retrieval, scoring, extraction or evaluation judgments.",
+  "coverage_interpretation": "Source-field mentions describe sample coverage; they do not establish qualification or personal skill ownership.",
+  "quotas": {
+    "python_react": 20,
+    "software": 20,
+    "full_stack": 20,
+    "backend": 10,
+    "frontend": 10,
+    "data": 8,
+    "devops": 7,
+    "ml": 5
+  },
+  "eligible_source_roles": {
+    "software": [
+      "graduate software engineer",
+      "junior software engineer",
+      "software engineering intern",
+      "tooling engineer",
+      "fintech engineer",
+      "payments engineer"
+    ],
+    "full_stack": [
+      "full stack developer",
+      "web developer",
+      "e-commerce engineer",
+      "typescript developer",
+      "node js developer"
+    ],
+    "backend": [
+      "backend engineer",
+      "python developer",
+      "api engineer"
+    ],
+    "frontend": [
+      "frontend engineer",
+      "react developer",
+      "react native developer"
+    ],
+    "data": [
+      "data engineer",
+      "big data engineer",
+      "streaming data engineer"
+    ],
+    "devops": [
+      "devops engineer",
+      "site reliability engineer",
+      "mlops engineer"
+    ],
+    "ml": [
+      "machine learning engineer"
+    ]
+  },
+  "pool_sizes": {
+    "software": 1861,
+    "backend": 930,
+    "full_stack": 1550,
+    "devops": 930,
+    "frontend": 930,
+    "ml": 310,
+    "data": 929
+  },
+  "exclusions": {},
+  "before": {
+    "profiles": 100,
+    "python": 38,
+    "react": 23,
+    "python_and_react": 0,
+    "python_react_sql": 0,
+    "react_typescript": 13,
+    "python_sql": 19,
+    "docker_kubernetes": 18
+  },
+  "added": {
+    "profiles": 100,
+    "python": 51,
+    "react": 42,
+    "python_and_react": 22,
+    "python_react_sql": 11,
+    "react_typescript": 15,
+    "python_sql": 23,
+    "docker_kubernetes": 18
+  },
+  "after": {
+    "profiles": 200,
+    "python": 89,
+    "react": 65,
+    "python_and_react": 22,
+    "python_react_sql": 11,
+    "react_typescript": 28,
+    "python_sql": 42,
+    "docker_kubernetes": 36
+  },
+  "added_families": {
+    "full_stack": 26,
+    "frontend": 12,
+    "software": 29,
+    "devops": 7,
+    "data": 8,
+    "ml": 5,
+    "backend": 13
+  },
+  "added_cohorts": {
+    "student_intern": 10,
+    "standard": 11,
+    "return_to_work": 4,
+    "military_transition": 8,
+    "visa_constrained": 6,
+    "entry_level": 7,
+    "senior_specialist": 8,
+    "sparse_profile": 7,
+    "over_qualified": 10,
+    "manager_lead": 11,
+    "career_changer": 9,
+    "gig_contract": 4,
+    "bootcamp_self_taught": 5
+  },
+  "added_seniority": {
+    "intern": 10,
+    "senior": 17,
+    "mid": 15,
+    "junior": 11,
+    "entry": 14,
+    "staff": 10,
+    "director": 5,
+    "principal": 9,
+    "manager": 7,
+    "executive": 2
+  },
+  "original_active_records_sha256": "bccbc01b810ca6f8e2819900fbd5360f5406ff5c15ca00ad356b5f71e224ee0b",
+  "original_manifest": {
+    "schema_version": 2,
+    "dataset_id": "akzaidan/People",
+    "dataset_split": "active",
+    "snapshot_date": "2026-09-01",
+    "source_sha256": "dd2d3b70642260b046f33034f3c19b608be5b72ad582005408d5256526490b42",
+    "candidate_count": 100,
+    "formats": {
+      "pdf": 50,
+      "docx": 30,
+      "txt": 20
+    },
+    "files": [
+      {
+        "candidate_id": "P001",
+        "source_id": "syn_senior_specialist_0008860",
+        "display_name": "Candidate P001",
+        "path": "data/resumes/P001.pdf",
+        "sha256": "5b4e1d656531ec151475361048527820b984b8bc2e528a6bed030bbcc8518a68",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "b469789e8e529a90960c74c6949d90042ad1450a33b0326e1a27a38527c01e5d"
+      },
+      {
+        "candidate_id": "P002",
+        "source_id": "syn2_student_intern_0112549",
+        "display_name": "Candidate P002",
+        "path": "data/resumes/P002.pdf",
+        "sha256": "bb07f46cc4ed16a07762d3c8700067ce5da68a1dd937cc953b6e0cf2e0b9281f",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "291f3f9fb7161da6ed881d96889792306fb95341fdcf56da0393532a110c1d5b"
+      },
+      {
+        "candidate_id": "P003",
+        "source_id": "syn_over_qualified_0025579",
+        "display_name": "Candidate P003",
+        "path": "data/resumes/P003.pdf",
+        "sha256": "0cea94bd8f932b300b56ba10af9df9988aee318c7f487df68de1f9d9fbc71886",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "e1ec26ff98cc4847c8ed685bcafb8f3850923561d7d37ef8daa89c5ac2361554"
+      },
+      {
+        "candidate_id": "P004",
+        "source_id": "syn2_career_changer_0147078",
+        "display_name": "Candidate P004",
+        "path": "data/resumes/P004.pdf",
+        "sha256": "9965e1030a80456644df5c71c691eb9e77e6e1f43ddcffe6db57a6eca8781351",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "28d4cc2a07d845b0ae25b0315e526f3ac6e16bcee60311cce952881df7507b04"
+      },
+      {
+        "candidate_id": "P005",
+        "source_id": "syn2_entry_level_0125151",
+        "display_name": "Candidate P005",
+        "path": "data/resumes/P005.pdf",
+        "sha256": "951f7a81c8c569326fe72b78077037fcc933af66a4e526f9504d346b06bf3681",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "2a2a777ed7af16c3a9b1f7b5efb554043375a5df4976bbb2c82f12569e3197a5"
+      },
+      {
+        "candidate_id": "P006",
+        "source_id": "syn2_return_to_work_0143739",
+        "display_name": "Candidate P006",
+        "path": "data/resumes/P006.docx",
+        "sha256": "58c6d73de658f9d9701b1df7408c4f18ab807bd2cf73f5d909979fea3fd52fd6",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "05b07a9e59705e1330a95e307b2a728bbf6895835f9e7f21fa53157ee5b0af60"
+      },
+      {
+        "candidate_id": "P007",
+        "source_id": "syn_standard_0057866",
+        "display_name": "Candidate P007",
+        "path": "data/resumes/P007.docx",
+        "sha256": "f2a60910666b8c17111587855930224e51d6d81b063aa2248dbd2ebb008a0024",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "dda3c19b6440e4ec83dfe12935b2afa76c1c15c8d4e8a008fc835f3cf2ebab49"
+      },
+      {
+        "candidate_id": "P008",
+        "source_id": "syn2_standard_0047506",
+        "display_name": "Candidate P008",
+        "path": "data/resumes/P008.docx",
+        "sha256": "4d13bb19494b496ca5aad786327b77334b91398bb8e6e3c574701b7b2cacfb77",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "7ab43ad93c23e61b3b207682e641a1b61574275f422df8fea2c85b12cc12dce4"
+      },
+      {
+        "candidate_id": "P009",
+        "source_id": "syn_entry_level_0021743",
+        "display_name": "Candidate P009",
+        "path": "data/resumes/P009.txt",
+        "sha256": "ca68be5d55d150e5914f592da80452a6f6d0b7994cc3382014c868bd047d3646",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "ca68be5d55d150e5914f592da80452a6f6d0b7994cc3382014c868bd047d3646"
+      },
+      {
+        "candidate_id": "P010",
+        "source_id": "syn2_manager_lead_0095559",
+        "display_name": "Candidate P010",
+        "path": "data/resumes/P010.txt",
+        "sha256": "fdd9e6b3d1db152031fb3dde513a8bc97cc60b0ecc1a81b7efc7066df184b1c7",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "fdd9e6b3d1db152031fb3dde513a8bc97cc60b0ecc1a81b7efc7066df184b1c7"
+      },
+      {
+        "candidate_id": "P011",
+        "source_id": "syn2_standard_0129411",
+        "display_name": "Candidate P011",
+        "path": "data/resumes/P011.pdf",
+        "sha256": "77c8ef0e89656484afbbdd7c0058f3107b41a302ec477f247c65c042d8cccb26",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "feb0777e44d502b0241eecc9fa47076ba6a8b16db09c87d818cba8cc2c87e268"
+      },
+      {
+        "candidate_id": "P012",
+        "source_id": "syn2_bootcamp_self_taught_0019371",
+        "display_name": "Candidate P012",
+        "path": "data/resumes/P012.pdf",
+        "sha256": "98beccde35305cf7141c3c9d63269975a22bad2e6931195a1039dac574a8f84c",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "04e0951f63c095064bc169a5b42ad8ed4f0bc54acd12f0177db305624831a5e0"
+      },
+      {
+        "candidate_id": "P013",
+        "source_id": "syn_career_changer_0093952",
+        "display_name": "Candidate P013",
+        "path": "data/resumes/P013.pdf",
+        "sha256": "04b7e0659b4de48ac6d19b69627c4b2b41e9cfc7ba9f3eb70ca1f95092bba0de",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "2eedc388fd3b5d479bc33c5b0b18f464c368172aceb57c88548ba49cb2370601"
+      },
+      {
+        "candidate_id": "P014",
+        "source_id": "syn2_manager_lead_0088392",
+        "display_name": "Candidate P014",
+        "path": "data/resumes/P014.pdf",
+        "sha256": "ccefd8ab6fc9988a487e0d5fe35d6be235bb3195598ff1045be870c1c6fd5485",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "15376c3abab80279fa6217263486977b063a01a2ae030beadf4875d71b45d918"
+      },
+      {
+        "candidate_id": "P015",
+        "source_id": "syn2_military_transition_0022534",
+        "display_name": "Candidate P015",
+        "path": "data/resumes/P015.pdf",
+        "sha256": "235061de54a716b2769f3eaf32dd3882b41b3442bdbc78a4ee60208021b6c9b1",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "9d1b4309c8ed39afc124c43841240df41c08bcfa4d258088d2e68e66aa603316"
+      },
+      {
+        "candidate_id": "P016",
+        "source_id": "syn_visa_constrained_0085971",
+        "display_name": "Candidate P016",
+        "path": "data/resumes/P016.docx",
+        "sha256": "c259685b97eac18185b74aaf8da60355cf5346a663bccd37f9714f7302306cb6",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "6749d1192ff4700dccd5f2a053e294ad0ee2907d9de528a6f8c09613ac852999"
+      },
+      {
+        "candidate_id": "P017",
+        "source_id": "syn2_entry_level_0051419",
+        "display_name": "Candidate P017",
+        "path": "data/resumes/P017.docx",
+        "sha256": "f1bf9674082d8ceb79cb76bb4c17086f46fb4571dcded741f1e5714ec6faa69b",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "03f7bb9ef52738d716516df4c45d83097b9d7b5c28f7e59e41aa0b0cf54aba9d"
+      },
+      {
+        "candidate_id": "P018",
+        "source_id": "syn_standard_0079547",
+        "display_name": "Candidate P018",
+        "path": "data/resumes/P018.docx",
+        "sha256": "1e634497b76cb045554b9f76f4080bdc77bfcf819923c149a90fa5f62b912709",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "a49a960e0b91dcfed262c2788b9799fbadd3f050a348e844ddaef029ea0b60e9"
+      },
+      {
+        "candidate_id": "P019",
+        "source_id": "syn_sparse_profile_0032120",
+        "display_name": "Candidate P019",
+        "path": "data/resumes/P019.txt",
+        "sha256": "d4539e187b3c3421c85ffba4b2474bcc3ddf26c4852defe5715f86fd7f62b610",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "d4539e187b3c3421c85ffba4b2474bcc3ddf26c4852defe5715f86fd7f62b610"
+      },
+      {
+        "candidate_id": "P020",
+        "source_id": "syn2_student_intern_0016865",
+        "display_name": "Candidate P020",
+        "path": "data/resumes/P020.txt",
+        "sha256": "fc3276fe3ca7782b6cbf1365cebf0abc57b9f7cdc4b752d6c9bb17aa0d4a70de",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "fc3276fe3ca7782b6cbf1365cebf0abc57b9f7cdc4b752d6c9bb17aa0d4a70de"
+      },
+      {
+        "candidate_id": "P021",
+        "source_id": "syn2_standard_0006486",
+        "display_name": "Candidate P021",
+        "path": "data/resumes/P021.pdf",
+        "sha256": "36718e4169b934b329b79f26e9ec8e05f992f2e39f62344bb12650269e2cc748",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "1abb6e6792786b93f8ab9e7e39a5e24332409296e8972fba2cd49f840b5c57ff"
+      },
+      {
+        "candidate_id": "P022",
+        "source_id": "syn_manager_lead_0096387",
+        "display_name": "Candidate P022",
+        "path": "data/resumes/P022.pdf",
+        "sha256": "05e51639ed0003fbf8950fae8dd51e08b886d993f05af64eaa367383906ad5a5",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "953919f09d56b4389857e905d2acdfa6e713baa3673f83477e3786e2e6cc288c"
+      },
+      {
+        "candidate_id": "P023",
+        "source_id": "syn2_senior_specialist_0114076",
+        "display_name": "Candidate P023",
+        "path": "data/resumes/P023.pdf",
+        "sha256": "a6a711e466f07170818972c2a8698679e586a2a8455203b086a4dc7c54f3b2fe",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "7f619f3e6d8e05604a1d06d9f02f5a985e6f5a4fe06d00f9478bff54d4d1d7b5"
+      },
+      {
+        "candidate_id": "P024",
+        "source_id": "syn2_entry_level_0001734",
+        "display_name": "Candidate P024",
+        "path": "data/resumes/P024.pdf",
+        "sha256": "a5ef3119c289c06837714337b94d87311513fa2d1e274e6cb4a9741fd5c84dc2",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "36c9d05143afe92ffc4709fe3ab852eb9e91ebcc49f1b60bda1562c19e098b3b"
+      },
+      {
+        "candidate_id": "P025",
+        "source_id": "syn2_over_qualified_0020125",
+        "display_name": "Candidate P025",
+        "path": "data/resumes/P025.pdf",
+        "sha256": "7e6d9d5aa58049114f8db6153f80b3d5a25d957a24e770cb04b871140f8d20de",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "65be95301fdfaf638b8e64f0848c0ae5a555bb946b3edfe113b0bda40695ac8b"
+      },
+      {
+        "candidate_id": "P026",
+        "source_id": "syn_standard_0030397",
+        "display_name": "Candidate P026",
+        "path": "data/resumes/P026.docx",
+        "sha256": "242f7e896bb4255e1709881a9118983045251d92e48254d1eb24c9d0eacd99d6",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "d9e4309eda2c1db33feec6a28a1c7f122c47523447349e4d9a86b9abf07dc478"
+      },
+      {
+        "candidate_id": "P027",
+        "source_id": "syn_senior_specialist_0014454",
+        "display_name": "Candidate P027",
+        "path": "data/resumes/P027.docx",
+        "sha256": "cbb4474072e1d6d336976fcae6e60f9d0d589f05457f7b5ffed5c99796f233cb",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "ba8ce697c31c210b14074d61e5aef8abb68494b123c0aa1f7e285cc270ddb9c7"
+      },
+      {
+        "candidate_id": "P028",
+        "source_id": "syn2_standard_0136511",
+        "display_name": "Candidate P028",
+        "path": "data/resumes/P028.docx",
+        "sha256": "c99865858f454e27af372c12bb3a7d094dd350e742bf367e37d2d24d96ac1e6e",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "db37cb3f934343c0705a365eb7179373fcc27b6f02b0450257ddccd2a5d79b5c"
+      },
+      {
+        "candidate_id": "P029",
+        "source_id": "syn2_sparse_profile_0067581",
+        "display_name": "Candidate P029",
+        "path": "data/resumes/P029.txt",
+        "sha256": "2e963dccddaf6f8d825d53789b9b7a4fc4a93b6ac912e5a5fe3c378b277c7aa7",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "2e963dccddaf6f8d825d53789b9b7a4fc4a93b6ac912e5a5fe3c378b277c7aa7"
+      },
+      {
+        "candidate_id": "P030",
+        "source_id": "syn2_career_changer_0003311",
+        "display_name": "Candidate P030",
+        "path": "data/resumes/P030.txt",
+        "sha256": "5ecc0e6aa45b823e07c83c6901a8171e8660164916c757f1cd310acba09ff6b5",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "5ecc0e6aa45b823e07c83c6901a8171e8660164916c757f1cd310acba09ff6b5"
+      },
+      {
+        "candidate_id": "P031",
+        "source_id": "syn_student_intern_0030514",
+        "display_name": "Candidate P031",
+        "path": "data/resumes/P031.pdf",
+        "sha256": "e153f29f0471d47ec181e1e2745d7481afc2c0edbeadd666961df980aa29fde1",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "bd6ffcbd0752ca4c9981e8aa549dc5e92acc641734a3f03ddacbd6f178c5ecee"
+      },
+      {
+        "candidate_id": "P032",
+        "source_id": "syn2_standard_0073172",
+        "display_name": "Candidate P032",
+        "path": "data/resumes/P032.pdf",
+        "sha256": "3569988c7cf66e6bbb38f0e5edeee36a65df3c85f9062c3ca96a755f7353116e",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "d95e745facad5998b11c366486b1542dd18bda20067b5ef56b5933d39629c52f"
+      },
+      {
+        "candidate_id": "P033",
+        "source_id": "syn2_return_to_work_0114856",
+        "display_name": "Candidate P033",
+        "path": "data/resumes/P033.pdf",
+        "sha256": "61996b4dca83f3541cf0e9ef8114d2d7a04177ef41be781b2fda2d3d117df732",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "59f5f3e7b1ca00fa97962680e4814bcc7c86f05d5078530f5847766b9402cda0"
+      },
+      {
+        "candidate_id": "P034",
+        "source_id": "syn2_student_intern_0048984",
+        "display_name": "Candidate P034",
+        "path": "data/resumes/P034.pdf",
+        "sha256": "50591cdbe1c1e5d717e338f4c4c19c4dc2e547845e4e10cfcf2688915a7a18f3",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "87885d89503917d0f34e1c47054815e9bbf03449d0010c8df375862def638c0e"
+      },
+      {
+        "candidate_id": "P035",
+        "source_id": "syn_visa_constrained_0068256",
+        "display_name": "Candidate P035",
+        "path": "data/resumes/P035.pdf",
+        "sha256": "6efb7fae837fe9a87d48f2bbbd22122a568e330158cd25a6403926c7f40ce9da",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "de233fe333797372e76c606b1070a374db9736c8dbc9b14c067a88de70f77127"
+      },
+      {
+        "candidate_id": "P036",
+        "source_id": "syn2_return_to_work_0102846",
+        "display_name": "Candidate P036",
+        "path": "data/resumes/P036.docx",
+        "sha256": "ca1ab4142ad21e34459d0004cfc2ce3a9345006db1bfe89d801ec4ea6b571f3f",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "61b73e27eab63baf1c92693a565811c0cf7eb9ef5028e0cf8bff75dc43785f5a"
+      },
+      {
+        "candidate_id": "P037",
+        "source_id": "syn2_over_qualified_0061155",
+        "display_name": "Candidate P037",
+        "path": "data/resumes/P037.docx",
+        "sha256": "a52e4f911a5e4bf30a972255a181af2b83c02c8ea901a58d6176f1fb7b4ced0c",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "9ef202f29557acd98105f0c4bda2c3d005fd28d5a76ac806e71dc1a910b74176"
+      },
+      {
+        "candidate_id": "P038",
+        "source_id": "syn2_senior_specialist_0128609",
+        "display_name": "Candidate P038",
+        "path": "data/resumes/P038.docx",
+        "sha256": "716b803d933647171f6490d7a8a1244da889eed495821f32b30c2846e621ae42",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "c6548f10e27054f4fb27fa3b25e0e4c4a28f202a7fa38861883b368ba43538c2"
+      },
+      {
+        "candidate_id": "P039",
+        "source_id": "syn2_career_changer_0128480",
+        "display_name": "Candidate P039",
+        "path": "data/resumes/P039.txt",
+        "sha256": "6709d312df610169f9181410a959b5ef15ef51c85213e586c92edd5718b239d0",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "6709d312df610169f9181410a959b5ef15ef51c85213e586c92edd5718b239d0"
+      },
+      {
+        "candidate_id": "P040",
+        "source_id": "syn_career_changer_0070664",
+        "display_name": "Candidate P040",
+        "path": "data/resumes/P040.txt",
+        "sha256": "e9b0efcf0a6a592f3277718537e640091d6e28d702a4491d6cc004a6789fb6dc",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "e9b0efcf0a6a592f3277718537e640091d6e28d702a4491d6cc004a6789fb6dc"
+      },
+      {
+        "candidate_id": "P041",
+        "source_id": "syn_sparse_profile_0024992",
+        "display_name": "Candidate P041",
+        "path": "data/resumes/P041.pdf",
+        "sha256": "ad26e5c9e3f9554f2be127b5ca76f8db10e3239fe79b2459bb1f6f9b5c5e141b",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "9831cd5000f206e0fd3c9bf9cba9ead2ae5dfebd16935f7226a78b87e4a14576"
+      },
+      {
+        "candidate_id": "P042",
+        "source_id": "syn2_sparse_profile_0079559",
+        "display_name": "Candidate P042",
+        "path": "data/resumes/P042.pdf",
+        "sha256": "85f0c5ea091502e5c3c8dad95a76078f2b82ad9acfcf05dd547ab1ccd004fe2a",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "090aa5ce59d6225fba2397353403e5c068c02bda911133b859aedeb727fb84ec"
+      },
+      {
+        "candidate_id": "P043",
+        "source_id": "syn_senior_specialist_0059305",
+        "display_name": "Candidate P043",
+        "path": "data/resumes/P043.pdf",
+        "sha256": "432ef3c3dc2ff3faec1d834e5645f3636486cc76f0fefe4ce99e4cfa7e977c98",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "abbb2123f3d82d091246e7e3e6e6778e02423bf30a81e60e2f0b84d51f575748"
+      },
+      {
+        "candidate_id": "P044",
+        "source_id": "syn2_return_to_work_0026627",
+        "display_name": "Candidate P044",
+        "path": "data/resumes/P044.pdf",
+        "sha256": "700a92f608183fe0397c2733b91d81b8d159ca4ae94e93d40b7d989ab70605a9",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "975146746848efc5afcd75e1ca3d75961a3998774335f828b132c7b8ce29d783"
+      },
+      {
+        "candidate_id": "P045",
+        "source_id": "syn2_entry_level_0002411",
+        "display_name": "Candidate P045",
+        "path": "data/resumes/P045.pdf",
+        "sha256": "12534faded16f929d32cdae4b2cadb289e49a425e2e5d70cb940204d8c7e6f87",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "39bf155f97cd58580eb3a54df3671a4274a7d2b44e13532376cbcde5f4e6897f"
+      },
+      {
+        "candidate_id": "P046",
+        "source_id": "syn_visa_constrained_0033788",
+        "display_name": "Candidate P046",
+        "path": "data/resumes/P046.docx",
+        "sha256": "97f5cc9853bb3d6e1a08799e5689e707ac606359c0fc349ed65113d4897320bd",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "f6de37f4f2fde81c7a5260dd2ee8cf0515948fade1c0110670d5486900711377"
+      },
+      {
+        "candidate_id": "P047",
+        "source_id": "syn2_entry_level_0093150",
+        "display_name": "Candidate P047",
+        "path": "data/resumes/P047.docx",
+        "sha256": "ebfc7ba47ceeb30a4630690dac44789746a311a487249afa08422e99a2e78192",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "e0df515bb280812a283abe2e566be16ab9f586c7f30b5d156a483495d70295e6"
+      },
+      {
+        "candidate_id": "P048",
+        "source_id": "syn_over_qualified_0098898",
+        "display_name": "Candidate P048",
+        "path": "data/resumes/P048.docx",
+        "sha256": "c3660e2cbbc09a1b995a54b1db64fe3f8cb50660e7cf3d62681dc2306fa25fa5",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "e7777550c018ec4d98a78edf836b8a6f2b8b8acd10aecdced89aab7310631efb"
+      },
+      {
+        "candidate_id": "P049",
+        "source_id": "syn2_bootcamp_self_taught_0025758",
+        "display_name": "Candidate P049",
+        "path": "data/resumes/P049.txt",
+        "sha256": "9824440be6a45090cae9d09f8ea65272f6e5e913545d294671ee981b9cdbb5b5",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "9824440be6a45090cae9d09f8ea65272f6e5e913545d294671ee981b9cdbb5b5"
+      },
+      {
+        "candidate_id": "P050",
+        "source_id": "syn_student_intern_0063536",
+        "display_name": "Candidate P050",
+        "path": "data/resumes/P050.txt",
+        "sha256": "b1189eb29ff80b812c3627246020226bda49a90c48c0975f531aa89481e3905e",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "b1189eb29ff80b812c3627246020226bda49a90c48c0975f531aa89481e3905e"
+      },
+      {
+        "candidate_id": "P051",
+        "source_id": "syn_visa_constrained_0096489",
+        "display_name": "Candidate P051",
+        "path": "data/resumes/P051.pdf",
+        "sha256": "f9ad9f4e0d9e96f0c947a55b1047da59cb90678de8c828a811344338ccdbe622",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "67edf2d63044c1f8733e7f9bdcb2f8e0c0fe0987f1da0b2a9bd40e40b35d1089"
+      },
+      {
+        "candidate_id": "P052",
+        "source_id": "syn_over_qualified_0044227",
+        "display_name": "Candidate P052",
+        "path": "data/resumes/P052.pdf",
+        "sha256": "2733f24b3d08731ab8dcc80614fa518c2fece3aeb1c9ff988b7630e3c529d6c6",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "ae354d225c5c8f07b55e7ab808efd58c68fe9d6e9b24f07a93cbf454b64dd341"
+      },
+      {
+        "candidate_id": "P053",
+        "source_id": "syn_student_intern_0073877",
+        "display_name": "Candidate P053",
+        "path": "data/resumes/P053.pdf",
+        "sha256": "fd1d2d6e94e1a63a09a82d430203b0bd9e144924a358c9ee9fbca3a5d0f60c6d",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "41aa3fe08f95a5159d280064744dfa6aa6899a9b2dfdef4bfe887b317aecfb6c"
+      },
+      {
+        "candidate_id": "P054",
+        "source_id": "syn_visa_constrained_0006474",
+        "display_name": "Candidate P054",
+        "path": "data/resumes/P054.pdf",
+        "sha256": "9495dcafd402e9c5c24b1f8e0561c9f2173b6105aeb53f38df6aa7ff878b7b73",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "ec535f69c0456a2740b61ef45f16bdc8bd659d321d9eef4ffe021e12d421feb5"
+      },
+      {
+        "candidate_id": "P055",
+        "source_id": "syn2_senior_specialist_0140624",
+        "display_name": "Candidate P055",
+        "path": "data/resumes/P055.pdf",
+        "sha256": "d40f906ed3260dedcaecd7cfc839bb9a0d4951c3bb343058d99b1dc995a06c2c",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "f0e9a07171a684131d85016fa2b220f4002d732b9340af2aa3709629afa5b312"
+      },
+      {
+        "candidate_id": "P056",
+        "source_id": "syn_return_to_work_0016159",
+        "display_name": "Candidate P056",
+        "path": "data/resumes/P056.docx",
+        "sha256": "fbcef1f849643927e498efa0dfac2299f672e5e661d3d28afbf5d4d39d1689e5",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "f776faa69080f7f487bf52f3cc6baaddd1f47f3857122e1a127425302ced925f"
+      },
+      {
+        "candidate_id": "P057",
+        "source_id": "syn_military_transition_0036137",
+        "display_name": "Candidate P057",
+        "path": "data/resumes/P057.docx",
+        "sha256": "024e2a3cd97eca96b977db863fae4c1152404350f710ef36e2edd5ebf527221e",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "3ec797a1ceb091b6242f27860d45025a4644d56f7c0c83370f3b4a060f4d7fa4"
+      },
+      {
+        "candidate_id": "P058",
+        "source_id": "syn_sparse_profile_0041818",
+        "display_name": "Candidate P058",
+        "path": "data/resumes/P058.docx",
+        "sha256": "2d4d33d5574ac580c9fc148af7865b889dc62b2866995e86ef837fc9a8059cae",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "6b9c0a5dd94342088cad87ffaf0af3988a055163861859266bebc2f67199282e"
+      },
+      {
+        "candidate_id": "P059",
+        "source_id": "syn_manager_lead_0075610",
+        "display_name": "Candidate P059",
+        "path": "data/resumes/P059.txt",
+        "sha256": "bf0f5d4026455d1a02b167cfac699768f16bd90999415176126808c46f79b356",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "bf0f5d4026455d1a02b167cfac699768f16bd90999415176126808c46f79b356"
+      },
+      {
+        "candidate_id": "P060",
+        "source_id": "syn_entry_level_0025795",
+        "display_name": "Candidate P060",
+        "path": "data/resumes/P060.txt",
+        "sha256": "fd7bda8eeda66720a9b870e53384ae9e4235302a4ec3f45f0ae89f258c9dfa63",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "fd7bda8eeda66720a9b870e53384ae9e4235302a4ec3f45f0ae89f258c9dfa63"
+      },
+      {
+        "candidate_id": "P061",
+        "source_id": "syn2_standard_0099599",
+        "display_name": "Candidate P061",
+        "path": "data/resumes/P061.pdf",
+        "sha256": "fc32f6896f5c4ad932776c755e4f1093cc3a52e5e583ae44d16848cd47cd5be0",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "866dd2ade47bfd203b96a8173a2311109fad35ef08cf7ac5d1f301bddbe24997"
+      },
+      {
+        "candidate_id": "P062",
+        "source_id": "syn2_senior_specialist_0147814",
+        "display_name": "Candidate P062",
+        "path": "data/resumes/P062.pdf",
+        "sha256": "173dbc1de20113f5ae0004b2912e3aa812cc5dc5bf22ce1731f9dadb7b8c1e4c",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "c91ad98a6828910e111830b4e6ba73803ae054b34ba84fa482d78aca8ebe60b9"
+      },
+      {
+        "candidate_id": "P063",
+        "source_id": "syn2_career_changer_0056309",
+        "display_name": "Candidate P063",
+        "path": "data/resumes/P063.pdf",
+        "sha256": "0fa025982984b75248dba85764c1523beca50817a5eafe317b16a026c2eebe7d",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "ffe25f9af16ec28f45715d054ac2b12c894c7676fafbfa6b8d279ec0ea8ca48a"
+      },
+      {
+        "candidate_id": "P064",
+        "source_id": "syn_return_to_work_0086786",
+        "display_name": "Candidate P064",
+        "path": "data/resumes/P064.pdf",
+        "sha256": "a00174998cee903d3fd996a239a00286b6ff0bfe1bd5d5b478eed9150227395a",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "0483c39de84f46ed3fa2a764c5dd9c76c6325834acbdad92c6926244c34419f6"
+      },
+      {
+        "candidate_id": "P065",
+        "source_id": "syn2_visa_constrained_0053097",
+        "display_name": "Candidate P065",
+        "path": "data/resumes/P065.pdf",
+        "sha256": "6adf4bc66fcb026bc087e9bccd842ea0794a38bad93733352da6109861f4f24b",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "89ebb843e3d350a1cdf5534cb695fa7c136c9f93897fc2bbb3339f243c6fb0a8"
+      },
+      {
+        "candidate_id": "P066",
+        "source_id": "syn2_student_intern_0139605",
+        "display_name": "Candidate P066",
+        "path": "data/resumes/P066.docx",
+        "sha256": "b7d431ef7b24f0b63c96d9e9d36cc038e79ed38229797bc7e512e79fdd2b07e7",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "807d65147a9a0a4afc386db0f5e59a233546476c76864ea96a9a01818e646208"
+      },
+      {
+        "candidate_id": "P067",
+        "source_id": "syn2_over_qualified_0078721",
+        "display_name": "Candidate P067",
+        "path": "data/resumes/P067.docx",
+        "sha256": "65aaaeb953f796eef835d3325972793711fdf3b0dbf8a9b01ee57e94846595b0",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "7a5ddcb2ad1dfe04b088604dd5b08dbb6e4ab159510da22148ebc03012108d58"
+      },
+      {
+        "candidate_id": "P068",
+        "source_id": "syn2_career_changer_0090622",
+        "display_name": "Candidate P068",
+        "path": "data/resumes/P068.docx",
+        "sha256": "21bb28129e43730c68f17c568d81e1781a99ae386877c2a636ecacc6d93a552d",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "ecb1a1a54425004b3ef5052abbb2978251809ccbedeb1008580b897709a44e96"
+      },
+      {
+        "candidate_id": "P069",
+        "source_id": "syn_manager_lead_0064926",
+        "display_name": "Candidate P069",
+        "path": "data/resumes/P069.txt",
+        "sha256": "16f34098f2c8205c9eb97585d8c1bb409208ef00088ab36fb6f1518fb19b8a2f",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "16f34098f2c8205c9eb97585d8c1bb409208ef00088ab36fb6f1518fb19b8a2f"
+      },
+      {
+        "candidate_id": "P070",
+        "source_id": "syn_sparse_profile_0003095",
+        "display_name": "Candidate P070",
+        "path": "data/resumes/P070.txt",
+        "sha256": "6892d2ef8952171eadd3dc4b1f48f6da719ef83d92031e45385489c45709c9b5",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "6892d2ef8952171eadd3dc4b1f48f6da719ef83d92031e45385489c45709c9b5"
+      },
+      {
+        "candidate_id": "P071",
+        "source_id": "syn_over_qualified_0053900",
+        "display_name": "Candidate P071",
+        "path": "data/resumes/P071.pdf",
+        "sha256": "6927b018e70e568b08c4ca1f95b7b3f88485adbd03ef936b539fec26587ee35b",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "c2671927ac44efadafdfaf14bcb402c74599964f02485ddbe4dffe196c71f624"
+      },
+      {
+        "candidate_id": "P072",
+        "source_id": "syn_bootcamp_self_taught_0091592",
+        "display_name": "Candidate P072",
+        "path": "data/resumes/P072.pdf",
+        "sha256": "dc2eb18502a328ff6c50238d3fc1179407f4d80dd430c4b7cea2ecfc33c4d7f4",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "6fe7e4347eb4f7995c2485dac63ced9485669a52840c3a934c49393e9005faf7"
+      },
+      {
+        "candidate_id": "P073",
+        "source_id": "syn_student_intern_0061858",
+        "display_name": "Candidate P073",
+        "path": "data/resumes/P073.pdf",
+        "sha256": "70d679154dac97955c192ca8a8a5d610bac93d168d51e89bdc9402428269b1d8",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "92e599ae99b9b941f3675a1ee5df6875ae254e4aaf11727f119934a14bb42a6b"
+      },
+      {
+        "candidate_id": "P074",
+        "source_id": "syn_bootcamp_self_taught_0029840",
+        "display_name": "Candidate P074",
+        "path": "data/resumes/P074.pdf",
+        "sha256": "1374ef5c6329b8b063fae4865338ebfcc50deed7e06f99bfeccdc77479a230b7",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "c19f8f7913b7c7b30c8ae4152567a314233fc5693a8d231833f5af07214f113e"
+      },
+      {
+        "candidate_id": "P075",
+        "source_id": "syn2_bootcamp_self_taught_0071467",
+        "display_name": "Candidate P075",
+        "path": "data/resumes/P075.pdf",
+        "sha256": "e40e8ca9ed1ecc2787b4f40b6ebe54a8bc6fec305fc787df7374d449e6c94ba5",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "57b1e749c831e501af6ea9055de0bcd47db0696d3304f4ac4f827f445f54450b"
+      },
+      {
+        "candidate_id": "P076",
+        "source_id": "syn_manager_lead_0026598",
+        "display_name": "Candidate P076",
+        "path": "data/resumes/P076.docx",
+        "sha256": "d4f038e42faefab4fb55467a2aad07470aee7f538dad597362608e3c7ee417ed",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "dcc03719375981e6b1e1944fa24d9a4b28636b6a0a8d2902ee81556b0e61e6b5"
+      },
+      {
+        "candidate_id": "P077",
+        "source_id": "syn2_bootcamp_self_taught_0077953",
+        "display_name": "Candidate P077",
+        "path": "data/resumes/P077.docx",
+        "sha256": "bec0545093063e886cea7208f47b79a12bb7950dd26a99b7f49ba5a5bd66f361",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "994418f673c52fa03b49ecf651ff912efa8cd79d3fc05af2e6cd54db7efcd91a"
+      },
+      {
+        "candidate_id": "P078",
+        "source_id": "syn2_career_changer_0001633",
+        "display_name": "Candidate P078",
+        "path": "data/resumes/P078.docx",
+        "sha256": "5de97c1393cdcea79bd18aea7460eb1a27fbd8829ac7f3759b0a0a01f43441bb",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "725bcb423e1580b11d63c06fc3ae4dd538f6b11f886530c3c649ec41d460efc3"
+      },
+      {
+        "candidate_id": "P079",
+        "source_id": "syn_bootcamp_self_taught_0078821",
+        "display_name": "Candidate P079",
+        "path": "data/resumes/P079.txt",
+        "sha256": "fcc1291c9d2335f51f344a9de97d7b972f7c727957a27e53aba7de8fb91bc7e9",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "fcc1291c9d2335f51f344a9de97d7b972f7c727957a27e53aba7de8fb91bc7e9"
+      },
+      {
+        "candidate_id": "P080",
+        "source_id": "syn_over_qualified_0059484",
+        "display_name": "Candidate P080",
+        "path": "data/resumes/P080.txt",
+        "sha256": "ba2ca4e3d060c79ed92f379c0c1e904f34070be6bc2df99297685b48e126e199",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "ba2ca4e3d060c79ed92f379c0c1e904f34070be6bc2df99297685b48e126e199"
+      },
+      {
+        "candidate_id": "P081",
+        "source_id": "syn_military_transition_0001668",
+        "display_name": "Candidate P081",
+        "path": "data/resumes/P081.pdf",
+        "sha256": "80b5478159724c07a40609370f725bb29bf79409e086082550619c436149ee83",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "50b8363964655600c902528c907fe96bd1addd11513184c5b8974ed0ee76e190"
+      },
+      {
+        "candidate_id": "P082",
+        "source_id": "syn_return_to_work_0035215",
+        "display_name": "Candidate P082",
+        "path": "data/resumes/P082.pdf",
+        "sha256": "c58c847593ff09f30923d16e470f3238f896d52ad1f8a3f954817975eb0cac17",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "6ca470a30441f15678d7e261c88eb27b77452a7ad5f2a23efea7dd55232b9eaf"
+      },
+      {
+        "candidate_id": "P083",
+        "source_id": "syn2_return_to_work_0123689",
+        "display_name": "Candidate P083",
+        "path": "data/resumes/P083.pdf",
+        "sha256": "395fe499de44d408e5f7bd30cd147b016ec5d569903c03482a504959fe8ec9f0",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "d35187e9a61f0b48469feaf1eedeb533e2d340ed35056b6e9c556144153c64de"
+      },
+      {
+        "candidate_id": "P084",
+        "source_id": "syn2_visa_constrained_0057040",
+        "display_name": "Candidate P084",
+        "path": "data/resumes/P084.pdf",
+        "sha256": "eec3cce23090f78928b4c03c73db1de166d72caa2240e6adfd9d43313899fcd9",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "97403e06afbeb95f3cf5d8ef585d2e8204a6a1251930ac2eeba94c955757d3da"
+      },
+      {
+        "candidate_id": "P085",
+        "source_id": "syn2_student_intern_0032950",
+        "display_name": "Candidate P085",
+        "path": "data/resumes/P085.pdf",
+        "sha256": "9a8de379baf155ee9b74421c69503865c0c1489041751cbcd5b895e1c3a571a8",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "1e4a2101c68ca6c7044ab8c7b60a348591f3037c4e46930a6ca7312e9ddd2727"
+      },
+      {
+        "candidate_id": "P086",
+        "source_id": "syn_military_transition_0032806",
+        "display_name": "Candidate P086",
+        "path": "data/resumes/P086.docx",
+        "sha256": "d175ab5b93fcd0a99521cc8608f54db16a502d932df3373c88239cc2e33a90da",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "bf2453ad1d0fc4a5e9dc335e4feeb3d826096a75a404aef3603f3f00c9d84b0c"
+      },
+      {
+        "candidate_id": "P087",
+        "source_id": "syn_military_transition_0008031",
+        "display_name": "Candidate P087",
+        "path": "data/resumes/P087.docx",
+        "sha256": "9e3f7ee0dd7acc701d04b8a649fec38451ecef1f9eaef4e296dcb2e8fbcac023",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "308e7d27d287fe9557e214c86d13db3ad6d525c6706748dfffb89e791369d6d9"
+      },
+      {
+        "candidate_id": "P088",
+        "source_id": "syn2_gig_contract_0132624",
+        "display_name": "Candidate P088",
+        "path": "data/resumes/P088.docx",
+        "sha256": "28bab7dfced4491c6d0a3346e455b1097d2cdc9e1403b12aa659dbc9d87e43a8",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "013429997df2da10e68389380cb24faa8ac0dda20de56bf74ce2c60eed95fc4f"
+      },
+      {
+        "candidate_id": "P089",
+        "source_id": "syn2_sparse_profile_0043389",
+        "display_name": "Candidate P089",
+        "path": "data/resumes/P089.txt",
+        "sha256": "904d95d78da62128bd3c65cb62ae487bc21149b590ef2b93a6b22b512c9c56f3",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "904d95d78da62128bd3c65cb62ae487bc21149b590ef2b93a6b22b512c9c56f3"
+      },
+      {
+        "candidate_id": "P090",
+        "source_id": "syn_gig_contract_0088332",
+        "display_name": "Candidate P090",
+        "path": "data/resumes/P090.txt",
+        "sha256": "55adab9ffa9053afc00c5fe8e9914cb02f9d85af11f6337d9ca6728db40dcc09",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "55adab9ffa9053afc00c5fe8e9914cb02f9d85af11f6337d9ca6728db40dcc09"
+      },
+      {
+        "candidate_id": "P091",
+        "source_id": "syn2_gig_contract_0100376",
+        "display_name": "Candidate P091",
+        "path": "data/resumes/P091.pdf",
+        "sha256": "6dd20b1adedb59d1b58d5b8444c2f78c97c4ef68f5a2be45e9cf60eb5068a5be",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "88b0c4c8773a986417eeb73f9c44bb181231136682cd8ba9a35c426399cf45c4"
+      },
+      {
+        "candidate_id": "P092",
+        "source_id": "syn2_military_transition_0140654",
+        "display_name": "Candidate P092",
+        "path": "data/resumes/P092.pdf",
+        "sha256": "db49ad5c4f74c4c1f0e3d40977d344182f10bc2a432c5f5cc30c4ea60a829ed1",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "834cb895d890ba8fa1d4384d7a41492cdd103e5758e3e52c2da23da0c45ded6e"
+      },
+      {
+        "candidate_id": "P093",
+        "source_id": "syn_military_transition_0032219",
+        "display_name": "Candidate P093",
+        "path": "data/resumes/P093.pdf",
+        "sha256": "41cc88ceec97f655134c665f8a5b040669633797b45bd6c9faf09d660f7b5b68",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "35cd3fedb04353e3ef0b791c33de6e32658c67caa8b0c0abfacc1c9963f60593"
+      },
+      {
+        "candidate_id": "P094",
+        "source_id": "syn_military_transition_0041783",
+        "display_name": "Candidate P094",
+        "path": "data/resumes/P094.pdf",
+        "sha256": "4306615f466c0c1757ae5c9ccdf373c14eafb78ef175be770a5b2feca514c82c",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "d0f2aefd6ecf7b11d5c7739196ef662e92d7d0724c7a2c4be7a44da0059750cc"
+      },
+      {
+        "candidate_id": "P095",
+        "source_id": "syn_gig_contract_0030613",
+        "display_name": "Candidate P095",
+        "path": "data/resumes/P095.pdf",
+        "sha256": "9820f16696f5bcfce85ead31dc582660b18e7d44de0dba1153b9eec639ac020f",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "56eb664bcf8c3286e44d0780c7024906a5dbb77ca56fcbe40bbe0678a3cd5989"
+      },
+      {
+        "candidate_id": "P096",
+        "source_id": "syn_bootcamp_self_taught_0063464",
+        "display_name": "Candidate P096",
+        "path": "data/resumes/P096.docx",
+        "sha256": "d866d410a202adb6cf2bb94293b805e6c192f2a44d26f8e957d78945a31aedf7",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "b7c095e29ff46e1b55a5f1da7e966ff258f4456c670a68d63168f13e2cdbcc78"
+      },
+      {
+        "candidate_id": "P097",
+        "source_id": "syn_gig_contract_0008032",
+        "display_name": "Candidate P097",
+        "path": "data/resumes/P097.docx",
+        "sha256": "f49d916f864986fda3cb3895d4791ce66d26deb3bd04523dbf0fa0555888b16c",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "4e90a568d63bf65bb8e8e98527af8a86ed2619cee8f24d7f077a988165181d07"
+      },
+      {
+        "candidate_id": "P098",
+        "source_id": "syn2_visa_constrained_0084342",
+        "display_name": "Candidate P098",
+        "path": "data/resumes/P098.docx",
+        "sha256": "c00ef6f2acbe38e794f6fcc689bb9d601026309bd2711c91bd5a17c13aec86aa",
+        "split": "production",
+        "layout": 1,
+        "canonical_text_sha256": "2c2632918f222dde8238e3f0006a46254e63e32000bb684501dacdede46c0793"
+      },
+      {
+        "candidate_id": "P099",
+        "source_id": "syn2_gig_contract_0136572",
+        "display_name": "Candidate P099",
+        "path": "data/resumes/P099.txt",
+        "sha256": "edb6015ec4fc5346c49dbcffb72fd887423db2387d3022661f70979d1076ab2e",
+        "split": "production",
+        "layout": 2,
+        "canonical_text_sha256": "edb6015ec4fc5346c49dbcffb72fd887423db2387d3022661f70979d1076ab2e"
+      },
+      {
+        "candidate_id": "P100",
+        "source_id": "syn_gig_contract_0092372",
+        "display_name": "Candidate P100",
+        "path": "data/resumes/P100.txt",
+        "sha256": "525ef50cd6731cf4e5749afba8d1241bce2af03010ab0ede36982340e8d5fe49",
+        "split": "production",
+        "layout": 0,
+        "canonical_text_sha256": "525ef50cd6731cf4e5749afba8d1241bce2af03010ab0ede36982340e8d5fe49"
+      }
+    ]
+  },
+  "protected_files": {
+    "data/holdout/corpus_manifest.json": "f4fccaf135aec4c9207008fdf485b2c8e6fe5f825441d9f2e2ec2009220fac5d",
+    "data/holdout/judgments.json": "d63037c00cfbc62ecc64fe472c743db8e9f9cca7693ac9495ecfb81fd5cee180",
+    "data/holdout/queries.json": "7312d031bd705733250ed22802d53584461a55fe76f38d883807bb09cb945f6e",
+    "data/holdout/resumes/E001.pdf": "430c3db1428cc4096714e14abbd5b0e95e7b05adcc5433d3dab4f150c293bc78",
+    "data/holdout/resumes/E002.pdf": "2f6da5c6ff247f6e1141757e7d88d3a954ae65cb4686e840d0077ceaa037ac23",
+    "data/holdout/resumes/E003.pdf": "d8974d6a5c4386ff6f5a074b2e0e2c7825557a6bfaa2604d1d4863ae6f1b7ada",
+    "data/holdout/resumes/E004.pdf": "d4f0213e7bfb67f0876aa6810643662a982019fcd2e88a2ac55076f2bd114701",
+    "data/holdout/resumes/E005.pdf": "88fdd55d9972d025f9dcdafcb69277b4af8c6d755baaa133e530159d7fbefc2e",
+    "data/holdout/resumes/E006.docx": "ca4811ebb422a309e92588302e71bc03813652aa8c2b19a28ecb0ee2611fb1fe",
+    "data/holdout/resumes/E007.docx": "bf882e24cbc3b0dd949c734393e21108f8978b159192c40920af0efc0d6d8e3a",
+    "data/holdout/resumes/E008.docx": "db086bfb987f323222d4a28fb2c701365c19f550b8c4f98817a0d62791597989",
+    "data/holdout/resumes/E009.txt": "9d7b091e8c297f3c0c0522c7e14d7b214add4c78c3cbc5bc929017eceac64825",
+    "data/holdout/resumes/E010.txt": "ff1e96e86acc5a0dee50366be737e9dffbc0652608a7728145dd39df42aa7443",
+    "data/holdout/resumes/E011.pdf": "e3b263af07f9f69c93c135d0b7484be361be227cf62099462e1ed4c163c21f71",
+    "data/holdout/resumes/E012.pdf": "bee50bd31d40e7d73b78b5ba2b3e8c024b12acadd0fa86c42266d27192a117f1",
+    "data/holdout/resumes/E013.pdf": "e3ca10a5740a761106c0ea425b2a27e65213e582dd9cd29c7ece7b4d04de3cb9",
+    "data/holdout/resumes/E014.pdf": "6e8b694271f48cd902d590adf975e3f15672831c38df1b05d9395540f278bf93",
+    "data/holdout/resumes/E015.pdf": "f56756ce4eec1603c6957cfddbf95dc33c4042cce3c241fca3a2afb3ee10c2b7",
+    "data/holdout/resumes/E016.docx": "a507ad4682ac4502871d17f67589819416e26255cefaaa256cdda89a2b09f2b1",
+    "data/holdout/resumes/E017.docx": "bb51c32bc2f4e23a62d1e1bf089caa3758764e62d20f84245d5fc11da7c647ac",
+    "data/holdout/resumes/E018.docx": "5c312f2712ea755f8373e0f658aecb842ccad857697caa20ac0140e27a5ec60a",
+    "data/holdout/resumes/E019.txt": "c32f8afdf20b015bae1a2582eab7a967e9cd63d37a2fccfc62cc6cc43b38fa16",
+    "data/holdout/resumes/E020.txt": "4770fd64686c4d800b25a43752f386a7ddca71e319e0ef063386208dab42048a",
+    "data/holdout/resumes/E021.pdf": "92d83422da37ffc95a300de60323b696a7fa4f6c0dafda104c24d518b53bb0de",
+    "data/holdout/resumes/E022.pdf": "2342bc3215e4f3a60a3596715d146d1c8b7e95355e4b5c9859daba85efdb4d65",
+    "data/holdout/resumes/E023.pdf": "5360f2e073359513a4dd2b50f573e24d9857fa6eff4e0c1b022c45462557d134",
+    "data/holdout/resumes/E024.pdf": "7cfa1f6765844203c4f246aa1a3837bd7a6f2cea2408b3b5d5cd7231925ff828",
+    "data/holdout/resumes/E025.pdf": "f343c910ccb4b0cba4da7e0de688192c59df00bc3e4e2150af5599340ad1a13b",
+    "data/holdout/resumes/E026.docx": "f31a670ad5ef6bf0d6ad278badf73462b466ba06fbd44907cd39d0a48ad10ff8",
+    "data/holdout/resumes/E027.docx": "c24f6b5301ed193265ca08e69e9931b2c07ba15070280db43f2062091364c136",
+    "data/holdout/resumes/E028.docx": "ca8f1b1b9777b3f7b1881a67bc3a02a7251096806ba5dc80008901823d9956a0",
+    "data/holdout/resumes/E029.txt": "6f02ac34c0064ef5f511c4b1646352ff249661945d379c7d3d19ea60fd5b8a6a",
+    "data/holdout/resumes/E030.txt": "22036c888413c07f7dea2006712dfe9b3647e7391124a106f926eb3763411aba",
+    "data/holdout/resumes/E031.pdf": "81615d3bdc7364be9881ba6a54896ed7a224772c040d20005061d12f02333aca",
+    "data/holdout/resumes/E032.pdf": "b061812999e6fe4a177f4b8619cb4a672b72e14c460065fabac35eb3e3655425",
+    "data/holdout/resumes/E033.pdf": "1afba69b504b30dce9669114a5f1951240f3f6677a9bb3deaef27b7bd8cd0e5b",
+    "data/holdout/resumes/E034.pdf": "cfc01f4178228fb66d9646c5085985c891e05d1af6c41c2ff24f05bf19fe59c1",
+    "data/holdout/resumes/E035.pdf": "3864b04658852f2b6023f015089964baafbd52b9f9af3393556343aefe0cdaec",
+    "data/holdout/resumes/E036.docx": "025cca2f9695d1f3b195b4e09c80f4f17984ed1955cdd6dcec9fe2506cb6c239",
+    "data/holdout/resumes/E037.docx": "e4fe84e520d3ac3c0b32ef3c65fe9dca898a403f0c0afe388556ad87163b2a2a",
+    "data/holdout/resumes/E038.docx": "483f954da1ba368f09c8e6cc8b73d351bba008dd416c4d0baa94f68c049711b4",
+    "data/holdout/resumes/E039.txt": "012e1445845b3ba32601647d53fab5eb7b344f43102595c3fd0da7da2a59f6fe",
+    "data/holdout/resumes/E040.txt": "6ec81c302bbbb5ed62bb98d4ceb18992cac9e8794fde6513c99edc9f175ec48b",
+    "data/holdout/resumes/E041.pdf": "5c0e958a3c82b2fd0c675fa1a604881274dd2fb4d09116ca59659e20e94a2a6b",
+    "data/holdout/resumes/E042.pdf": "4c25c3186819fea0626e1c5ee6095aa91174436ef58c00ba6b5b038420f81746",
+    "data/holdout/resumes/E043.pdf": "8db15b6688d85f8f99b9b36334a97fddeb307e838361cc089d217dbfb8c3f2ef",
+    "data/holdout/resumes/E044.pdf": "618ef25bb28eaa52269b2965fee89d57e6bd0104b1fefd96c305400ec82f12cb",
+    "data/holdout/resumes/E045.pdf": "73be36ad413fb71ea677fbf37784621f0c25a6b6836c6f45590e7666ecc766d7",
+    "data/holdout/resumes/E046.docx": "6be002812a2408fd853870d2fb376c26c2c681bd2e713a09ee30d8ca0d5bcfbd",
+    "data/holdout/resumes/E047.docx": "52cf4833b967487c7552f4ccf0ddd0b069b45f27217e4eda7be2d49528e268d2",
+    "data/holdout/resumes/E048.docx": "dc8275d64523b2b8fc7c550142d3e12582a6647e0d4b61ee0d7677aa6f7ddec6",
+    "data/holdout/resumes/E049.txt": "9cb8c69595eac831f08bcd7fb1e4e5817978605c159ee1814616e6c06960a82e",
+    "data/holdout/resumes/E050.txt": "b7ab40ed387f98c9d6ef41c029da888b23a8faab83edac44328ff53d454cad77",
+    "data/holdout/review_protocol.json": "0fdabfb46ec6fbe9802caa60ca280b6a53337193950d0b2072da011f9ca1b38a",
+    "data/holdout/reviews/reviewer_a.json": "888a39b7e6207282358d4558ade0e0fb99339d0510f2a76dbe04aa06ac96e491",
+    "data/holdout/reviews/reviewer_b.json": "eb64b6098af021bf73c8d36b916c82a41ec58d4329d3bc1119a1fac857a6d183",
+    "data/holdout/rubric.json": "c83034dc7af8cc6a9f877cff05b0f7cc74b3397f77f4d1be25b58fb19d805e9f",
+    "data/regression/config/skills.yaml": "72d2b29d2b690a2c6a1c480af500c83364ae7e93c978b46c5051c8b28dd09425",
+    "data/regression/data/corpus_manifest.json": "697eed3a0e7939c20621b5ab1f6f8f1f5d952d3d20ee8a05d9c1f58105013c1e",
+    "data/regression/data/evaluation/name_header_cases.json": "dc9a9eb4e1f9d9f645044874321545a612050ddc8e30374ca5f02366b4ff0e24",
+    "data/regression/data/ground_truth/candidates.json": "69f9a1f8374ca12af764b1fa41a1b2b1ced7f3a4f255356b17d89c7de7d705d5",
+    "data/regression/data/ground_truth/queries.json": "ffa54ab1c64cbf4d3ef0fb3a7c08a8ce06d0e8916c5be6e7f62b708ca12cfcbd",
+    "data/regression/data/resumes/CAND_BE_001.pdf": "1c92bd486a36b9ad32a2b54408228bdf7e305c98679d4d11cd588798d1b14ca2",
+    "data/regression/data/resumes/CAND_BE_002.pdf": "d74eb04fb055fe8fce2a28249f8f328acfeebd66a3aae33d84fc9e3cb797b8b9",
+    "data/regression/data/resumes/CAND_BE_003.pdf": "842a3e8ad6cffe0fd1eba8ec2a1bd5c86feeb30f9a763eba119ab0eb705dabc6",
+    "data/regression/data/resumes/CAND_BE_004.pdf": "63e5bc77c5202b559fb9b73542293245d2d4ea49b8a51951f0702223050bcef9",
+    "data/regression/data/resumes/CAND_BE_005.pdf": "3dd31f19bb785beba1b582c7ce42fd9c19e7924e48ae339529026b43e53ff26a",
+    "data/regression/data/resumes/CAND_BE_006.docx": "31eb5d854abfe689088a8881246982b96192a9de8063cd5a4884d7762aad174a",
+    "data/regression/data/resumes/CAND_BE_007.docx": "af43419755e7e6124387340223246a760eae925c4586c2fbbf0d00f62eab7bab",
+    "data/regression/data/resumes/CAND_BE_008.docx": "e47b83cbe47f5967de780aef267ebfa81cac3f9e550924b576450605c26654d1",
+    "data/regression/data/resumes/CAND_BE_009.txt": "23a1a5ec7d7a0c6f57d03d5017764ecdeaf57ba27676ad939ea8aa7c56c4590b",
+    "data/regression/data/resumes/CAND_BE_010.txt": "20c9441746884b377e07e6cd9bb8bd5d278a0ec1c06806829c38def1b341c1ef",
+    "data/regression/data/resumes/CAND_BE_011.pdf": "a9d8b292dca8c3904ca7b9f89194444befbb578b29c61e97d22f38d0d2b9158c",
+    "data/regression/data/resumes/CAND_BE_012.pdf": "e4b5e32e701d8fc7cca567d1b83f51a0cd684a68fd303dfbffbf6af759411faa",
+    "data/regression/data/resumes/CAND_BE_013.pdf": "216f0551aacec7cc29e4bb19d23a3ec2900e5e1c619d9f762f8aa7d9f62ae44f",
+    "data/regression/data/resumes/CAND_BE_014.pdf": "2402422a6c302dc8f0dfe47adf67ef4b1d70277506c1357d9451e835757af344",
+    "data/regression/data/resumes/CAND_BE_015.pdf": "dd4b808b9cb90a151d2951c276fd820a6ec42f292706d6bb20503f6b4f58ebc2",
+    "data/regression/data/resumes/CAND_BE_016.docx": "e09f669f1ab78b28c0a2520cc968d005eec6990e7e849c5659806e70547855bd",
+    "data/regression/data/resumes/CAND_BE_017.docx": "cfe5c04f4b7272bf44833ebfff5146e93f74ca6a2b7033dfe13571dea51d6324",
+    "data/regression/data/resumes/CAND_BE_018.docx": "7509316a7b477fee2cea464e1a53877d41636f025cc8681f098e1771ee5f5e8b",
+    "data/regression/data/resumes/CAND_BE_019.txt": "b8ae54b98d2bf1e4e554111bb1c4aabaf5f498107eaad8d4da3e6b71df495905",
+    "data/regression/data/resumes/CAND_BE_020.txt": "4ad1043ba742fc1832d5e8ab09e57ef0aa0f1e59a59f8a4c513592b8abc177ba",
+    "data/regression/data/resumes/CAND_DE_001.pdf": "500800ef2847bd66c3ea73b602a11f3f1ec64fc21ffcaba0ea3d2ab2e630cf08",
+    "data/regression/data/resumes/CAND_DE_002.pdf": "a3dc2997a4496620c4dbf132a4f233129b1384e863604cef903b969ca7e77866",
+    "data/regression/data/resumes/CAND_DE_003.pdf": "33642c70adea8f1b76f9efb8a684ab07cc789674cb269d5b585e9980d2fb1f8e",
+    "data/regression/data/resumes/CAND_DE_004.pdf": "da939326e6fe7f2a7fb6bf0819bd2c1f8b6c985cae4a3bc271a4db5b731f559f",
+    "data/regression/data/resumes/CAND_DE_005.pdf": "46ce806a6e631e9c9d8aa8ba5a2604de93ae354b48fffe5b77f25c002e913779",
+    "data/regression/data/resumes/CAND_DE_006.docx": "e96dc7b20cbb59a067d5550b022557373b376db37d92a276ecdb8e5f09edcc0d",
+    "data/regression/data/resumes/CAND_DE_007.docx": "d43ddba5a559de2943a15d507eb346cdfd50baed972928d5ee29241113eef1c7",
+    "data/regression/data/resumes/CAND_DE_008.docx": "3b97b4a4d4285eb68340a05debd9240030cbbdc63c40411e126b3cdbe2923ed1",
+    "data/regression/data/resumes/CAND_DE_009.txt": "0780cf3327f24de4aa690e641bd44e8a5d30ce12ad643b7af6adce63d05b135f",
+    "data/regression/data/resumes/CAND_DE_010.txt": "e8b6caa487faa8e2fdee0200cda88a656f353879df59077019a94fc74f5c8f57",
+    "data/regression/data/resumes/CAND_DE_011.pdf": "a04b48a9cb2e1cf847c43125a317252f0d98d5ccfccca9e144e1e62ca38c3a64",
+    "data/regression/data/resumes/CAND_DE_012.pdf": "2043db7ef61c4563c1673d2d4ef16ec2d1883c78b1b70a61b9a1fc7d0f3a1069",
+    "data/regression/data/resumes/CAND_DE_013.pdf": "2f314afa0fc727f7a48b93a293610262a7549da2a7b7f732b6f7b51b7361053a",
+    "data/regression/data/resumes/CAND_DE_014.pdf": "994cefcc74de41c8374086d6f99fc47eec452735d71b1b6d9f49782a69b1a1e1",
+    "data/regression/data/resumes/CAND_DE_015.pdf": "f694f9db034c58c66e231df5addd33ad7eda3dad287181abc57d3b62771ba3f9",
+    "data/regression/data/resumes/CAND_DE_016.docx": "52e847ba7360e6321d5ea30f11e5ffba95d1cf39bd451df3acfa09b5150678c5",
+    "data/regression/data/resumes/CAND_DE_017.docx": "abbf13e4e22e512513dc3e8a4654b2de1a069232a130ddfff4bd667f34db6d02",
+    "data/regression/data/resumes/CAND_DE_018.docx": "83442181e8292bf20285cb5d204249974776a23ee9291aa6733095bc03121c02",
+    "data/regression/data/resumes/CAND_DE_019.txt": "a41e089244b8d3d73ac42c010dec5122a922cccd87485f2a129305e2b93e23ef",
+    "data/regression/data/resumes/CAND_DE_020.txt": "731e41185bf2b35fff4f236c4ae88051cb15eaf32960f8bdba46957af0116713",
+    "data/regression/data/resumes/CAND_DO_001.pdf": "ffb4561f680f1bc04483d6f8389d7913a5efd1211aa0ce34e6832f91c01ef7f0",
+    "data/regression/data/resumes/CAND_DO_002.pdf": "9885c73b02f2dabf6e8b675703fab2acd5fbc111d6605ebeefe97629c3755f74",
+    "data/regression/data/resumes/CAND_DO_003.pdf": "f68fd33c3faac5e27479afc90fe7c114b30912ea5a3595ac57f22d933a2f3564",
+    "data/regression/data/resumes/CAND_DO_004.pdf": "5e9b2247c108b899918779b44e891e184da34da55dacc1f43a4b6ecc6b1ff223",
+    "data/regression/data/resumes/CAND_DO_005.pdf": "b8de4ad2cea02a9d3432d43b04eb7aebcaf1c3c1aa39fb067cd1aa60540f3351",
+    "data/regression/data/resumes/CAND_DO_006.docx": "dd052dd8c3f502d5903ded448d363f3754f0ffae82d287bbe10c91ced6375c8d",
+    "data/regression/data/resumes/CAND_DO_007.docx": "62e8710f01f80861906eda2406f9b84906a95e9bc559603ad927390c86d56871",
+    "data/regression/data/resumes/CAND_DO_008.docx": "7bcbd88db9947e6ffeafe830431af52fd7ca95af13a3a9547bdb3900cdb2263e",
+    "data/regression/data/resumes/CAND_DO_009.txt": "0bf0a1447d57a08a53e6623823834fd58d461b6a24207b2b76557ef85535ca0d",
+    "data/regression/data/resumes/CAND_DO_010.txt": "eb22d0d982221b7d5461b14addd70dbf45d11b8c920e70697a1746287a7b2592",
+    "data/regression/data/resumes/CAND_DO_011.pdf": "f440cd95bf17d560033927a497158ba6a4c1b10048c6a6becf57e58f4b1e4a17",
+    "data/regression/data/resumes/CAND_DO_012.pdf": "8b07ffbd71a457cadafc73f047c25928bb33669d803d515f058133201426acac",
+    "data/regression/data/resumes/CAND_DO_013.pdf": "641949f9a630256fb7ac19fdee245aba20d7fb865913d4d5925d6ca845cda633",
+    "data/regression/data/resumes/CAND_DO_014.pdf": "ae788a0f68632fd2643292a058f38800d26aef31f70adefac82841b910e304fe",
+    "data/regression/data/resumes/CAND_DO_015.pdf": "db67d49fbee893f3830beaaa23206c2ea31c157af89e75fa75a1a296313b42c2",
+    "data/regression/data/resumes/CAND_DO_016.docx": "fb2b6b89ca2b1193785d9b7e10efa0ef34bf5df37d420dae5d14c313cabd9e95",
+    "data/regression/data/resumes/CAND_DO_017.docx": "72c3b788b2556f6e437cac8d9f4eebc826a39b2043fc2b4497a9e5c4910c12f4",
+    "data/regression/data/resumes/CAND_DO_018.docx": "67b9f17dd5352edd9e4b13f93b0c76b24056b65c9b22f96b863fd0a263ed5e4c",
+    "data/regression/data/resumes/CAND_DO_019.txt": "a8118089811f36484962d17ecb648bb5db66f856ce598c3217867dda9acfcd89",
+    "data/regression/data/resumes/CAND_DO_020.txt": "fb88abe54b2249d4d59c5cd003052cc5d02845dd2749ce40bb4bb103da61c9aa",
+    "data/regression/data/resumes/CAND_FE_001.pdf": "a950617fe42786993a0308de381b178cedf5f2160349e0d7931609ff4029f7af",
+    "data/regression/data/resumes/CAND_FE_002.pdf": "91fb7effca25d8f37c574d1b1eb96608a24bb1cba19c332b8a99bd32447c4d8c",
+    "data/regression/data/resumes/CAND_FE_003.pdf": "f3f1402e79f09121737d6fd482a1d69446ae92df545b8efd543621d9d5520ceb",
+    "data/regression/data/resumes/CAND_FE_004.pdf": "ab08ff3e14e47b19b7b85ce5a801e59bdfa919a9e33999b464f18f021076f0f1",
+    "data/regression/data/resumes/CAND_FE_005.pdf": "95f43d3fe3a6fb524e1d310f8d449c88621b7e523ed3af7e4b53ba558fbb2eda",
+    "data/regression/data/resumes/CAND_FE_006.docx": "a378c9e8ab657ac1014642ae84f3a1cbf0db328c14333f2d32803610640c1bc3",
+    "data/regression/data/resumes/CAND_FE_007.docx": "1d562ade9a742150363e74ee5dbf33b35199b0781b1375b317c52e12ba6ae904",
+    "data/regression/data/resumes/CAND_FE_008.docx": "2c283521553f5a79440a5e6168bb79c078d3f2ce5e133bd831e86e88964c4f10",
+    "data/regression/data/resumes/CAND_FE_009.txt": "5e9951944cbafb389d50af96750eee2912ebca7112b1e20a5cf7163c9c10fa35",
+    "data/regression/data/resumes/CAND_FE_010.txt": "d2cc9f9fb22277791642615ed171d8d0290437e0b349defb6e16e256198b4aa8",
+    "data/regression/data/resumes/CAND_FE_011.pdf": "4799329749b73eba5389eedecc5b6eb00fc8eccbdd2db6f9139f1ebf44885aef",
+    "data/regression/data/resumes/CAND_FE_012.pdf": "32f3792ae86bafc55c15f0f6bf676e5c147b746f80f9fe75b90d42161440154d",
+    "data/regression/data/resumes/CAND_FE_013.pdf": "b4364fad0531aaf1eab7f3b62992500baa977159933f006931e34400364d38aa",
+    "data/regression/data/resumes/CAND_FE_014.pdf": "72ae9cb9ad655133b7173250b27fac9ce0ec5db949bf6590823b49a84c7967b3",
+    "data/regression/data/resumes/CAND_FE_015.pdf": "e4c03845684440f2972ca74a3edc08068a640a2501f886de26e68754d80f8b7c",
+    "data/regression/data/resumes/CAND_FE_016.docx": "68f6c4e104c9c92575584ed5c546bcbb891aacfeb41b3a0d9202014acd4493e2",
+    "data/regression/data/resumes/CAND_FE_017.docx": "63ddf85fbb25f64e3c729e21436cd1673fd618c93d2c1f3c592152007cf625f7",
+    "data/regression/data/resumes/CAND_FE_018.docx": "31b29a0b335ac50f67a59d4342a5f0432e9bc852cb651f8b456a3449ba549f3e",
+    "data/regression/data/resumes/CAND_FE_019.txt": "6ce50ce3826ac731cfa2c3a03cdcdc9b4cdd4b7f6b56d71602d9d95f8bca8135",
+    "data/regression/data/resumes/CAND_FE_020.txt": "23493ccf30602a6e43f1f09e8d427943073f200f12ab575c3c46a09c9907c94e",
+    "data/regression/data/resumes/CAND_ML_001.pdf": "cabb3d8c2fe118bb7d62e5543b7400bfddc6353c90de85c7c15ea4cc605238d4",
+    "data/regression/data/resumes/CAND_ML_002.pdf": "81804913d4595a3a9cecb9a119a351bd85a4194bccd9d45b00c20de02184b248",
+    "data/regression/data/resumes/CAND_ML_003.pdf": "d941aa8d74bf0c496eb7eebb581f8f80ebec5e3677c4017431f17211b70f85c0",
+    "data/regression/data/resumes/CAND_ML_004.pdf": "50f6a81db33db7b3eb2b6101176cc4920a7625183eff869b2d72e6e04c342cb5",
+    "data/regression/data/resumes/CAND_ML_005.pdf": "d336a9e71eb94aff9b0b3b4a43536543a77a7211e35208c0ce8dd4daea5069bd",
+    "data/regression/data/resumes/CAND_ML_006.docx": "6ea6f8788bc57d49ad8bdbafb29b7d2e3338a4ab24f55a1485336ede066fc479",
+    "data/regression/data/resumes/CAND_ML_007.docx": "cb28bdf802b8c92d33652d48453d6be421d7bdbbf824851f666356efe89b351a",
+    "data/regression/data/resumes/CAND_ML_008.docx": "6bc68b052f64e5bb1a2a12d9ffbd6477dc8d6192ce535f089010ee901b2c4912",
+    "data/regression/data/resumes/CAND_ML_009.txt": "bac108bf453f7d640ce43694482265e239037553e0db994abae5eb29f450e8c9",
+    "data/regression/data/resumes/CAND_ML_010.txt": "3cd460c701c6a16d9a205982722d71a56147e47c3512138b353460fee1621853",
+    "data/regression/data/resumes/CAND_ML_011.pdf": "4bcb4ac48151b65c74206028b19a5820e21422bf69abe367e30512484aa315fa",
+    "data/regression/data/resumes/CAND_ML_012.pdf": "2d77b250ed26f345f49efcc4db2201b294685a868598fc310deec87f0a5e4455",
+    "data/regression/data/resumes/CAND_ML_013.pdf": "352dd00c0e4fce2d3d1fc1dce5f978cbd240431267b5ed58a6ca52bb5e271ce9",
+    "data/regression/data/resumes/CAND_ML_014.pdf": "55ba89643e2177e26ca817a37d31b5b4803e0f15b7a660d2688ebaa6a6f089d7",
+    "data/regression/data/resumes/CAND_ML_015.pdf": "b7861334ea8e8af58e1c58e851ce181ec4380c879a340e89bb2497897c970373",
+    "data/regression/data/resumes/CAND_ML_016.docx": "07e920834dab1482dbf598677793133b58878a2b0e5c34c06633b029dfc00749",
+    "data/regression/data/resumes/CAND_ML_017.docx": "fa8507ab84bcebbeea507a97e1878aef6a212e2809807201d50d9348f3da9e7e",
+    "data/regression/data/resumes/CAND_ML_018.docx": "3c9f359a297c32fc5316970e078a232a8c67df1ce4cbe575a33317877a647ec3",
+    "data/regression/data/resumes/CAND_ML_019.txt": "7abf61727597621321fe94ef76dab1991a4f468796d73eb9a331c3c32a3c7fec",
+    "data/regression/data/resumes/CAND_ML_020.txt": "5151bf16a37750eda4f2ec125e22183b09677e5fb06de67f9fdfdfd6b17a0849"
+  },
+  "holdout_records_sha256": "78316e7e25713e241a39848d242756fce2339d1b2c303e9262830ec6d8e712eb",
+  "selected": [
+    {
+      "candidate_id": "P101",
+      "source_id": "syn2_student_intern_0147010",
+      "content_hash": "16e1c64688db0c363e563c5a0f62a92d147cff1d6673a885e84a4f7e37e09df1",
+      "selection_stratum": "full_stack",
+      "seed_role": "typescript developer"
+    },
+    {
+      "candidate_id": "P102",
+      "source_id": "syn2_standard_0074680",
+      "content_hash": "f26c96b9c1409a6ee24b35fba60d8c6498577662db29be9f5fcc833986b09568",
+      "selection_stratum": "frontend",
+      "seed_role": "frontend engineer"
+    },
+    {
+      "candidate_id": "P103",
+      "source_id": "syn_return_to_work_0009676",
+      "content_hash": "938da978bb39c26ce0c4fc0f398ea6a34275721549982f1b52b374db0abeb3db",
+      "selection_stratum": "software",
+      "seed_role": "graduate software engineer"
+    },
+    {
+      "candidate_id": "P104",
+      "source_id": "syn_standard_0001633",
+      "content_hash": "3e1a59390933d4250287b205377afb48d91416e0d7e73bcddef00c889fffaabb",
+      "selection_stratum": "devops",
+      "seed_role": "devops engineer"
+    },
+    {
+      "candidate_id": "P105",
+      "source_id": "syn2_military_transition_0021720",
+      "content_hash": "2788e0e4f2c7b486c8ed5258dc3ee4820d8ca5a14d48704c18bf1cc3bbc9ab43",
+      "selection_stratum": "python_react",
+      "seed_role": "junior software engineer"
+    },
+    {
+      "candidate_id": "P106",
+      "source_id": "syn2_visa_constrained_0104491",
+      "content_hash": "8268e8a8f529948b6bd497a6875e1dc8a57da73aed799006a38da84ea55fe2e5",
+      "selection_stratum": "devops",
+      "seed_role": "mlops engineer"
+    },
+    {
+      "candidate_id": "P107",
+      "source_id": "syn_student_intern_0026597",
+      "content_hash": "064b64eadde7519ed49e7c30aa13eaf9c94e4aa85c3a8255bbd56e55e3cc31a1",
+      "selection_stratum": "python_react",
+      "seed_role": "e-commerce engineer"
+    },
+    {
+      "candidate_id": "P108",
+      "source_id": "syn_entry_level_0055434",
+      "content_hash": "1433c95a41af286388b4d0e5abc796ec7bc47958777060301f02458271d61829",
+      "selection_stratum": "devops",
+      "seed_role": "devops engineer"
+    },
+    {
+      "candidate_id": "P109",
+      "source_id": "syn2_student_intern_0028166",
+      "content_hash": "bd41913a13aac7c6ecd55551fa00e430e396d1578b15fa7698920d210a4b5ce6",
+      "selection_stratum": "full_stack",
+      "seed_role": "typescript developer"
+    },
+    {
+      "candidate_id": "P110",
+      "source_id": "syn2_senior_specialist_0140527",
+      "content_hash": "b0c54317961f74689c1bea3b70926d89f2d3cc43c9e0ed0220223f433dd25dbb",
+      "selection_stratum": "full_stack",
+      "seed_role": "full stack developer"
+    },
+    {
+      "candidate_id": "P111",
+      "source_id": "syn2_sparse_profile_0032303",
+      "content_hash": "59727f25e7a542c443949432d4bc981f86ae4337976222abf7112952aa3f761c",
+      "selection_stratum": "software",
+      "seed_role": "tooling engineer"
+    },
+    {
+      "candidate_id": "P112",
+      "source_id": "syn_standard_0004111",
+      "content_hash": "601f5a8baae94cce00bd40cf77d7072bbafd73e04814d1a2702368692f5b1331",
+      "selection_stratum": "software",
+      "seed_role": "payments engineer"
+    },
+    {
+      "candidate_id": "P113",
+      "source_id": "syn2_standard_0034658",
+      "content_hash": "5d1eeed25a9f2c35927677278fd5ab9ba7a36459b8477e7964c53cf7882b7ee8",
+      "selection_stratum": "data",
+      "seed_role": "streaming data engineer"
+    },
+    {
+      "candidate_id": "P114",
+      "source_id": "syn2_over_qualified_0022525",
+      "content_hash": "0f82e488543c7615470ad1a6a5106770d44699cb86d8f25196f7dc1cd7cff9d3",
+      "selection_stratum": "software",
+      "seed_role": "software engineering intern"
+    },
+    {
+      "candidate_id": "P115",
+      "source_id": "syn2_military_transition_0080399",
+      "content_hash": "9c7cf0d0dffef1114642195274d7185077af884b11efb2efb202a748e67de155",
+      "selection_stratum": "ml",
+      "seed_role": "machine learning engineer"
+    },
+    {
+      "candidate_id": "P116",
+      "source_id": "syn_entry_level_0078696",
+      "content_hash": "5f9d2d12b2da56e6f81bdc4f4c513c4d7c7b6612c4f143b65a1e498022ace5c4",
+      "selection_stratum": "python_react",
+      "seed_role": "full stack developer"
+    },
+    {
+      "candidate_id": "P117",
+      "source_id": "syn2_manager_lead_0022583",
+      "content_hash": "73659a76ec2a058ca8ffa36faddd458c92cddfdb50110de5a60278a3cb9894c9",
+      "selection_stratum": "ml",
+      "seed_role": "machine learning engineer"
+    },
+    {
+      "candidate_id": "P118",
+      "source_id": "syn_student_intern_0049082",
+      "content_hash": "3cc40b3be1012907ce48137a1d35b1e89a006d45a393ea4ad39ae353ef8c9748",
+      "selection_stratum": "ml",
+      "seed_role": "machine learning engineer"
+    },
+    {
+      "candidate_id": "P119",
+      "source_id": "syn_sparse_profile_0025076",
+      "content_hash": "cbd568e9760a825171d79db21b103141248ac54ce31b06b2b67d5250987f8a29",
+      "selection_stratum": "software",
+      "seed_role": "tooling engineer"
+    },
+    {
+      "candidate_id": "P120",
+      "source_id": "syn2_over_qualified_0110061",
+      "content_hash": "b7ad34152a01225689292380558dc04b1b9e9bfb6685164ce553b9d7c691391e",
+      "selection_stratum": "backend",
+      "seed_role": "python developer"
+    },
+    {
+      "candidate_id": "P121",
+      "source_id": "syn_student_intern_0045810",
+      "content_hash": "b19fdd0347094a308041bd3f3c2017a469d8100124b5f4a4730526dbed22ec65",
+      "selection_stratum": "software",
+      "seed_role": "junior software engineer"
+    },
+    {
+      "candidate_id": "P122",
+      "source_id": "syn2_standard_0043382",
+      "content_hash": "d1c8fa3314056738bbeb3ddd62d731b8da3cf4ef3de9662048e3b8ba4c80ca63",
+      "selection_stratum": "full_stack",
+      "seed_role": "web developer"
+    },
+    {
+      "candidate_id": "P123",
+      "source_id": "syn_career_changer_0047377",
+      "content_hash": "d0eeb1c7755a73b4fa4367db7475433021ad2450c405e035d87b40141abbcf9a",
+      "selection_stratum": "backend",
+      "seed_role": "backend engineer"
+    },
+    {
+      "candidate_id": "P124",
+      "source_id": "syn2_entry_level_0110139",
+      "content_hash": "905c184ff081ca66da1e3da7305c04ba3e6fd24c2b84a1aa649d1b5baa30dd22",
+      "selection_stratum": "data",
+      "seed_role": "big data engineer"
+    },
+    {
+      "candidate_id": "P125",
+      "source_id": "syn2_student_intern_0110910",
+      "content_hash": "2544b70b884bb98fececa34642d81dd9d5b9cc2a780f23e7b57bea9c9f799f87",
+      "selection_stratum": "software",
+      "seed_role": "payments engineer"
+    },
+    {
+      "candidate_id": "P126",
+      "source_id": "syn2_senior_specialist_0072368",
+      "content_hash": "48782259b2ea54595964dc18da41fb3a7dc88dc551081e18805a2c3d1bbf1a2e",
+      "selection_stratum": "python_react",
+      "seed_role": "e-commerce engineer"
+    },
+    {
+      "candidate_id": "P127",
+      "source_id": "syn2_standard_0073972",
+      "content_hash": "6b75d3904ebcf9bd6b4a1bdce549eff749e42803178eb2f947923d0814f1e011",
+      "selection_stratum": "software",
+      "seed_role": "payments engineer"
+    },
+    {
+      "candidate_id": "P128",
+      "source_id": "syn_over_qualified_0043388",
+      "content_hash": "bc6e9b3fe8ceb9575e8fc8639d3df82032a252def18b298d00702a1c4246c382",
+      "selection_stratum": "devops",
+      "seed_role": "site reliability engineer"
+    },
+    {
+      "candidate_id": "P129",
+      "source_id": "syn2_entry_level_0044985",
+      "content_hash": "69a32ab55f1e8935056064773065b3e20e17d5b645073267c36418362d6382a1",
+      "selection_stratum": "frontend",
+      "seed_role": "react native developer"
+    },
+    {
+      "candidate_id": "P130",
+      "source_id": "syn2_manager_lead_0106982",
+      "content_hash": "fac2eede88504298f33a5098fc064acfbe6988047e55b2a40e7998ca664b955e",
+      "selection_stratum": "software",
+      "seed_role": "tooling engineer"
+    },
+    {
+      "candidate_id": "P131",
+      "source_id": "syn_standard_0055427",
+      "content_hash": "87e17a83081379f7316c6c9450b40c90ceeb006e5a7ab23bc9a67125da8c2326",
+      "selection_stratum": "full_stack",
+      "seed_role": "web developer"
+    },
+    {
+      "candidate_id": "P132",
+      "source_id": "syn2_gig_contract_0015296",
+      "content_hash": "2592af96b1bd64077b09ef8974e8a491677b1a02594f9bfe366be05154d2f1c8",
+      "selection_stratum": "software",
+      "seed_role": "junior software engineer"
+    },
+    {
+      "candidate_id": "P133",
+      "source_id": "syn_student_intern_0027323",
+      "content_hash": "f93c204e5878903d4367ab55844d7859b147c00337ca58cdeeffca45c2776867",
+      "selection_stratum": "backend",
+      "seed_role": "api engineer"
+    },
+    {
+      "candidate_id": "P134",
+      "source_id": "syn2_return_to_work_0135727",
+      "content_hash": "14bbf3680e98f0494a1e426eb70154ffc4793913100846feb27e0ef318cb7380",
+      "selection_stratum": "full_stack",
+      "seed_role": "web developer"
+    },
+    {
+      "candidate_id": "P135",
+      "source_id": "syn_visa_constrained_0069926",
+      "content_hash": "9163516bb8beeb3a833c787b7fd51bfc8b3e12e102ecb1e1f086c598ea0edb89",
+      "selection_stratum": "full_stack",
+      "seed_role": "node js developer"
+    },
+    {
+      "candidate_id": "P136",
+      "source_id": "syn2_visa_constrained_0103652",
+      "content_hash": "a30b79c7f3c550d24c499103d4b0f68a1f0ce0d3360456c5d2534045346085bf",
+      "selection_stratum": "full_stack",
+      "seed_role": "node js developer"
+    },
+    {
+      "candidate_id": "P137",
+      "source_id": "syn_manager_lead_0058720",
+      "content_hash": "20c0cf3b28dfcc5f49b1ea3408ffdd9251290298a8c31f5eb32cb43f5f862929",
+      "selection_stratum": "devops",
+      "seed_role": "mlops engineer"
+    },
+    {
+      "candidate_id": "P138",
+      "source_id": "syn_manager_lead_0044970",
+      "content_hash": "1e9e18b18079f63dfeb64dc1148f4a6da8e2ee1aeccda297f10327c18f782c83",
+      "selection_stratum": "full_stack",
+      "seed_role": "full stack developer"
+    },
+    {
+      "candidate_id": "P139",
+      "source_id": "syn2_career_changer_0144637",
+      "content_hash": "c885e60342f5263193b2affa2a179333068c3ffba5ec2eb9274747c3fed494bf",
+      "selection_stratum": "software",
+      "seed_role": "fintech engineer"
+    },
+    {
+      "candidate_id": "P140",
+      "source_id": "syn_entry_level_0033824",
+      "content_hash": "ae6e2eceac779a3f6340f35900b11c5d2c651e00285d1d29058d9c5f639f692c",
+      "selection_stratum": "full_stack",
+      "seed_role": "e-commerce engineer"
+    },
+    {
+      "candidate_id": "P141",
+      "source_id": "syn2_military_transition_0032141",
+      "content_hash": "01d54572ec49142d6b79e32b6bbd458fb84a173f1edace026ab8b02ed3ee0d27",
+      "selection_stratum": "backend",
+      "seed_role": "api engineer"
+    },
+    {
+      "candidate_id": "P142",
+      "source_id": "syn2_sparse_profile_0066776",
+      "content_hash": "ffbb260b167ff3524e37d46dadeb038fb4f47d597722e6593793ceba65c5a280",
+      "selection_stratum": "data",
+      "seed_role": "data engineer"
+    },
+    {
+      "candidate_id": "P143",
+      "source_id": "syn2_senior_specialist_0020174",
+      "content_hash": "dc7bde9142b5e7fa64c027451cdcdffccaa9f650ea386146b275c3e4ae295852",
+      "selection_stratum": "ml",
+      "seed_role": "machine learning engineer"
+    },
+    {
+      "candidate_id": "P144",
+      "source_id": "syn2_senior_specialist_0038584",
+      "content_hash": "73bc3e9b03b22775a11646b9832622d573aec8c70b4801cc0b3261c0f866e485",
+      "selection_stratum": "software",
+      "seed_role": "graduate software engineer"
+    },
+    {
+      "candidate_id": "P145",
+      "source_id": "syn_career_changer_0029838",
+      "content_hash": "6d0185bda9cff6a3dea765db3c2e751c8a08ef3d4553600c0e32be912f1c44f5",
+      "selection_stratum": "data",
+      "seed_role": "data engineer"
+    },
+    {
+      "candidate_id": "P146",
+      "source_id": "syn2_military_transition_0065082",
+      "content_hash": "0988a9b0c172144eb813bf266f8f2751bbea06f2f26766b189935ba51bf03ebb",
+      "selection_stratum": "software",
+      "seed_role": "junior software engineer"
+    },
+    {
+      "candidate_id": "P147",
+      "source_id": "syn2_over_qualified_0033728",
+      "content_hash": "cffb6ed414814b92d444a2194b6dcdd4d3c2a37e5a204b27897c5f5d5532c141",
+      "selection_stratum": "full_stack",
+      "seed_role": "full stack developer"
+    },
+    {
+      "candidate_id": "P148",
+      "source_id": "syn_manager_lead_0048308",
+      "content_hash": "b2a552761cc669e36058fa4c53889ea739d9d0e33fbcbb35ee455fe709493dad",
+      "selection_stratum": "data",
+      "seed_role": "big data engineer"
+    },
+    {
+      "candidate_id": "P149",
+      "source_id": "syn2_career_changer_0017667",
+      "content_hash": "077f7f28d6078151fc4a5ebaa4f76832cc14f1bbb5353eba184f074b58b51bbb",
+      "selection_stratum": "frontend",
+      "seed_role": "frontend engineer"
+    },
+    {
+      "candidate_id": "P150",
+      "source_id": "syn2_entry_level_0062730",
+      "content_hash": "b35f3fd6a6da880e6ce377628a4c90ec4cf32572b71f0ef9f49c5845ff89c114",
+      "selection_stratum": "software",
+      "seed_role": "payments engineer"
+    },
+    {
+      "candidate_id": "P151",
+      "source_id": "syn2_career_changer_0135002",
+      "content_hash": "ba2ef5efa6281e3ae7dc69e440fe46303f51f15ecfa27e9f0308aace1cb8c55a",
+      "selection_stratum": "full_stack",
+      "seed_role": "e-commerce engineer"
+    },
+    {
+      "candidate_id": "P152",
+      "source_id": "syn2_entry_level_0062655",
+      "content_hash": "5b8031869ce40e17ad8c142e3d997dbe8faafb1fbe69e8dcecbd02bd8055c380",
+      "selection_stratum": "backend",
+      "seed_role": "api engineer"
+    },
+    {
+      "candidate_id": "P153",
+      "source_id": "syn2_senior_specialist_0022546",
+      "content_hash": "60e78f038b4c862c5ad3ec606b7b6163131f10c32b35c368ea3c73423ce98258",
+      "selection_stratum": "frontend",
+      "seed_role": "react developer"
+    },
+    {
+      "candidate_id": "P154",
+      "source_id": "syn_student_intern_0089953",
+      "content_hash": "8f4ecc5b287b38fe98d39a655ae122f15a4ed6e82f22053fdb87e4d7098201ef",
+      "selection_stratum": "frontend",
+      "seed_role": "react native developer"
+    },
+    {
+      "candidate_id": "P155",
+      "source_id": "syn2_standard_0147851",
+      "content_hash": "a7984efaf19e5828459547afe1a423bf59d17bf20b5546e84a4d091075fc0e06",
+      "selection_stratum": "ml",
+      "seed_role": "machine learning engineer"
+    },
+    {
+      "candidate_id": "P156",
+      "source_id": "syn2_sparse_profile_0041014",
+      "content_hash": "94cc76702564746d5ed9a059109b77f09073ea5b36870fc5533d56fc1c38a7f9",
+      "selection_stratum": "full_stack",
+      "seed_role": "typescript developer"
+    },
+    {
+      "candidate_id": "P157",
+      "source_id": "syn2_sparse_profile_0112447",
+      "content_hash": "ac2376961f6a4617cbc4b49015cce6f44ede2426c62335743467c38e064f923e",
+      "selection_stratum": "devops",
+      "seed_role": "devops engineer"
+    },
+    {
+      "candidate_id": "P158",
+      "source_id": "syn_visa_constrained_0062634",
+      "content_hash": "1206345fb36d141d41c7c08a4809b7d4dab697da1b1c0e0203366028ae92ee3b",
+      "selection_stratum": "backend",
+      "seed_role": "backend engineer"
+    },
+    {
+      "candidate_id": "P159",
+      "source_id": "syn2_standard_0019272",
+      "content_hash": "ddb6b96f175727994a9e6b7b5937ca33fc7aadeca20c6bdab1123ef96ef6fbc0",
+      "selection_stratum": "backend",
+      "seed_role": "backend engineer"
+    },
+    {
+      "candidate_id": "P160",
+      "source_id": "syn2_sparse_profile_0045771",
+      "content_hash": "a3f4c74d8287d62ebe2d00e45020fa1a067a6e62fb7c8cd1d17b18beaf36a821",
+      "selection_stratum": "backend",
+      "seed_role": "backend engineer"
+    },
+    {
+      "candidate_id": "P161",
+      "source_id": "syn_gig_contract_0047378",
+      "content_hash": "43f7f2fce87a39fa525403b0e0ca9d5e1923393e7edc62799c4da3b85eb72daa",
+      "selection_stratum": "frontend",
+      "seed_role": "frontend engineer"
+    },
+    {
+      "candidate_id": "P162",
+      "source_id": "syn2_senior_specialist_0055457",
+      "content_hash": "266c8a08da8ac056400eb7db7fc0cf36daf20656f42c5f071bc1221c41cee2c8",
+      "selection_stratum": "backend",
+      "seed_role": "python developer"
+    },
+    {
+      "candidate_id": "P163",
+      "source_id": "syn2_over_qualified_0002426",
+      "content_hash": "3e39428c2067413b62ab8660f0cdae3c87ec646fdd9ea60d803baa2bcfae014d",
+      "selection_stratum": "frontend",
+      "seed_role": "react native developer"
+    },
+    {
+      "candidate_id": "P164",
+      "source_id": "syn_over_qualified_0084376",
+      "content_hash": "d2d45789309a950b9b884854bac053e8989dae8cda315aae3947b94f4065d06d",
+      "selection_stratum": "full_stack",
+      "seed_role": "typescript developer"
+    },
+    {
+      "candidate_id": "P165",
+      "source_id": "syn2_bootcamp_self_taught_0137314",
+      "content_hash": "167045eb23ecc96260adfc6003c97b3baf8a754356c58bc8f5d44d541cec0fd5",
+      "selection_stratum": "frontend",
+      "seed_role": "frontend engineer"
+    },
+    {
+      "candidate_id": "P166",
+      "source_id": "syn_military_transition_0076311",
+      "content_hash": "139621a84f18a7709bdc8233c3d9c0888205bc0d3b2c8e609da717ed1378bf29",
+      "selection_stratum": "devops",
+      "seed_role": "site reliability engineer"
+    },
+    {
+      "candidate_id": "P167",
+      "source_id": "syn2_manager_lead_0122239",
+      "content_hash": "4bdb5b2631edb356f65e9953dd7f826883a6414119299ced2d89f77262422058",
+      "selection_stratum": "software",
+      "seed_role": "tooling engineer"
+    },
+    {
+      "candidate_id": "P168",
+      "source_id": "syn2_student_intern_0045097",
+      "content_hash": "5d2675ae6157cf9583e663267cb778c3fcc3010e209d963b9b9b0137162c4d13",
+      "selection_stratum": "data",
+      "seed_role": "streaming data engineer"
+    },
+    {
+      "candidate_id": "P169",
+      "source_id": "syn2_career_changer_0056308",
+      "content_hash": "37faa29997cf79d0d3d900e43593afe6fb2d48f69ff4646610258096fd18ae39",
+      "selection_stratum": "full_stack",
+      "seed_role": "e-commerce engineer"
+    },
+    {
+      "candidate_id": "P170",
+      "source_id": "syn2_visa_constrained_0073973",
+      "content_hash": "b5dcbc9f17e54c9c065cca550f934996e7a2efb1c03aab227d25b11e71cb0b6d",
+      "selection_stratum": "software",
+      "seed_role": "fintech engineer"
+    },
+    {
+      "candidate_id": "P171",
+      "source_id": "syn_manager_lead_0057878",
+      "content_hash": "356d2d93fc5172150fc634ceaee4364df89edba31d9a183de4889db846c1b750",
+      "selection_stratum": "frontend",
+      "seed_role": "react developer"
+    },
+    {
+      "candidate_id": "P172",
+      "source_id": "syn2_career_changer_0078734",
+      "content_hash": "5eeae330e59070bf94916a11e2ef0c472b72c1af92d016244ab3b51e9df44a63",
+      "selection_stratum": "python_react",
+      "seed_role": "graduate software engineer"
+    },
+    {
+      "candidate_id": "P173",
+      "source_id": "syn2_career_changer_0080361",
+      "content_hash": "6f0c85daa52b4013468009fddd33d00ef59447ee1acb220a49adf0ad5e51e99a",
+      "selection_stratum": "python_react",
+      "seed_role": "typescript developer"
+    },
+    {
+      "candidate_id": "P174",
+      "source_id": "syn2_senior_specialist_0077090",
+      "content_hash": "3123e83acf0d6fb15222af32322762a6747b0ec568812c982c2875616fdcaec8",
+      "selection_stratum": "full_stack",
+      "seed_role": "full stack developer"
+    },
+    {
+      "candidate_id": "P175",
+      "source_id": "syn_over_qualified_0029839",
+      "content_hash": "c2fd697765bc5384afa3c52790bcb70d74905cb8ad742676f28b480c92da8b5b",
+      "selection_stratum": "data",
+      "seed_role": "big data engineer"
+    },
+    {
+      "candidate_id": "P176",
+      "source_id": "syn2_manager_lead_0045018",
+      "content_hash": "83bd5201e48870ded227299d61b59ff99a81f0dc2ee1aca8ec6a42f426ae7890",
+      "selection_stratum": "backend",
+      "seed_role": "python developer"
+    },
+    {
+      "candidate_id": "P177",
+      "source_id": "syn_career_changer_0086789",
+      "content_hash": "5150f45a977acd99ddb9014ae70e7b0c9749f76c6be6ceb7bd222e4f76a753c1",
+      "selection_stratum": "python_react",
+      "seed_role": "node js developer"
+    },
+    {
+      "candidate_id": "P178",
+      "source_id": "syn2_over_qualified_0122956",
+      "content_hash": "1bece5935f4dc96c53a5cec827dad44eb9735ba8acb5683e06eb8081ae872ad0",
+      "selection_stratum": "software",
+      "seed_role": "fintech engineer"
+    },
+    {
+      "candidate_id": "P179",
+      "source_id": "syn2_sparse_profile_0106861",
+      "content_hash": "cecd19bcd79edd9b996d24c16a61636157a5db5902d55c86367f6f2e8efc1dd3",
+      "selection_stratum": "frontend",
+      "seed_role": "react developer"
+    },
+    {
+      "candidate_id": "P180",
+      "source_id": "syn_gig_contract_0071532",
+      "content_hash": "0942afb6d59c4eed08eb044ec8110d3aea3be37c7f1fcf129b5ac1a399cef87f",
+      "selection_stratum": "full_stack",
+      "seed_role": "node js developer"
+    },
+    {
+      "candidate_id": "P181",
+      "source_id": "syn2_military_transition_0123760",
+      "content_hash": "3bbf6c4038ca1b4af483c7b498e65cdcdfbcc2b7b90687fa9756341284277b2e",
+      "selection_stratum": "full_stack",
+      "seed_role": "e-commerce engineer"
+    },
+    {
+      "candidate_id": "P182",
+      "source_id": "syn_bootcamp_self_taught_0010536",
+      "content_hash": "04130245706af572634ab6c4eab8e2dee068908f1630d72fea2ffbf0d84326b9",
+      "selection_stratum": "python_react",
+      "seed_role": "fintech engineer"
+    },
+    {
+      "candidate_id": "P183",
+      "source_id": "syn2_standard_0015278",
+      "content_hash": "1544cc47298fed8e0089e412c3841c7cf3ab535f414293928b53999836047b8b",
+      "selection_stratum": "python_react",
+      "seed_role": "api engineer"
+    },
+    {
+      "candidate_id": "P184",
+      "source_id": "syn2_senior_specialist_0064367",
+      "content_hash": "b64c06be1a74b35b5dc28304d2890f953bbe3cac0d2d1c2b833de504a1b7cac0",
+      "selection_stratum": "data",
+      "seed_role": "data engineer"
+    },
+    {
+      "candidate_id": "P185",
+      "source_id": "syn2_student_intern_0010439",
+      "content_hash": "836e251d1a1170bc98a67e4ebec6a7462004329ab99703045afdead5a1a21dc3",
+      "selection_stratum": "python_react",
+      "seed_role": "backend engineer"
+    },
+    {
+      "candidate_id": "P186",
+      "source_id": "syn2_over_qualified_0130269",
+      "content_hash": "1b96c39bc948210eccf9737724d85eae8e6568c024a6f29b4ead47fef3af3230",
+      "selection_stratum": "python_react",
+      "seed_role": "tooling engineer"
+    },
+    {
+      "candidate_id": "P187",
+      "source_id": "syn2_return_to_work_0084377",
+      "content_hash": "afaf1f09e04d983147c72f3494111ea1eaeca6d1aee1fef854a7d8e6f208da15",
+      "selection_stratum": "python_react",
+      "seed_role": "react developer"
+    },
+    {
+      "candidate_id": "P188",
+      "source_id": "syn2_return_to_work_0093991",
+      "content_hash": "1b6901b7277241249eddabd79c8e1872cc46b12a83ea590b2ec4da71942ef6bf",
+      "selection_stratum": "software",
+      "seed_role": "graduate software engineer"
+    },
+    {
+      "candidate_id": "P189",
+      "source_id": "syn_military_transition_0023328",
+      "content_hash": "035fc952ada6af282bdf41dff817b9a1dc66ec85dd1b89da80ef866a08b3abcb",
+      "selection_stratum": "software",
+      "seed_role": "software engineering intern"
+    },
+    {
+      "candidate_id": "P190",
+      "source_id": "syn_manager_lead_0090780",
+      "content_hash": "f30e4cfb066ac965dee238a9fe989346e3c6b2b09c989c53999e24f7df3becec",
+      "selection_stratum": "python_react",
+      "seed_role": "software engineering intern"
+    },
+    {
+      "candidate_id": "P191",
+      "source_id": "syn2_bootcamp_self_taught_0085138",
+      "content_hash": "be69dc21087b408bb3477467f7e085264c77724e23ab056df37d71fd42b346b5",
+      "selection_stratum": "full_stack",
+      "seed_role": "web developer"
+    },
+    {
+      "candidate_id": "P192",
+      "source_id": "syn_military_transition_0066690",
+      "content_hash": "c88e8aa1913770007d39edaac3234690dacf13bc10e20c24797dc3a395107ec5",
+      "selection_stratum": "python_react",
+      "seed_role": "software engineering intern"
+    },
+    {
+      "candidate_id": "P193",
+      "source_id": "syn2_over_qualified_0011339",
+      "content_hash": "385aff45fca65493ad04416db3dd00d91ac914b8cfdb3b7bc6a04193940cf7d8",
+      "selection_stratum": "python_react",
+      "seed_role": "fintech engineer"
+    },
+    {
+      "candidate_id": "P194",
+      "source_id": "syn2_manager_lead_0049048",
+      "content_hash": "7622d640b1f4ccef0bb4d564dd4c4f4bba94d3fe54d9cdfd6d5f4b19cf8f0f7e",
+      "selection_stratum": "full_stack",
+      "seed_role": "node js developer"
+    },
+    {
+      "candidate_id": "P195",
+      "source_id": "syn_bootcamp_self_taught_0000844",
+      "content_hash": "9fc975933ffc648a49c638d3a2f419d7761f9f633e0246d0f6f44d9d885a901d",
+      "selection_stratum": "software",
+      "seed_role": "software engineering intern"
+    },
+    {
+      "candidate_id": "P196",
+      "source_id": "syn2_standard_0048230",
+      "content_hash": "3fd3826300c040fa955abe6bf17ea8a08b6b4125766da2426a7ba93f2ec521fb",
+      "selection_stratum": "python_react",
+      "seed_role": "python developer"
+    },
+    {
+      "candidate_id": "P197",
+      "source_id": "syn_bootcamp_self_taught_0098865",
+      "content_hash": "5969ec9de9c00422f7d0d1971cf54f89e0aac68b89e688cbcea668107ee2bf4f",
+      "selection_stratum": "python_react",
+      "seed_role": "payments engineer"
+    },
+    {
+      "candidate_id": "P198",
+      "source_id": "syn2_manager_lead_0092384",
+      "content_hash": "a0fc2206a294c1449cb90ffb5d3a2c2ca06661880792f2b6aa078ee3d5bf5cd1",
+      "selection_stratum": "python_react",
+      "seed_role": "junior software engineer"
+    },
+    {
+      "candidate_id": "P199",
+      "source_id": "syn_visa_constrained_0016883",
+      "content_hash": "d6bd7293ed5878c18879cffecd0ee26092d35844488b87b1e2008d5c2a2ce103",
+      "selection_stratum": "python_react",
+      "seed_role": "web developer"
+    },
+    {
+      "candidate_id": "P200",
+      "source_id": "syn2_gig_contract_0033743",
+      "content_hash": "1056a363dcc8622e225d235212bac8150e08bc746fef50623111e6e6564bec13",
+      "selection_stratum": "python_react",
+      "seed_role": "react native developer"
+    }
+  ],
+  "publication": {
+    "original_record_sha256": "90a27ab406c45b22c4d663fbfc4c5caf4c2d7ea6a4258f763badeb1f6d29f81d",
+    "scope": "Dataset preservation manifest. Source documents, evaluation labels and corpus configuration retain their original protected hashes. Previous application reports and its dependency lock are outside this data contract.",
+    "omitted_non_dataset_file_count": 16,
+    "omitted_digest_map_sha256": "431990b96c11d639e557bd794ab03b103b386e7f762b96c52542c8ea924464b3"
+  }
+}

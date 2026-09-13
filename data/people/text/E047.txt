@@ -1,0 +1,29 @@
+Candidate E047
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Integration Engineer | Central Valley Logistics Research | 2023-02 to Present
+Building data pipelines for freight tracking using NiFi and Spark. Integrating IoT sensor data into Snowflake and Iceberg tables for real-time analytics.
+Big Data Engineer (Contract) | Pacific Rail Analytics | 2021-06 to 2022-12
+Developed ETL workflows for rail network data. Used NiFi, Kafka, and Cassandra to support real-time monitoring dashboards.
+Data Engineer | AgriTech Solutions | 2019-03 to 2021-04
+Managed crop sensor data. Migrated on-prem Hadoop cluster to Databricks and implemented Delta Lake. Optimized Spark jobs for cost savings.
+Data Analyst | Kern County Public Works | 2017-08 to 2019-01
+Analyzed transportation and infrastructure data. Built reports and dashboards using SQL and Excel.
+Apprentice Electrician | IBEW Local 428 | 2014-02 to 2017-06
+Completed 3-year union apprenticeship. Installed and maintained electrical systems for industrial facilities.
+SKILLS
+Data modeling; Apache Iceberg; Apache NiFi; Snowflake; Apache Cassandra; Apache Airflow; Apache Hadoop; Delta Lake; Apache Hudi; Apache Spark; Apache HBase; Apache Flink; Apache Kafka; Databricks; HDFS; Python; SQL; Java
+EDUCATION
+Associate of Science | Computer Science | Bakersfield College
+2018-09 to 2020-06
+Journeyman Electrician | Electrical | Union Apprenticeship Program
+2014-09 to 2017-06
+PROJECTS
+Real-time Freight Tracking Pipeline
+Designed and deployed streaming pipeline using Kafka, NiFi, and Flink to process GPS data from trucks. Reduced latency to under 5 seconds. Technologies used: Apache Kafka, Apache NiFi, Apache Flink, Apache Cassandra.
+Data Lake Migration
+Migrated 20TB of historical sensor data from HDFS to Delta Lake on Databricks. Improved query performance by 40% and cut storage costs. Technologies used: Apache Spark.
+CERTIFICATIONS
+Databricks Certified Associate Developer for Apache Spark
+Issued by Databricks.
+2021-01

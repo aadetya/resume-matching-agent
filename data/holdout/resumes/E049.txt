@@ -1,0 +1,16 @@
+Candidate E049
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+React Developer (Contract) | HealthFirst Retail Group | 2023-06 to Present
+Frontend Developer | Retail Solutions Inc. | 2020-01 to 2023-05
+Junior Web Developer | Retail Solutions Inc. | 2018-03 to 2020-01
+Web Developer (Contract) | Ace Retail Group | 2017-05 to 2018-02
+SKILLS
+React Router; Webpack; CSS3; Progressive Web Apps (PWA); Redux; CI/CD; Babel; Redux DevTools; Contentful; Storybook; JavaScript; HTML5
+EDUCATION
+Associate of Science | Computer Science | Broward College
+2014-09 to 2017-06
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Coursera.
+2021-01

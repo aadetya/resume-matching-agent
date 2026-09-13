@@ -1,0 +1,9 @@
+Candidate R018
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+React Native Developer | Bay Area Health Systems | 2021-03 to Present
+SKILLS
+GraphQL; Bridge; Deep linking; Android Studio; JavaScript; React
+EDUCATION
+PhD | Computer Science | Stanford University
+2016-09 to 2021-06

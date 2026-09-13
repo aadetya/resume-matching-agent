@@ -1,0 +1,75 @@
+{
+  "repo": "Qwen/Qwen3-Reranker-4B",
+  "revision": "22e683669bc0f0bd69640a1354a6d0aebcfeede5",
+  "files": [
+    [
+      ".gitattributes",
+      1570
+    ],
+    [
+      "1_LogitScore/config.json",
+      57
+    ],
+    [
+      "README.md",
+      14707
+    ],
+    [
+      "chat_template.jinja",
+      741
+    ],
+    [
+      "config.json",
+      727
+    ],
+    [
+      "config_sentence_transformers.json",
+      325
+    ],
+    [
+      "generation_config.json",
+      214
+    ],
+    [
+      "merges.txt",
+      1671853
+    ],
+    [
+      "model-00001-of-00002.safetensors",
+      4058781760
+    ],
+    [
+      "model-00002-of-00002.safetensors",
+      3984833200
+    ],
+    [
+      "model.safetensors.index.json",
+      32819
+    ],
+    [
+      "modules.json",
+      280
+    ],
+    [
+      "sentence_bert_config.json",
+      362
+    ],
+    [
+      "special_tokens_map.json",
+      613
+    ],
+    [
+      "tokenizer.json",
+      11422654
+    ],
+    [
+      "tokenizer_config.json",
+      9706
+    ],
+    [
+      "vocab.json",
+      2776833
+    ]
+  ],
+  "path": "<local-path>"
+}

@@ -1,0 +1,17 @@
+Candidate E001
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+HR Operations Assistant | National Retail Solutions (NRS) | 2023-06 to Present
+Managed HR tickets and supported compliance audits for a large retail chain. Helped with onboarding and document flow using various HR systems.
+Customer Service Associate | National Retail Solutions (NRS) | 2022-06 to 2023-05
+Worked at register and helped with returns. Also did some inventory counting and learned about store operations.
+SKILLS
+HR compliance; Onboarding coordination; HR ticket management; Process improvement; SOP documentation; Data quality management; Root cause analysis; ChartHop; SAP SuccessFactors; Google Sheets; BambooHR; DocuSign; Oracle HCM
+EDUCATION
+Bachelor of Science | Business Administration | University of Phoenix
+2021-09 to 2024-06
+PROJECTS
+HR Compliance Tracker
+Built a Google Sheets dashboard to track compliance certificates for 200+ employees. Used conditional formatting to flag expiring documents. Technologies used: SAP SuccessFactors.
+CERTIFICATIONS
+HRIP (HR Information Professional)

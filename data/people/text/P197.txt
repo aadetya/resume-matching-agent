@@ -1,0 +1,21 @@
+Candidate P197
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior Payments Engineer | Escondido Union School District | 2023-06 to Present
+Implement and maintain payment systems for school meal programs, handling ISO 8583 messages and recurring billing for thousands of families. Work on integration with Stripe and Square for online payments, and maintain monitoring and alerting pipelines.
+Freelance Payments Developer | Self-employed | 2022-01 to 2023-05
+Built subscription billing integrations for small SaaS clients using Stripe and Square, focusing on recurring billing and webhook handling. Gained hands-on experience with RTP and SWIFT messaging through side projects.
+SKILLS
+ISO 8583; Real-time payments (RTP); SWIFT messaging; Recurring billing; Kafka; Stripe; Square; Cybersource; Bambora; Monitoring and alerting; Incident response; Python; SQL
+EDUCATION
+Certificate | Web Development | Palomar College
+2021-09 to 2022-06
+PROJECTS
+Subscription Billing API
+Developed a REST API for managing recurring billing, integrating Stripe and Square, and handling ISO 8583 message parsing for card transactions. Technologies used: Python, Django.
+RTP Monitoring Dashboard
+Built a dashboard for monitoring real-time payment flows, using Kafka for streaming transaction data and alerting on anomalies. Technologies used: React, Node.js.
+CERTIFICATIONS
+PCI Professional (PCIP)
+Issued by PCI Security Standards Council.
+2023-01

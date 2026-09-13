@@ -1,0 +1,23 @@
+Candidate P172
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Pharmacy Technician | Midwest Regional Pharmacy | 2016-02 to 2023-01
+Processed 500+ prescriptions weekly, managed inventory, and streamlined filing systems, reducing retrieval time by 30%. Trained 12 new technicians on protocol and insurance billing.
+Pharmacy Technician Lead | MedSupply Logistics | 2013-03 to 2016-01
+Coordinated distribution of pharmaceutical supplies to 20+ clinics. Implemented inventory tracking system that cut stock discrepancies by 25%.
+Junior Software Developer (Contract) | Heartland Dev Studio | 2023-06 to 2023-12
+Built and maintained RESTful APIs and frontend components for a client project. Implemented GraphQL queries and integrated NoSQL database, improving data retrieval speed by 20%.
+SKILLS
+GraphQL; Agile methodologies; Scripting; Scrum; Performance optimization; Pair programming; Debugging; Back-end development; NoSQL databases; Microservices architecture; Front-end development; Relational databases; GitLab; Jenkins; Travis CI; CircleCI; JavaScript; Python; React; Node.js
+EDUCATION
+Associate of Science | Computer Science | Metropolitan Community College
+2020-09 to 2022-06
+Bachelor of Science | Computer Science | University of Missouri-Kansas City
+2022-09 to 2024-06
+PROJECTS
+Inventory Management System
+Developed a full-stack web app to track pharmaceutical inventory, using GraphQL and React. Reduced stockouts by 15% in local clinics. Technologies used: Node.js, MongoDB.
+CERTIFICATIONS
+AWS Certified Developer
+Issued by Amazon Web Services.
+2024-01

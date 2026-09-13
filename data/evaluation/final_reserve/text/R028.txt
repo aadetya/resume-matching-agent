@@ -1,0 +1,9 @@
+Candidate R028
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Python Developer | Norman Public Schools District | 2017-03 to Present
+SKILLS
+Python; Flask; Git; Machine Learning; Code review; Performance optimization
+EDUCATION
+Bachelor's degree | Computer Science | Langston University
+2008-09 to 2012-06

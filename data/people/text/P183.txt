@@ -1,0 +1,23 @@
+Candidate P183
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+API Engineer | FreightSync Technologies | 2021-06 to Present
+Architect and maintain the core webhook delivery platform, ensuring high availability and strict rate limiting for enterprise shipping clients. Orchestrate blue-green deployments of versioned API endpoints, reducing customer-facing downtime by 25%.
+Junior API Engineer | FreightSync Technologies | 2019-01 to 2021-05
+Developed and maintained RESTful endpoints for shipment tracking, integrating SQL and NoSQL databases seamlessly. Implemented Postman/Newman automation suites, slashing regression testing time by 40%.
+Customer Support Specialist | BrightShip Logistics | 2015-08 to 2018-12
+Resolved client issues related to API integrations, gaining deep insight into developer pain points and the importance of clear versioning documentation. Mentored new hires on API usage and troubleshooting best practices.
+SKILLS
+Rate limiting and throttling; Postman/Newman automation; API versioning strategies; Backward compatibility and deprecation policies; API testing (unit, integration, contract); Load testing and stress testing; Database integration (SQL and NoSQL); API performance optimization; Message queuing (e.g., RabbitMQ, SQS); RESTful API design; OAuth 2.0; CI/CD pipelines
+EDUCATION
+Bachelor of Science | Computer Science | University of Florida
+2018-09 to 2020-06
+PROJECTS
+Webhook Reliability Dashboard
+Built a real-time dashboard to monitor webhook delivery latency and failure rates, allowing proactive alerting and reducing incident response time by 50%. Technologies used: React, Node.js, New Relic, Azure API Management.
+API Deprecation Automation
+Created a script to automate the deprecation process for old API versions, ensuring backward compatibility based on usage analytics and customer feedback. Technologies used: Python, Postman, F5 BIG-IP.
+CERTIFICATIONS
+Microsoft Certified: Azure Developer Associate
+Issued by Microsoft.
+2021-01

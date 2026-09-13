@@ -1,0 +1,19 @@
+Candidate R047
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Shift Lead | The Pack Shack | 2015-06 to Present
+Orchestrated daily operations and led a dynamic team to deliver exceptional customer service, while simultaneously managing inventory and cash flow processes. Leveraged a detail-oriented mindset to ensure compliance with corporate policies and drive operational excellence.
+SKILLS
+Python; CI/CD pipelines; Django; FastAPI; GraphQL; Linux command line; Git; Virtual environments; Pipenv; PyCharm; Jupyter Notebook; Bitbucket
+EDUCATION
+Bachelor of Science | Computer Science | University of Arkansas
+2021-09 to 2024-06
+PROJECTS
+Automated Inventory Management System
+Developed a Python-based automation tool integrating with a SQLite database to streamline inventory tracking and generate real-time reports, reducing manual data entry time by 60%. Technologies used: Django, FastAPI, GraphQL.
+Personal Portfolio & CI/CD Pipeline
+Built a personal portfolio site using Django and deployed it via a CI/CD pipeline on Bitbucket, automating testing and deployment with virtual environments and Pipenv. Technologies used: CI/CD pipelines.
+CERTIFICATIONS
+PCEP – Certified Entry-Level Python Programmer
+Issued by Python Institute.
+2024-01

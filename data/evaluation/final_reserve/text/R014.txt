@@ -1,0 +1,34 @@
+Candidate R014
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Data Engineer | Veterans United Nonprofit | 2023-01 to Present
+Lead design and maintenance of ETL pipelines for donor analytics, improving data freshness by 40% through Kafka streaming integration and query tuning. Spearheaded migration to dbt, reducing pipeline development time by 25%.
+Data Engineer | Logistics Group Inc. | 2021-06 to 2022-12
+Developed real-time shipment tracking pipelines using Kafka, handling 2M events daily. Optimized MySQL queries reducing reporting latency by 30%.
+ETL Developer | HealthFirst Solutions | 2020-01 to 2021-05
+Built ETL processes for claims data cleansing and integration, reducing duplicate records by 15%. Implemented API integrations with third-party providers.
+Data Analyst | Market Trends Co. | 2018-08 to 2019-12
+Performed data cleansing and query tuning for customer segmentation, improving campaign ROI by 20%. Assisted in migrating legacy SQL scripts to Python.
+Data Technician | IT Support Services | 2017-01 to 2018-07
+Managed and cleaned data for client reports, reducing error rates by 10%. Automated routine data extraction using Python.
+Signal Intelligence Analyst | Air National Guard | 2014-01 to 2016-12
+Processed and analyzed time-sensitive signal data, ensuring 100% accuracy in reporting. Developed protocols for data integration that reduced analysis time by 25%.
+Junior Data Analyst | Small Business Consulting | 2013-01 to 2013-12
+Assisted in data collection and reporting, improving data accuracy by 15% through regular cleansing.
+SKILLS
+Query tuning; Streaming data processing; ETL pipeline development; API integration; Data integration; Performance tuning; Data cleansing; Python; Apache Kafka; Scala; MySQL; dbt
+EDUCATION
+Associate of Applied Science | Computer Network Systems | ITT Technical Institute
+2012-09 to 2014-06
+PROJECTS
+Real-time Data Pipeline for Donor Analytics
+Built a streaming pipeline using Kafka and Python to process donation events in near real-time, improving data freshness by 40%. Technologies used: Apache Kafka, dbt, MySQL.
+Data Cleansing Automation
+Developed Python scripts to automate data cleansing for legacy systems, reducing manual effort by 60% and errors by 25%. Technologies used: MySQL.
+CERTIFICATIONS
+AWS Certified Big Data – Specialty
+Issued by Amazon Web Services.
+2021-01
+Google Professional Data Engineer
+Issued by Google.
+2022-01

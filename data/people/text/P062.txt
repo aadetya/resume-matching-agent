@@ -1,0 +1,25 @@
+Candidate P062
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Frontend Engineer | SwiftPath Logistics Solutions | 2015-06 to Present
+Lead architect for customer-facing logistics portal, focusing on accessibility and React performance. Mentor a guild of frontend engineers, drive UI component library strategy.
+Senior Frontend Engineer | PrimeRoute Distribution | 2012-03 to 2015-05
+Developed responsive React applications for fleet tracking and route optimization, reducing load times by 40% through code splitting and performance tuning.
+Frontend Developer | Desert Bloom Services | 2008-07 to 2012-02
+Built and maintained warehouse management dashboards. Introduced hook patterns and state management best practices to the team.
+Warehouse Associate | Sunbelt Freight | 2005-02 to 2008-06
+Managed inventory systems and scheduling. Translated operational pain points into automated solutions, sparking a transition to software engineering.
+SKILLS
+JavaScript (ES6+); State Management; Hooks; Webpack; CSS3; Git; Performance Optimization; Next.js; HTML5; GraphQL; Cypress; TypeScript; Redux; Accessibility (WCAG); Jest
+PROJECTS
+Accessible Route Tracker
+Open-source React component for accessible map and route visualization, achieving WCAG 2.1 AA compliance. Used in several logistics platforms. Technologies used: Next.js, GraphQL, Storybook.
+Logistics UI Kit
+Design system of reusable React components with full keyboard navigation and screen reader support, published via Storybook. Technologies used: CSS3, Webpack.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2020-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2019-01

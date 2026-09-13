@@ -1,0 +1,32 @@
+[
+  {
+    "case_id": "header_cv",
+    "text": "Curriculum Vitae\nJane Morgan\njane@example.test\nFrontend Engineer | Example Works | Jan 2020 - Jan 2026\nBuilt React applications with JavaScript.",
+    "expected_name": "Jane Morgan"
+  },
+  {
+    "case_id": "header_profile",
+    "text": "Professional profile\nJohn Smith\njohn@example.test\nBackend Engineer | Example Works | Jan 2020 - Jan 2026\nBuilt Python services with SQL.",
+    "expected_name": "John Smith"
+  },
+  {
+    "case_id": "header_resume",
+    "text": "Resume\nSofia Alvarez\nsofia@example.test\nData Engineer | Example Works | Jan 2020 - Jan 2026\nCreated SQL pipelines with Apache Spark.",
+    "expected_name": "Sofia Alvarez"
+  },
+  {
+    "case_id": "ordinary_name",
+    "text": "John Smith\njohn@example.test\nBackend Engineer | Example Works | Jan 2020 - Jan 2026\nBuilt Python services with SQL.",
+    "expected_name": "John Smith"
+  },
+  {
+    "case_id": "ordinary_unicode",
+    "text": "María García\nmaria@example.test\nFrontend Engineer | Example Works | Jan 2020 - Jan 2026\nBuilt React applications with JavaScript.",
+    "expected_name": "María García"
+  },
+  {
+    "case_id": "single_name",
+    "text": "Asha\nasha@example.test\nFrontend Engineer | Example Works | Jan 2020 - Jan 2026\nBuilt React applications with JavaScript.",
+    "expected_name": "Asha"
+  }
+]

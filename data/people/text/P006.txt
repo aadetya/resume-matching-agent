@@ -1,0 +1,21 @@
+Candidate P006
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Full Stack Developer | Northwind Software Solutions | 2024-06 to Present
+Developing full-stack features for a CMS platform using Node.js and React. Implemented E2E tests with Cypress and Playwright, and integrated CI/CD pipelines using Docker and Webpack.
+Full Stack Developer (Returned) | Northwind Software Solutions | 2019-03 to 2021-01
+Initially hired as a junior developer; promoted to mid-level after delivering CMS modules. Built responsive UI with CSS3 and managed MySQL databases. Collaborated using Slack and Git, and used Postman for API testing.
+Freelance Web Developer | Self-employed | 2021-02 to 2024-05
+Returned to full-time study for a CS degree; took freelance projects to maintain skills. Built small sites for local businesses using CMS/Node.js, handled responsive layout and ran basic tests with Cypress.
+SKILLS
+Responsive design; MySQL; End-to-end testing (Cypress, Playwright); Node.js; JavaScript (ES6+); State management (Redux, Zustand); Express.js; Docker; CSS3; Slack; Git; npm/yarn/pnpm; Postman; Webpack
+EDUCATION
+B.S. | Computer Science | University of Minnesota Duluth
+2021-09 to 2024-06
+PROJECTS
+CMS Plugin for Multilingual Content
+Developed a plugin enabling multi-language support for a corporate CMS. Utilized Node.js, Express, and MySQL; integrated state management with Redux for frontend. Technologies used: Express.js.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

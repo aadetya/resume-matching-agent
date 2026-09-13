@@ -1,0 +1,17 @@
+Candidate P150
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Sales Associate | Beachside Surf Shop | 2022-06 to 2023-08
+Processed POS transactions and handled cash reconciliation. Learned to manage chargebacks and disputes from a merchant perspective.
+IT Support Assistant | California State University, Long Beach | 2023-09 to 2024-05
+Provided technical support for campus payment systems. Assisted with database queries and troubleshooting payment gateway issues.
+SKILLS
+Caching strategies; Fraud detection and prevention; Database design; Chargebacks and disputes; SWIFT messaging; ISO 8583; PostgreSQL; PayPal; Adyen; Braintree; Dwolla
+EDUCATION
+Bachelor of Science | Computer Science | Chapman University
+2020-09 to 2024-06
+PROJECTS
+Payment Gateway Simulator
+Built a simulator for ISO 8583 message parsing and routing. Implemented fraud detection rule engine and integrated with a test Adyen sandbox. Technologies used: Python, PostgreSQL.
+Chargeback Management Tool
+Developed a dashboard to track chargebacks and disputes, using Dwolla for transaction data and implementing caching strategies for performance. Technologies used: React, Node.js, Redis.

@@ -1,0 +1,20 @@
+Candidate E029
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Case Manager Supervisor | Antelope Valley Social Services | 2013-06 to 2023-08
+Oversaw a team of case workers, managed caseloads, and coordinated with community partners. Led process improvements that reduced report turnaround by 30%.
+Family Services Advocate | Los Angeles County Department of Children and Family Services | 2010-02 to 2013-05
+Conducted home visits, developed service plans, and documented case progress. Maintained detailed records in a state database.
+Junior Python Developer (Contract) | DataStream Analytics | 2024-01 to 2024-05
+Built and maintained Python scripts for data extraction from telecom APIs. Used Docker to containerize a data pipeline and implemented Redis caching.
+Warehouse Associate | FedEx Ground | 2008-01 to 2010-01
+Processed shipments and operated forklifts. Cross-trained in inventory tracking systems.
+SKILLS
+Python; GIL; MySQL; Redis; Docker; RESTful APIs; Linux command line; WebSockets; Code review; Refactoring; Pip; GitHub Actions; Bitbucket
+PROJECTS
+Telecom Data Dashboard
+Created a Python-based dashboard to visualize network performance metrics. Integrated REST APIs with MySQL, used Redis for caching, and deployed via Docker. Technologies used: RESTful APIs.
+CERTIFICATIONS
+PCEP – Certified Entry-Level Python Programmer
+Issued by Python Institute.
+2023-01

@@ -1,0 +1,21 @@
+Candidate R007
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Intern, Data Analytics | Nutmeg Energy Cooperative | 2023-06 to 2023-08
+Assisted with data pipeline maintenance, wrote Python scripts for data extraction, and supported BI team with SQL queries.
+IT Support Technician | Liberty Electric Cooperative | 2024-01 to Present
+Provide Tier 1 support and maintain internal tools; scripted automated backup using Python and cron.
+SKILLS
+Python; Linux command line; Docker; SQLAlchemy; Celery; AWS; Concurrency; Jenkins; CircleCI; GitHub; Poetry; Pipenv; SQL; Git
+EDUCATION
+Bachelor of Science | Computer Science | Trinity College
+2020-09 to 2024-06
+PROJECTS
+Energy Usage Prediction Model
+Built a linear regression model to forecast energy consumption for co-op members using scikit-learn; deployed as a REST API with Flask and Docker. Technologies used: Python, AWS.
+Task Queue for Data Processing
+Developed a Celery-based task queue to process large CSV uploads asynchronously, improving throughput and reliability. Technologies used: Python, Redis, Docker.
+CERTIFICATIONS
+PCEP – Certified Entry-Level Python Programmer
+Issued by Python Institute.
+2024-01

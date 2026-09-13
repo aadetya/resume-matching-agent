@@ -1,0 +1,22 @@
+Candidate E027
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Developer | Lexington Federal IT Services | 2022-06 to Present
+Maintain and enhance internal web applications using Vue.js and TypeScript. Implement design system components and ensure WCAG compliance.
+Web Developer (Freelance) | Self-employed | 2020-01 to 2022-05
+Built responsive websites and PWAs for local small businesses. Used React and Vite for client projects.
+Retail Sales Associate | Bluegrass Home Goods | 2018-03 to 2019-12
+SKILLS
+Version Control (Git); HTML5; REST APIs; Progressive Web Apps (PWA); Build Tools (Webpack, Vite); TypeScript; Design Systems; Vue.js; React; Web Accessibility (WCAG); CSS; JavaScript; Node.js
+PROJECTS
+Design System for Local Non-Profit
+Created a token-based design system with React components, ensuring accessibility and consistency. Technologies used: TypeScript, Design Tokens, Storybook.
+PWA Weather App
+Developed a progressive web app with offline support using Vite and service workers. Technologies used: React, PWA, REST API.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2021-01
+freeCodeCamp Responsive Web Design Certification
+Issued by freeCodeCamp.
+2020-01

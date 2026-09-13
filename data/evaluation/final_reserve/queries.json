@@ -1,0 +1,102 @@
+[
+  {
+    "query_id": "FRQ01",
+    "name": "Backend Python and broad database capability",
+    "query": "Find backend developers with personal Python implementation and broad SQL database implementation experience. Relational schema work, query construction through an ORM, migrations and database performance work can support SQL capability; a database name alone cannot. Handwritten SQL is not required. Where dated employment is supplied, assess at least three years of total employment; this is not three years using each skill.",
+    "requirements": {
+      "title": "Backend Python and broad database capability",
+      "role": "backend_developer",
+      "must_have": [
+        [
+          "python"
+        ],
+        [
+          "sql"
+        ]
+      ],
+      "nice_to_have": [],
+      "minimum_years": 3,
+      "skill_years": {},
+      "capability_skills": [
+        "sql"
+      ],
+      "source_text": "Find backend developers with personal Python implementation and broad SQL database implementation experience. Relational schema work, query construction through an ORM, migrations and database performance work can support SQL capability; a database name alone cannot. Handwritten SQL is not required. Where dated employment is supplied, assess at least three years of total employment; this is not three years using each skill.",
+      "semantic_brief": "Find backend developers with personal Python implementation and broad SQL database implementation experience. Relational schema work, query construction through an ORM, migrations and database performance work can support SQL capability; a database name alone cannot. Handwritten SQL is not required. Where dated employment is supplied, assess at least three years of total employment; this is not three years using each skill.",
+      "unresolved": []
+    },
+    "date_applicability": "Apply the total-employment criterion only when the supplied source contains a usable employment start and end/current date. Otherwise omit the duration criterion for this assigned evaluation; retain missing dates as a source limitation.",
+    "selection_strata": {
+      "backend engineer": 4,
+      "python developer": 4,
+      "api engineer": 4,
+      "full stack developer": 3,
+      "devops engineer": 3
+    }
+  },
+  {
+    "query_id": "FRQ02",
+    "name": "Frontend React and TypeScript implementation",
+    "query": "Find frontend developers who personally implemented a browser interface using React and TypeScript. Team stacks, global skills lists and courses alone do not establish personal implementation. React Native alone does not establish browser React work. Where dated employment is supplied, assess at least three years of total employment; this is not three years using each skill.",
+    "requirements": {
+      "title": "Frontend React and TypeScript implementation",
+      "role": "frontend_developer",
+      "must_have": [
+        [
+          "react"
+        ],
+        [
+          "typescript"
+        ]
+      ],
+      "nice_to_have": [],
+      "minimum_years": 3,
+      "skill_years": {},
+      "capability_skills": [],
+      "source_text": "Find frontend developers who personally implemented a browser interface using React and TypeScript. Team stacks, global skills lists and courses alone do not establish personal implementation. React Native alone does not establish browser React work. Where dated employment is supplied, assess at least three years of total employment; this is not three years using each skill.",
+      "semantic_brief": "Find frontend developers who personally implemented a browser interface using React and TypeScript. Team stacks, global skills lists and courses alone do not establish personal implementation. React Native alone does not establish browser React work. Where dated employment is supplied, assess at least three years of total employment; this is not three years using each skill.",
+      "unresolved": []
+    },
+    "date_applicability": "Apply the total-employment criterion only when the supplied source contains a usable employment start and end/current date. Otherwise omit the duration criterion for this assigned evaluation; retain missing dates as a source limitation.",
+    "selection_strata": {
+      "frontend engineer": 4,
+      "react developer": 4,
+      "typescript developer": 2,
+      "react native developer": 3,
+      "full stack developer": 3
+    }
+  },
+  {
+    "query_id": "FRQ03",
+    "name": "Data engineering Python and broad database capability",
+    "query": "Find data engineers who personally implemented data pipelines or transformations using Python and SQL database functionality. Relational query construction through an ORM, substantive schema work, migrations and database performance work can support broad SQL capability; product names alone cannot. Handwritten SQL is not required. Where dated employment is supplied, assess at least three years of total employment; this is not three years using each skill.",
+    "requirements": {
+      "title": "Data engineering Python and broad database capability",
+      "role": "data_engineer",
+      "must_have": [
+        [
+          "python"
+        ],
+        [
+          "sql"
+        ]
+      ],
+      "nice_to_have": [],
+      "minimum_years": 3,
+      "skill_years": {},
+      "capability_skills": [
+        "sql"
+      ],
+      "source_text": "Find data engineers who personally implemented data pipelines or transformations using Python and SQL database functionality. Relational query construction through an ORM, substantive schema work, migrations and database performance work can support broad SQL capability; product names alone cannot. Handwritten SQL is not required. Where dated employment is supplied, assess at least three years of total employment; this is not three years using each skill.",
+      "semantic_brief": "Find data engineers who personally implemented data pipelines or transformations using Python and SQL database functionality. Relational query construction through an ORM, substantive schema work, migrations and database performance work can support broad SQL capability; product names alone cannot. Handwritten SQL is not required. Where dated employment is supplied, assess at least three years of total employment; this is not three years using each skill.",
+      "unresolved": []
+    },
+    "date_applicability": "Apply the total-employment criterion only when the supplied source contains a usable employment start and end/current date. Otherwise omit the duration criterion for this assigned evaluation; retain missing dates as a source limitation.",
+    "selection_strata": {
+      "data engineer": 4,
+      "big data engineer": 3,
+      "streaming data engineer": 3,
+      "machine learning engineer": 3,
+      "analytics engineer": 3
+    }
+  }
+]

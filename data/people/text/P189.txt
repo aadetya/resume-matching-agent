@@ -1,0 +1,24 @@
+Candidate P189
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Cybersecurity Analyst | Marine Corps Cyber Operations Group | 2016-06 to Present
+Conducted network security monitoring and incident response. Authored detailed SOPs and technical reports. Utilized COTS tools and custom scripts to automate threat detection.
+Network Administrator | Marine Corps Base Camp Lejeune | 2013-08 to 2016-05
+Managed network infrastructure and ensured operational readiness. Collaborated with cross-functional teams to troubleshoot connectivity issues. Provided training to junior Marines.
+SKILLS
+Java; object-oriented programming; code review; HTTP; data structures; test-driven development; refactoring; Docker; cloud computing; C++; HTML/CSS; GCP; Azure; PostgreSQL; MongoDB; VS Code; MySQL; Travis CI
+EDUCATION
+Cybersecurity | Cybersecurity Bootcamp
+2021-09 to 2022-06
+PROJECTS
+Threat Intelligence Dashboard
+Built a web-based dashboard to visualize threat data using HTML/CSS, JavaScript, and REST APIs. Integrated with MongoDB for storage and deployed on GCP.
+Secure File Transfer Portal
+Developed a secure file transfer application using Java and Spring Boot. Implemented user authentication and authorization. Used PostgreSQL for data persistence.
+CERTIFICATIONS
+AWS Certified Cloud Practitioner
+Issued by Amazon Web Services.
+2022-01
+Google Associate Cloud Engineer
+Issued by Google.
+2023-01

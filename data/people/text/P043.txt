@@ -1,0 +1,28 @@
+Candidate P043
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Operations Analyst | Mesquite Independent School District | 2015-03 to Present
+Lead onboarding/offboarding for 4,000+ staff; automate HR reports; improve data accuracy.
+Operations Analyst | Garland Independent School District | 2012-06 to 2015-02
+Managed HRIS data, supported payroll, streamlined offboarding checklists.
+HR Generalist | Dallas County Schools | 2009-01 to 2012-05
+Handled employee records, coordinated New Hire Orientations.
+HR Assistant | Dallas Independent School District | 2007-08 to 2009-01
+Processed personnel actions, maintained files.
+SKILLS
+Stakeholder management; Employee records management; HR data analysis; Turnover analysis; Process improvement; Offboarding coordination; HRIS data management; Workforce analytics; Report automation; Data visualization; SAP SuccessFactors; Python; Workday; Tableau; ServiceNow; Excel; SQL
+EDUCATION
+Bachelor of Business Administration | Management Information Systems | Prairie View A&M University
+2003-09 to 2007-06
+PROJECTS
+Offboarding Automation Project
+Built ServiceNow workflow to automate exit tasks, reduced process time by 40%. Technologies used: Python.
+Turnover Dashboard
+Tableau dashboard tracking district turnover trends by campus and role. Technologies used: SQL.
+CERTIFICATIONS
+HRIP (HR Information Professional)
+Issued by IHRIM.
+2016-01
+PHR (Professional in Human Resources)
+Issued by HRCI.
+2012-01

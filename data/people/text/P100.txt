@@ -1,0 +1,32 @@
+Candidate P100
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead DevOps Engineer | Pacific Horizon Credit Union | 2020-03 to 2022-11
+Spearheaded the migration of legacy on-premise infrastructure to a Kubernetes-based cloud platform, driving a 40% reduction in deployment time. Championed a 'platform-as-a-product' mindset, delivering self-service infrastructure capabilities that empowered development squads.
+DevOps Engineer (Contract) | MediConnect Health Systems | 2019-01 to 2020-02
+Architected and implemented CI/CD pipelines for a healthcare analytics platform, ensuring HIPAA compliance through robust secrets management. Facilitated cross-functional workshops to promote observability best practices, enhancing system reliability.
+DevOps Engineer | SecureBank Community Bank | 2017-06 to 2018-12
+Orchestrated containerization efforts using Docker and Kubernetes, reducing infrastructure costs by 25%. Implemented comprehensive log management and analysis solutions to streamline incident response processes.
+Junior DevOps Engineer | TechBridge Solutions | 2016-01 to 2017-05
+Supported infrastructure automation projects using Terraform and Ansible, focusing on repeatable and testable infrastructure. Collaborated with development teams to refine version control strategies and enhance code deployment workflows.
+Systems Administrator (Apprenticeship) | Local Union 441 | 2013-07 to 2015-12
+Gained hands-on experience in network administration and server maintenance during a union apprenticeship. Developed a strong foundation in troubleshooting and system reliability that later informed a pivot to DevOps.
+SKILLS
+Version control strategies; Performance tuning; Infrastructure as Code (IaC); Kubernetes cluster administration; Observability and distributed tracing; Infrastructure testing; CI/CD pipeline design; Incident response and management; Secrets management; Log management and analysis; Terraform; Docker; Kubernetes; Helm; Python; Bash; AWS; GCP
+EDUCATION
+Associate of Science | Computer Information Systems | Orange Coast College
+2011-09 to 2013-06
+Systems Administration | Union Apprenticeship Program
+2013-09 to 2015-06
+PROJECTS
+Automated Incident Response Playbook
+Developed an automated incident response system using Python and AWS Lambda, integrating with PagerDuty and Slack to reduce mean time to resolution by 30%.
+Infrastructure as Code Migration
+Led the migration of a monolithic application to a microservices architecture on Kubernetes, using Terraform and Helm for declarative infrastructure management. Technologies used: Docker.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2021-01
+CKA: Certified Kubernetes Administrator
+Issued by Cloud Native Computing Foundation.
+2022-01

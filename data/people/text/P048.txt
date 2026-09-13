@@ -1,0 +1,20 @@
+Candidate P048
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Streaming Data Engineer | AdTech Innovations | 2016-03 to Present
+Led the design and implementation of real-time ad impression pipelines using Kafka and Flink. Managed a small team of engineers and handled on-call rotations for streaming infrastructure.
+Principal Data Engineer | AdTech Innovations | 2010-01 to 2016-02
+Architected and maintained data pipelines for ad serving and analytics. Built streaming solutions for clickstream and impression data.
+Big Data Engineer | DataStream Solutions | 2005-06 to 2009-12
+Developed batch and streaming data processing systems. Worked on early Kafka deployments and Hadoop clusters.
+Junior Software Engineer | WebWorks | 2002-01 to 2005-05
+Worked on web application development and database integration.
+SKILLS
+Event-driven architecture; Data ingestion; Real-time data processing; Monitoring and alerting for streaming; Streaming SQL; Stateful stream processing; Performance tuning for streaming workloads; Low-latency pipelines; Avro serialization; Streaming joins; Apache Flink; Apache Kafka; Debezium; Kafka Streams; Apache Spark; Java
+EDUCATION
+Certificate | Software Engineering | Coding Bootcamp
+2001-09 to 2001-06
+CERTIFICATIONS
+Confluent Certified Developer for Apache Kafka
+Issued by Confluent.
+2019-01

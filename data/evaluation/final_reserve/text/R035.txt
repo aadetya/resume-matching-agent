@@ -1,0 +1,23 @@
+Candidate R035
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Analyst Intern | Saint Thomas Health | 2023-06 to 2023-08
+Assisted in building ETL pipelines and data models for patient analytics. Created Tableau dashboards and performed data quality checks.
+Research Assistant | Middle Tennessee State University | 2023-09 to 2024-05
+Supported a research project on data lineage. Helped document data flows and refine data quality metrics.
+Part-time Data Entry Clerk | Murfreesboro Medical Clinic | 2024-06 to 2024-12
+Maintained patient records and assisted with basic data cleaning. Learned about data governance in a clinical setting.
+SKILLS
+ETL/ELT; Data pipelines; Data modeling; Data warehousing; SQL; Python; Data quality testing; Data profiling; Data lineage; Stakeholder management; Requirement gathering; Statistical analysis; Business intelligence; Semantic layer design; Git; Tableau; Databricks
+EDUCATION
+Certificate | Data Analytics | Motlow State Community College
+2022-09 to 2024-06
+PROJECTS
+ETL Pipeline for Patient Satisfaction
+Built an end-to-end ETL pipeline using Databricks to analyze patient survey data. Implemented data quality tests and documented data lineage. Technologies used: SQL, Python, Git.
+Tableau Dashboard for Clinic Operations
+Created interactive dashboards in Tableau to visualize appointment trends and no-show rates. Gathered requirements from clinic staff and presented findings. Technologies used: SQL.
+CERTIFICATIONS
+dbt Certified Developer
+Issued by dbt Labs.
+2024-01

@@ -1,0 +1,36 @@
+Candidate P184
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Data Engineer | Nonprofit Health Alliance | 2022-03 to Present
+Design and implement real-time machine learning data pipelines. Using GCP Dataflow and dbt. Optimize query performance on Redshift.
+Lead Data Engineer | Insurance Solutions Group | 2020-08 to 2022-01
+Led design of streaming data pipelines for claims analytics. Implemented Scala-based processing and schema evolution strategies.
+Data Engineer | HealthFirst Nonprofit | 2019-02 to 2020-05
+Developed ETL pipelines for donation data. Focused on data cleansing and validation.
+Data Engineer | Texas Mutual Insurance | 2017-09 to 2018-12
+Built data pipelines for policy and claims data. Optimized SQL queries for reporting.
+Data Analyst | Community Health Systems | 2016-03 to 2017-06
+Analyzed patient data, supported reporting. Began learning data engineering on the job.
+IT Support Specialist | Amerigroup | 2014-11 to 2016-02
+Supported internal systems, gained exposure to data systems.
+Junior Data Analyst | State Farm | 2013-05 to 2014-09
+Assisted with data entry and reporting.
+Various roles | Several companies | 2008-01 to 2013-03
+Worked in customer service and administrative roles, learned programming on the side.
+SKILLS
+Metadata management; API integration; Data partitioning; Data validation; Data modeling; Performance tuning; Workflow scheduling; Data cleansing; Streaming data processing; Real-time data processing; SQL optimization; Schema design; Google Cloud Dataflow; dbt; Redshift; Python; Apache Kafka; Apache Spark; Docker
+EDUCATION
+Associate of Applied Science | Computer Science | Austin Community College
+2009-09 to 2012-06
+PROJECTS
+Real-time Claims Monitoring Pipeline
+Built streaming pipeline to detect fraudulent claims in real-time using Dataflow and Kafka. Reduced detection time by 70%. Technologies used: Google Cloud Dataflow, Apache Kafka, Scala, Redshift.
+Data Lake Migration
+Migrated on-prem data warehouse to cloud-based lakehouse using dbt and Redshift. Implemented partitioning and schema design. Technologies used: Google Cloud Storage, Airflow.
+CERTIFICATIONS
+Google Professional Data Engineer
+Issued by Google.
+2021-01
+Databricks Certified Data Engineer Associate
+Issued by Databricks.
+2020-01

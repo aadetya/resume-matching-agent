@@ -1,0 +1,28 @@
+Candidate P038
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Streaming Data Engineer | DataFlow Solutions | 2018-03 to Present
+Lead design and implementation of real-time streaming pipelines using Flink and Kafka. Optimize performance and ensure fault tolerance. Mentor junior engineers on streaming best practices. Work with Grafana for monitoring and alerting.
+Senior Streaming Data Engineer | DataFlow Solutions | 2016-02 to 2018-02
+Built and maintained streaming ETL pipelines. Implemented checkpointing and recovery mechanisms. Developed low-latency solutions for real-time analytics.
+Streaming Data Engineer | Nashville Tech Services | 2013-04 to 2015-11
+Managed Kafka clusters and implemented offset management. Worked on Spark Streaming and Flink. Developed monitoring dashboards with Grafana.
+Data Engineer | Nashville Tech Services | 2012-05 to 2013-03
+Started as data engineer, work on batch processing and some streaming. Learned Kafka and Spark. Had a gap from late 2015 to early 2016.
+SKILLS
+Apache Flink; Kafka Streams; Apache Spark Streaming; Fault tolerance in streaming; Checkpointing and recovery; Low-latency pipelines; Performance tuning for streaming workloads; Offset management; Monitoring and alerting for streaming; Streaming ETL; Data partitioning; Parquet file format; Confluent Platform; Apache Kafka; Apache Pulsar; Azure Event Hubs; Amazon Kinesis; Grafana
+EDUCATION
+Bachelor of Science | Computer Science | Middle Tennessee State University
+2008-09 to 2012-06
+PROJECTS
+Real-time anomaly detection
+Built a streaming ML pipeline using Flink and Kafka to detect anomalies in IoT sensor data. Implemented stateful processing and checkpointing for fault tolerance. Technologies used: Apache Flink, Apache Kafka, Parquet, Grafana.
+Streaming ETL optimization
+Optimized existing streaming ETL to reduce latency by 40%. Used partitioning and performance tuning. Implemented monitoring with Grafana. Technologies used: Kafka Streams, Apache Kafka, Confluent Platform.
+CERTIFICATIONS
+Confluent Certified Developer for Apache Kafka
+Issued by Confluent.
+2019-01
+Confluent Certified Administrator for Apache Kafka
+Issued by Confluent.
+2021-01

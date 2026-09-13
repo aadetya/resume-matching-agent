@@ -1,0 +1,438 @@
+{
+  "schema_version": 2,
+  "source": "Compiled build_graph with ContextualReviewer connected, and ContextualReviewer.review_graph",
+  "provider_calls_during_generation": 0,
+  "workflow_policy": "contextual",
+  "graphs": {
+    "workflow": {
+      "title": "Resume matching: connected conversation workflow",
+      "description": "Compiled conversation graph with local initial retrieval, detailed candidate assessment, comparative recommendations and persistent feedback.",
+      "nodes": {
+        "__start__": {
+          "title": "START",
+          "subtitle": "A new review",
+          "detail": "A new conversation enters the compiled graph. Its review ID isolates the saved state.",
+          "fields": []
+        },
+        "parse_jd": {
+          "title": "Parse request",
+          "subtitle": "Select the next action",
+          "detail": "Interpret a job description or follow-up, select an action, and propose complete criteria. Clarification, tool requests, and review actions follow their declared branches.",
+          "fields": [
+            "messages",
+            "request",
+            "plan"
+          ]
+        },
+        "extract_requirements": {
+          "title": "Extract requirements",
+          "subtitle": "Validate proposed criteria",
+          "detail": "Validate criteria and retain exact user conditions, examples and interpretation assumptions. Preserve unchanged meanings and evidence standards through refinements; compile new or changed meanings before candidate assessment. Keep uncommitted requirements separate until the new search succeeds.",
+          "fields": [
+            "pending_requirements"
+          ]
+        },
+        "search_resumes": {
+          "title": "Search resumes",
+          "subtitle": "Retrieve from the corpus",
+          "detail": "Search source windows with local dense and lexical retrieval. This step retrieves candidates; it does not use heuristic skill or duration gaps to reject candidates in the connected contextual workflow.",
+          "fields": [
+            "pending_search_result",
+            "tool_events"
+          ]
+        },
+        "expand_search": {
+          "title": "Expand retrieval",
+          "subtitle": "Qwen3 full-resume ranking",
+          "detail": "Retrieve original passages for each criterion, then score every complete resume with the pinned Qwen3 Reranker 4B. Learned relevance determines the shortlist without a lexical score blend or an early candidate cut. This stage makes no per-candidate OpenAI call and no qualification decision.",
+          "fields": [
+            "pending_search_result",
+            "tool_events"
+          ]
+        },
+        "rank_candidates": {
+          "title": "Rank candidates",
+          "subtitle": "Select ten provisional profiles",
+          "detail": "Select ten provisional candidates by retrieval relevance. Retain per-criterion passage leads and reserve candidate IDs. Do not infer eligibility, years or strengths. A changed requirement revision clears previous detailed findings and recommendations.",
+          "fields": [
+            "requirements",
+            "requirements_version",
+            "shortlist",
+            "ranking_changes"
+          ]
+        },
+        "generate_report": {
+          "title": "Generate report",
+          "subtitle": "Render current state",
+          "detail": "Render the current screening findings, comparisons, questions, or error response from stored state. Keep source excerpts and unresolved evidence visible in the conversation.",
+          "fields": [
+            "report",
+            "screening_report",
+            "messages"
+          ]
+        },
+        "human_feedback": {
+          "title": "Human feedback",
+          "subtitle": "Save, pause, and resume",
+          "detail": "A LangGraph interrupt pauses the conversation. A new message resumes the same review through its checkpoint and returns to request interpretation. The application uses durable SQLite checkpoints.",
+          "fields": [
+            "checkpoint",
+            "session_id",
+            "pending_nodes"
+          ]
+        },
+        "compare_candidates": {
+          "title": "Compare candidates",
+          "subtitle": "Explain the differences",
+          "detail": "Resolve candidate IDs and compare the available source evidence and current criterion findings. A comparison does not silently change the job requirements.",
+          "fields": [
+            "comparison",
+            "tool_events"
+          ]
+        },
+        "interview_questions": {
+          "title": "Interview questions",
+          "subtitle": "Explicit request after review",
+          "detail": "On request, prepare candidate-specific questions from evidence gaps and reported work, with follow-ups and assessment guidance.",
+          "fields": [
+            "questions",
+            "tool_events"
+          ]
+        },
+        "file_tool": {
+          "title": "File tools",
+          "subtitle": "Read, list, search, write",
+          "detail": "Use the inherited hardened filesystem tools. Reads stay inside the project; generated reports are written inside the designated report directory.",
+          "fields": [
+            "tool_request",
+            "tool_result"
+          ]
+        },
+        "deep_screen": {
+          "title": "Detailed screening",
+          "subtitle": "Review source evidence",
+          "detail": "Run the first full-source qualification assessment on up to ten candidates. Extract and audit work records, assess requirements and useful context, calculate dates locally, then audit evidence. Publish completed and pending records with candidate progress.",
+          "fields": [
+            "shortlist",
+            "detailed_reviews",
+            "round",
+            "deep_screen_version"
+          ]
+        },
+        "final_screen": {
+          "title": "Recommendations",
+          "subtitle": "Decision policy + audited memo",
+          "detail": "Check completed evidence and derive advance, hold or no-hire boundaries. Generate a cohort memo with comparisons, justified priority groups and decision contingencies. Audit its claims against reviewed facts and frozen requirements before publishing. No full-resume reassessment.",
+          "fields": [
+            "shortlist",
+            "decision_memo",
+            "round"
+          ]
+        },
+        "finish_review": {
+          "title": "Complete review",
+          "subtitle": "Record human completion",
+          "detail": "An explicit completion request ends this conversation workflow while preserving the saved screening report and its evidence.",
+          "fields": [
+            "status",
+            "messages"
+          ]
+        },
+        "__end__": {
+          "title": "END",
+          "subtitle": "Review complete",
+          "detail": "The human reviewer explicitly completed this workflow.",
+          "fields": [
+            "status"
+          ]
+        }
+      },
+      "edges": [
+        {
+          "source": "__start__",
+          "target": "parse_jd",
+          "conditional": false
+        },
+        {
+          "source": "compare_candidates",
+          "target": "generate_report",
+          "conditional": false
+        },
+        {
+          "source": "deep_screen",
+          "target": "final_screen",
+          "conditional": true
+        },
+        {
+          "source": "deep_screen",
+          "target": "generate_report",
+          "conditional": true
+        },
+        {
+          "source": "expand_search",
+          "target": "generate_report",
+          "conditional": true
+        },
+        {
+          "source": "expand_search",
+          "target": "rank_candidates",
+          "conditional": true
+        },
+        {
+          "source": "extract_requirements",
+          "target": "generate_report",
+          "conditional": true
+        },
+        {
+          "source": "extract_requirements",
+          "target": "search_resumes",
+          "conditional": true
+        },
+        {
+          "source": "file_tool",
+          "target": "generate_report",
+          "conditional": false
+        },
+        {
+          "source": "final_screen",
+          "target": "generate_report",
+          "conditional": false
+        },
+        {
+          "source": "generate_report",
+          "target": "human_feedback",
+          "conditional": false
+        },
+        {
+          "source": "human_feedback",
+          "target": "parse_jd",
+          "conditional": false
+        },
+        {
+          "source": "interview_questions",
+          "target": "generate_report",
+          "conditional": false
+        },
+        {
+          "source": "parse_jd",
+          "target": "compare_candidates",
+          "conditional": true
+        },
+        {
+          "source": "parse_jd",
+          "target": "deep_screen",
+          "conditional": true
+        },
+        {
+          "source": "parse_jd",
+          "target": "extract_requirements",
+          "conditional": true
+        },
+        {
+          "source": "parse_jd",
+          "target": "file_tool",
+          "conditional": true
+        },
+        {
+          "source": "parse_jd",
+          "target": "final_screen",
+          "conditional": true
+        },
+        {
+          "source": "parse_jd",
+          "target": "finish_review",
+          "conditional": true
+        },
+        {
+          "source": "parse_jd",
+          "target": "generate_report",
+          "conditional": true
+        },
+        {
+          "source": "parse_jd",
+          "target": "interview_questions",
+          "conditional": true
+        },
+        {
+          "source": "rank_candidates",
+          "target": "generate_report",
+          "conditional": false
+        },
+        {
+          "source": "search_resumes",
+          "target": "expand_search",
+          "conditional": true
+        },
+        {
+          "source": "search_resumes",
+          "target": "generate_report",
+          "conditional": true
+        },
+        {
+          "source": "finish_review",
+          "target": "__end__",
+          "conditional": false
+        }
+      ],
+      "routes": {
+        "all": {
+          "title": "All transitions",
+          "path": []
+        },
+        "search": {
+          "title": "Initial search",
+          "path": [
+            "__start__",
+            "parse_jd",
+            "extract_requirements",
+            "search_resumes",
+            "expand_search",
+            "rank_candidates",
+            "generate_report",
+            "human_feedback"
+          ]
+        },
+        "refine": {
+          "title": "Refine requirements",
+          "path": [
+            "human_feedback",
+            "parse_jd",
+            "extract_requirements",
+            "search_resumes",
+            "expand_search",
+            "rank_candidates",
+            "generate_report",
+            "human_feedback"
+          ]
+        },
+        "deep": {
+          "title": "Detailed screening",
+          "path": [
+            "human_feedback",
+            "parse_jd",
+            "deep_screen",
+            "generate_report",
+            "human_feedback"
+          ]
+        },
+        "final": {
+          "title": "Recommendations",
+          "path": [
+            "human_feedback",
+            "parse_jd",
+            "deep_screen",
+            "final_screen",
+            "generate_report",
+            "human_feedback"
+          ]
+        },
+        "finish": {
+          "title": "Complete review",
+          "path": [
+            "human_feedback",
+            "parse_jd",
+            "finish_review",
+            "__end__"
+          ]
+        }
+      }
+    },
+    "review": {
+      "title": "Contextual reviewer: detailed evidence review",
+      "description": "Actual nested graph: extract and audit work records, assess requirements and work context, then audit the proposed findings while retaining unresolved disputes.",
+      "nodes": {
+        "__start__": {
+          "title": "START",
+          "subtitle": "Detailed review begins",
+          "detail": "The nested graph receives a source packet for one candidate and the current frozen criteria. It does not contain a separate human interrupt.",
+          "fields": [
+            "packet"
+          ]
+        },
+        "extract_and_audit_work_history": {
+          "title": "Prepare work records",
+          "subtitle": "Source extraction + audit",
+          "detail": "Extract and separately audit the complete source inventory within detailed screening. Preserve all employment, source IDs and dates. Reuse these source-only records on later requests; they are never required for initial retrieval.",
+          "fields": [
+            "packet",
+            "steps"
+          ]
+        },
+        "assess_requirements": {
+          "title": "Assess requirements",
+          "subtitle": "Criteria and work observations",
+          "detail": "Assess the frozen criteria against source-linked work records. Return criterion findings, positive date associations and useful work observations together. Code calculates experience. No questions or recommendations.",
+          "fields": [
+            "packet",
+            "first",
+            "steps"
+          ]
+        },
+        "audit_evidence": {
+          "title": "Audit final evidence",
+          "subtitle": "Source, dates and claim checks",
+          "detail": "Check the draft criteria, positive duration links, endpoints and observations against the full source and frozen standard. Remove rejected links before local arithmetic. A support-status disagreement remains uncertain with both judgments retained; agreed support can retain a narrative correction. Return the source-bound assessment and explicit disputes.",
+          "fields": [
+            "packet",
+            "final",
+            "observation_audit",
+            "steps"
+          ]
+        },
+        "__end__": {
+          "title": "END",
+          "subtitle": "Return reviewed evidence",
+          "detail": "Return the nested review state to detailed screening. The outer graph generates the report and waits for human feedback.",
+          "fields": [
+            "final",
+            "observation_audit",
+            "steps"
+          ]
+        }
+      },
+      "edges": [
+        {
+          "source": "__start__",
+          "target": "extract_and_audit_work_history",
+          "conditional": false
+        },
+        {
+          "source": "assess_requirements",
+          "target": "audit_evidence",
+          "conditional": false
+        },
+        {
+          "source": "extract_and_audit_work_history",
+          "target": "assess_requirements",
+          "conditional": false
+        },
+        {
+          "source": "audit_evidence",
+          "target": "__end__",
+          "conditional": false
+        }
+      ],
+      "routes": {
+        "all": {
+          "title": "All transitions",
+          "path": []
+        },
+        "complete": {
+          "title": "Complete evidence",
+          "path": [
+            "__start__",
+            "extract_and_audit_work_history",
+            "assess_requirements",
+            "audit_evidence",
+            "__end__"
+          ]
+        }
+      }
+    }
+  },
+  "nested_invocation": {
+    "outer_node": "deep_screen",
+    "graph": "review",
+    "kind": "method invocation"
+  }
+}

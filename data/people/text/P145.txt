@@ -1,0 +1,21 @@
+Candidate P145
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Pharmacy Technician | Manchester Community Pharmacy | 2010-04 to 2019-06
+Managed inventory and prescription data entry, ensuring accuracy in a fast-paced environment. Worked rotating shifts. Developed an eye for detail and process adherence that translates to data governance.
+Data Entry Clerk | Regional Logistics Solutions | 2019-07 to 2023-08
+Transitioned into logistics, handling shipment data entry and reporting. Supported integration of tracking systems, which sparked a deeper interest in data pipelines.
+Data Engineering Fellow (Contract) | Streamline Analytics Studio | 2024-01 to 2024-06
+Completed a 6-month contract project as part of a bootcamp, building a data lake prototype using Kafka and Redshift. Focused on change data capture and data governance.
+SKILLS
+Data integration; Data lake architecture; Change data capture; Schema design; Data governance; Kappa architecture; Apache Kafka; Scala; Redshift; Apache Airflow; Stitch; Java
+EDUCATION
+Associate of Science | Health Sciences | Southern New Hampshire University
+2008-09 to 2010-06
+PROJECTS
+Real-Time Logistics Dashboard
+Designed a Kappa architecture pipeline to ingest live shipment tracking data from Kafka, storing aggregated metrics in Redshift for real-time dashboards. Implemented change data capture for incremental updates. Technologies used: Apache Kafka, Scala.
+CERTIFICATIONS
+AWS Certified Big Data – Specialty
+Issued by Amazon Web Services.
+2024-01

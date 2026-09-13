@@ -1,0 +1,20 @@
+Candidate P068
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Logistics Specialist | U.S. Army | 2016-01 to 2019-12
+Managed supply chain operations and personnel tracking for a 200-person unit. Coordinated logistics schedules and maintained inventory data.
+Logistics Team Lead | U.S. Army | 2020-01 to 2021-06
+Supervised a team of five in logistics operations, ensuring timely delivery of supplies. Led quarterly inventory audits and data reporting.
+HR Assistant | Hartford Manufacturing Co. | 2021-08 to 2022-05
+Assisted HR team with onboarding coordination and employee records. Generated basic HR reports in Excel.
+HR Operations Specialist | Hartford Manufacturing Co. | 2022-06 to Present
+Support HRIS administration using SAP SuccessFactors. Prepare HR metrics and compliance reports using Visier and Tableau.
+SKILLS
+Workforce analytics; HR compliance; Salary analysis; HR data analysis; HR project coordination; Statistical analysis; SQL querying; HR metrics reporting; Onboarding coordination; HR audit; Zendesk; Google Sheets; Notion; Visier; ChartHop; SAP SuccessFactors; Tableau
+EDUCATION
+Bachelor of Arts | Business Administration | University of Florida
+2012-09 to 2016-06
+CERTIFICATIONS
+HRIP (HR Information Professional)
+Issued by HR Certification Institute.
+2023-01

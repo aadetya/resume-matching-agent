@@ -1,0 +1,32 @@
+Candidate P071
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Machine Learning Engineer | Meridian Analytics | 2018-03 to Present
+Lead computer vision and feature engineering for fraud detection models. Oversaw MLOps pipelines using Kubeflow and Airflow.
+Senior Machine Learning Engineer | FinCore Systems | 2014-01 to 2018-02
+Developed and deployed models for real-time transaction monitoring. Built streaming pipelines with Kafka and feature stores.
+Machine Learning Engineer | DataVista Corp | 2012-06 to 2013-12
+Worked on image recognition for document processing. Gained experience with Keras and XGBoost.
+Data Scientist | QuantEdge Solutions | 2010-01 to 2012-05
+Performed data analysis and built predictive models for trading strategies. This was a lateral move from software engineering.
+Software Engineer | TechBridge Inc | 2007-01 to 2009-12
+Built backend systems and data pipelines. Early career role.
+SKILLS
+Computer Vision; Keras; XGBoost; SQL; Big Data Technologies; Feature Engineering; Airflow; Kubeflow; Apache Kafka; AWS; TensorFlow; Python; PyTorch; Docker; Kubernetes
+EDUCATION
+Master of Science | Computer Science | Stanford University
+2008-09 to 2010-06
+Bachelor of Science | computer engineering | University of California, Los Angeles
+2002-09 to 2006-06
+PROJECTS
+Real-time Fraud Detection Pipeline
+Architected a streaming fraud detection system using Kafka and AWS Kinesis, processing millions of transactions daily with low latency. Technologies used: Apache Kafka, Apache Flink, Python.
+Computer Vision for Document Verification
+Led development of a deep learning model using Keras to verify identity documents, reducing manual review time by 70%. Technologies used: TensorFlow, OpenCV, AWS SageMaker.
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2020-01
+TensorFlow Developer Certificate
+Issued by TensorFlow.
+2019-01

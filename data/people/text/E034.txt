@@ -1,0 +1,30 @@
+Candidate E034
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Frontend Engineer | TechVista Media Group | 2021-03 to Present
+Leading frontend platform for streaming services. Implemented design system using TypeScript and Tailwind CSS, improving cross-browser compatibility. Mentor junior engineers and own architecture decisions for multiple web applications.
+Senior Frontend Engineer | DataSys Federal Solutions | 2018-08 to 2021-02
+Developed secure frontend applications for federal clients. Utilized Next.js and SSR for performance. Ensured compliance with WCAG 2.1 and improved Core Web Vitals. Worked with legacy systems and modernized UI.
+Frontend Engineer | Clarity Embedded Systems | 2015-02 to 2018-06
+Built real-time dashboard for mission control. Used Svelte and WebSockets for live updates. Managed testing strategy with Jest and Cypress. Reduced bundle size by 40% via code splitting.
+Web Developer | Synergy Interactive | 2013-03 to 2015-01
+Developed interactive web experiences for clients. Built accessible HTML5/CSS3 layouts ensuring cross-browser compatibility. Implemented PWA features to enhance offline capabilities.
+Combat Systems Technician | US Navy | 2006-06 to 2013-02
+Maintained radar systems and navigation equipment. Developed technical documentation. Transitioned to web development after completing certifications.
+SKILLS
+TypeScript; Next.js; Tailwind CSS; Svelte; Cross-Browser Compatibility; WebSockets; Progressive Web Apps (PWA); HTML5; Core Web Vitals; Server-Side Rendering (SSR); Testing (Jest, React Testing Library, Cypress); pnpm; Vite; ESLint
+EDUCATION
+BS in Computer Information Systems | Information Technology | DeVry University
+2013-09 to 2016-06
+PROJECTS
+Design System Library
+Developed a scalable design system using TypeScript and Tailwind CSS, enabling consistent UI across multiple streaming platforms. Included storybook documentation and automated testing.
+Real-Time Collaboration Tool
+Built a real-time collaboration tool using Svelte and WebSockets for secure communication between remote teams. Ensured cross-browser compatibility and performance. Technologies used: Cypress.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Coursera.
+2020-01
+W3C Front-End Web Developer Professional Certificate
+Issued by W3C.
+2018-01

@@ -1,0 +1,21 @@
+Candidate P078
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Warehouse Supervisor | MegaDeals Retail | 2019-03 to Present
+Night shift lead for 15 pickers. Broke a pallet jack. Learned to yell.
+Shipping Clerk | MegaDeals Retail | 2015-01 to 2019-02
+Manual FIFO sorting. Inventory counts. Regex only for stock numbers.
+Dock Worker | Regional Freight Co. | 2012-06 to 2014-12
+Unloaded trucks. Forklift certified. Weather delayed everything.
+SKILLS
+Linux system administration; Container orchestration; Release management and rollback strategies; Log management and analysis; Disaster recovery planning; Performance tuning; Infrastructure testing; Immutable infrastructure; Blue/green and canary deployments; Incident response and management; Observability and distributed tracing; Infrastructure as Code (IaC); Bash scripting; Python basics; Azure; GCP
+EDUCATION
+Associate of Applied Science | Computer Information Systems | Baton Rouge Community College
+2020-09 to 2022-06
+PROJECTS
+Home Lab CI/CD Pipeline
+Blue/green deployment with Docker and GCP. YAML configs. Technologies used: Helm.
+CERTIFICATIONS
+Google Cloud Professional DevOps Engineer
+Issued by Google.
+2023-01

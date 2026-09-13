@@ -1,0 +1,166 @@
+[
+  {
+    "repo": "Qwen/Qwen3-Reranker-0.6B",
+    "revision": "e61197ed45024b0ed8a2d74b80b4d909f1255473",
+    "files": [
+      {
+        "name": ".gitattributes",
+        "size": 1570
+      },
+      {
+        "name": "1_LogitScore/config.json",
+        "size": 57
+      },
+      {
+        "name": "README.md",
+        "size": 14742
+      },
+      {
+        "name": "chat_template.jinja",
+        "size": 741
+      },
+      {
+        "name": "config.json",
+        "size": 727
+      },
+      {
+        "name": "config_sentence_transformers.json",
+        "size": 325
+      },
+      {
+        "name": "generation_config.json",
+        "size": 214
+      },
+      {
+        "name": "merges.txt",
+        "size": 1671853
+      },
+      {
+        "name": "model.safetensors",
+        "size": 1191588280
+      },
+      {
+        "name": "modules.json",
+        "size": 280
+      },
+      {
+        "name": "sentence_bert_config.json",
+        "size": 362
+      },
+      {
+        "name": "tokenizer.json",
+        "size": 11422654
+      },
+      {
+        "name": "tokenizer_config.json",
+        "size": 9706
+      },
+      {
+        "name": "vocab.json",
+        "size": 2776833
+      }
+    ]
+  },
+  {
+    "repo": "jinaai/jina-reranker-v2-base-multilingual",
+    "revision": "9cfeff2df7d40d1b78e75e5e9cebec92a99813c9",
+    "files": [
+      {
+        "name": ".gitattributes",
+        "size": 1570
+      },
+      {
+        "name": ".gitignore",
+        "size": 3077
+      },
+      {
+        "name": "README.md",
+        "size": 15744
+      },
+      {
+        "name": "block.py",
+        "size": 19714
+      },
+      {
+        "name": "config.json",
+        "size": 1102
+      },
+      {
+        "name": "configuration_xlm_roberta.py",
+        "size": 2728
+      },
+      {
+        "name": "embedding.py",
+        "size": 2557
+      },
+      {
+        "name": "mha.py",
+        "size": 28011
+      },
+      {
+        "name": "mlp.py",
+        "size": 6207
+      },
+      {
+        "name": "model.safetensors",
+        "size": 556892306
+      },
+      {
+        "name": "modeling_xlm_roberta.py",
+        "size": 43754
+      },
+      {
+        "name": "onnx/model.onnx",
+        "size": 1114040223
+      },
+      {
+        "name": "onnx/model_bnb4.onnx",
+        "size": 822084838
+      },
+      {
+        "name": "onnx/model_fp16.onnx",
+        "size": 557164815
+      },
+      {
+        "name": "onnx/model_int8.onnx",
+        "size": 279577152
+      },
+      {
+        "name": "onnx/model_q4.onnx",
+        "size": 827392882
+      },
+      {
+        "name": "onnx/model_quantized.onnx",
+        "size": 279577152
+      },
+      {
+        "name": "onnx/model_uint8.onnx",
+        "size": 279577151
+      },
+      {
+        "name": "pytorch_model.bin",
+        "size": 561622266
+      },
+      {
+        "name": "special_tokens_map.json",
+        "size": 964
+      },
+      {
+        "name": "stochastic_depth.py",
+        "size": 3761
+      },
+      {
+        "name": "tokenizer.json",
+        "size": 17082734
+      },
+      {
+        "name": "tokenizer_config.json",
+        "size": 1148
+      },
+      {
+        "name": "xlm_padding.py",
+        "size": 9821
+      }
+    ]
+  }
+]

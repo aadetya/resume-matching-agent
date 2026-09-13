@@ -1,0 +1,30 @@
+Candidate P098
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+DevOps Engineer | Meridian Health Systems | 2022-08 to Present
+I'm responsible for ensuring our platform's reliability and performance across a distributed healthcare environment. I manage the artifact repositories, automate build and deployment pipelines, and fine-tune monitoring and alerting to catch issues before they hit clinicians.
+Lead DevOps Engineer | Pinnacle Data Solutions | 2021-03 to 2022-07
+I led a small team of three engineers supporting multiple clients' infrastructure. I took a step back from the management role to focus on hands-on technical work and broaden my expertise.
+DevOps Engineer | Nexus Cloud Services | 2019-06 to 2021-02
+I was involved in migrating legacy applications to cloud infrastructure and implementing configuration management using Ansible and Puppet. This role gave me strong experience with infrastructure testing and network troubleshooting.
+Systems Administrator | Lagos Tech Hub | 2018-01 to 2019-05
+Before moving to the US, I supported server infrastructure and handled network configuration and basic automation. This role taught me the fundamentals of troubleshooting and performance tuning.
+SKILLS
+Performance tuning; Artifact repository management; Infrastructure testing; Monitoring and alerting; Network configuration and troubleshooting; Build automation; Ansible; ArgoCD; Puppet; Chef; Linux administration; Python scripting; Containerization; CI/CD pipelines
+EDUCATION
+Master of Science | Computer Science | California State Polytechnic University, Pomona
+2020-09 to 2022-06
+Bachelor of Science | Computer Engineering | University of Lagos
+2012-09 to 2016-06
+PROJECTS
+Automated Incident Response Platform
+Designed and implemented a system that automatically triages alerts and triggers remediation playbooks using Ansible and Python, reducing mean time to recovery by 40%. Technologies used: AWS Lambda, CloudWatch, PagerDuty.
+Configuration Management Standardization
+Led an initiative to replace ad-hoc scripts with Puppet and Chef configurations across 200+ servers, improving consistency and audit compliance for a healthcare client. Technologies used: Git, Jenkins.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2023-01
+CKA: Certified Kubernetes Administrator
+Issued by Cloud Native Computing Foundation.
+2022-01

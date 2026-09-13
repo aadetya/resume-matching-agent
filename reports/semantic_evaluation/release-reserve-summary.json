@@ -1,0 +1,458 @@
+{
+  "fixture_sha256": "68f7302bbb63513e71315f24d69d74827d97b82068e2fc36525c6afff7b9b52c",
+  "model": "gpt-5.6-luna",
+  "engine_signature": "a0475f2d3010cf2a445f79c4bf7ad134d28c9f5f63a07071dec468bdae1eba4e",
+  "generation_options": {
+    "reasoning": {
+      "effort": "low"
+    }
+  },
+  "annotation_provenance": {
+    "author": "AI annotation reviewer",
+    "annotation_kind": "single-agent source-only judgments",
+    "independent_human_ground_truth": false,
+    "engine_outputs_consulted": false,
+    "historical_evaluation_labels_reused": false,
+    "queries_sha256": "cab2c55c4cf95c29b5cccefe980f8549cb2f50cf59812e88fb6e616f923dc4a5",
+    "review_packet_sha256": "44e9a2351ded2e54c414bdabbeff9924fb4579baf59006b8228b9edfd8ceae47",
+    "scope": "One preregistered assigned request per profile. This supports criterion-level source-evidence evaluation, not complete-corpus retrieval ranking metrics. The reviewer reads complete rendered canonical text before supplying each manual status and source anchors. Explicit employment entries selected by the reviewer feed deterministic calendar-month union arithmetic.",
+    "freeze_status": "sealed_before_model_evaluation",
+    "reviewed_profile_count": 50,
+    "criterion_count": 200,
+    "complete_source_review": true,
+    "local_validation": "All source/quote hashes, public requirement labels and independently enumerated calendar months checked before sealing."
+  },
+  "requested_cases": 50,
+  "completed_cases": 50,
+  "errors": [],
+  "stages": {
+    "initial": {
+      "criteria": 200,
+      "strict_passes": 188,
+      "single_status_expectations": 119,
+      "single_status_agreements": 109,
+      "required_association_contexts": 155,
+      "found_association_contexts": 155,
+      "excluded_context_credit_flags": [],
+      "status_agreements": 188,
+      "duration_expectations": 50,
+      "duration_value_agreements": 50,
+      "relationship_label_only_disagreements": [],
+      "other_disagreements": [
+        {
+          "id": "R002",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The candidate personally built a dashboard using Streaming SQL, which is applied SQL-related project evidence. However, the source does not explicitly establish personal implementation of data pipelines or transformations using SQL database functionality, such as relational query construction, schema work, migrations, or database performance work."
+        },
+        {
+          "id": "R004",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": null,
+          "finding": "The Backend Engineer role explicitly includes database performance work, which is substantive personal database implementation experience under the criterion. PostgreSQL is also listed, but the role responsibility is the stronger evidence."
+        },
+        {
+          "id": "R007",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": null,
+          "finding": "The candidate personally supported the BI team with SQL queries, which is some direct query experience. However, the resume does not establish the broader database implementation depth requested, such as relational schema work, ORM query construction, migrations, or database performance work; the separate SQL skills listing does not add application detail."
+        },
+        {
+          "id": "R009",
+          "criterion": "Role: backend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The resume shows full-stack and web developer roles with some server-side work, including handling the stack through caching and developing server-side scripts. However, none of the roles is explicitly titled backend developer or clearly described as centered on backend services, APIs, or backend systems."
+        },
+        {
+          "id": "R012",
+          "criterion": "Required skill: python",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "none",
+          "duration": null,
+          "finding": "Python is not listed or described anywhere in the supplied resume. The project describes a collaborative-filtering model and preprocessing with NumPy, but provides no Python evidence."
+        },
+        {
+          "id": "R012",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "SQL is listed as a technology for the e-commerce recommendation project, linking it to that project, but the project does not explicitly describe personal implementation of SQL pipelines, transformations, schema work, migrations, ORM queries, or database performance work. The general SQL skills-list mention is also insufficient by itself."
+        },
+        {
+          "id": "R024",
+          "criterion": "Role: frontend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The resume shows software engineering and management work focused on mobile applications, React Native, NativeScript, APIs, and legacy-system modernization. It does not state a frontend developer role or personally implemented browser-based user interfaces; the mobile work does not establish browser frontend work."
+        },
+        {
+          "id": "R025",
+          "criterion": "Required skill: python",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "Python is associated with data preprocessing in the Data Analyst role and with an inventory-optimization project, but the resume does not explicitly describe personally implementing a data pipeline or transformation using Python. The project is an applied Python project, but its stated work is reinforcement learning rather than pipeline or transformation implementation."
+        },
+        {
+          "id": "R041",
+          "criterion": "Required skill: python",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The resume lists Python and says the candidate automated report generation with Python scripts, but it does not explicitly describe personally implementing a data pipeline or transformation using Python. The pipeline projects identify Flink, Kafka, Cassandra, Spark, and S3 rather than Python."
+        },
+        {
+          "id": "R041",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The resume describes SQL-based analysis and reporting, but does not explicitly establish personal implementation of data pipelines or transformations using SQL database functionality, such as substantive schema, migration, ORM query, or database-performance work. The listed engineering projects use other named technologies without attributing SQL implementation."
+        },
+        {
+          "id": "R047",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The project used a SQLite database, but the resume does not specify personal relational schema design, ORM query construction, migrations, performance work, or other substantive SQL implementation. A database name alone does not meet the stated standard."
+        },
+        {
+          "id": "R049",
+          "criterion": "Role: frontend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The candidate held a Junior Full Stack Developer role and developed features for a patient portal, but the source does not explicitly state personal browser-interface implementation or clearly identify the work as frontend development. The HealthTrack project shows a React dashboard but does not state its date or separately establish a frontend developer role."
+        }
+      ],
+      "invariant_pairs": [],
+      "incremental_usage": {
+        "input_tokens": 278914,
+        "output_tokens": 74023,
+        "total_tokens": 352937
+      },
+      "usage_scope": "Incremental stage usage in this run. Cache reuse means these are not comparable from-scratch path costs."
+    },
+    "deep": {
+      "criteria": 200,
+      "strict_passes": 185,
+      "single_status_expectations": 119,
+      "single_status_agreements": 108,
+      "required_association_contexts": 155,
+      "found_association_contexts": 155,
+      "excluded_context_credit_flags": [],
+      "status_agreements": 185,
+      "duration_expectations": 50,
+      "duration_value_agreements": 50,
+      "relationship_label_only_disagreements": [],
+      "other_disagreements": [
+        {
+          "id": "R002",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "Streaming SQL is listed as a technology used for the dashboard, but the source does not explicitly describe personally implementing SQL-based pipelines, transformations, schema work, migrations, ORM queries, or database performance work. This provides related SQL evidence but is insufficient to establish the requested application depth."
+        },
+        {
+          "id": "R004",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": null,
+          "finding": "The candidate's backend responsibilities explicitly include focusing on database performance, which is a qualifying substantive database implementation activity under the criterion. PostgreSQL is also listed among the skills."
+        },
+        {
+          "id": "R010",
+          "criterion": "Role: data engineer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": null,
+          "finding": "The source states the role title “Big Data Engineer,” which directly supports a data-engineering role, but provides no responsibilities or implementation details showing personal work on data pipelines or transformations."
+        },
+        {
+          "id": "R012",
+          "criterion": "Required skill: python",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "none",
+          "duration": null,
+          "finding": "Python is not listed in the skills or project technology description, and the source does not describe personally implementing data pipelines or transformations with Python."
+        },
+        {
+          "id": "R012",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "SQL is listed both as a skill and as a project technology, but the project description does not explain personal implementation of SQL pipelines, transformations, queries, schema work, migrations, or database-performance work. This establishes relevant technology association but not the requested application depth."
+        },
+        {
+          "id": "R015",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The source lists SQL and PostgreSQL and says the CMS used a PostgreSQL database, but it does not describe personal implementation activities such as schema design, query construction, migrations, or performance work. A database name and skills-list entry alone do not meet the criterion's substantive SQL standard."
+        },
+        {
+          "id": "R024",
+          "criterion": "Role: frontend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The source shows software-engineering and management roles involving mobile applications, Vue.js, APIs, and team delivery, but it does not explicitly establish personally implementing browser-based user interfaces or a frontend-developer role."
+        },
+        {
+          "id": "R024",
+          "criterion": "Required skill: typescript",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The source personally associates TypeScript with mobile-related work and lists it as a skill, but it does not explicitly establish personal implementation of a browser interface using TypeScript."
+        },
+        {
+          "id": "R038",
+          "criterion": "Role: frontend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The title “Junior React Developer” is related to frontend development, but the source does not state browser-interface responsibilities or personal frontend implementation, leaving the criterion ambiguous."
+        },
+        {
+          "id": "R041",
+          "criterion": "Required skill: python",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "Python is listed as a skill and Python scripts were personally used to automate report generation, but the source does not explicitly connect Python to personally implemented data pipelines or transformations. This is relevant applied Python evidence but does not establish the requested application depth."
+        },
+        {
+          "id": "R041",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The source describes SQL-based analysis and reporting, which is personal SQL use, but it does not explicitly demonstrate SQL-based pipeline or transformation implementation, substantive schema work, migrations, ORM query construction, or database performance work."
+        },
+        {
+          "id": "R043",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The employment record says the candidate collaborated with senior engineers to optimize SQL queries, but it does not clearly establish the candidate's individual ownership or implementation. The skills list and PostgreSQL mentions do not independently establish the required personal SQL experience."
+        },
+        {
+          "id": "R047",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The project explicitly integrated with a SQLite database, but the source does not establish the requested substantive database activities such as relational schema work, ORM query construction, migrations, or performance work. SQLite is related database technology, but the required broad SQL implementation depth is not demonstrated."
+        },
+        {
+          "id": "R049",
+          "criterion": "Role: frontend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The candidate personally developed features for a patient portal and separately built a React health-monitoring dashboard, but the source does not explicitly identify either as a browser-based interface or establish a frontend-developer role. The evidence is related personal development work, but the requested browser-frontend capability remains ambiguous."
+        },
+        {
+          "id": "R049",
+          "criterion": "Required skill: react",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": null,
+          "finding": "The candidate explicitly personally built a full-stack dashboard using React. This directly supports personal React implementation, but the source does not specify that the dashboard was a browser interface, leaving the criterion's platform requirement unresolved."
+        }
+      ],
+      "invariant_pairs": [],
+      "incremental_usage": {
+        "input_tokens": 398463,
+        "output_tokens": 83612,
+        "total_tokens": 482075
+      },
+      "usage_scope": "Incremental stage usage in this run. Cache reuse means these are not comparable from-scratch path costs."
+    }
+  },
+  "source_provenance": {
+    "unique_original_spans_checked": 1447,
+    "mismatches": [],
+    "scope": "Exact source positions and hashes; this does not measure semantic entailment."
+  },
+  "measurement_scope": "Historical development architecture; this does not measure the current source-inventory review contract."
+}

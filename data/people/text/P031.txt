@@ -1,0 +1,15 @@
+Candidate P031
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Warehouse Associate | Pike's Peak Logistics | 2023-05 to 2024-01
+Manually picked and packed orders. Used handheld scanners and basic warehouse software. Learned real-world logistics bottlenecks.
+SKILLS
+REST API design; Integration testing; Authentication and authorization; SQL optimization; Containerization; Serverless computing; Observability; Caching strategies; Logging; Terraform; Temporal; Debezium; Kubernetes; Azure; Java
+PROJECTS
+API for Parcel Tracking
+Built a REST API for tracking packages. Implemented authentication and logging. Used Azure Functions and Cosmos DB. Technologies used: Java, REST API design, Authentication and authorization.
+Event-Driven Inventory Sync
+Created a proof-of-concept using Temporal and Debezium to sync inventory data across services. Focused on reliability. Technologies used: Containerization.
+CERTIFICATIONS
+Microsoft Certified: Azure Solutions Architect Expert
+Issued by Microsoft.

@@ -1,0 +1,27 @@
+Candidate E009
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Engineer | Pacific Research Labs | 2022-06 to Present
+design and maintain ML data pipelines for insurance risk models. Work with spark and kafka to process realtime data. coordinate with data scientists to ensure data quality.
+Data Engineer | Analytics Hub | 2020-10 to 2022-05
+built data pipelines for clent projects. used python and scala for ETL. worked on lake architecture and partitioning strategies.
+Junior Data Engineer | DataWorks Solutions | 2019-04 to 2020-09
+Supported senior engineers in data ingestion and transformation. Learned spark and kafka. Helped with mysql database queries.
+Data Analyst | InsureCo | 2017-08 to 2019-03
+Performed data analysis for insurance claims. used excel and sql. assisted in reporting.
+SKILLS
+Batch processing; Data lake architecture; Real-time data processing; Orchestration; Data partitioning strategies; Data integration; Data transformation; Data ingestion; Scala/Spark development; Python; Scala; Apache Kafka; MySQL; Airflow; AWS; Databricks; Docker
+EDUCATION
+Bachelor of Science | Computer Science | San Diego State University
+2013-09 to 2017-06
+Data Engineering | Union Apprenticeship Program
+2016-09 to 2017-06
+PROJECTS
+Realtime Claims Processing Pipeline
+Developed a real-time data pipeline for insurance claims using Kafka and Spark Streaming, reducing processing time by 40%. Technologies used: Apache Kafka, Python.
+Data Lake Optimization
+Optimized data lake partitioning strategy for a research institute, improving query performance and reducing storage costs. Technologies used: AWS S3, Spark, Parquet.
+CERTIFICATIONS
+AWS Certified Big Data – Specialty
+Issued by Amazon Web Services.
+2021-01

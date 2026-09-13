@@ -1,0 +1,23 @@
+Candidate P030
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Sales Agent | Piedmont Realty Group | 2013-01 to 2022-05
+Managed residential sales, analyzed market trends, and built client pipelines. Used CRM tools and developed a side project to predict property values with R, sparking interest in data science.
+Data Analyst (Internal Transfer) | Piedmont Realty Group | 2022-06 to 2023-08
+Self-taught SQL and Python to analyze sales data, built dashboards in Tableau, and helped the marketing team with lead scoring. This role bridged my sales background to data.
+Junior Machine Learning Engineer | MediSense Analytics | 2023-09 to Present
+Focus on NLP for clinical notes: built text classification models with PyTorch and TensorFlow, deployed with MLflow, and monitored model drift. Collaborating with data engineers on Kafka pipelines.
+SKILLS
+Python; PyTorch; TensorFlow; SQL; NLP; XGBoost; Hyperparameter Tuning; R; Big Data Technologies; Model Monitoring; Recommender Systems; Apache Kafka; dbt; MLflow; Git; Seaborn
+EDUCATION
+Certificate in data analytics | Data Analytics | Guilford Technical Community College
+2021-09 to 2022-06
+PROJECTS
+Clinical Note Classifier
+Fine-tuned BERT on de-identified clinical notes to classify diagnoses, achieving 0.92 F1. Used PyTorch and HuggingFace, deployed with Docker. Technologies used: Transformers, MLflow.
+Real Estate Price Predictor
+Built a house price prediction model using XGBoost and Python, using public data. Improved pricing accuracy for the agency and learned feature engineering. Technologies used: Pandas, Scikit-learn.
+CERTIFICATIONS
+TensorFlow Developer Certificate
+Issued by TensorFlow.
+2023-01

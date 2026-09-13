@@ -1,0 +1,22 @@
+Candidate E012
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+React Developer | MidSouth Retail Group | 2024-01 to Present
+Developing responsive features for e-commerce platform using SSR and TypeScript.
+E-commerce Platform Coordinator | MidSouth Retail Group | 2018-03 to 2020-01
+Coordinated product listings and frontend updates.
+Junior Web Developer | MidSouth Retail Group | 2013-06 to 2018-03
+Built and maintained company website, implemented responsive design.
+Web Developer Intern | MidSouth Retail Group | 2013-01 to 2013-06
+SKILLS
+JavaScript (ES6+); TypeScript; React; Responsive Design; Server-Side Rendering (SSR); Webpack; Git; pnpm; React DevTools; ESLint; Vercel
+EDUCATION
+Associate of Science | Web Development | Richmond Technical Institute
+2010-09 to 2012-06
+PROJECTS
+React Storefront
+Developed a server-side rendered storefront using React and TypeScript, optimizing load times. Technologies used: Next.js.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2024-01

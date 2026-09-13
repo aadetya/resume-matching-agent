@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "source_receipt_sha256": "39d9151eab270d11b0cabd7d9be9c7f3003f2191f358efe013cd08a939f64a08",
+  "reviewer_code_sha256": "530b9b48fa9c8814984680383e38ecc50c057f5b42be03ae1904b74084aa314f",
+  "model": "gpt-5.6-luna",
+  "scope": "Separate model calls blinded to candidates and scores. No independent human review; correlated model errors remain possible.",
+  "rows": [
+    {
+      "query_id": "BE_development",
+      "query": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker.",
+      "review": {
+        "findings": [
+          {
+            "dimension": "mandatory_conditions",
+            "faithful": true,
+            "reason": "The interpretation preserves Backend Engineer as the role and treats Python and SQL as independently mandatory, matching the request's conjunction. The three conditions are not weakened or made alternatives.",
+            "request_quote": "Find Backend Engineer candidates with Python and SQL"
+          },
+          {
+            "dimension": "preferences",
+            "faithful": true,
+            "reason": "FastAPI, PostgreSQL, and Docker are correctly represented as optional nice-to-have preferences rather than mandatory requirements.",
+            "request_quote": "Prefer FastAPI, PostgreSQL, Docker"
+          },
+          {
+            "dimension": "experience_scope",
+            "faithful": true,
+            "reason": "The interpretation correctly uses a minimum of 3 years of total overall employment, rather than skill-specific experience or backend-only experience.",
+            "request_quote": "at least 3 years of overall employment"
+          },
+          {
+            "dimension": "added_restrictions",
+            "faithful": true,
+            "reason": "No material unstated restriction was added. The clarification that equivalent backend engineering work may establish the role and that no stack is inferred from the role preserves the request rather than narrowing it.",
+            "request_quote": ""
+          }
+        ],
+        "reference_matches_request": true,
+        "reference_reason": "The reference matches the request's role, independently mandatory Python and SQL skills, optional FastAPI/PostgreSQL/Docker preferences, and 3-year overall-employment threshold. Its shorter title does not omit a condition."
+      },
+      "model_judged_faithful": true,
+      "payload_sha256": "ba4813577f025ccb55d4a85717cc9331f89d8d1630a6380fc23710c6a91f00df",
+      "usage": {
+        "input_tokens": 2706,
+        "input_tokens_details": {
+          "cache_write_tokens": 2703,
+          "cached_tokens": 0
+        },
+        "output_tokens": 274,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2980
+      }
+    }
+  ]
+}

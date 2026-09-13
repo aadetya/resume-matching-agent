@@ -1,0 +1,27 @@
+Candidate R032
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Accountant II | Kern County Administrative Office | 2013-04 to 2020-06
+Processed 1,200+ invoices monthly, reducing payment cycle time by 18%. Reconciled $45M in annual expenditures across 12 county departments.
+Senior Accountant | Kern County Administrative Office | 2020-07 to 2023-02
+Led a team of 4, cutting reporting errors by 25%. Implemented new ERP modules, migrating 10 years of data with 99.9% accuracy.
+DevOps Engineer (Contract) | County IT Services | 2023-03 to 2023-08
+Designed CI/CD pipelines with GitHub Actions, cutting deployment time by 40%. Implemented infrastructure as code with Azure, reducing manual configuration errors by 30%.
+DevOps Engineer | Kern County Administrative Office | 2023-09 to Present
+Manage release processes for 15+ internal applications, using blue/green and canary deployments to achieve zero-downtime. Monitor infrastructure via Splunk, reducing MTTR by 22%.
+SKILLS
+Infrastructure as Code (IaC); Blue/green and canary deployments; Log management and analysis; Version control strategies; Immutable infrastructure; Performance tuning; Release management and rollback strategies; Incident response and management; Cost optimization; Secrets management; Monitoring and alerting; Linux system administration; Splunk; GitHub Actions; Helm; ArgoCD; Azure
+EDUCATION
+Bachelor of Science | Accounting | University of Phoenix
+2008-09 to 2012-06
+Master of Science | Information Technology | Purdue University Global
+2021-09 to 2023-06
+PROJECTS
+CI/CD Pipeline Automation
+Automated deployment pipeline for legacy accounting software, reducing release cycle from 2 weeks to 2 days. Technologies used: GitHub Actions, Azure, Helm.
+Immutable Infrastructure Pilot
+Piloted immutable infrastructure for 3 county services, improving rollback reliability by 50%. Technologies used: Azure, ArgoCD, Linux.
+CERTIFICATIONS
+Microsoft Certified: DevOps Engineer Expert
+Issued by Microsoft.
+2023-01

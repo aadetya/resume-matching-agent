@@ -1,0 +1,29 @@
+Candidate P139
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Field Paramedic / EMS Coordinator | Philadelphia Fire Department – EMS Division | 2015-03 to 2023-11
+Led emergency response teams, managed real-time triage and resource allocation. Oversaw reconciliation of medical supplies and compliance with state regulations.
+EMS Supervisor (Field Operations) | Regional Health Network – Emergency Services | 2013-08 to 2015-02
+Supervised ambulance crews and coordinated inter-hospital transfers. Implemented tracking systems for patient data and billing processes.
+Emergency Medical Technician (EMT) | Tri-County Ambulance Service | 2012-01 to 2013-07
+Provided pre-hospital care and patient transport. Documented all runs and maintained equipment readiness.
+Freelance Fintech Developer (Contract Project) | Independent Contractor | 2023-12 to 2024-02
+Developed a simple fraud detection rule engine using Python and PostgreSQL for a small crypto exchange. Implemented basic AML transaction monitoring.
+Junior Fintech Engineer (Bootcamp Internship) | Fintech Bootcamp – Digital Ledger Solutions | 2024-03 to 2024-06
+Built a DLT-based settlement prototype using Hyperledger Fabric. Focused on idempotent operations and transaction reconciliation.
+SKILLS
+Anti-Money Laundering (AML); securities settlement; real-time transaction processing; Algorithmic trading; SOX compliance; distributed ledger technology; idempotent operations; system reconciliation; quantitative analysis; C++; Python; GCP; PostgreSQL; Hyperledger Fabric; AWS; Emergency Medical Services; Patient Assessment; Incident Command; Data Analysis; SQL
+EDUCATION
+Bachelor of Science | Computer Science | The Pennsylvania State University
+2021-09 to 2024-06
+Associate of Science | Emergency Medical Services | Community College of Philadelphia
+2009-09 to 2011-06
+PROJECTS
+Fraud Detection Engine for Crypto Exchange
+Built a rule-based transaction monitoring system using Python and PostgreSQL, flagging suspicious patterns and integrating AML checks. Deployed on GCP.
+DLT Settlement Prototype
+Developed a prototype using Hyperledger Fabric to simulate securities settlement with idempotent operations and audit trails. Technologies used: C++, GCP.
+CERTIFICATIONS
+Certified Blockchain Professional (CBP)
+Issued by Blockchain Council.
+2024-01

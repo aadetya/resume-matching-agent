@@ -1,0 +1,26 @@
+Candidate P027
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Backend Engineer (API Development) | Seaport Logistics Solutions | 2012-03 to Present
+Design and maintain high-throughput APIs for real-time shipment tracking, integrating RabbitMQ for event-driven updates and optimizing PostgreSQL queries for sub-50ms responses. Led migration from on-prem to Azure serverless functions and Kubernetes orchestration, cutting infrastructure costs by 30%.
+Software Developer | FreightWorks Technologies | 2008-06 to 2012-02
+Built backend services for freight management, focusing on load balancing and SQL tuning. Implemented integration tests for new endpoints and maintained MySQL databases for order processing.
+Logistics Coordinator | US Air Force | 2004-08 to 2008-05
+Coordinated air cargo logistics, developing an early interest in efficient data flows. Managed shipment tracking and inventory systems, ensuring accuracy under time pressure. This experience sharpened my eye for operational efficiency.
+SKILLS
+Load balancing; SQL optimization; Message queues; Integration testing; Event-driven architecture; Serverless computing; Database design; MySQL; PostgreSQL; Azure; Kubernetes; RabbitMQ; Terraform
+EDUCATION
+Bachelor of Science | Computer Science | Florida International University
+2009-09 to 2012-06
+PROJECTS
+Real-time Shipment Tracking API
+Designed and implemented an event-driven API using Azure Functions and RabbitMQ to provide real-time shipment status updates to clients, reducing polling load by 40%. Technologies used: Event-driven architecture.
+Database Performance Overhaul
+Optimized PostgreSQL queries and introduced indexing strategies to improve query performance from 300ms to under 50ms, supporting 10x growth in data volume. Technologies used: SQL optimization.
+CERTIFICATIONS
+Microsoft Certified: Azure Solutions Architect Expert
+Issued by Microsoft.
+2019-01
+Certified Kubernetes Application Developer (CKAD)
+Issued by CNCF.
+2021-01

@@ -1,0 +1,21 @@
+Candidate P155
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Machine Learning Engineer | Precision Manufacturing Solutions | 2023-01 to Present
+Deploying NLP models for maintenance logs analysis. Built pipelines to monitor sensor data using time series analysis and anomaly detection. Improved model accuracy by 15% through hyperparameter tuning.
+Data Analyst | Precision Manufacturing Solutions | 2021-06 to 2022-12
+Analyzed production data using R and Tableau to identify inefficiencies. Introduced basic anomaly detection for quality control, leading to reduction in defects.
+Quality Control Technician | Precision Manufacturing Solutions | 2019-01 to 2021-05
+Performed inspections and collected data on production lines. Started using Python (Pandas) to automate reporting and gain insights.
+SKILLS
+Model Evaluation; Hyperparameter Tuning; TensorFlow; R; Time Series Analysis; Anomaly Detection; Hadoop; Big Data Technologies; Airflow; Tableau; Jupyter; Pandas; Kubeflow
+EDUCATION
+Certificate | Data Analytics | Everett Community College
+2017-09 to 2018-06
+PROJECTS
+NLP for Maintenance Logs
+Developed a text classification model to categorize failure modes from maintenance records. Used TensorFlow and implemented model evaluation to achieve F1 score of 0.87. Technologies used: Pandas, Jupyter.
+CERTIFICATIONS
+TensorFlow Developer Certificate
+Issued by TensorFlow.
+2023-01

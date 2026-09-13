@@ -1,0 +1,25 @@
+Candidate R015
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Deckhand | North Pacific Seafoods | 2013-03 to 2014-10
+Worked on a commercial fishing vessel, processing catch and maintaining equipment.
+Fisherman | Alaska Seafood Company | 2015-03 to 2018-11
+Captained a small boat, managed crew, and ensured safe and profitable fishing trips.
+Deckhand | North Pacific Seafoods | 2019-04 to 2021-09
+Returned to the company, took on additional responsibilities including assisting with navigation and safety training.
+Contract Full Stack Developer | Freelance | 2022-01 to 2022-06
+Built a small CMS for a local business using Vue.js, PostgreSQL, and AWS.
+SKILLS
+Vue.js; PostgreSQL; CSS3; SQL; Git; AWS; Angular; Authentication (JWT, OAuth); Swagger/OpenAPI; REST APIs
+EDUCATION
+Associate of Science | Computer Science | Casper College
+2010-09 to 2012-06
+Bachelor of Science | Computer Science | University of Wyoming
+2012-09 to 2015-06
+PROJECTS
+Local Business CMS
+Developed a custom CMS for a small business, featuring user authentication (JWT), a PostgreSQL database, and a Vue.js frontend. Deployed on AWS. Technologies used: Git.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2023-01

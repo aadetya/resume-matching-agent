@@ -1,0 +1,21 @@
+Candidate R025
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Analyst | Hawkeye Manufacturing Solutions | 2023-06 to Present
+Leveraged advanced analytics to drive process optimization, utilizing Power BI for reporting and Python for data preprocessing. Collaborated cross-functionally to streamline inventory management, realizing a 15% reduction in waste.
+Production Associate | Hawkeye Manufacturing Solutions | 2022-01 to 2023-05
+Executed daily production tasks while actively participating in continuous improvement initiatives. Demonstrated commitment to quality and efficiency, earning recognition for proactive problem-solving.
+SKILLS
+Reinforcement Learning; LightGBM; Time Series Analysis; Data Preprocessing; Deep Learning; XGBoost; Power BI; Pandas; Docker; Kubeflow; NumPy; Python; SQL
+EDUCATION
+Certificate | Data Analytics | Kirkwood Community College
+2022-09 to 2023-06
+PROJECTS
+Predictive Maintenance Model
+Developed a time series model using XGBoost and LightGBM to forecast equipment failures, improving maintenance scheduling and reducing downtime by 20%. Technologies used: Pandas, NumPy.
+Reinforcement Learning for Inventory Optimization
+Implemented a reinforcement learning agent to optimize inventory levels in a simulated manufacturing environment, demonstrating potential for cost savings. Technologies used: Python.
+CERTIFICATIONS
+TensorFlow Developer Certificate
+Issued by TensorFlow.
+2023-01

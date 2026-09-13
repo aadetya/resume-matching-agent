@@ -1,0 +1,27 @@
+Candidate P159
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Backend Engineer | Lakeside Federal Credit Union | 2019-03 to Present
+I lead the backend team in building and maintaining the credit union's payment processing and member-facing digital banking APIs, ensuring high availability and security with a focus on distributed transactions and OAuth2. I also coordinate with operations to implement load balancing and API gateway improvements.
+DevOps Lead | Red River Community Bank | 2015-08 to 2019-02
+I managed the infrastructure and deployment pipelines, migrating core services to AWS with Terraform and introducing Kafka for real-time event streaming. I also mentored a small team and standardized CI/CD practices.
+Backend Engineer | Texoma Community Credit Union | 2014-01 to 2015-07
+I built REST APIs and integrated third-party services for the credit union's mobile banking app, using MySQL and NoSQL databases to handle member data. I wrote unit tests and worked on improving transaction reliability.
+Junior Backend Engineer | North Texas Bank | 2011-06 to 2013-12
+I assisted in developing backend services for loan processing and internal dashboards, writing in Go and maintaining PostgreSQL and Redis instances. I also gained experience with load balancing and API gateways.
+IT Support Technician | Wichita Falls State Bank | 2009-01 to 2011-05
+I provided technical support for internal systems and began automating routine tasks with scripts, which sparked my interest in backend development.
+SKILLS
+Load balancing; NoSQL databases; OAuth2; Distributed transactions; Unit testing; API gateway; MySQL; PostgreSQL; Go; Kafka; AWS; Redis; Terraform; Docker; Kubernetes; CI/CD; Python
+EDUCATION
+Bachelor of Science | Computer Science | Texas State University
+2004-09 to 2008-06
+PROJECTS
+Credit Union Payment Gateway Optimization
+Led a project to redesign the payment gateway to handle millions of transactions daily, leveraging distributed transactions and Kafka for event streaming, reducing downtime by 30%. Technologies used: Go, AWS, Terraform.
+Internal API Gateway for Banking Services
+Designed and deployed an API gateway for internal microservices, implementing OAuth2 for secure access and load balancing to handle peak traffic. Technologies used: Redis.
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Issued by Amazon Web Services.
+2018-01

@@ -1,0 +1,30 @@
+Candidate P180
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Node.js Developer (Contract) | CommonWealth One Federal Credit Union | 2023-03 to Present
+Lead HL7/FHIR integration microservices for member-facing healthcare payment portal. Implemented Redis caching and API security (OAuth2/JWT) to meet NCUA audit requirements.
+Node.js Developer (Contract) | Virginia Health Information | 2021-10 to 2023-02
+Built and maintained HIPAA-compliant FHIR APIs with NestJS and PostgreSQL. Integrated NoSQL (MongoDB) for audit logs. Wrote integration tests with Chai.
+Node.js Developer Team Lead | Virginia Credit Union | 2019-06 to 2021-09
+Led a team of 4 developing digital banking microservices. Oversaw API security and caching strategies. Stepped back to IC role to focus on hands-on development.
+Node.js Developer | Tenant Tech Solutions | 2017-01 to 2019-05
+Contracted for multiple local healthcare startups. Developed RESTful APIs using Express.js and MySQL. Improved debugging processes and performance tuning.
+Junior Developer (Contract) | RVA Tech Staffing | 2015-03 to 2016-12
+Various short-term assignments. Gained exposure to Node.js, PostgreSQL, and integration testing in healthcare and financial settings.
+SKILLS
+TypeScript; API security; Caching strategies; NoSQL; Integration testing; Debugging; Redis; Yarn; NestJS; PostgreSQL; MySQL; Chai; Express.js
+EDUCATION
+Bachelor of Science | Computer Science | Virginia Commonwealth University
+2011-09 to 2015-06
+PROJECTS
+HealthClaims Microservices
+Designed a suite of FHIR-based microservices for real-time claims processing. Used NestJS, Redis, and PostgreSQL with OAuth2 security. Technologies used: TypeScript.
+ACH Payment Gateway API
+Built and deployed a payment gateway for a credit union. Focused on API security, idempotency, and integration testing with Chai. Technologies used: Express.js, MySQL, Redis.
+CERTIFICATIONS
+OpenJS Node.js Services Developer (JSNSD)
+Issued by OpenJS Foundation.
+2021-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2020-01

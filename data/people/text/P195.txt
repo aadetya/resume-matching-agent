@@ -1,0 +1,19 @@
+Candidate P195
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Full Stack Developer (Freelance) | Self-employed | 2023-01 to Present
+Built and maintained several web applications for small businesses, handling both frontend and backend. Utilized Java, JavaScript, and MySQL.
+Junior Operations Coordinator | ABC Logistics | 2021-06 to 2022-12
+Managed daily operations and coordinated with drivers. Streamlined scheduling processes using SQL queries.
+SKILLS
+API design; microservices; JavaScript; refactoring; SQL; Java; cloud computing; Docker; MySQL; GCP; Eclipse; MongoDB; Postman; Jira
+EDUCATION
+Certificate | Web Development | Fullstack Academy
+2022-09 to 2023-06
+PROJECTS
+Automotive Inventory Management System
+Developed a full-stack application for a local car dealership to manage inventory. Features include real-time updates, search, and reporting. Built with Java, Spring Boot, and React. Technologies used: JavaScript, MySQL, Docker.
+CERTIFICATIONS
+AWS Certified Cloud Practitioner
+Issued by Amazon Web Services.
+2023-01

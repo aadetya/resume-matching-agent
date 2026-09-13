@@ -1,0 +1,27 @@
+Candidate P076
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Machine Learning Engineer | DeepGuard Analytics | 2015-03 to Present
+Leading a team of four engineers in developing fraud detection models for clients. Responsible for model architecture, MLOps pipeline implementation, and client communication. Managed a budget of $500k and improved model accuracy by 20%.
+Senior Machine Learning Engineer | DeepGuard Analytics | 2013-06 to 2015-02
+Developed and deployed multiple fraud detection solutions using TensorFlow and Keras. Built real-time scoring systems and integrated with GCP and Kubeflow. Collaborated with data engineers to optimize data pipelines.
+Machine Learning Engineer | DeepGuard Analytics | 2011-01 to 2013-05
+Built and tuned models for fraud detection, focusing on feature engineering and model evaluation. Used SQL for data extraction and Tableau for reporting. Part of the team that established the MLOps practices.
+Junior Machine Learning Engineer | DeepGuard Analytics | 2009-08 to 2010-12
+Assisted senior engineers in developing predictive models. Performed data preprocessing and model monitoring. Learned the ropes of the consulting business.
+Data Analyst | Precision Financial Services | 2005-03 to 2009-07
+Analyzed transaction data to identify patterns and anomalies. Used SQL extensively, created dashboards in Tableau. This role sparked my interest in machine learning.
+Shift Supervisor | 24/7 Support Center | 2001-06 to 2005-02
+Managed a team of customer service reps during night shifts. Developed strong communication and problem-solving skills while balancing shift work.
+SKILLS
+TensorFlow; Keras; Model Selection; Model Monitoring; Hyperparameter Tuning; Feature Engineering; Data Preprocessing; Model Evaluation; SQL; Time Series Analysis; Reinforcement Learning; Hadoop; GCP; Kubeflow; MLflow; MongoDB; Tableau; Git
+EDUCATION
+Certificate | Data Science | General Assembly
+2007-09 to 2008-06
+PROJECTS
+Real-Time Fraud Detection System
+Designed and deployed a real-time fraud detection system using TensorFlow and Keras, processing thousands of transactions per second with low latency. Technologies used: GCP, Kubeflow, Kafka.
+CERTIFICATIONS
+Google Cloud Professional Machine Learning Engineer
+Issued by Google.
+2020-01

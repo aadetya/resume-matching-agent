@@ -1,0 +1,32 @@
+Candidate P117
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Director of Machine Learning | Colorado Department of Transportation | 2019-03 to Present
+Lead a team of 12 ML engineers and data scientists. Increased anomaly detection accuracy by 35% in real-time traffic monitoring. Manage $5M annual budget for ML infrastructure and research. Oversee deployment of ML models to Azure and GCP. Implemented Kubernetes and Kubeflow for model orchestration. Achieved 99.9% uptime on critical models. Developed cross-functional partnerships with operations…
+Principal Machine Learning Engineer | Colorado Department of Transportation | 2014-06 to 2019-02
+Led design and implementation of anomaly detection systems for highway sensor data. Improved model accuracy by 40% using PyTorch and reinforcement learning. Reduced false positives by 25% through feature engineering. Deployed streaming pipelines with Apache Kafka and Spark. Managed a team of 4 engineers. Contributed to technology roadmap and mentored junior staff.
+Senior Machine Learning Engineer | Colorado Department of Transportation | 2010-08 to 2014-05
+Developed predictive maintenance models for fleet vehicles using time series analysis and LightGBM. Increased detection rate by 30%. Implemented model evaluation frameworks and collaborated with data engineers on Spark pipelines. Optimized model deployment using TensorFlow and Azure.
+Machine Learning Engineer | Colorado Department of Transportation | 2006-02 to 2010-07
+Built initial anomaly detection models for traffic flow. Leveraged R and Matplotlib for analysis. Improved model performance by 20%. Collaborated with data collection teams to ensure data quality.
+Data Analyst | Colorado Department of Revenue | 2004-01 to 2006-01
+Analyzed tax data to identify fraud patterns. Reduced false positives by 15% using statistical techniques. Developed dashboards in Excel and R.
+SKILLS
+PyTorch; Reinforcement Learning; Anomaly Detection; Feature Engineering; Time Series Analysis; R; LightGBM; Model Deployment; TensorFlow; Model Selection; Model Evaluation; Spark; Apache Kafka; Matplotlib; Azure; Kubernetes; NumPy; GCP; Kubeflow; Python; SQL
+EDUCATION
+Master of Science | Data Science | University of Phoenix
+2009-09 to 2012-06
+Bachelor of Science | Computer Science | University of Colorado Denver
+1999-09 to 2003-06
+PROJECTS
+Real-Time Anomaly Detection for Highway Traffic
+Developed a scalable system using PyTorch and Kafka to detect accidents and congestion in real time. Achieved 95% precision and reduced emergency response time by 20%. Technologies used: Apache Kafka, Kubernetes, Spark.
+Predictive Maintenance for Fleet Vehicles
+Built time series models with LightGBM to predict component failures. Reduced maintenance costs by 25% and increased fleet uptime by 15%. Technologies used: Time Series Analysis, Feature Engineering, Azure.
+CERTIFICATIONS
+Google Cloud Professional Machine Learning Engineer
+Issued by Google.
+2021-01
+Microsoft Certified: Azure Data Scientist Associate
+Issued by Microsoft.
+2018-01

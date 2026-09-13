@@ -1,0 +1,30 @@
+Candidate E008
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Backend Engineer | MediCore Solutions | 2017-03 to Present
+Architect event-driven systems for patient data processing; reduced latency by 40% and improved system uptime to 99.95%. Mentor 6 engineers on API versioning and backward compatibility.
+Engineering Manager | MediCore Solutions | 2014-06 to 2017-02
+Led a team of 8 backend engineers; delivered 3 major projects on time and increased deployment frequency by 30%. Stepped back to IC role to focus on technical depth.
+Senior Backend Engineer | HealthTech Innovations | 2010-01 to 2014-05
+Designed RESTful APIs for telehealth platform; served 500k users with 99.9% availability. Implemented event-driven architecture using Kafka and RabbitMQ.
+Backend Engineer | DataCore Systems | 2005-08 to 2009-12
+Built and maintained microservices for data analytics platform; improved query performance by 50% through caching with Redis. Worked on containerization with Docker.
+IT Support Technician | City of Pomona | 2003-02 to 2005-07
+Provided technical support for city employees; maintained network and systems. Developed interest in backend systems and pursued self-study.
+SKILLS
+Containerization; Event-driven architecture; API versioning; REST API design; Performance tuning; Authentication and authorization; Backward compatibility; Logging; Azure; RabbitMQ; Kafka; Redis; Git; GCP; Monitoring; Incident response
+EDUCATION
+Bachelor of Science | Computer Science | Western Governors University
+2007-09 to 2012-06
+PROJECTS
+Event-Driven Patient Alert System
+Architected a Kafka-based event pipeline for real-time patient vital monitoring, reducing alert latency by 60%. Technologies used: Azure, RabbitMQ.
+API Versioning Strategy
+Implemented backward-compatible API versioning reducing client breakage by 90%. Technologies used: REST, Git.
+CERTIFICATIONS
+Google Cloud Professional Cloud Architect
+Issued by Google.
+2020-01
+Microsoft Certified: Azure Solutions Architect Expert
+Issued by Microsoft.
+2019-01

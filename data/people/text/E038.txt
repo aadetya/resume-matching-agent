@@ -1,0 +1,24 @@
+Candidate E038
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Machine Learning Engineer | Omaha Public Schools | 2022-01 to Present
+Leading machine learning initiatives for student outcome prediction and resource allocation.
+Staff Machine Learning Engineer | Nebraska State College System | 2018-06 to 2022-01
+Developed recommendation systems and anomaly detection models for student services.
+Lead Machine Learning Engineer | Midwest Telecom Solutions | 2015-03 to 2018-06
+Led a team of five engineers building predictive maintenance models. Company shut down in 2018.
+Senior Machine Learning Engineer | Heartland Tech Services | 2011-09 to 2015-03
+Built speech recognition and anomaly detection systems. Promoted to senior after two years.
+Machine Learning Engineer | Cellucomm | 2008-01 to 2011-08
+Implemented models for network optimization and customer churn prediction.
+Junior Machine Learning Engineer | Telco Systems Midwest | 2005-05 to 2007-12
+Assisted with data pipelines and model deployment.
+SKILLS
+Cross-validation; Recommender Systems; Model Evaluation; Anomaly Detection; Hadoop; Feature Engineering; SQL; scikit-learn; Keras; Hyperparameter Tuning; Model Monitoring; Tableau; Seaborn; AWS; Python; TensorFlow
+EDUCATION
+Bachelor of Science | Computer Science | Howard University
+2000-09 to 2004-06
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2019-01

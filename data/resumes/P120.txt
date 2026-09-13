@@ -1,0 +1,30 @@
+Candidate P120
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Python Developer | Fayetteville Financial Systems | 2015-03 to Present
+Led backend architecture for high-volume transaction processing, implementing microservices with FastAPI and SQLAlchemy. Drove performance tuning and CI/CD improvements across teams, reducing deployment times by 60%.
+Quantitative Developer | Global Capital Advisors | 2011-08 to 2015-02
+Developed risk models and real-time analytics dashboards using Python and SQLAlchemy. Implemented RESTful APIs for internal tools, and led code reviews to enforce type hints and best practices.
+Software Engineer | TechFin Solutions | 2010-06 to 2011-07
+Built and maintained backend services for a fintech startup. Focused on RESTful API design, database modeling with SQLAlchemy, and writing comprehensive integration tests.
+Research Associate | University of North Carolina | 2008-09 to 2010-05
+Conducted quantitative research on financial markets, using Python for data analysis and modeling. Published findings in peer-reviewed journals, gaining deep domain knowledge in finance.
+SKILLS
+Python; FastAPI; SQLAlchemy; RESTful APIs; Docker; Performance optimization; Type hints; CI/CD pipelines; Integration testing; Code review; Bitbucket; tox; Mock; GitHub Actions; CircleCI; GitHub; Pip
+EDUCATION
+PhD | Computational Finance | University of North Carolina at Chapel Hill
+2004-09 to 2009-06
+Bachelor of Science | Computer Science | University of North Carolina at Chapel Hill
+2000-09 to 2004-06
+PROJECTS
+Real-Time Fraud Detection System
+Led design of a distributed system to detect fraudulent transactions in real-time. Utilized Python, FastAPI, and Docker to process millions of events per day. Technologies used: SQLAlchemy.
+Open-Source API Framework
+Created and maintained a Python framework for rapid API development, which gained 2k stars on GitHub. Focused on type hints and performance optimization. Technologies used: FastAPI.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2020-01
+PCPP – Certified Professional in Python Programming
+Issued by Python Institute.
+2018-01

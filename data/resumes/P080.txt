@@ -1,0 +1,28 @@
+Candidate P080
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Engineering Manager | Department of Defense (Contractor) | 2019-06 to 2024-05
+Led a team of eight frontend engineers building a secure training platform for personnel. Managed project timelines, code reviews, and stakeholder communication while maintaining a hands-on role in component development.
+Senior Frontend Developer | Booz Allen Hamilton | 2015-08 to 2019-05
+Built and maintained React applications for intelligence analysis, ensuring Section 508 compliance and using custom hooks to reduce code duplication. Collaborated with UX researchers to design accessible forms and data visualizations.
+Frontend Developer | General Dynamics Information Technology | 2012-03 to 2015-07
+Developed and maintained a logistics tracking dashboard using React and Redux, improving page load times by 40%. Implemented responsive design and accessibility features, and set up automated testing with Jenkins.
+Combat Engineer (Mechanized) | U.S. Army | 2009-06 to 2012-02
+Served as a combat engineer, focusing on route clearance and demolition. Developed discipline and problem-solving skills under pressure, which later translated to fast-paced development environments.
+SKILLS
+React; Redux; Accessibility (a11y); JavaScript (ES6+); Context API; Hooks; Component Architecture; Babel; Jenkins; Prettier; AWS; Firebase; Contentful; Netlify; TypeScript
+EDUCATION
+Bachelor of Science | Information Technology | University of Phoenix
+2013-09 to 2016-06
+PROJECTS
+Accessible Course Platform
+Rebuilt a legacy course management system into a modern React app with WCAG AA compliance, using context and hooks for state and integrating Contentful for content. Reduced accessibility-related user complaints by 80%. Technologies used: Redux, Context API, Netlify.
+Deployment Status Dashboard
+Created a real-time dashboard for military deployments using React and Firebase, enabling commanders to track personnel readiness. Implemented role-based access control and ensured compatibility with assistive technologies. Technologies used: Babel, Jenkins, AWS.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2020-01
+Meta Front-End Developer Professional Certificate
+Issued by Coursera.
+2023-01

@@ -1,0 +1,9 @@
+Candidate P042
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior React Developer | Venture-backed Scaleup Co. | 2019-03 to Present
+SKILLS
+React; Performance Optimization; CI/CD; React Router; Redux
+EDUCATION
+Bachelor's | Computer Science | University of New Mexico
+2012-09 to 2016-06

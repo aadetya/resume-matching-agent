@@ -1,0 +1,9 @@
+Candidate P019
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Backend Engineer | Family-Owned Local Business Inc. | 2015-03 to Present
+SKILLS
+Authentication and authorization; Integration testing; Logging; Kubernetes; Java; SQL
+EDUCATION
+Master's degree | Computer Science | California State University
+2012-09 to 2014-06

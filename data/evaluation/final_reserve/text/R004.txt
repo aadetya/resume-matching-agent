@@ -1,0 +1,19 @@
+Candidate R004
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Space Systems Operator | United States Space Force | 2014-06 to 2023-03
+Operated satellite communication systems and managed data links. Performed shift work, monitoring system performance and resolving anomalies.
+Backend Engineer | DataBridge Consulting | 2023-04 to Present
+Design and maintain backend services for government clients. Focus on database performance, message queues, and API versioning.
+SKILLS
+Backward compatibility; Message queues; NoSQL databases; API versioning; Logging; Rate limiting; JWT; GraphQL; Performance tuning; WebSocket; Unit testing; CI/CD pipeline design; Temporal; Node.js; Git; AWS; PostgreSQL; Redis
+EDUCATION
+Certificate | Full-Stack Web Development | TechPro Bootcamp
+2022-09 to 2023-06
+PROJECTS
+Satellite Data Pipeline
+Built a pipeline to process telemetry data using Node.js and Redis, ensuring low-latency message processing and reliability. Technologies used: AWS.
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Issued by Amazon Web Services.
+2023-01

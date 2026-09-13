@@ -1,0 +1,50 @@
+python: {display_name: Python, aliases: [python, python3]}
+r: {display_name: R, aliases: [r language]}
+sql: {display_name: SQL, aliases: [sql, structured query language]}
+java: {display_name: Java, aliases: [java]}
+javascript: {display_name: JavaScript, aliases: [javascript, js, ecmascript]}
+typescript: {display_name: TypeScript, aliases: [typescript, ts]}
+go: {display_name: Go, aliases: [golang, go language]}
+csharp: {display_name: C#, aliases: [c#, c sharp]}
+cpp: {display_name: C++, aliases: [c++]}
+dotnet: {display_name: .NET, aliases: [.net, dotnet]}
+react: {display_name: React, aliases: [react.js, reactjs, react framework]}
+nodejs: {display_name: Node.js, aliases: [node.js, nodejs]}
+fastapi: {display_name: FastAPI, aliases: [fastapi]}
+django: {display_name: Django, aliases: [django]}
+rest: {display_name: REST APIs, aliases: [rest api, restful api, rest apis]}
+postgresql: {display_name: PostgreSQL, aliases: [postgresql, postgres]}
+mysql: {display_name: MySQL, aliases: [mysql]}
+redis: {display_name: Redis, aliases: [redis]}
+pytorch: {display_name: PyTorch, aliases: [pytorch, torch]}
+tensorflow: {display_name: TensorFlow, aliases: [tensorflow]}
+scikit_learn: {display_name: scikit-learn, aliases: [scikit-learn, sklearn]}
+machine_learning: {display_name: Machine Learning, aliases: [machine learning]}
+statistics: {display_name: Statistics, aliases: [statistics, statistical analysis]}
+experimentation: {display_name: Experimentation, aliases: [experimentation]}
+forecasting: {display_name: Forecasting, aliases: [forecasting]}
+tableau: {display_name: Tableau, aliases: [tableau]}
+power_bi: {display_name: Power BI, aliases: [power bi, powerbi]}
+excel: {display_name: Excel, aliases: [excel, microsoft excel]}
+spark: {display_name: Apache Spark, aliases: [apache spark, spark, pyspark]}
+airflow: {display_name: Apache Airflow, aliases: [apache airflow, airflow]}
+kafka: {display_name: Apache Kafka, aliases: [apache kafka, kafka]}
+snowflake: {display_name: Snowflake, aliases: [snowflake]}
+bigquery: {display_name: BigQuery, aliases: [bigquery, google bigquery]}
+aws: {display_name: AWS, aliases: [aws, amazon web services]}
+azure: {display_name: Azure, aliases: [azure, microsoft azure]}
+gcp: {display_name: GCP, aliases: [gcp, google cloud platform]}
+docker: {display_name: Docker, aliases: [docker]}
+kubernetes: {display_name: Kubernetes, aliases: [kubernetes, k8s]}
+terraform: {display_name: Terraform, aliases: [terraform]}
+cicd: {display_name: CI/CD, aliases: [ci/cd]}
+linux: {display_name: Linux, aliases: [linux]}
+monitoring: {display_name: Monitoring, aliases: [monitoring]}
+siem: {display_name: SIEM, aliases: [siem, security information and event management]}
+incident_response: {display_name: Incident Response, aliases: [incident response, incident handling]}
+network_security: {display_name: Network Security, aliases: [network security]}
+iam: {display_name: IAM, aliases: [iam, identity and access management]}
+cybersecurity: {display_name: Cybersecurity, aliases: [cybersecurity]}
+metrics: {display_name: Product Metrics, aliases: [product metrics]}
+git: {display_name: Git, aliases: [git]}
+testing: {display_name: Testing, aliases: [testing]}

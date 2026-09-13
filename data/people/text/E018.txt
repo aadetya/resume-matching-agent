@@ -1,0 +1,9 @@
+Candidate E018
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Full Stack Developer | PixelForge Games | 2016-03 to Present
+SKILLS
+PostgreSQL; Express.js; Authorization (RBAC, ABAC); JavaScript; React; Node.js
+EDUCATION
+Full Stack Development | Coding Dojo
+2015-09 to 2015-06

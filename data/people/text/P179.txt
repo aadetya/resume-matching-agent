@@ -1,0 +1,9 @@
+Candidate P179
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Frontend Engineer | Magnolia Retail Group | 2013-03 to Present
+SKILLS
+GraphQL; Static Site Generation (SSG); CSS3; React; JavaScript; React DevTools
+EDUCATION
+Associate of Applied Science | Computer Information Systems | Mississippi Technical College
+2009-09 to 2011-06

@@ -1,0 +1,21 @@
+Candidate P125
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Software Engineering Intern | University of North Texas | 2024-06 to 2024-08
+Collaborated with the financial services team to assist in integrating payment gateway APIs for campus transactions, gaining hands-on experience with transaction lifecycle management and webhook handling.
+Research Assistant | University of North Texas | 2024-01 to 2024-05
+Supported a research project on fraud detection methodologies in digital payments, analyzing transaction datasets and implementing prototype models with Python and SQL.
+Student Worker - IT Help Desk | University of North Texas | 2023-05 to 2023-12
+Provided technical support for students and staff, troubleshooting hardware and software issues, and gained foundational knowledge in incident response and user support.
+SKILLS
+Transaction lifecycle management; Payment gateway integration; ACH; Fraud detection and prevention; Chargebacks and disputes; Webhooks; Caching strategies; PostgreSQL; Plaid; Spreedly; Bambora; Settlement and reconciliation; Incident response; Digital wallets
+EDUCATION
+Bachelor of Science | Computer Science | Austin College
+2021-09 to 2025-06
+PROJECTS
+Payment Gateway Sandbox Integration
+Developed a mock e-commerce platform integrating Bambora and Spreedly sandbox APIs to simulate transaction flows, handle webhooks, and manage refunds. Technologies used: Python, Flask, PostgreSQL.
+ACH Payment Processor Simulation
+Built a command-line tool to model ACH transaction processing, including settlement and reconciliation, using Plaid-like APIs for bank account verification. Technologies used: Python, SQLite.
+Fraud Detection ML Model
+Trained a machine learning model on synthetic transaction data to identify potential fraudulent activities, implementing basic caching to handle large datasets efficiently. Technologies used: Python, scikit-learn, Pandas, Redis.

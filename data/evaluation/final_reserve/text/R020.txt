@@ -1,0 +1,25 @@
+Candidate R020
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Streaming Data Engineer | Capital Stream Analytics | 2023-02 to Present
+Design and maintain real-time data pipelines using Apache Flink and Kafka. Implement CDC from databases to Snowflake via Kafka Connect, ensuring exactly-once semantics.
+Data Engineer | FPT Technology | 2021-06 to 2023-01
+Built batch and streaming pipelines for logistics clients. Migrated on-premises ETL to cloud-based streaming solutions.
+Data Engineer | Capital Stream Analytics | 2020-01 to 2021-05
+Supported Kafka cluster monitoring and alerting. Developed initial streaming ETL jobs for marketing data.
+Junior Data Engineer | DataVista Solutions | 2019-06 to 2019-12
+Assisted with data warehouse maintenance and ETL development. Gained initial experience with AWS Kinesis.
+SKILLS
+Apache Flink; Apache Kafka; Amazon Kinesis; Kafka Connect; Streaming ETL; Exactly-once semantics; Apache Spark; Snowflake; Google Cloud Pub/Sub; Avro serialization; Change data capture (CDC); Consumer group management; Monitoring and alerting for streaming; Data governance for real-time data
+EDUCATION
+Master of Science | Computer Science | George Washington University
+2022-09 to 2024-06
+Bachelor of Engineering | Computer Engineering | Hanoi University of Science and Technology
+2015-09 to 2019-06
+PROJECTS
+Real-Time Clickstream Analysis
+Built a streaming pipeline using Apache Flink and Kafka to process clickstream data. Implemented windowed aggregations and sliding event-time windows, delivering sub-minute insights. Technologies used: Apache Kafka, Amazon Kinesis.
+CERTIFICATIONS
+Confluent Certified Developer for Apache Kafka
+Issued by Confluent.
+2023-01

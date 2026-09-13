@@ -1,0 +1,9 @@
+Candidate P089
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+DevOps Engineer | Acme IT Solutions (Franchise) | 2020-06 to Present
+SKILLS
+Scripting and automation; Network configuration and troubleshooting; Log management and analysis; GCP
+EDUCATION
+IT Operations | Military Training Pipeline
+2016-09 to 2018-06

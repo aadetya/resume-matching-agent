@@ -1,0 +1,24 @@
+Candidate P046
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+React Developer | TekStaff Solutions | 2023-06 to Present
+Developing and maintaining React applications for government clients, achieving a 98% client satisfaction score and reducing bundle size by 20% through code splitting.
+Quality Assurance Analyst | Grupo Bimbo | 2014-01 to 2022-05
+Oversaw quality control processes, managed a team of 12, and reduced defect rates by 15% across multiple production lines.
+SKILLS
+HTML5; Context API; REST API Integration; State Management; Responsive Design; Static Site Generation (SSG); React Testing Library; Webpack; Progressive Web Apps (PWA); Git; Babel; Component Architecture; npm; Yarn; Docker; Kubernetes; Storybook; ESLint
+EDUCATION
+Bachelor of Science | Computer Science | Western Governors University
+2022-09 to 2023-06
+Bachelor of Science | Industrial Engineering | Universidad Nacional Autónoma de México
+2009-09 to 2013-06
+PROJECTS
+Government Portal Refresh
+Rebuilt a citizen-facing portal using React and SSG, improving load times by 35% and passing WCAG 2.1 AA accessibility standards. Technologies used: Next.js, Context API, Tailwind CSS.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2023-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

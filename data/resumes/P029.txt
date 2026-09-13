@@ -1,0 +1,9 @@
+Candidate P029
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Streaming Data Engineer | Sunshine Retail Group | 2021-03 to Present
+SKILLS
+Apache Kafka; Kafka Streams; Performance tuning for streaming workloads; Grafana
+EDUCATION
+PhD | Computer Science | University of Florida
+2010-09 to 2015-06

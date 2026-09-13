@@ -1,0 +1,21 @@
+Candidate P116
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior Full Stack Developer | Nexus Digital Solutions | 2023-06 to Present
+Developed PWA features for agency clients using React, Node.js, and PostgreSQL. Implemented state management with Zustand, optimized performance, and ensured cross-browser compatibility. Used Jira, GitLab, and Sentry daily.
+Research Assistant | Columbia University | 2021-09 to 2023-05
+Assisted in web-based research projects, building data visualization dashboards with Python and MongoDB. Gained experience with REST APIs and microservices during academic projects.
+SKILLS
+State management (Redux, Zustand); Redis; Microservices architecture; PostgreSQL; Web performance optimization; MongoDB; Cross-browser compatibility; REST API design; GitHub/GitLab/Bitbucket; Postman; Sentry; Jira; npm/yarn/pnpm; VS Code
+EDUCATION
+PhD | Computer Science | Columbia University
+2020-09 to 2025-06
+PROJECTS
+PWA Task Manager
+Built a progressive web app with offline support, using Redux for state management and IndexedDB. Achieved Lighthouse performance score of 95+. Technologies used: React, Service Workers.
+Microservices E-commerce Platform
+Designed a microservices architecture with Node.js and PostgreSQL, using Redis for caching. Implemented REST API design and integrated with Sentry for error tracking. Technologies used: Express, Docker.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

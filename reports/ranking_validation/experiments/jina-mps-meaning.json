@@ -1,0 +1,226 @@
+{
+  "model": "jinaai/jina-reranker-v2-base-multilingual",
+  "revision": "9cfeff2df7d40d1b78e75e5e9cebec92a99813c9",
+  "device": "mps",
+  "load_seconds": 2.39229145902209,
+  "transformers": "4.57.6",
+  "rows": [
+    {
+      "id": "MEANING_001",
+      "split": "development",
+      "scores": [
+        -0.369140625,
+        -0.64453125
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_002",
+      "split": "development",
+      "scores": [
+        0.283203125,
+        0.484375
+      ],
+      "correct": false
+    },
+    {
+      "id": "MEANING_003",
+      "split": "development",
+      "scores": [
+        0.4375,
+        0.51171875
+      ],
+      "correct": false
+    },
+    {
+      "id": "MEANING_004",
+      "split": "development",
+      "scores": [
+        0.263671875,
+        -0.51953125
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_005",
+      "split": "development",
+      "scores": [
+        -0.390625,
+        0.1904296875
+      ],
+      "correct": false
+    },
+    {
+      "id": "MEANING_006",
+      "split": "development",
+      "scores": [
+        0.98046875,
+        0.181640625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_007",
+      "split": "development",
+      "scores": [
+        0.1474609375,
+        -0.234375
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_008",
+      "split": "development",
+      "scores": [
+        -0.6875,
+        -1.4765625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_009",
+      "split": "development",
+      "scores": [
+        0.326171875,
+        -0.29296875
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_010",
+      "split": "development",
+      "scores": [
+        0.2138671875,
+        1.265625
+      ],
+      "correct": false
+    },
+    {
+      "id": "MEANING_011",
+      "split": "development",
+      "scores": [
+        -0.6328125,
+        -1.4921875
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_012",
+      "split": "development",
+      "scores": [
+        -0.0269775390625,
+        -1.3671875
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_013",
+      "split": "transfer",
+      "scores": [
+        1.09375,
+        -0.64453125
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_014",
+      "split": "transfer",
+      "scores": [
+        0.8203125,
+        -0.3515625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_015",
+      "split": "transfer",
+      "scores": [
+        0.6328125,
+        -0.326171875
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_016",
+      "split": "transfer",
+      "scores": [
+        1.1953125,
+        0.5390625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_017",
+      "split": "transfer",
+      "scores": [
+        0.8984375,
+        0.56640625
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_018",
+      "split": "transfer",
+      "scores": [
+        -0.072265625,
+        -1.9296875
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_019",
+      "split": "transfer",
+      "scores": [
+        0.02294921875,
+        -0.8984375
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_020",
+      "split": "transfer",
+      "scores": [
+        -0.78515625,
+        0.62109375
+      ],
+      "correct": false
+    },
+    {
+      "id": "MEANING_021",
+      "split": "transfer",
+      "scores": [
+        0.37890625,
+        -1.859375
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_022",
+      "split": "transfer",
+      "scores": [
+        -0.0126953125,
+        0.173828125
+      ],
+      "correct": false
+    },
+    {
+      "id": "MEANING_023",
+      "split": "transfer",
+      "scores": [
+        0.96484375,
+        0.08349609375
+      ],
+      "correct": true
+    },
+    {
+      "id": "MEANING_024",
+      "split": "transfer",
+      "scores": [
+        0.3125,
+        -1.5859375
+      ],
+      "correct": true
+    }
+  ],
+  "seconds": 1.960460582980886
+}

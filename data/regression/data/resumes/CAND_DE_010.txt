@@ -1,0 +1,21 @@
+Nikhil Patel
+cand_de_010@example.test
+
+PROFILE
+Data Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+
+Data Engineer | Northstar Fiction Labs | 2020-01 to 2026-01
+Built SQL transformations with explicit grain, null checks, and late-arriving data handling.
+Used Apache Spark to compact partitioned event data and avoid repeated full-table scans.
+Used Python, Airflow in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+Consultant | Cedar Fiction Studio | Jan 2024 - Jan 2025
+Built SQL transformations with explicit grain, null checks, and late-arriving data handling.
+
+TECHNOLOGIES
+SQL, Apache Spark, Python, Airflow
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

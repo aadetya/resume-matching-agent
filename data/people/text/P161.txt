@@ -1,0 +1,32 @@
+Candidate P161
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Engineer (Contract) | Brightpath Analytics | 2023-06 to Present
+Engineered real-time dashboards for analytics platform using React and Vite, reducing load times by 40%. Built and maintained a component library adopted by 3 product teams.
+Frontend Developer (Contract) | Nashville SaaS Collective | 2022-01 to 2023-05
+Developed and shipped 12+ client projects using React and REST APIs, increasing client satisfaction scores by 15%. Implemented Design Systems and Storybook to accelerate UI development by 30%.
+UI Engineer (Contract) | DataSync Solutions | 2021-01 to 2021-12
+Built real-time collaboration features using React, CSS-in-JS, and WebSocket APIs. Reduced bug count by 20% through rigorous ESLint and testing practices.
+Junior Frontend Developer (Contract) | Nashville Web Agency | 2019-06 to 2020-12
+Developed responsive websites for clients, increasing mobile traffic by 25%. Utilized HTML5, CSS, and JavaScript to implement interactive features and improve SEO.
+Frontend Developer (Full-time) | Tennessee Digital Services | 2015-01 to 2019-05
+Maintained and expanded a large-scale internal dashboard, improving performance by 30%. Collaborated with design team to implement design systems, resulting in a 40% reduction in UI development time.
+SKILLS
+React; Design Systems; REST APIs; Build Tools (Webpack, Vite); HTML5; CSS-in-JS; Static Site Generation (SSG); Storybook; VS Code; ESLint; GitHub; TypeScript; Node.js
+EDUCATION
+Bachelor of Science | Computer Science | University of Tennessee
+2010-09 to 2014-06
+Master of Science | Information Technology | Western Governors University
+2018-09 to 2021-06
+PROJECTS
+Real-Time Chat Application
+Developed a real-time chat app using React, WebSockets, and REST APIs, supporting 500+ concurrent users with 50ms latency. Implemented design system for consistent UI. Technologies used: CSS-in-JS.
+Design System Component Library
+Created a reusable component library using Storybook and React, reducing development time by 30% across projects. Integrated with Vite and ESLint for quality. Technologies used: Design Systems.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2022-01
+W3C Front-End Web Developer Professional Certificate
+Issued by W3C.
+2020-01

@@ -1,0 +1,15 @@
+Sara Reed
+cand_do_019@example.test
+
+PROFILE
+A focused resume with one directly supported technical skill.
+
+CAREER HISTORY
+DevOps Engineer | Northstar Fiction Labs | Jan 2021 - Jan 2026
+Used Kubernetes for a small internal workflow. Coordinated release meetings and maintained a manual inventory of team laptops.
+
+TECHNOLOGIES
+Kubernetes
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

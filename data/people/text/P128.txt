@@ -1,0 +1,24 @@
+Candidate P128
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Site Reliability Engineer | Nashville Staffing Solutions | 2016-03 to Present
+Leading SRE team for government contracts. Managing on-call rotations and implementing monitoring. Tired of the 24/7 grind and want back to hands-on.
+Senior Systems Engineer | Tennessee Department of Technology | 2008-01 to 2016-02
+Maintained large-scale government systems. Automated deploys with ansible. Got burnt out from state politics and budget cuts.
+Systems Administrator | Vanderbilt University Medical Center | 2003-06 to 2007-12
+Managed servers and backups. Learned scripting to automate tasks.
+SKILLS
+configuration management (ansible, puppet, chef); monitoring and alerting (prometheus, grafana); go; python; microservices architecture; incident management; distributed systems; infrastructure as code (terraform); kubernetes; ci/cd; linux administration; networking
+EDUCATION
+Bachelor of Science | Information Technology | Western Governors University
+2010-09 to 2013-06
+PROJECTS
+Migration to Kubernetes
+Led migration of legacy applications to Kubernetes. Used helm and terraform to manage infrastructure. Technologies used: argocd.
+CERTIFICATIONS
+AWS Certified DevOps Engineer
+Issued by Amazon Web Services.
+2020-01
+Certified Kubernetes Administrator (CKA)
+Issued by CNCF.
+2021-01

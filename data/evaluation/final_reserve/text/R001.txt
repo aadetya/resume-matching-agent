@@ -1,0 +1,23 @@
+Candidate R001
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Legal Secretary | Nebraska State Court System | 2014-06 to 2022-12
+Managed 500+ case files annually, processed 1,200+ legal documents, and coordinated schedules for 3 judges. Reduced filing errors by 30% through meticulous attention to detail.
+Freelance TypeScript Developer | Self-employed | 2023-01 to Present
+Developed a desktop app for a local business using Electron and Vue.js, integrating WebSockets for real-time updates. Implemented code splitting and lazy loading to cut initial load time by 40%.
+SKILLS
+Vue.js; Node.js; JavaScript (ES6+); TypeScript; Electron; Unit testing; Integration testing; End-to-end testing; WebSockets; Build automation (CI/CD); Bundlers (Webpack, Vite, Rollup); Code splitting; Lazy loading; Promises; Redux DevTools; Jira; GraphQL Playground
+EDUCATION
+Associate of Science | Computer Science | Southeast Community College
+2019-09 to 2021-06
+Bachelor of Science | Computer Science | University of Nebraska-Lincoln
+2021-09 to 2023-06
+PROJECTS
+Case Management Desktop App
+Built an Electron-based app to digitize case files, using Vue.js, Node.js, and WebSockets for live updates. Reduced document retrieval time by 70%.
+Real-time Dashboard
+Created a dashboard for a local startup using Vue.js, GraphQL Playground, and Redux DevTools. Implemented CI/CD pipelines to automate deployment.
+CERTIFICATIONS
+Certified JavaScript Developer
+Issued by Certification Authority.
+2023-01

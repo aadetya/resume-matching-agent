@@ -1,0 +1,9 @@
+Candidate P157
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+DevOps Engineer | National Energy Foundation | 2024-01 to Present
+SKILLS
+Cost optimization; Incident response and management; Security hardening and compliance; Puppet
+EDUCATION
+Bachelor of Science | Computer Science | University of Texas at Austin
+2010-09 to 2014-06

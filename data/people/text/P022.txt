@@ -1,0 +1,34 @@
+Candidate P022
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead DevOps Engineer | National Renewable Energy Cooperative | 2021-03 to Present
+Lead a team of 5 DevOps engineers for a national non-profit focused on renewable energy. Manage CI/CD for internal and field systems, oversee incident response, and ensure compliance with energy regulations.
+Senior DevOps Engineer | SolarGrid Nonprofit | 2019-08 to 2021-02
+Developed and maintained AWS infrastructure, improved monitoring and alerting with ELK stack, and cut cloud costs by 30% while travelling to field sites.
+DevOps Engineer | Green Energy Association | 2018-01 to 2019-07
+Implemented configuration management and automation for build systems. Participated in on-call incident response and disaster recovery drills.
+Cloud Engineer | TechServe Nonprofit | 2016-09 to 2017-12
+Managed Azure cloud resources, set up logging and monitoring, and assisted with security hardening for nonprofit clients.
+Systems Administrator | Community Data Cooperative | 2015-02 to 2016-08
+Maintained on-premise servers, performed backup and restore, and managed user access. Began automating routine tasks.
+Support Technician | Regional Energy Services | 2013-03 to 2014-10
+Provided IT support for field technicians. Gained exposure to monitoring tools and incident response.
+Junior DevOps Engineer | Nevada State University IT | 2012-01 to 2012-12
+Assisted with build automation and configuration management for university systems. Learned AWS basics.
+SKILLS
+Configuration management; Incident response and management; Disaster recovery planning; Security hardening and compliance; Log management and analysis; Monitoring and alerting; Cost optimization; Backup and restore procedures; Build automation; Serverless and event-driven architecture; Service mesh implementation; Azure; Splunk; AWS; ELK Stack; Terraform; Kubernetes
+EDUCATION
+Bachelor of Science | Computer Science | University of Nevada, Reno
+2008-09 to 2012-06
+PROJECTS
+Field Monitoring Dashboard
+Built a centralized logging and monitoring dashboard using ELK Stack for real-time field device data, reducing incident response time by 40%. Technologies used: AWS, Splunk.
+Cloud Cost Optimization Initiative
+Led an effort to reduce cloud spend by 30% through right-sizing, reserved instances, and serverless adoption. Technologies used: AWS, Azure.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2020-01
+Microsoft Certified: DevOps Engineer Expert
+Issued by Microsoft.
+2023-01

@@ -1,0 +1,75 @@
+{
+  "repo": "mixedbread-ai/mxbai-rerank-large-v2",
+  "revision": "ca7e1ee484c37c0ddd8d178a9a5c33cec575c5e6",
+  "files": [
+    [
+      ".gitattributes",
+      1570
+    ],
+    [
+      "1_LogitScore/config.json",
+      50
+    ],
+    [
+      "LICENSE",
+      10763
+    ],
+    [
+      "README.md",
+      46757
+    ],
+    [
+      "added_tokens.json",
+      605
+    ],
+    [
+      "chat_template.jinja",
+      576
+    ],
+    [
+      "config.json",
+      768
+    ],
+    [
+      "config_sentence_transformers.json",
+      204
+    ],
+    [
+      "generation_config.json",
+      242
+    ],
+    [
+      "merges.txt",
+      1671853
+    ],
+    [
+      "model.safetensors",
+      3087466808
+    ],
+    [
+      "modules.json",
+      281
+    ],
+    [
+      "sentence_bert_config.json",
+      309
+    ],
+    [
+      "special_tokens_map.json",
+      613
+    ],
+    [
+      "tokenizer.json",
+      11421896
+    ],
+    [
+      "tokenizer_config.json",
+      4686
+    ],
+    [
+      "vocab.json",
+      2776833
+    ]
+  ],
+  "path": "<local-path>"
+}

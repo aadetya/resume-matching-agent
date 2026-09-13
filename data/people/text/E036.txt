@@ -1,0 +1,21 @@
+Candidate E036
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Logistics Coordinator | Midwest Freight Logistics | 2021-03 to Present
+Managed daily freight scheduling and documentation, and I started automating our tracking reports with SQL and Python, which got me interested in data engineering.
+Unit Supply Specialist | U.S. Army | 2018-06 to 2021-02
+Handled inventory and logistics for a large unit, which taught me disciplined data management and the importance of accuracy. This is where I first worked with large spreadsheets and basic databases.
+SKILLS
+Data warehousing; MapReduce; Data validation; Apache Cassandra; Data modeling; HDFS; Apache Airflow; Amazon EMR; SQL; Performance tuning; ETL pipelines; Apache Iceberg; Apache Flink; dbt; Amazon S3; Python; Apache Spark
+EDUCATION
+Associate of Applied Science | Logistics Management | Community College of the Air Force
+2019-09 to 2021-06
+PROJECTS
+Freight Analytics Dashboard
+Built a dashboard for my current job that ingests shipment data from CSV files into a SQL database and visualizes delivery performance trends. Technologies used: Python, Tableau.
+MovieLens ETL Pipeline
+Developed an ETL pipeline using Apache Airflow and dbt to process public movie ratings data, loading it into a data warehouse on Amazon S3 and querying with Apache Iceberg.
+CERTIFICATIONS
+AWS Certified Big Data - Specialty
+Issued by Amazon Web Services.
+2023-01

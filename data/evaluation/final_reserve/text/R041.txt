@@ -1,0 +1,27 @@
+Candidate R041
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Data Engineer | Solano County Credit Union | 2018-07 to 2023-12
+Managed a team of five engineers building streaming ETL pipelines for real-time fraud detection and customer analytics. Declined further management to return to hands-on engineering, paving the way for a senior IC role.
+Senior Big Data Engineer | CommonWealth Central Credit Union | 2013-03 to 2018-06
+Architected a cloud-based data lake on Amazon S3 using Apache Hudi, and migrated batch processing to streaming with Flink. Worked closely with data science to improve model features.
+Big Data Engineer | Golden 1 Credit Union | 2008-01 to 2013-02
+Developed large-scale MapReduce jobs and optimized data warehouse loads. Introduced Airflow for scheduling, cutting pipeline failures by 40%.
+Data Analyst | Travis Credit Union | 2002-06 to 2007-12
+Performed SQL-based analysis and reporting for lending operations, gaining deep credit union domain knowledge. Moved toward engineering after automating report generation with Python scripts.
+IT Support Specialist | Napa Valley Bank | 2000-01 to 2002-05
+Provided desktop support and basic network troubleshooting while studying for a degree in computer science.
+SKILLS
+Apache Hudi; ETL pipelines; Apache Airflow; Data lake architecture; Snowflake; NoSQL databases; Distributed computing; MapReduce; Apache Cassandra; Apache Flink; Google BigQuery; Stream processing; Apache Spark; Python; Amazon S3; Kafka; Kubernetes; Terraform
+EDUCATION
+Bachelor of Science | Computer Science | California State University, Sacramento
+1999-09 to 2004-06
+PROJECTS
+Real-Time Fraud Detection Pipeline
+Engineered a streaming solution using Flink and Kafka to flag fraudulent transactions within milliseconds, processing millions of events daily. Technologies used: Apache Flink, Apache Kafka, Cassandra.
+Data Lake Migration to Hudi
+Led migration of legacy Hive tables to an Apache Hudi-based lake on S3, enabling upserts and time-travel queries, reducing storage costs by 30%. Technologies used: Amazon S3, Apache Spark.
+CERTIFICATIONS
+Google Professional Data Engineer
+Issued by Google.
+2021-01

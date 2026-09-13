@@ -1,0 +1,19 @@
+Candidate P049
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Developer | Civic Data Solutions | 2020-06 to Present
+Develop and maintain React components for a municipal dashboard. Implement PWA features for offline access. Use GitHub Actions for CI/CD.
+Service Desk Technician | City of Norwalk IT Department | 2012-01 to 2020-05
+Provided technical support and troubleshooting for city employees. Shift work requirement. Gained familiarity with government processes.
+SKILLS
+State Management; React Router; Responsive Design; Progressive Web Apps (PWA); Hooks; Context API; Vercel; GitHub Actions; Node.js; Express; React DevTools
+EDUCATION
+Certificate | Full-Stack Development | Coding Dojo
+2019-09 to 2020-06
+PROJECTS
+Public Records PWA
+Built a progressive web app for accessing public records, using React and Context API. Deployed on Vercel. Technologies used: PWA.
+CERTIFICATIONS
+freeCodeCamp Front End Development Libraries Certification
+Issued by freeCodeCamp.
+2020-01

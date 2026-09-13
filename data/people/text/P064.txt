@@ -1,0 +1,24 @@
+Candidate P064
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+React Developer | Sentara Healthcare | 2021-03 to 2023-04
+Developed and maintained patient-facing web applications using React and TypeScript, implemented PWAs for offline access, and integrated CI/CD pipelines with Netlify.
+Junior React Developer | Chesapeake Regional Healthcare | 2018-02 to 2020-12
+Built responsive UI components with CSS3 and JavaScript, migrated legacy code to React Hooks, and collaborated with back-end teams to integrate AWS services.
+Frontend Developer | Bayside Medical Group | 2016-06 to 2018-01
+Created interactive dashboards using JavaScript and CSS3, improved page load performance, and introduced Vite for faster builds.
+SKILLS
+JavaScript (ES6+); TypeScript; React; Hooks; CSS3; Vite; Progressive Web Apps (PWA); CI/CD; Netlify; AWS; pnpm; Node.js; REST APIs
+EDUCATION
+Certificate | Web Development | Tidewater Community College
+2015-09 to 2016-06
+PROJECTS
+Patient Portal PWA
+Developed a progressive web app for patient appointment scheduling and health records access, implementing offline capabilities and push notifications. Technologies used: React, TypeScript, Vite, PWA.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2023-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2022-01

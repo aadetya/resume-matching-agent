@@ -1,0 +1,21 @@
+Candidate P122
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior Web Developer | Major Retail Corp | 2022-06 to Present
+Develop and maintain e-commerce features using Vue.js and Next.js; improved page load speed by 30% through code splitting and lazy loading; implemented PWA capabilities for mobile users.
+Web Developer Intern | Tech Solutions Inc. | 2021-06 to 2021-08
+Assisted in building responsive web pages and fixing accessibility issues; wrote unit tests and participated in code reviews, contributing to a 15% reduction in bugs.
+SKILLS
+Progressive Web Apps (PWA); Cloud Deployment (AWS, Azure, GCP); Accessibility (a11y); Monitoring and Logging; HTML; Web Security (OWASP); Testing/Debugging; JavaScript; TypeScript; Containerization (Docker); Message Queues (RabbitMQ, Kafka); Next.js; Git; Nuxt.js; Webpack; Vue.js
+EDUCATION
+Bachelor of Science | Computer Science | Boston University
+2018-09 to 2022-06
+PROJECTS
+E-commerce PWA
+Built a progressive web app for a retail client with offline support and push notifications, resulting in a 22% increase in mobile conversions. Technologies used: Vue.js, PWA, Service Workers.
+Accessibility Audit
+Conducted accessibility audit for company website and fixed 50+ WCAG violations, improving score from 70 to 98. Technologies used: HTML, CSS, JavaScript, Axe.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2023-01

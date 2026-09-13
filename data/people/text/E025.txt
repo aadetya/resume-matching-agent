@@ -1,0 +1,9 @@
+Candidate E025
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Machine Learning Engineer | OhioHealth | 2018-03 to Present
+SKILLS
+scikit-learn; Model Evaluation; R; Kubeflow
+EDUCATION
+PhD | Computer Science | The Ohio State University
+2010-09 to 2015-06

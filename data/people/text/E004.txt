@@ -1,0 +1,28 @@
+Candidate E004
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior Machine Learning Engineer | Energy Dynamics Cooperative | 2022-06 to Present
+Spearheaded the development of a speech-to-text system for field technicians, leveraging cutting-edge ML techniques to transcribe noisy audio from power plant environments, resulting in a 30% reduction in documentation time.
+Data Analyst | Peak Energy Services | 2021-08 to 2022-05
+Leveraged SQL and Tableau to deliver actionable insights on energy consumption patterns, enabling the sales team to target high-value accounts with precision.
+Technical Support Specialist | Comcast | 2019-01 to 2021-07
+Provided tier-2 support for VoIP services, troubleshooting complex network issues and escalating critical incidents; self-taught Python and machine learning during nights and weekends.
+SKILLS
+Python; Feature Engineering; scikit-learn; MLOps; SQL; Hadoop; Spark; AWS; dbt; Apache Kafka; Tableau; Hyperparameter Tuning; Data Visualization
+EDUCATION
+Associate of Science | Computer Science | Community College of Denver
+2017-09 to 2019-06
+Data Science | University of Colorado Denver
+2023-09 to date unavailable
+PROJECTS
+Real-time Noise-robust Speech Recognition
+Developed an end-to-end speech recognition pipeline using convolutional neural networks and attention mechanisms, optimized for industrial noise, deployed on AWS Lambda with Apache Kafka for streaming. Technologies used: Python, TensorFlow.
+Predictive Maintenance for Energy Grid
+Built a Spark-based predictive model to forecast equipment failures using sensor data, achieving 92% accuracy and integrating with dbt for reliable data transformations. Technologies used: Hadoop, MLOps.
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2023-01
+TensorFlow Developer Certificate
+Issued by Google.
+2022-01

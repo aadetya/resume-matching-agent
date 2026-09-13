@@ -1,0 +1,27 @@
+Candidate P132
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Software Engineer | AutoTech Solutions | 2022-01 to Present
+Leading cloud migration and data pipeline optimization for connected vehicle telematics. Spearheading performance enhancements and mentoring junior engineers.
+Software Engineer (Contract) | DataDriven Auto Analytics | 2020-06 to 2021-12
+Designed and implemented ETL solutions for automotive sales data. Improved query performance and maintained technical documentation.
+Backend Developer (Freelance) | Independent Contractor | 2018-03 to 2020-05
+Delivered full-stack solutions for local automotive businesses. Focused on backend development, integrating cloud services, and ensuring code quality.
+Junior Software Developer (Contract) | Midwest Motor Data Services | 2016-02 to 2018-02
+Built and maintained internal tools for vehicle inventory management. Performed unit testing and participated in code reviews.
+IT Support Technician | AutoCare Network | 2014-01 to 2016-01
+Provided technical support and maintained internal systems. Gained foundational knowledge of networking and database management.
+SKILLS
+debugging; technical documentation; SQL queries; algorithms; cloud services; performance optimization; unit testing; code review; Docker; Azure; Git; GitLab; GitHub
+EDUCATION
+Certificate | Computer Programming | Metropolitan Community College
+2013-09 to 2014-06
+PROJECTS
+Real-time Vehicle Telemetry Dashboard
+Developed a cloud-based dashboard for real-time monitoring of vehicle diagnostics, leveraging Azure services and Docker for scalable deployment. Technologies used: SQL, GitHub.
+ETL Pipeline for Automotive Sales Data
+Built an automated ETL pipeline to ingest and transform sales data from multiple sources, reducing processing time by 40%. Technologies used: Azure, SQL, Python, GitLab.
+CERTIFICATIONS
+Microsoft Certified: Azure Developer Associate
+Issued by Microsoft.
+2022-01

@@ -1,0 +1,247 @@
+{
+  "model": "jinaai/jina-reranker-v3.5",
+  "revision": "e8a93f33f0b22108f8c2364f8484ce3422552fbc",
+  "load_seconds": 3.911221707938239,
+  "rows": [
+    {
+      "id": "MEANING_001",
+      "split": "development",
+      "correct": false,
+      "scores": {
+        "1": 0.28220418095588684,
+        "0": 0.14158616960048676
+      },
+      "seconds": 1.1952827079221606
+    },
+    {
+      "id": "MEANING_002",
+      "split": "development",
+      "correct": true,
+      "scores": {
+        "0": 0.3693540394306183,
+        "1": 0.1989745944738388
+      },
+      "seconds": 0.06499404204078019
+    },
+    {
+      "id": "MEANING_003",
+      "split": "development",
+      "correct": false,
+      "scores": {
+        "1": 0.44606083631515503,
+        "0": 0.42997434735298157
+      },
+      "seconds": 0.055137624964118004
+    },
+    {
+      "id": "MEANING_004",
+      "split": "development",
+      "correct": true,
+      "scores": {
+        "0": 0.26794663071632385,
+        "1": 0.19486865401268005
+      },
+      "seconds": 0.05466212495230138
+    },
+    {
+      "id": "MEANING_005",
+      "split": "development",
+      "correct": false,
+      "scores": {
+        "1": 0.5442798733711243,
+        "0": 0.23434330523014069
+      },
+      "seconds": 0.05646712495945394
+    },
+    {
+      "id": "MEANING_006",
+      "split": "development",
+      "correct": true,
+      "scores": {
+        "0": 0.5933564901351929,
+        "1": 0.26055729389190674
+      },
+      "seconds": 0.054216750198975205
+    },
+    {
+      "id": "MEANING_007",
+      "split": "development",
+      "correct": true,
+      "scores": {
+        "0": 0.27006638050079346,
+        "1": 0.04007044807076454
+      },
+      "seconds": 0.08264304208569229
+    },
+    {
+      "id": "MEANING_008",
+      "split": "development",
+      "correct": true,
+      "scores": {
+        "0": 0.4030255377292633,
+        "1": 0.1501515805721283
+      },
+      "seconds": 0.053442792035639286
+    },
+    {
+      "id": "MEANING_009",
+      "split": "development",
+      "correct": true,
+      "scores": {
+        "0": 0.5396514534950256,
+        "1": 0.21985870599746704
+      },
+      "seconds": 0.05736891692504287
+    },
+    {
+      "id": "MEANING_010",
+      "split": "development",
+      "correct": false,
+      "scores": {
+        "1": 0.5133101940155029,
+        "0": 0.25063419342041016
+      },
+      "seconds": 0.05680366698652506
+    },
+    {
+      "id": "MEANING_011",
+      "split": "development",
+      "correct": true,
+      "scores": {
+        "0": 0.4674234092235565,
+        "1": 0.14094126224517822
+      },
+      "seconds": 0.05428708391264081
+    },
+    {
+      "id": "MEANING_012",
+      "split": "development",
+      "correct": true,
+      "scores": {
+        "0": 0.40051746368408203,
+        "1": 0.1434175819158554
+      },
+      "seconds": 0.05489716702140868
+    },
+    {
+      "id": "MEANING_013",
+      "split": "transfer",
+      "correct": true,
+      "scores": {
+        "0": 0.573189377784729,
+        "1": 0.2119159698486328
+      },
+      "seconds": 0.05623262492008507
+    },
+    {
+      "id": "MEANING_014",
+      "split": "transfer",
+      "correct": true,
+      "scores": {
+        "0": 0.5418139100074768,
+        "1": 0.10707840323448181
+      },
+      "seconds": 0.05699154199101031
+    },
+    {
+      "id": "MEANING_015",
+      "split": "transfer",
+      "correct": true,
+      "scores": {
+        "0": 0.33457958698272705,
+        "1": 0.07764104008674622
+      },
+      "seconds": 0.05549433291889727
+    },
+    {
+      "id": "MEANING_016",
+      "split": "transfer",
+      "correct": true,
+      "scores": {
+        "0": 0.5617294311523438,
+        "1": 0.21894238889217377
+      },
+      "seconds": 0.05700991698540747
+    },
+    {
+      "id": "MEANING_017",
+      "split": "transfer",
+      "correct": true,
+      "scores": {
+        "0": 0.4747870862483978,
+        "1": 0.20003995299339294
+      },
+      "seconds": 0.05503704189322889
+    },
+    {
+      "id": "MEANING_018",
+      "split": "transfer",
+      "correct": true,
+      "scores": {
+        "0": 0.5392672419548035,
+        "1": 0.16720525920391083
+      },
+      "seconds": 0.054972457932308316
+    },
+    {
+      "id": "MEANING_019",
+      "split": "transfer",
+      "correct": true,
+      "scores": {
+        "0": 0.4094512164592743,
+        "1": 0.3181200921535492
+      },
+      "seconds": 0.0572485001757741
+    },
+    {
+      "id": "MEANING_020",
+      "split": "transfer",
+      "correct": false,
+      "scores": {
+        "1": 0.3477942645549774,
+        "0": 0.09742502123117447
+      },
+      "seconds": 0.05509137501940131
+    },
+    {
+      "id": "MEANING_021",
+      "split": "transfer",
+      "correct": true,
+      "scores": {
+        "0": 0.3554327189922333,
+        "1": 0.10594303905963898
+      },
+      "seconds": 0.12231674999929965
+    },
+    {
+      "id": "MEANING_022",
+      "split": "transfer",
+      "correct": true,
+      "scores": {
+        "0": 0.37840908765792847,
+        "1": 0.2472018003463745
+      },
+      "seconds": 0.06294712494127452
+    },
+    {
+      "id": "MEANING_023",
+      "split": "transfer",
+      "correct": true,
+      "scores": {
+        "0": 0.5351593494415283,
+        "1": 0.30562683939933777
+      },
+      "seconds": 0.05432291701436043
+    },
+    {
+      "id": "MEANING_024",
+      "split": "transfer",
+      "correct": true,
+      "scores": {
+        "0": 0.5182783007621765,
+        "1": 0.1885896921157837
+      },
+      "seconds": 0.056045667035505176
+    }
+  ]
+}

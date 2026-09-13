@@ -1,0 +1,30 @@
+Candidate R046
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior API Engineer | Sunrise Energy Cooperative | 2018-03 to Present
+Lead the design and implementation of API gateways for smart grid integrations, ensuring high availability and security. Mentor junior engineers on API best practices and manage the lifecycle of internal and external APIs.
+API Engineer | Pacific Data Systems | 2015-06 to 2017-12
+Developed and maintained RESTful APIs for a cloud-based platform, focusing on scalability and monitoring. Implemented caching strategies and load testing to improve performance.
+Junior API Engineer | NexGen Software | 2013-01 to 2014-08
+Assisted in building API endpoints and writing integration tests. Participated in code reviews and learned the fundamentals of API versioning.
+Data Analyst | Greenfield Analytics | 2011-08 to 2012-05
+Analyzed utility consumption data and created reports. Introduced basic scripting for data processing, which sparked interest in software development.
+Intern | Innovatech Solutions | 2010-06 to 2010-08
+Assisted in testing web applications and documenting bug reports. Gained exposure to software development lifecycle.
+SKILLS
+API gateway development; AWS API Gateway; Google Cloud Endpoints; OpenAPI/Swagger specification; API versioning strategies; API security best practices (OWASP API Top 10); Backward compatibility and deprecation policies; Message queuing (e.g., RabbitMQ, SQS); Asynchronous processing patterns; CI/CD for API deployment; API caching strategies; Load testing and stress testing; API testing (unit, integration, contract); Database integration (SQL and NoSQL); Serverless functions (AWS Lambda, Azure Functions); Postman; Prometheus; Datadog
+EDUCATION
+Bachelor of Science | Computer Science | Occidental College
+2007-09 to 2011-06
+PROJECTS
+Smart Grid API Gateway
+Designed and deployed an API gateway for real-time energy consumption data, handling 10k requests per second with 99.9% uptime. Implemented OAuth2 and rate limiting. Technologies used: AWS API Gateway, Lambda, DynamoDB.
+Internal API Monitoring Dashboard
+Built a dashboard using Prometheus and Grafana to visualize API health and latency. Integrated with Datadog for alerting.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2019-01
+Google Cloud Professional Cloud Developer
+Issued by Google.
+2021-01

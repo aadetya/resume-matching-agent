@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "status": "source_and_labels_sealed_before_model_evaluation",
+  "model_outputs_consulted": false,
+  "human_annotation": false,
+  "profile_count": 50,
+  "assigned_queries": 3,
+  "criterion_count": 200,
+  "source_id_exclusion_scope": "Named local artifacts in selection_manifest.json only; no global unseen claim.",
+  "hashes": {
+    "queries.json": "cab2c55c4cf95c29b5cccefe980f8549cb2f50cf59812e88fb6e616f923dc4a5",
+    "review_protocol.json": "242836cd9f796a2d655d5b8173a4fddbb0f4126eb45a95b386c419f9e0977846",
+    "selection_manifest.json": "2d4b0992704fb6188602ef456d94e429a6698c618569e345e18e16889a7d74bc",
+    "source_profiles.jsonl": "84434fa927c822279aab56d317d4234dac52064d7cf7d97c1f700f58675b9c07",
+    "review_packet.jsonl": "44e9a2351ded2e54c414bdabbeff9924fb4579baf59006b8228b9edfd8ceae47",
+    "judgments.json": "68f7302bbb63513e71315f24d69d74827d97b82068e2fc36525c6afff7b9b52c",
+    "corpus_manifest.json": "b1f847ebb9b9bfb187661239e325ffdf8be8f0753f3be4284e8fe8c5f788a84e",
+    "selection_protocol.json": "1a4a5e6a19f74d58310235c12c4f8b3ad06b933ddb59c7a604e1ca65a173ac9b"
+  },
+  "validation": {
+    "all_quote_anchors_exact": true,
+    "all_source_hashes_match": true,
+    "criterion_contracts_match": true,
+    "employment_months_independently_enumerated": true,
+    "old_holdout_not_modified": true
+  }
+}

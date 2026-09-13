@@ -1,0 +1,21 @@
+Nikhil Sen
+cand_ml_010@example.test
+
+PROFILE
+Machine Learning Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+
+Machine Learning Engineer | Northstar Fiction Labs | 2020-01 to 2026-01
+Built Python training pipelines with split checks and reproducible feature transformations.
+Trained PyTorch models and inspected errors by class before changing model capacity.
+Used Docker, statistics in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+Consultant | Cedar Fiction Studio | Jan 2024 - Jan 2025
+Built Python training pipelines with split checks and reproducible feature transformations.
+
+TECHNOLOGIES
+Python, PyTorch, Docker, statistics
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

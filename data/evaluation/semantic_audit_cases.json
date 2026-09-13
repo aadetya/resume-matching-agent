@@ -1,0 +1,1220 @@
+{
+  "schema_version": 1,
+  "name": "Fresh semantic audit pairs",
+  "snapshot_date": "2026-09-01",
+  "annotation_provenance": {
+    "author": "AI annotation reviewer",
+    "annotation_kind": "author-reviewed synthetic diagnostic expectations",
+    "independent_human_ground_truth": false,
+    "engine_outputs_consulted": false,
+    "historical_evaluation_labels_reused": false,
+    "current_revision_outputs_consulted": false,
+    "construction": "Sixteen new anonymous source profiles and their judgments were authored before any outputs from the audit implementation were inspected. Existing diagnostic schema and annotation semantics were read for compatibility; no existing profile text or judgment was copied. Prior development failures motivated topic selection.",
+    "purpose": "Paired checks of a shared evidence standard, requirement depth, counterclaims, omitted positive associations, exclusion of contextual units from duration and bounded usage arithmetic.",
+    "limits": "One agent authored and reviewed the examples. These are targeted synthetic diagnostics, not independent human annotations, a representative recruitment benchmark or an untouched generalization test. Freeze the bytes before model evaluation; report disagreements without changing labels to fit outputs.",
+    "existing_diagnostic_sha256": "faa4012c2d0a4b50f73ece7ef682f878a95f55db02aae0bddfb1e675b5a65982"
+  },
+  "semantics": {
+    "criterion_labels": "Role: followed by role.replace('_', ' '); Required skill: followed by ' or '.join(group); Total employment; skill + ' duration'; Preferred skill: followed by skill. All skill identifiers retain the normalized lower-case spelling in requirements.",
+    "status": {
+      "supported": "The supplied resume supports the exact requested condition under the declared evidence basis; this is a claim in source, not external verification.",
+      "not_demonstrated": "Complete supplied context fails to demonstrate the requested condition or explicitly excludes it; this is not a claim about all of the person's real abilities.",
+      "uncertain": "Attribution, depth, duration placement, criterion interpretation, or conflicting source claims prevent a supported/negative decision."
+    },
+    "multiple_allowed_statuses": "Only used where either conservative insufficiency category is defensible. Supported is deliberately excluded for unsupported application claims.",
+    "relationship": {
+      "direct": "The candidate's evidence directly supports the named technology or exact role/capability.",
+      "equivalent": "The candidate's own described work supports the requested capability or role through a stated semantic equivalence; no unsupported named-product substitution.",
+      "related": "Relevant neighboring technology or work context that does not by itself satisfy the exact requested condition.",
+      "none": "No usable personal relationship supports the condition. A global/team mention without personal attribution can have no qualifying relationship.",
+      "null": "Relationship category is not material for this criterion, usually arithmetic."
+    },
+    "durations": {
+      "explicit_ended_months": "An explicit ended range includes both named months: 2020-01 through 2023-12 is 48 months. Compute unions of calendar-month intervals; do not add overlapping employment twice.",
+      "current_employment": "Present/current ends at the frozen 2026-09-01 boundary. January 2024 through that boundary contributes 32 completed months; do not include the incomplete September month.",
+      "null_bounds": "No duration is requested or safely identifiable for that criterion. Null is not zero. Both bounds may be null when a one-off task cannot establish a usage duration.",
+      "numeric_bounds": "Exact claims use equal minimum and maximum. Different bounds represent defensible source-derived uncertainty about union placement; they are not model confidence intervals.",
+      "total_employment": "Union of dated employment in any occupation under these requests; education and personal projects do not add employment months.",
+      "skill_related_employment": "Employment intervals linked to a skill-specific title and sustained responsibilities under an explicitly related-employment request. This does not assert independently verified continuous usage.",
+      "explicit_usage": "An explicit bounded usage claim, named subinterval, or whole-role usage statement; apply limiting statements before arithmetic.",
+      "explicit_usage_union_bounds": "Union bounds for separate explicit usage claims whose placement inside overlapping roles is unknown."
+    },
+    "source_fragments": "Fragments are verbatim diagnostic anchors, not required contiguous generated citations. Separate fragments may need separate exact offsets. Their presence does not replace contextual entailment. Counterevidence must also be considered; absence findings require coverage of the complete supplied resume.",
+    "metamorphic_pairs": "Invariant pairs change wording, layout, record order, or untrusted instructions while preserving declared criterion outcomes and numeric bounds. Selective-change and criteria-change pairs deliberately alter only the identified semantic condition.",
+    "review_independence": "Every expected criterion applies to a fresh complete-source assessment, including negative and uncertain findings. A first-pass summary or fixed extraction omission cannot override supplied evidence.",
+    "positive_associations": "Expected positive duration associations identify source facts that must survive assessment and audit. Match source meaning and dates, not invented unit IDs or model wording. Every listed association is required when must_find_all_positive_associations is true. A source claim remains unverified employment history.",
+    "excluded_duration_source_fragments": "These exact fragments identify context that must not contribute duration credit or suppress an independent accepted association. They can be cited as contrary or contextual evidence.",
+    "association_evaluation_scope": "The legacy evaluator reads the compatible status, relationship, basis and numeric fields. It does not automatically assert positive_associations or excluded_duration_source_fragments; a run that omits those checks must say so.",
+    "cross_candidate_pairs": "Each group uses identical structured requirements and semantic_brief for both profiles. Invariant groups preserve expected status and duration; contrast groups change only the named evidence condition. Equivalence of support does not require identical wording or identical relationship labels unless explicitly specified."
+  },
+  "pairs": [
+    {
+      "case_ids": [
+        "SCA001",
+        "SCA002"
+      ],
+      "relation": "invariant",
+      "family": "broad_database_capability",
+      "shared_requirements": true,
+      "judgment": "Both profiles provide personal database implementation. The second must not be held to an unrequested handwritten-query standard.",
+      "invariant_fields": [
+        "allowed_statuses",
+        "duration_minimum_months",
+        "duration_maximum_months",
+        "duration_basis"
+      ]
+    },
+    {
+      "case_ids": [
+        "SCA003",
+        "SCA004"
+      ],
+      "relation": "selective_change",
+      "family": "explicit_query_authoring_depth",
+      "shared_requirements": true,
+      "judgment": "The shared standard requests direct authorship; changing the source authorship claim must change the result.",
+      "changed_criteria": [
+        "Required skill: sql"
+      ]
+    },
+    {
+      "case_ids": [
+        "SCA005",
+        "SCA006"
+      ],
+      "relation": "selective_change",
+      "family": "listed_skill_and_project_application",
+      "shared_requirements": true,
+      "judgment": "Project-scoped technology evidence can support the requested application. A global skills list cannot inherit the same depth.",
+      "changed_criteria": [
+        "Required skill: python"
+      ]
+    },
+    {
+      "case_ids": [
+        "SCA007",
+        "SCA008"
+      ],
+      "relation": "selective_change",
+      "family": "conflicting_personal_attribution",
+      "shared_requirements": true,
+      "judgment": "The first profile remains unresolved because its source contradicts itself. The second has corroborating personal attribution.",
+      "changed_criteria": [
+        "Required skill: java"
+      ]
+    },
+    {
+      "case_ids": [
+        "SCA009",
+        "SCA010"
+      ],
+      "relation": "invariant",
+      "family": "recover_all_dated_associations",
+      "shared_requirements": true,
+      "judgment": "Both positive work associations must remain discoverable. Omitting either role changes the supported duration and can change the threshold verdict.",
+      "invariant_fields": [
+        "allowed_statuses",
+        "duration_minimum_months",
+        "duration_maximum_months",
+        "duration_basis"
+      ]
+    },
+    {
+      "case_ids": [
+        "SCA011",
+        "SCA012"
+      ],
+      "relation": "invariant",
+      "family": "separate_countercontext_from_positive_work",
+      "shared_requirements": true,
+      "judgment": "The same independent thirty-six-month employment association survives both kinds of additional context. Neither context adds duration credit.",
+      "invariant_fields": [
+        "allowed_statuses",
+        "duration_minimum_months",
+        "duration_maximum_months",
+        "duration_basis"
+      ]
+    },
+    {
+      "case_ids": [
+        "SCA013",
+        "SCA014"
+      ],
+      "relation": "selective_change",
+      "family": "explicit_usage_cap_inside_longer_job",
+      "shared_requirements": true,
+      "judgment": "Both sources establish personal Go work. The explicit quantity changes only the duration threshold outcome.",
+      "changed_criteria": [
+        "go duration"
+      ]
+    },
+    {
+      "case_ids": [
+        "SCA015",
+        "SCA016"
+      ],
+      "relation": "selective_change",
+      "family": "unknown_usage_and_bounded_task",
+      "shared_requirements": true,
+      "judgment": "The two profiles differ in duration knowledge. A supported application can coexist with unknown duration or a documented duration below the requirement.",
+      "changed_criteria": [
+        "python duration"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "SCA001",
+      "family": "broad_database_capability",
+      "counterpart_id": "SCA002",
+      "transformation": "Direct statements versus substantive ORM implementation under an explicitly broad shared standard.",
+      "pair_relation": "invariant",
+      "resume_text": "Candidate Audit Aster\nEmployment\nDatabase developer | Harbor Ledger | 2020-04 to 2022-09\nI wrote SQL joins for reconciliation reports, designed the relational tables and added indexes after inspecting query plans.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "sql"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {},
+        "source_text": "Find candidates who personally implemented SQL database functionality. For this request, database schemas, relational mappings, migrations, query construction through an ORM, and database performance work can demonstrate the broad capability. Handwritten SQL statements are not required; a product name alone is insufficient.",
+        "semantic_brief": "Find candidates who personally implemented SQL database functionality. For this request, database schemas, relational mappings, migrations, query construction through an ORM, and database performance work can demonstrate the broad capability. Handwritten SQL statements are not required; a product name alone is insufficient.",
+        "unresolved": [],
+        "capability_skills": [
+          "sql"
+        ]
+      },
+      "expected": {
+        "Required skill: sql": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "Concrete query, schema and performance work meets the requested broad database capability.",
+          "supporting_source_fragments": [
+            "I wrote SQL joins for reconciliation reports",
+            "designed the relational tables"
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        }
+      }
+    },
+    {
+      "id": "SCA002",
+      "family": "broad_database_capability",
+      "counterpart_id": "SCA001",
+      "transformation": "Direct statements versus substantive ORM implementation under an explicitly broad shared standard.",
+      "pair_relation": "invariant",
+      "resume_text": "Candidate Audit Birch\nEmployment\nApplication developer | Orchard Ledger | 2020-04 to 2022-09\nI implemented SQLAlchemy relationship mappings, composed ORM queries for reconciliation reports, and wrote schema migrations with indexes. I did not author handwritten SQL statements.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "sql"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {},
+        "source_text": "Find candidates who personally implemented SQL database functionality. For this request, database schemas, relational mappings, migrations, query construction through an ORM, and database performance work can demonstrate the broad capability. Handwritten SQL statements are not required; a product name alone is insufficient.",
+        "semantic_brief": "Find candidates who personally implemented SQL database functionality. For this request, database schemas, relational mappings, migrations, query construction through an ORM, and database performance work can demonstrate the broad capability. Handwritten SQL statements are not required; a product name alone is insufficient.",
+        "unresolved": [],
+        "capability_skills": [
+          "sql"
+        ]
+      },
+      "expected": {
+        "Required skill: sql": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct",
+            "equivalent"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "Personal ORM query construction and schema work meet the same broad standard. The handwritten-SQL disclaimer does not contradict this request.",
+          "supporting_source_fragments": [
+            "I implemented SQLAlchemy relationship mappings",
+            "composed ORM queries for reconciliation reports",
+            "wrote schema migrations with indexes"
+          ],
+          "counterevidence_source_fragments": [
+            "I did not author handwritten SQL statements."
+          ],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        }
+      }
+    },
+    {
+      "id": "SCA003",
+      "family": "explicit_query_authoring_depth",
+      "counterpart_id": "SCA004",
+      "transformation": "Personally authored SQL versus explicitly denied handwritten authorship.",
+      "pair_relation": "selective_change",
+      "resume_text": "Candidate Audit Cedar\nEmployment\nSoftware developer | Beacon Invoices | 2021-02 to 2023-05\nI personally wrote handwritten SQL SELECT statements with joins and grouped totals for the invoicing service.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "sql"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {},
+        "source_text": "Find candidates who personally authored handwritten SQL statements for application work. ORM configuration, generated queries and database product familiarity alone do not meet this requirement.",
+        "semantic_brief": "Find candidates who personally authored handwritten SQL statements for application work. ORM configuration, generated queries and database product familiarity alone do not meet this requirement.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: sql": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "The source explicitly assigns handwritten SQL statements to the candidate.",
+          "supporting_source_fragments": [
+            "I personally wrote handwritten SQL SELECT statements with joins and grouped totals"
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        }
+      }
+    },
+    {
+      "id": "SCA004",
+      "family": "explicit_query_authoring_depth",
+      "counterpart_id": "SCA003",
+      "transformation": "Personally authored SQL versus explicitly denied handwritten authorship.",
+      "pair_relation": "selective_change",
+      "resume_text": "Candidate Audit Dune\nEmployment\nSoftware developer | Willow Invoices | 2021-02 to 2023-05\nI configured SQLAlchemy models and used its ORM methods for the invoicing service. I never authored handwritten SQL statements; another developer wrote every raw query.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "sql"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {},
+        "source_text": "Find candidates who personally authored handwritten SQL statements for application work. ORM configuration, generated queries and database product familiarity alone do not meet this requirement.",
+        "semantic_brief": "Find candidates who personally authored handwritten SQL statements for application work. ORM configuration, generated queries and database product familiarity alone do not meet this requirement.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: sql": {
+          "allowed_statuses": [
+            "not_demonstrated"
+          ],
+          "allowed_relationships": [
+            "related",
+            "none"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "The requested authorship is explicitly denied. Broader ORM competence cannot satisfy this narrower requirement.",
+          "supporting_source_fragments": [
+            "I configured SQLAlchemy models and used its ORM methods"
+          ],
+          "counterevidence_source_fragments": [
+            "I never authored handwritten SQL statements; another developer wrote every raw query."
+          ],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        }
+      }
+    },
+    {
+      "id": "SCA005",
+      "family": "listed_skill_and_project_application",
+      "counterpart_id": "SCA006",
+      "transformation": "Global familiarity and coursework versus a personally owned project with a scoped stack.",
+      "pair_relation": "selective_change",
+      "resume_text": "Candidate Audit Elm\nSkills\nPython, spreadsheet formulas, presentation design\nEmployment\nOffice coordinator | Meadow Services | 2022-01 to 2024-12\nI scheduled meetings, maintained spreadsheets and handled travel bookings.\nEducation\nIntroduction to Python course, completed 2021.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "python"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {},
+        "source_text": "Find candidates who personally applied Python to build or maintain a working tool. A personal project is acceptable. Listed familiarity or coursework alone does not establish the requested application.",
+        "semantic_brief": "Find candidates who personally applied Python to build or maintain a working tool. A personal project is acceptable. Listed familiarity or coursework alone does not establish the requested application.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: python": {
+          "allowed_statuses": [
+            "not_demonstrated",
+            "uncertain"
+          ],
+          "allowed_relationships": null,
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "The source lists Python and study but supplies no personal application. Either conservative insufficiency status is allowed; supported is excluded.",
+          "supporting_source_fragments": [
+            "Python, spreadsheet formulas, presentation design",
+            "Introduction to Python course, completed 2021."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        }
+      }
+    },
+    {
+      "id": "SCA006",
+      "family": "listed_skill_and_project_application",
+      "counterpart_id": "SCA005",
+      "transformation": "Global familiarity and coursework versus a personally owned project with a scoped stack.",
+      "pair_relation": "selective_change",
+      "resume_text": "Candidate Audit Fern\nPersonal projects\nReading-log exporter\nI designed and built the complete working reading-log exporter, including its parser and file conversion. Project technologies: Python, SQLite.\nEmployment\nOffice coordinator | Reed Services | 2022-01 to 2024-12\nI scheduled meetings and handled travel bookings.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "python"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {},
+        "source_text": "Find candidates who personally applied Python to build or maintain a working tool. A personal project is acceptable. Listed familiarity or coursework alone does not establish the requested application.",
+        "semantic_brief": "Find candidates who personally applied Python to build or maintain a working tool. A personal project is acceptable. Listed familiarity or coursework alone does not establish the requested application.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: python": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "Whole-project ownership and the attached technology list jointly establish Python application; unrelated employment dates are unnecessary.",
+          "supporting_source_fragments": [
+            "I designed and built the complete working reading-log exporter",
+            "Project technologies: Python, SQLite."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        }
+      }
+    },
+    {
+      "id": "SCA007",
+      "family": "conflicting_personal_attribution",
+      "counterpart_id": "SCA008",
+      "transformation": "A contradictory attribution statement versus a corroborating responsibility statement.",
+      "pair_relation": "selective_change",
+      "resume_text": "Candidate Audit Grove\nProject work\nMembership renewal service\nI personally wrote the Java renewal processor.\nResponsibility breakdown for the same membership renewal service\nMy contribution was only HTML and CSS. A teammate wrote all Java components; I wrote none of them.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "java"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {},
+        "source_text": "Find candidates with personal Java implementation experience. Resolve the complete source, including conflicting responsibility claims; do not treat an unsupported team contribution as the candidate's own.",
+        "semantic_brief": "Find candidates with personal Java implementation experience. Resolve the complete source, including conflicting responsibility claims; do not treat an unsupported team contribution as the candidate's own.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: java": {
+          "allowed_statuses": [
+            "uncertain"
+          ],
+          "allowed_relationships": null,
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "The source makes incompatible claims about the same contribution, with no stated correction or precedence. A positive must not ignore the counterclaim.",
+          "supporting_source_fragments": [
+            "I personally wrote the Java renewal processor."
+          ],
+          "counterevidence_source_fragments": [
+            "My contribution was only HTML and CSS. A teammate wrote all Java components; I wrote none of them."
+          ],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        }
+      }
+    },
+    {
+      "id": "SCA008",
+      "family": "conflicting_personal_attribution",
+      "counterpart_id": "SCA007",
+      "transformation": "A contradictory attribution statement versus a corroborating responsibility statement.",
+      "pair_relation": "selective_change",
+      "resume_text": "Candidate Audit Heath\nProject work\nMembership renewal service\nI personally wrote the Java renewal processor.\nResponsibility breakdown for the same membership renewal service\nMy teammate designed the HTML and CSS. I wrote the Java renewal processor and its tests.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "java"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {},
+        "source_text": "Find candidates with personal Java implementation experience. Resolve the complete source, including conflicting responsibility claims; do not treat an unsupported team contribution as the candidate's own.",
+        "semantic_brief": "Find candidates with personal Java implementation experience. Resolve the complete source, including conflicting responsibility claims; do not treat an unsupported team contribution as the candidate's own.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: java": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "Both project statements assign the Java implementation to the candidate.",
+          "supporting_source_fragments": [
+            "I personally wrote the Java renewal processor.",
+            "I wrote the Java renewal processor and its tests."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        }
+      }
+    },
+    {
+      "id": "SCA009",
+      "family": "recover_all_dated_associations",
+      "counterpart_id": "SCA010",
+      "transformation": "Reverse role order, move an older role into another employment subsection and paraphrase the sustained responsibilities.",
+      "pair_relation": "invariant",
+      "resume_text": "Candidate Audit Iris\nEmployment\nAutomation developer | Lake Dispatch | 2018-01 to 2018-12\nMy continuing responsibility was the Python dispatch service: maintenance, incident fixes and scheduled releases.\nRecords assistant | Vale Office | 2019-01 to 2019-12\nI filed paper records and arranged courier collections.\nService maintainer | Pine Delivery | 2020-03 to 2022-02\nI had ongoing ownership of the Python route-planning service, including maintenance and production fixes.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "python"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {
+          "python": 2.5
+        },
+        "source_text": "Find candidates with at least two and a half years of Python-related employment, based on dated roles with sustained personal Python responsibilities. Combine all qualifying employment intervals. This requests related employment, not independently verified continuous daily use.",
+        "semantic_brief": "Find candidates with at least two and a half years of Python-related employment, based on dated roles with sustained personal Python responsibilities. Combine all qualifying employment intervals. This requests related employment, not independently verified continuous daily use.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: python": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "Both dated roles assign sustained Python work to the candidate.",
+          "supporting_source_fragments": [
+            "My continuing responsibility was the Python dispatch service: maintenance, incident fixes and scheduled releases.",
+            "I had ongoing ownership of the Python route-planning service, including maintenance and production fixes."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        },
+        "python duration": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": null,
+          "duration_minimum_months": 36,
+          "duration_maximum_months": 36,
+          "duration_basis": "skill_related_employment",
+          "judgment": "The disjoint twelve-month and twenty-four-month qualifying roles total thirty-six months. Both associations are required; the unrelated middle job adds no Python months.",
+          "supporting_source_fragments": [
+            "My continuing responsibility was the Python dispatch service: maintenance, incident fixes and scheduled releases.",
+            "I had ongoing ownership of the Python route-planning service, including maintenance and production fixes."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [
+            {
+              "kind": "employment",
+              "title": "Automation developer",
+              "start": "2018-01",
+              "end": "2018-12",
+              "basis": "skill_related_employment",
+              "credit_months": 12,
+              "explicit_usage_cap_months": null,
+              "assertion": "My continuing responsibility was the Python dispatch service: maintenance, incident fixes and scheduled releases.",
+              "source_fragments": [
+                "Automation developer | Lake Dispatch | 2018-01 to 2018-12",
+                "My continuing responsibility was the Python dispatch service: maintenance, incident fixes and scheduled releases."
+              ]
+            },
+            {
+              "kind": "employment",
+              "title": "Service maintainer",
+              "start": "2020-03",
+              "end": "2022-02",
+              "basis": "skill_related_employment",
+              "credit_months": 24,
+              "explicit_usage_cap_months": null,
+              "assertion": "I had ongoing ownership of the Python route-planning service, including maintenance and production fixes.",
+              "source_fragments": [
+                "Service maintainer | Pine Delivery | 2020-03 to 2022-02",
+                "I had ongoing ownership of the Python route-planning service, including maintenance and production fixes."
+              ]
+            }
+          ],
+          "must_find_all_positive_associations": true,
+          "excluded_duration_source_fragments": [
+            "Records assistant | Vale Office | 2019-01 to 2019-12"
+          ]
+        }
+      }
+    },
+    {
+      "id": "SCA010",
+      "family": "recover_all_dated_associations",
+      "counterpart_id": "SCA009",
+      "transformation": "Reverse role order, move an older role into another employment subsection and paraphrase the sustained responsibilities.",
+      "pair_relation": "invariant",
+      "resume_text": "Candidate Audit Juniper\nProfessional work\nService maintainer | Pine Delivery | 2020-03 to 2022-02\nResponsibilities throughout this role: ownership, maintenance and production fixes for the Python route-planning service.\nRecords assistant | Vale Office | 2019-01 to 2019-12\nI filed paper records and arranged courier collections.\nEarlier employment\nAutomation developer | Lake Dispatch | 2018-01 to 2018-12\nI continuously maintained the Python dispatch service, fixed incidents and handled scheduled releases.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "python"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {
+          "python": 2.5
+        },
+        "source_text": "Find candidates with at least two and a half years of Python-related employment, based on dated roles with sustained personal Python responsibilities. Combine all qualifying employment intervals. This requests related employment, not independently verified continuous daily use.",
+        "semantic_brief": "Find candidates with at least two and a half years of Python-related employment, based on dated roles with sustained personal Python responsibilities. Combine all qualifying employment intervals. This requests related employment, not independently verified continuous daily use.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: python": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "Both dated roles assign sustained Python work to the candidate.",
+          "supporting_source_fragments": [
+            "I continuously maintained the Python dispatch service, fixed incidents and handled scheduled releases.",
+            "Responsibilities throughout this role: ownership, maintenance and production fixes for the Python route-planning service."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        },
+        "python duration": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": null,
+          "duration_minimum_months": 36,
+          "duration_maximum_months": 36,
+          "duration_basis": "skill_related_employment",
+          "judgment": "The disjoint twelve-month and twenty-four-month qualifying roles total thirty-six months. Both associations are required; the unrelated middle job adds no Python months.",
+          "supporting_source_fragments": [
+            "I continuously maintained the Python dispatch service, fixed incidents and handled scheduled releases.",
+            "Responsibilities throughout this role: ownership, maintenance and production fixes for the Python route-planning service."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [
+            {
+              "kind": "employment",
+              "title": "Automation developer",
+              "start": "2018-01",
+              "end": "2018-12",
+              "basis": "skill_related_employment",
+              "credit_months": 12,
+              "explicit_usage_cap_months": null,
+              "assertion": "I continuously maintained the Python dispatch service, fixed incidents and handled scheduled releases.",
+              "source_fragments": [
+                "Automation developer | Lake Dispatch | 2018-01 to 2018-12",
+                "I continuously maintained the Python dispatch service, fixed incidents and handled scheduled releases."
+              ]
+            },
+            {
+              "kind": "employment",
+              "title": "Service maintainer",
+              "start": "2020-03",
+              "end": "2022-02",
+              "basis": "skill_related_employment",
+              "credit_months": 24,
+              "explicit_usage_cap_months": null,
+              "assertion": "Responsibilities throughout this role: ownership, maintenance and production fixes for the Python route-planning service.",
+              "source_fragments": [
+                "Service maintainer | Pine Delivery | 2020-03 to 2022-02",
+                "Responsibilities throughout this role: ownership, maintenance and production fixes for the Python route-planning service."
+              ]
+            }
+          ],
+          "must_find_all_positive_associations": true,
+          "excluded_duration_source_fragments": [
+            "Records assistant | Vale Office | 2019-01 to 2019-12"
+          ]
+        }
+      }
+    },
+    {
+      "id": "SCA011",
+      "family": "separate_countercontext_from_positive_work",
+      "counterpart_id": "SCA012",
+      "transformation": "Replace explicitly non-Python later work and study with unrelated work and an undated Python project.",
+      "pair_relation": "invariant",
+      "resume_text": "Candidate Audit Kite\nEmployment\nService developer | North Parcel | 2019-01 to 2021-12\nMy sustained duties for the whole role were maintaining the Python parcel service, releasing fixes and resolving production failures.\nInterface designer | South Parcel | 2022-01 to 2023-12\nThe team used Python, but I only designed mockups. I did not implement or maintain Python in this job.\nCoursework\nEvening Python course, 2024-02 to 2024-05.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "python"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {
+          "python": 3
+        },
+        "source_text": "Find candidates with at least three years of Python-related employment. Count sustained personal Python responsibilities in dated jobs. Team stacks, unrelated responsibilities, coursework and undated personal projects do not add employment months or cancel a separately supported role.",
+        "semantic_brief": "Find candidates with at least three years of Python-related employment. Count sustained personal Python responsibilities in dated jobs. Team stacks, unrelated responsibilities, coursework and undated personal projects do not add employment months or cancel a separately supported role.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: python": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "The first job independently supports personal Python application; later context does not contradict that job.",
+          "supporting_source_fragments": [
+            "My sustained duties for the whole role were maintaining the Python parcel service, releasing fixes and resolving production failures."
+          ],
+          "counterevidence_source_fragments": [
+            "I did not implement or maintain Python in this job."
+          ],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        },
+        "python duration": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": null,
+          "duration_minimum_months": 36,
+          "duration_maximum_months": 36,
+          "duration_basis": "skill_related_employment",
+          "judgment": "Only the first thirty-six-month role contributes. Context-only units must neither add months nor invalidate this accepted association.",
+          "supporting_source_fragments": [
+            "My sustained duties for the whole role were maintaining the Python parcel service, releasing fixes and resolving production failures."
+          ],
+          "counterevidence_source_fragments": [
+            "I did not implement or maintain Python in this job."
+          ],
+          "positive_associations": [
+            {
+              "kind": "employment",
+              "title": "Service developer",
+              "start": "2019-01",
+              "end": "2021-12",
+              "basis": "skill_related_employment",
+              "credit_months": 36,
+              "explicit_usage_cap_months": null,
+              "assertion": "My sustained duties for the whole role were maintaining the Python parcel service, releasing fixes and resolving production failures.",
+              "source_fragments": [
+                "Service developer | North Parcel | 2019-01 to 2021-12",
+                "My sustained duties for the whole role were maintaining the Python parcel service, releasing fixes and resolving production failures."
+              ]
+            }
+          ],
+          "must_find_all_positive_associations": true,
+          "excluded_duration_source_fragments": [
+            "Interface designer | South Parcel | 2022-01 to 2023-12",
+            "Evening Python course, 2024-02 to 2024-05."
+          ]
+        }
+      }
+    },
+    {
+      "id": "SCA012",
+      "family": "separate_countercontext_from_positive_work",
+      "counterpart_id": "SCA011",
+      "transformation": "Replace explicitly non-Python later work and study with unrelated work and an undated Python project.",
+      "pair_relation": "invariant",
+      "resume_text": "Candidate Audit Larch\nEmployment\nService developer | North Parcel | 2019-01 to 2021-12\nMy sustained duties for the whole role were maintaining the Python parcel service, releasing fixes and resolving production failures.\nInterface designer | South Parcel | 2022-01 to 2023-12\nI designed mockups and presentation materials.\nUndated personal project\nI built a Python photo-renaming utility. No project dates are recorded.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "python"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {
+          "python": 3
+        },
+        "source_text": "Find candidates with at least three years of Python-related employment. Count sustained personal Python responsibilities in dated jobs. Team stacks, unrelated responsibilities, coursework and undated personal projects do not add employment months or cancel a separately supported role.",
+        "semantic_brief": "Find candidates with at least three years of Python-related employment. Count sustained personal Python responsibilities in dated jobs. Team stacks, unrelated responsibilities, coursework and undated personal projects do not add employment months or cancel a separately supported role.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: python": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "The first job independently supports personal Python application; later context does not contradict that job.",
+          "supporting_source_fragments": [
+            "My sustained duties for the whole role were maintaining the Python parcel service, releasing fixes and resolving production failures."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        },
+        "python duration": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": null,
+          "duration_minimum_months": 36,
+          "duration_maximum_months": 36,
+          "duration_basis": "skill_related_employment",
+          "judgment": "Only the first thirty-six-month role contributes. Context-only units must neither add months nor invalidate this accepted association.",
+          "supporting_source_fragments": [
+            "My sustained duties for the whole role were maintaining the Python parcel service, releasing fixes and resolving production failures."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [
+            {
+              "kind": "employment",
+              "title": "Service developer",
+              "start": "2019-01",
+              "end": "2021-12",
+              "basis": "skill_related_employment",
+              "credit_months": 36,
+              "explicit_usage_cap_months": null,
+              "assertion": "My sustained duties for the whole role were maintaining the Python parcel service, releasing fixes and resolving production failures.",
+              "source_fragments": [
+                "Service developer | North Parcel | 2019-01 to 2021-12",
+                "My sustained duties for the whole role were maintaining the Python parcel service, releasing fixes and resolving production failures."
+              ]
+            }
+          ],
+          "must_find_all_positive_associations": true,
+          "excluded_duration_source_fragments": [
+            "Interface designer | South Parcel | 2022-01 to 2023-12",
+            "I built a Python photo-renaming utility. No project dates are recorded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "SCA013",
+      "family": "explicit_usage_cap_inside_longer_job",
+      "counterpart_id": "SCA014",
+      "transformation": "Change only the explicit Go usage amount from six to eighteen months.",
+      "pair_relation": "selective_change",
+      "resume_text": "Candidate Audit Moss\nEmployment\nBackend developer | Copper Dispatch | 2020-01 to 2024-12\nI personally maintained a Go service for exactly six months during this role. All remaining work in the role used Ruby; I did no other Go work.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "go"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {
+          "go": 1
+        },
+        "source_text": "Find candidates with at least twelve documented months of personally using Go in employment. Use explicit usage amounts and honor any shorter-use statement inside a longer role; the full job interval alone does not establish usage duration.",
+        "semantic_brief": "Find candidates with at least twelve documented months of personally using Go in employment. Use explicit usage amounts and honor any shorter-use statement inside a longer role; the full job interval alone does not establish usage duration.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: go": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "Personal maintenance establishes applied Go even when the requested duration is not reached.",
+          "supporting_source_fragments": [
+            "I personally maintained a Go service for exactly six months during this role."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        },
+        "go duration": {
+          "allowed_statuses": [
+            "not_demonstrated"
+          ],
+          "allowed_relationships": null,
+          "duration_minimum_months": 6,
+          "duration_maximum_months": 6,
+          "duration_basis": "explicit_usage",
+          "judgment": "The explicit usage limit is 6 months inside a sixty-month job. No additional Go work is claimed; the role must not supply sixty months.",
+          "supporting_source_fragments": [
+            "I personally maintained a Go service for exactly six months during this role."
+          ],
+          "counterevidence_source_fragments": [
+            "All remaining work in the role used Ruby; I did no other Go work."
+          ],
+          "positive_associations": [
+            {
+              "kind": "employment",
+              "title": "Backend developer",
+              "start": "2020-01",
+              "end": "2024-12",
+              "basis": "explicit_usage",
+              "credit_months": 6,
+              "explicit_usage_cap_months": 6,
+              "assertion": "I personally maintained a Go service for exactly six months during this role.",
+              "source_fragments": [
+                "Backend developer | Copper Dispatch | 2020-01 to 2024-12",
+                "I personally maintained a Go service for exactly six months during this role.",
+                "All remaining work in the role used Ruby; I did no other Go work."
+              ]
+            }
+          ],
+          "must_find_all_positive_associations": true,
+          "excluded_duration_source_fragments": []
+        }
+      }
+    },
+    {
+      "id": "SCA014",
+      "family": "explicit_usage_cap_inside_longer_job",
+      "counterpart_id": "SCA013",
+      "transformation": "Change only the explicit Go usage amount from six to eighteen months.",
+      "pair_relation": "selective_change",
+      "resume_text": "Candidate Audit Nettle\nEmployment\nBackend developer | Silver Dispatch | 2020-01 to 2024-12\nI personally maintained a Go service for exactly eighteen months during this role. All remaining work in the role used Ruby; I did no other Go work.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "go"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {
+          "go": 1
+        },
+        "source_text": "Find candidates with at least twelve documented months of personally using Go in employment. Use explicit usage amounts and honor any shorter-use statement inside a longer role; the full job interval alone does not establish usage duration.",
+        "semantic_brief": "Find candidates with at least twelve documented months of personally using Go in employment. Use explicit usage amounts and honor any shorter-use statement inside a longer role; the full job interval alone does not establish usage duration.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: go": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "Personal maintenance establishes applied Go even when the requested duration is not reached.",
+          "supporting_source_fragments": [
+            "I personally maintained a Go service for exactly eighteen months during this role."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        },
+        "go duration": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": null,
+          "duration_minimum_months": 18,
+          "duration_maximum_months": 18,
+          "duration_basis": "explicit_usage",
+          "judgment": "The explicit usage limit is 18 months inside a sixty-month job. No additional Go work is claimed; the role must not supply sixty months.",
+          "supporting_source_fragments": [
+            "I personally maintained a Go service for exactly eighteen months during this role."
+          ],
+          "counterevidence_source_fragments": [
+            "All remaining work in the role used Ruby; I did no other Go work."
+          ],
+          "positive_associations": [
+            {
+              "kind": "employment",
+              "title": "Backend developer",
+              "start": "2020-01",
+              "end": "2024-12",
+              "basis": "explicit_usage",
+              "credit_months": 18,
+              "explicit_usage_cap_months": 18,
+              "assertion": "I personally maintained a Go service for exactly eighteen months during this role.",
+              "source_fragments": [
+                "Backend developer | Silver Dispatch | 2020-01 to 2024-12",
+                "I personally maintained a Go service for exactly eighteen months during this role.",
+                "All remaining work in the role used Ruby; I did no other Go work."
+              ]
+            }
+          ],
+          "must_find_all_positive_associations": true,
+          "excluded_duration_source_fragments": []
+        }
+      }
+    },
+    {
+      "id": "SCA015",
+      "family": "unknown_usage_and_bounded_task",
+      "counterpart_id": "SCA016",
+      "transformation": "Replace an undated one-off task with an explicit two-month usage subinterval.",
+      "pair_relation": "selective_change",
+      "resume_text": "Candidate Audit Oat\nEmployment\nOperations developer | Stone Logistics | 2020-01 to 2023-12\nI personally wrote a Python import tool once during this job. The source record does not say when the task happened or how long Python was used. Other duties were spreadsheet reporting.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "python"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {
+          "python": 1
+        },
+        "source_text": "Find candidates with at least twelve documented months of personal Python use in employment. A one-off task establishes application but not the whole job duration. A usage interval or an explicit quantity must establish the months. Missing usage dates must remain unknown.",
+        "semantic_brief": "Find candidates with at least twelve documented months of personal Python use in employment. A one-off task establishes application but not the whole job duration. A usage interval or an explicit quantity must establish the months. Missing usage dates must remain unknown.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: python": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "The source explicitly attributes a Python tool to the candidate.",
+          "supporting_source_fragments": [
+            "I personally wrote a Python import tool once during this job."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        },
+        "python duration": {
+          "allowed_statuses": [
+            "uncertain"
+          ],
+          "allowed_relationships": null,
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": "unknown",
+          "judgment": "The task has no usage interval or numerical claim. Its forty-eight-month employment envelope must not become usage tenure. Unknown must not be converted to zero.",
+          "supporting_source_fragments": [
+            "I personally wrote a Python import tool once during this job."
+          ],
+          "counterevidence_source_fragments": [
+            "The source record does not say when the task happened or how long Python was used."
+          ],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": [
+            "Operations developer | Stone Logistics | 2020-01 to 2023-12"
+          ]
+        }
+      }
+    },
+    {
+      "id": "SCA016",
+      "family": "unknown_usage_and_bounded_task",
+      "counterpart_id": "SCA015",
+      "transformation": "Replace an undated one-off task with an explicit two-month usage subinterval.",
+      "pair_relation": "selective_change",
+      "resume_text": "Candidate Audit Pine\nEmployment\nOperations developer | Clay Logistics | 2020-01 to 2023-12\nI personally wrote and maintained a Python import tool from 2021-02 through 2021-03 only. I used no Python in the remainder of this job. Other duties were spreadsheet reporting.\n",
+      "requirements": {
+        "title": "Source-only semantic audit fixture",
+        "role": null,
+        "must_have": [
+          [
+            "python"
+          ]
+        ],
+        "nice_to_have": [],
+        "minimum_years": 0,
+        "skill_years": {
+          "python": 1
+        },
+        "source_text": "Find candidates with at least twelve documented months of personal Python use in employment. A one-off task establishes application but not the whole job duration. A usage interval or an explicit quantity must establish the months. Missing usage dates must remain unknown.",
+        "semantic_brief": "Find candidates with at least twelve documented months of personal Python use in employment. A one-off task establishes application but not the whole job duration. A usage interval or an explicit quantity must establish the months. Missing usage dates must remain unknown.",
+        "unresolved": [],
+        "capability_skills": []
+      },
+      "expected": {
+        "Required skill: python": {
+          "allowed_statuses": [
+            "supported"
+          ],
+          "allowed_relationships": [
+            "direct"
+          ],
+          "duration_minimum_months": null,
+          "duration_maximum_months": null,
+          "duration_basis": null,
+          "judgment": "The explicit bounded task still establishes personal Python application.",
+          "supporting_source_fragments": [
+            "I personally wrote and maintained a Python import tool from 2021-02 through 2021-03 only."
+          ],
+          "counterevidence_source_fragments": [],
+          "positive_associations": [],
+          "must_find_all_positive_associations": false,
+          "excluded_duration_source_fragments": []
+        },
+        "python duration": {
+          "allowed_statuses": [
+            "not_demonstrated"
+          ],
+          "allowed_relationships": null,
+          "duration_minimum_months": 2,
+          "duration_maximum_months": 2,
+          "duration_basis": "explicit_usage",
+          "judgment": "February through March is two inclusive calendar months, below twelve. The source explicitly excludes other Python use in the job.",
+          "supporting_source_fragments": [
+            "I personally wrote and maintained a Python import tool from 2021-02 through 2021-03 only."
+          ],
+          "counterevidence_source_fragments": [
+            "I used no Python in the remainder of this job."
+          ],
+          "positive_associations": [
+            {
+              "kind": "employment",
+              "title": "Operations developer",
+              "start": "2020-01",
+              "end": "2023-12",
+              "basis": "explicit_usage",
+              "credit_months": 2,
+              "explicit_usage_cap_months": 2,
+              "assertion": "I personally wrote and maintained a Python import tool from 2021-02 through 2021-03 only.",
+              "source_fragments": [
+                "Operations developer | Clay Logistics | 2020-01 to 2023-12",
+                "I personally wrote and maintained a Python import tool from 2021-02 through 2021-03 only.",
+                "I used no Python in the remainder of this job."
+              ],
+              "usage_start": "2021-02",
+              "usage_end": "2021-03"
+            }
+          ],
+          "must_find_all_positive_associations": true,
+          "excluded_duration_source_fragments": []
+        }
+      }
+    }
+  ]
+}

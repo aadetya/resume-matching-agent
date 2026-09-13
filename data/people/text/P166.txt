@@ -1,0 +1,32 @@
+Candidate P166
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Cybersecurity Operations Technician | US Air Force | 2004-06 to 2010-05
+Managed network security monitoring for mission-critical systems. Performed vulnerability assessments and incident response, ensuring system availability and integrity. Contributed to on-call rotations and developed automation scripts for log analysis.
+Network Operations Controller | US Air Force | 2010-06 to 2015-08
+Directed enterprise network operations, overseeing real-time monitoring and incident response. Coordinated cross-functional teams to maintain service levels, implementing checklists and runbooks. Utilized SIEM tools and developed dashboards for network health.
+Logistics Management Specialist | US Air Force | 2015-09 to 2018-11
+Managed supply chain operations and data analysis, improving inventory accuracy. Developed automated reporting tools using Python, enhancing data-driven decision making. Gained experience in process optimization and cross-functional collaboration.
+Data Center Operations Manager | DataStream Systems | 2018-12 to 2021-04
+Oversaw data center operations, ensuring high availability of critical infrastructure. Implemented monitoring solutions using ELK stack and Alertmanager, improving incident resolution times. Managed on-call rotations and maintained SLIs/SLOs.
+Site Reliability Engineer | AeroTech Manufacturing | 2021-05 to Present
+Drive reliability engineering for a manufacturing plant's digital platforms. Design and maintain Kubernetes clusters with Istio and Linkerd service meshes. Implement error budgets and SLOs using Terraform and automation. Lead on-call rotations and incident response using PagerDuty.
+SKILLS
+kubernetes; infrastructure as code (terraform); site reliability engineering principles; error budgets; python; service level indicators (SLIs); shell scripting (bash); on-call rotation; AWS; GCP; elasticsearch; linkerd; istio; github actions; alertmanager; haproxy; victorops; SQL; Docker
+EDUCATION
+Master of Science | Cybersecurity | University of Maryland Global Campus
+2016-09 to 2018-06
+PhD | Information Technology | University of Phoenix
+2019-09 to date unavailable
+PROJECTS
+Kubernetes Cluster Automation
+Automated the deployment and scaling of microservices using Terraform and GitHub Actions, reducing deployment time by 40%. Technologies used: kubernetes.
+Service Mesh Implementation
+Implemented Istio and Linkerd to manage east-west traffic and observability across a multi-cluster environment. Technologies used: prometheus.
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)
+Issued by Cloud Native Computing Foundation.
+2021-01
+AWS Certified DevOps Engineer
+Issued by Amazon Web Services.
+2022-01

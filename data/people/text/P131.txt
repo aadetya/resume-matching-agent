@@ -1,0 +1,32 @@
+Candidate P131
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Web Developer | National Community Action Network (NCAN) | 2024-01 to Present
+Spearheading the migration of legacy systems to serverless architecture, leveraging NestJS and GraphQL to enhance data retrieval speeds by 30%. Orchestrating cross-functional stakeholder alignment to deliver SEO-optimized, accessible web solutions.
+Full-Stack Developer | Environmental Defense Fund - Southwest | 2022-06 to 2023-11
+Engineered high-performance RESTful APIs with Express.js, implementing caching strategies to reduce latency by 40%. Collaborated with designers to implement server-side rendering for improved SEO and user engagement.
+Junior Web Developer | Habitat for Humanity - Regional Office | 2021-01 to 2022-04
+Developed and maintained donation and volunteer management systems using Ruby on Rails. Instrumental in integrating message queues to streamline volunteer notification processes, improving operational efficiency.
+Web Developer | Feeding America - California | 2018-05 to 2020-12
+Built scalable web applications to support food bank logistics, utilizing JavaScript and TypeScript to ensure type safety. Implemented server-side rendering to optimize SEO for public-facing resources.
+Web Developer Apprentice | Americorps Technology & Communications | 2017-03 to 2018-04
+Supported senior developers in maintaining nonprofit web properties. Gained hands-on experience with HTML, JavaScript, and RESTful APIs, while contributing to SEO improvements and accessibility audits.
+Construction Apprentice | San Diego Electrical Workers Union | 2014-01 to 2016-12
+Completed a rigorous union apprenticeship program, developing a strong work ethic and attention to detail. Though transitioning to technology, the apprenticeship instilled a foundation of systematic problem-solving and project management.
+SKILLS
+Server-side Rendering; SEO Basics; HTML; Caching Strategies; RESTful APIs; JavaScript; TypeScript; Database Management (SQL, NoSQL); GraphQL; Message Queues (RabbitMQ, Kafka); NestJS; Express.js; Yarn; Ruby on Rails; AWS Lambda; API Gateway
+EDUCATION
+Associate of Science | Computer Science | San Diego Community College District
+2016-09 to 2018-06
+PROJECTS
+Serverless Donation Platform
+Designed and deployed a serverless donation platform for a local nonprofit, utilizing AWS Lambda, API Gateway, and DynamoDB to handle peak traffic during fundraising campaigns. Achieved 99.9% uptime and reduced costs by 50%.
+Volunteer Coordination Tool
+Built a real-time volunteer scheduling system using GraphQL subscriptions and message queues (RabbitMQ) to notify volunteers of shifts via SMS. Improved volunteer retention by 20%. Technologies used: React.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2023-01
+Certified JavaScript Developer
+Issued by W3Schools.
+2022-01

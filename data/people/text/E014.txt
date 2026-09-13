@@ -1,0 +1,29 @@
+Candidate E014
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Library Assistant | Anaheim Public Library | 2013-06 to 2019-08
+Managed circulation and cataloging; assisted patrons with research. Developed knack for organizing info and spotting process inefficiencies.
+Library Technician | Contra Costa County Library | 2019-09 to 2021-05
+Processed interlibrary loans, maintained records, and helped implement a new catalog system. Led data cleanup project for patron records.
+Library Associate | LA County Library | 2021-06 to 2023-02
+Coordinated community programs, managed volunteer schedules, and streamlined internal communication processes. Developed interest in HR ops after handling staff onboarding.
+HR Operations Assistant (Contract) | Northrop Grumman (Government Contractor) | 2023-03 to 2023-08
+Assisted HR ops with employee records audits, ticket management in Zendesk for a federal project. Learned SAP SuccessFactors basics.
+People Operations Analyst | Pacific Consulting Group | 2023-09 to Present
+Manage HR ticket system, analyze employee data for trends, run salary benchmarks, and create dashboards in Tableau. Working towards certification.
+SKILLS
+Employee records management; HR ticket management; HR audit; Benchmarking; HR data analysis; Salary analysis; Tableau; Excel; SAP SuccessFactors; Zendesk; BambooHR; SharePoint; Python
+EDUCATION
+Associate of Arts | Liberal Arts | Santa Ana College
+2009-09 to 2011-06
+Bachelor of Science | Library Science | California State University, Fullerton
+2011-09 to 2013-06
+PROJECTS
+HR Dashboard for Contractor Compliance
+Built a Tableau dashboard to track employee compliance training and certification expirations for a federal contractor client. Technologies used: Excel.
+Zendesk Ticket Resolution Analysis
+Analyzed historical HR tickets to identify common issues and reduce response time by 20%. Technologies used: Zendesk, Excel.
+CERTIFICATIONS
+HRIP (HR Information Professional)
+Issued by HR Certification Institute.
+2024-01

@@ -1,0 +1,127 @@
+[
+  {
+    "job_id": "Q01",
+    "query": "Software developer with at least three years of total employment.",
+    "requirements": {
+      "title": "Software developer with at least three years of total employment",
+      "role": "software_developer",
+      "must_have": [],
+      "nice_to_have": [],
+      "minimum_years": 3,
+      "skill_years": {},
+      "source_text": "Software developer with at least three years of total employment."
+    }
+  },
+  {
+    "job_id": "Q02",
+    "query": "Frontend developer using React and JavaScript. Require at least 3 years of total employment.",
+    "requirements": {
+      "title": "Frontend developer using React and JavaScript",
+      "role": "frontend_developer",
+      "must_have": [
+        [
+          "react"
+        ],
+        [
+          "javascript"
+        ]
+      ],
+      "nice_to_have": [
+        "typescript"
+      ],
+      "minimum_years": 3,
+      "skill_years": {},
+      "source_text": "Frontend developer using React and JavaScript. Require at least 3 years of total employment."
+    }
+  },
+  {
+    "job_id": "Q03",
+    "query": "Backend developer using Python and SQL. Require at least 3 years of total employment.",
+    "requirements": {
+      "title": "Backend developer using Python and SQL",
+      "role": "backend_developer",
+      "must_have": [
+        [
+          "python"
+        ],
+        [
+          "sql"
+        ]
+      ],
+      "nice_to_have": [
+        "postgresql",
+        "docker"
+      ],
+      "minimum_years": 3,
+      "skill_years": {},
+      "source_text": "Backend developer using Python and SQL. Require at least 3 years of total employment."
+    }
+  },
+  {
+    "job_id": "Q04",
+    "query": "Data engineer using SQL and Apache Spark. Require at least 3 years of total employment.",
+    "requirements": {
+      "title": "Data engineer using SQL and Apache Spark",
+      "role": "data_engineer",
+      "must_have": [
+        [
+          "sql"
+        ],
+        [
+          "spark"
+        ]
+      ],
+      "nice_to_have": [
+        "airflow",
+        "kafka"
+      ],
+      "minimum_years": 3,
+      "skill_years": {},
+      "source_text": "Data engineer using SQL and Apache Spark. Require at least 3 years of total employment."
+    }
+  },
+  {
+    "job_id": "Q05",
+    "query": "DevOps engineer using AWS and Kubernetes. Require at least 3 years of total employment.",
+    "requirements": {
+      "title": "DevOps engineer using AWS and Kubernetes",
+      "role": "devops_engineer",
+      "must_have": [
+        [
+          "aws"
+        ],
+        [
+          "kubernetes"
+        ]
+      ],
+      "nice_to_have": [
+        "terraform"
+      ],
+      "minimum_years": 3,
+      "skill_years": {},
+      "source_text": "DevOps engineer using AWS and Kubernetes. Require at least 3 years of total employment."
+    }
+  },
+  {
+    "job_id": "Q06",
+    "query": "Machine learning engineer using Python and PyTorch. Require at least 3 years of total employment.",
+    "requirements": {
+      "title": "Machine learning engineer using Python and PyTorch",
+      "role": "machine_learning_engineer",
+      "must_have": [
+        [
+          "python"
+        ],
+        [
+          "pytorch"
+        ]
+      ],
+      "nice_to_have": [
+        "docker"
+      ],
+      "minimum_years": 3,
+      "skill_years": {},
+      "source_text": "Machine learning engineer using Python and PyTorch. Require at least 3 years of total employment."
+    }
+  }
+]

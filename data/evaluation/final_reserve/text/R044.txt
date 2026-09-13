@@ -1,0 +1,27 @@
+Candidate R044
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Engineering Manager | William S. Hart Union High School District | 2020-06 to Present
+Leading a team of three data engineers, I oversee the district's data platform, including the data lake and ELT pipelines. I manage the budget for data infrastructure and work with academic and administrative stakeholders to ensure data governance and quality across all systems.
+Senior Data Engineer | Los Angeles County Office of Education | 2017-03 to 2020-05
+I designed and built data pipelines ingesting student information from dozens of school districts, implementing change data capture to keep the data lake in sync. I also led the migration of on-premise workflows to Google Cloud Dataflow and improved query performance significantly with tuning.
+Data Engineer | Entertainment Data Services | 2014-01 to 2016-12
+At this media analytics firm, I developed and maintained ELT pipelines for audience measurement data, using Spark and Databricks. I also collaborated with data scientists to transform raw clickstreams into structured datasets for analysis.
+Data Analyst | Santa Clarita Community College District | 2012-08 to 2013-12
+I provided reporting and analysis on student enrollment and retention, and I began to build my skills in SQL and Python. This role gave me a solid foundation in understanding the educational data landscape.
+Junior Data Engineer | Media Metrics Inc. | 2011-06 to 2012-07
+I started my career building and maintaining data pipelines for streaming media analytics. I worked on data quality testing and learned about schema design and metadata management on the job.
+SKILLS
+Schema design; Data lake architecture; Data quality testing; Change data capture; Data governance; Query tuning; ELT pipeline development; Scala/Spark development; Metadata management; Data transformation; Data modeling; Java; Python; Redshift; Google Cloud Dataflow; Databricks; Apache Airflow; PostgreSQL
+EDUCATION
+Bachelor of Arts | Computer Science | Pomona College
+2007-09 to 2011-06
+PROJECTS
+Unified Data Lake for K-12 Analytics
+Architected and implemented a centralized data lake consolidating student, staff, and financial data from multiple silos. Integrated change data capture and metadata management to ensure data governance and quality. Technologies used: Google Cloud Dataflow, Python, Apache Airflow.
+Real-time Attendance Monitoring
+Built a streaming pipeline using change data capture to track student attendance in real-time, allowing early intervention for chronic absenteeism. Reduced data latency from daily to minutes. Technologies used: Scala, Apache Spark, Redshift.
+CERTIFICATIONS
+Google Professional Data Engineer
+Issued by Google.
+2019-01

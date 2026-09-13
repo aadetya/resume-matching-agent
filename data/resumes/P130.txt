@@ -1,0 +1,26 @@
+Candidate P130
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Director of Tooling & Automation | MegaMart Retail Group | 2018-02 to 2022-08
+Led a team of 15 engineers managing CI/CD and internal tools. Owned $2M budget, drove adoption of security scanning across 200+ codebases. Coordinated with security, QA, and ops to reduce release times by 60%.
+Senior Tooling Engineer | MegaMart Retail Group | 2015-06 to 2018-01
+Designed and maintained CI/CD pipelines for on-prem and cloud. Implemented Ansible-based provisioning and Prometheus monitoring. mentored junior engineers and worked with dev teams to streamline SDLC.
+Build & Release Engineer | MegaMart Retail Group | 2011-03 to 2015-05
+Managed build configurations using Gradle and automated deploy scripts in Bash. Supported incident response for tooling issues and improved code quality checks.
+Junior Tooling Engineer | TechParts Distribution | 2009-08 to 2011-02
+Assisted with CI pipeline setup and maintenance. Wrote Bash scripts for deployment and integrated early security scanning tools.
+SKILLS
+CI/CD pipeline design; Security scanning in pipelines; Software development lifecycle (SDLC) automation; Code quality and linting tools; Incident response for tooling; On-premises infrastructure; Bash; Gradle; Helm; Ansible; Prometheus
+EDUCATION
+Associate of Applied Science | Computer Science | Oklahoma City Community College
+2006-09 to 2009-06
+PROJECTS
+Pipeline Security Scanner
+Developed an automated security scanning plugin to detect vulnerabilities in CI pipelines, reducing exposure by 30%. Technologies used: Bash, Ansible, Python.
+CERTIFICATIONS
+AWS Certified DevOps Engineer
+Issued by Amazon Web Services.
+2020-01
+Certified Kubernetes Administrator (CKA)
+Issued by Cloud Native Computing Foundation.
+2019-01

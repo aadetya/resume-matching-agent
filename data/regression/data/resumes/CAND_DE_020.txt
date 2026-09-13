@@ -1,0 +1,24 @@
+Vikram Patel
+cand_de_020@example.test
+
+PROFILE
+Data Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+
+Data Engineer | Mosaic Example Works | Jan 2019 - Jan 2021
+Built SQL transformations with explicit grain, null checks, and late-arriving data handling.
+Used Apache Spark to compact partitioned event data and avoid repeated full-table scans.
+Used Python in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+Data Engineer | Cedar Fiction Studio | Jan 2023 - Jan 2025
+Built SQL transformations with explicit grain, null checks, and late-arriving data handling.
+Used Apache Spark to compact partitioned event data and avoid repeated full-table scans.
+Used Python in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+TECHNOLOGIES
+SQL, Apache Spark, Python
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

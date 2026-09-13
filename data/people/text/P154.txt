@@ -1,0 +1,23 @@
+Candidate P154
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Mobile Development Intern | RetailWorks Inc. | 2024-06 to Present
+Assisted in developing a customer-facing shopping app using React Native. Implemented UI components based on Zeplin designs. Integrated Redux for state management and Firebase for push notifications. Participated in code reviews and used Jira for task tracking. Gained exposure to App Store deployment workflows.
+Junior Mobile Developer (Part-Time) | RetailWorks Inc. | 2023-09 to 2024-05
+Supported the mobile team by fixing bugs and adding minor features to the company's internal logistics app. Worked with SQLite for offline data storage and implemented biometric login for warehouse staff. Used Crashlytics to monitor app stability.
+Tech Support Associate | RetailWorks Inc. | 2022-06 to 2023-08
+Provided technical support for point-of-sale systems in a retail environment. Handled shift work, assisting customers and store associates with hardware and software issues. Moved to the mobile dev team after showing aptitude for scripting.
+SKILLS
+React Native; TypeScript; Redux; GraphQL; Firebase; Native Modules; MobX; JSI; AsyncStorage; SQLite; Crashlytics; Biometric authentication; App Store deployment
+EDUCATION
+Associate of Science | Computer Science | Columbia Area Community College
+2022-09 to 2024-06
+PROJECTS
+HealthTrack Mobile App
+Developed a React Native prototype for tracking medication schedules and health vitals. Integrated GraphQL for API queries and Firebase for authentication. Implemented biometric authentication and used AsyncStorage for offline data. Technologies used: TypeScript.
+Store Inventory App
+Built an internal tool for store associates to check inventory levels. Used Native Modules for barcode scanning and SQLite for local storage. Connected to backend API via Redux and tested with Jest. Technologies used: React Native, JavaScript.
+CERTIFICATIONS
+Meta React Native Certification
+Issued by Meta.
+2024-01

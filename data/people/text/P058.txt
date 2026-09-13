@@ -1,0 +1,9 @@
+Candidate P058
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Developer | Launchpad Media | 2019-06 to Present
+SKILLS
+React; JavaScript; Context API; React Router; CSS3; Netlify; HTML5; Git
+EDUCATION
+Associate of Science | Computer Science | Los Angeles City College
+2016-09 to 2019-06

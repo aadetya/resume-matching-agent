@@ -1,0 +1,515 @@
+{
+  "schema_version": 2,
+  "dataset_id": "akzaidan/People",
+  "dataset_split": "holdout",
+  "snapshot_date": "2026-09-01",
+  "source_sha256": "dd2d3b70642260b046f33034f3c19b608be5b72ad582005408d5256526490b42",
+  "candidate_count": 50,
+  "formats": {
+    "pdf": 25,
+    "docx": 15,
+    "txt": 10
+  },
+  "files": [
+    {
+      "candidate_id": "E001",
+      "source_id": "syn2_entry_level_0104273",
+      "display_name": "Candidate E001",
+      "path": "data/holdout/resumes/E001.pdf",
+      "sha256": "430c3db1428cc4096714e14abbd5b0e95e7b05adcc5433d3dab4f150c293bc78",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "f1c4f9651c9a6770f24a10d43d4fc28f26eaf24632af6c9663d730ee03dce4b8"
+    },
+    {
+      "candidate_id": "E002",
+      "source_id": "syn_visa_constrained_0073926",
+      "display_name": "Candidate E002",
+      "path": "data/holdout/resumes/E002.pdf",
+      "sha256": "2f6da5c6ff247f6e1141757e7d88d3a954ae65cb4686e840d0077ceaa037ac23",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "3c4509775d7454c69be10893498eca7a29524ea4dfafc44caf640f04b9c1f8b6"
+    },
+    {
+      "candidate_id": "E003",
+      "source_id": "syn2_standard_0069060",
+      "display_name": "Candidate E003",
+      "path": "data/holdout/resumes/E003.pdf",
+      "sha256": "d8974d6a5c4386ff6f5a074b2e0e2c7825557a6bfaa2604d1d4863ae6f1b7ada",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "aace2328b95bb83290e018c9cc7d2f5f626533491a3fec98e6dad3772c70dd34"
+    },
+    {
+      "candidate_id": "E004",
+      "source_id": "syn_bootcamp_self_taught_0041855",
+      "display_name": "Candidate E004",
+      "path": "data/holdout/resumes/E004.pdf",
+      "sha256": "d4f0213e7bfb67f0876aa6810643662a982019fcd2e88a2ac55076f2bd114701",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "3f1b910bbeea84a27102dce5fe09f2a58f3d1228d8d0a3ef7e6d89d104c1ee23"
+    },
+    {
+      "candidate_id": "E005",
+      "source_id": "syn_standard_0093149",
+      "display_name": "Candidate E005",
+      "path": "data/holdout/resumes/E005.pdf",
+      "sha256": "88fdd55d9972d025f9dcdafcb69277b4af8c6d755baaa133e530159d7fbefc2e",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "7f2b88860e4390fa32c7f5bcd7218a82f507c4fcdb22de9f5c0db97eecf4a072"
+    },
+    {
+      "candidate_id": "E006",
+      "source_id": "syn2_military_transition_0017693",
+      "display_name": "Candidate E006",
+      "path": "data/holdout/resumes/E006.docx",
+      "sha256": "ca4811ebb422a309e92588302e71bc03813652aa8c2b19a28ecb0ee2611fb1fe",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "1286f339c8826fe38ea0379b832d5facc7beab7ecffdecff245674d6a4da474b"
+    },
+    {
+      "candidate_id": "E007",
+      "source_id": "syn_return_to_work_0017693",
+      "display_name": "Candidate E007",
+      "path": "data/holdout/resumes/E007.docx",
+      "sha256": "bf882e24cbc3b0dd949c734393e21108f8978b159192c40920af0efc0d6d8e3a",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "33c3749e00775a9e8e3f1836ee836320ad613a315c4c23f24697df5307b6346d"
+    },
+    {
+      "candidate_id": "E008",
+      "source_id": "syn2_senior_specialist_0123662",
+      "display_name": "Candidate E008",
+      "path": "data/holdout/resumes/E008.docx",
+      "sha256": "db086bfb987f323222d4a28fb2c701365c19f550b8c4f98817a0d62791597989",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "ffc1840bcf6f136a5fe84dc96035af9af918ffb4785d90790817c08cc4caf16c"
+    },
+    {
+      "candidate_id": "E009",
+      "source_id": "syn2_standard_0136637",
+      "display_name": "Candidate E009",
+      "path": "data/holdout/resumes/E009.txt",
+      "sha256": "9d7b091e8c297f3c0c0522c7e14d7b214add4c78c3cbc5bc929017eceac64825",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "9d7b091e8c297f3c0c0522c7e14d7b214add4c78c3cbc5bc929017eceac64825"
+    },
+    {
+      "candidate_id": "E010",
+      "source_id": "syn_over_qualified_0023414",
+      "display_name": "Candidate E010",
+      "path": "data/holdout/resumes/E010.txt",
+      "sha256": "ff1e96e86acc5a0dee50366be737e9dffbc0652608a7728145dd39df42aa7443",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "ff1e96e86acc5a0dee50366be737e9dffbc0652608a7728145dd39df42aa7443"
+    },
+    {
+      "candidate_id": "E011",
+      "source_id": "syn_standard_0008932",
+      "display_name": "Candidate E011",
+      "path": "data/holdout/resumes/E011.pdf",
+      "sha256": "e3b263af07f9f69c93c135d0b7484be361be227cf62099462e1ed4c163c21f71",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "ca0937fe1baca872fcc7e2c06485e33f67333cd78c8a2719286a70d8062af81c"
+    },
+    {
+      "candidate_id": "E012",
+      "source_id": "syn_return_to_work_0058681",
+      "display_name": "Candidate E012",
+      "path": "data/holdout/resumes/E012.pdf",
+      "sha256": "bee50bd31d40e7d73b78b5ba2b3e8c024b12acadd0fa86c42266d27192a117f1",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "be8953c3b093e1a0cd3d88a4a1d0a941d98e8173969ee702d42262f6bf16da33"
+    },
+    {
+      "candidate_id": "E013",
+      "source_id": "syn2_entry_level_0095607",
+      "display_name": "Candidate E013",
+      "path": "data/holdout/resumes/E013.pdf",
+      "sha256": "e3ca10a5740a761106c0ea425b2a27e65213e582dd9cd29c7ece7b4d04de3cb9",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "f72c099545872c3a8e4078efaf03dfb9b28264330a7c40d1a3e5b61b37932fe9"
+    },
+    {
+      "candidate_id": "E014",
+      "source_id": "syn2_career_changer_0053684",
+      "display_name": "Candidate E014",
+      "path": "data/holdout/resumes/E014.pdf",
+      "sha256": "6e8b694271f48cd902d590adf975e3f15672831c38df1b05d9395540f278bf93",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "94aef1f423e13ef581ee6a5ef2f319121ebbd9700d36b7d5e4f6cd6f405cd66d"
+    },
+    {
+      "candidate_id": "E015",
+      "source_id": "syn2_military_transition_0079547",
+      "display_name": "Candidate E015",
+      "path": "data/holdout/resumes/E015.pdf",
+      "sha256": "f56756ce4eec1603c6957cfddbf95dc33c4042cce3c241fca3a2afb3ee10c2b7",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "7067a465486df7fdae1934934e500761c9fecbb940463355385b6aa69bcb6ede"
+    },
+    {
+      "candidate_id": "E016",
+      "source_id": "syn2_visa_constrained_0123663",
+      "display_name": "Candidate E016",
+      "path": "data/holdout/resumes/E016.docx",
+      "sha256": "a507ad4682ac4502871d17f67589819416e26255cefaaa256cdda89a2b09f2b1",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "660bd733bf81387e8ba997167110f96d6ae802d33bcecd990bf74cf8cd316342"
+    },
+    {
+      "candidate_id": "E017",
+      "source_id": "syn2_military_transition_0121381",
+      "display_name": "Candidate E017",
+      "path": "data/holdout/resumes/E017.docx",
+      "sha256": "bb51c32bc2f4e23a62d1e1bf089caa3758764e62d20f84245d5fc11da7c647ac",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "5d9eaa1005cf597ddf29cae247207ebe2eec4aaac221ba63471ba989f6521f99"
+    },
+    {
+      "candidate_id": "E018",
+      "source_id": "syn_sparse_profile_0073878",
+      "display_name": "Candidate E018",
+      "path": "data/holdout/resumes/E018.docx",
+      "sha256": "5c312f2712ea755f8373e0f658aecb842ccad857697caa20ac0140e27a5ec60a",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "c5962f6d48b9faff52f3fb69ae26e006e59bc4c56d88a6bb5d5751a7967b43a3"
+    },
+    {
+      "candidate_id": "E019",
+      "source_id": "syn_career_changer_0057112",
+      "display_name": "Candidate E019",
+      "path": "data/holdout/resumes/E019.txt",
+      "sha256": "c32f8afdf20b015bae1a2582eab7a967e9cd63d37a2fccfc62cc6cc43b38fa16",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "c32f8afdf20b015bae1a2582eab7a967e9cd63d37a2fccfc62cc6cc43b38fa16"
+    },
+    {
+      "candidate_id": "E020",
+      "source_id": "syn_student_intern_0097213",
+      "display_name": "Candidate E020",
+      "path": "data/holdout/resumes/E020.txt",
+      "sha256": "4770fd64686c4d800b25a43752f386a7ddca71e319e0ef063386208dab42048a",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "4770fd64686c4d800b25a43752f386a7ddca71e319e0ef063386208dab42048a"
+    },
+    {
+      "candidate_id": "E021",
+      "source_id": "syn_sparse_profile_0062762",
+      "display_name": "Candidate E021",
+      "path": "data/holdout/resumes/E021.pdf",
+      "sha256": "92d83422da37ffc95a300de60323b696a7fa4f6c0dafda104c24d518b53bb0de",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "8838c2321a738a51bfe6df3733c0a8696b768123469e956d8460b911715d1226"
+    },
+    {
+      "candidate_id": "E022",
+      "source_id": "syn2_student_intern_0058681",
+      "display_name": "Candidate E022",
+      "path": "data/holdout/resumes/E022.pdf",
+      "sha256": "2342bc3215e4f3a60a3596715d146d1c8b7e95355e4b5c9859daba85efdb4d65",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "d96a9c89711da864338c91f9f2331847ae9ec4151e8735c0e1f1683212e261e0"
+    },
+    {
+      "candidate_id": "E023",
+      "source_id": "syn_visa_constrained_0081933",
+      "display_name": "Candidate E023",
+      "path": "data/holdout/resumes/E023.pdf",
+      "sha256": "5360f2e073359513a4dd2b50f573e24d9857fa6eff4e0c1b022c45462557d134",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "ae51ed9f5fbfa75acb795e8eba3a9c82fd87ef8cfaba36f5fc58d793c1ea9b8e"
+    },
+    {
+      "candidate_id": "E024",
+      "source_id": "syn2_visa_constrained_0041883",
+      "display_name": "Candidate E024",
+      "path": "data/holdout/resumes/E024.pdf",
+      "sha256": "7cfa1f6765844203c4f246aa1a3837bd7a6f2cea2408b3b5d5cd7231925ff828",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "13c9d03db2ff08531f90f65d2e0ea13365afc6415444d340f79bc83c1e8e20ed"
+    },
+    {
+      "candidate_id": "E025",
+      "source_id": "syn2_sparse_profile_0007326",
+      "display_name": "Candidate E025",
+      "path": "data/holdout/resumes/E025.pdf",
+      "sha256": "f343c910ccb4b0cba4da7e0de688192c59df00bc3e4e2150af5599340ad1a13b",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "0b63bba1d3b66b5d701493eccd00da00e2b97e65913e3194f792c2492b32d876"
+    },
+    {
+      "candidate_id": "E026",
+      "source_id": "syn2_student_intern_0051275",
+      "display_name": "Candidate E026",
+      "path": "data/holdout/resumes/E026.docx",
+      "sha256": "f31a670ad5ef6bf0d6ad278badf73462b466ba06fbd44907cd39d0a48ad10ff8",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "7398200d6248d4987e8a2e110fe2a08f4fdf3bc8c02c051cecab61a173d1c6a6"
+    },
+    {
+      "candidate_id": "E027",
+      "source_id": "syn_bootcamp_self_taught_0065044",
+      "display_name": "Candidate E027",
+      "path": "data/holdout/resumes/E027.docx",
+      "sha256": "c24f6b5301ed193265ca08e69e9931b2c07ba15070280db43f2062091364c136",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "d3e5cd25d8b37bea2be7d84db25e99a49696cebf0ab77974228152018f8494ab"
+    },
+    {
+      "candidate_id": "E028",
+      "source_id": "syn_over_qualified_0077115",
+      "display_name": "Candidate E028",
+      "path": "data/holdout/resumes/E028.docx",
+      "sha256": "ca8f1b1b9777b3f7b1881a67bc3a02a7251096806ba5dc80008901823d9956a0",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "de19b0169752adf6fc508f0fc7e43b438809ce4a2d356903e10055dec9b572bf"
+    },
+    {
+      "candidate_id": "E029",
+      "source_id": "syn_career_changer_0022534",
+      "display_name": "Candidate E029",
+      "path": "data/holdout/resumes/E029.txt",
+      "sha256": "6f02ac34c0064ef5f511c4b1646352ff249661945d379c7d3d19ea60fd5b8a6a",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "6f02ac34c0064ef5f511c4b1646352ff249661945d379c7d3d19ea60fd5b8a6a"
+    },
+    {
+      "candidate_id": "E030",
+      "source_id": "syn_sparse_profile_0055469",
+      "display_name": "Candidate E030",
+      "path": "data/holdout/resumes/E030.txt",
+      "sha256": "22036c888413c07f7dea2006712dfe9b3647e7391124a106f926eb3763411aba",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "22036c888413c07f7dea2006712dfe9b3647e7391124a106f926eb3763411aba"
+    },
+    {
+      "candidate_id": "E031",
+      "source_id": "syn2_return_to_work_0146245",
+      "display_name": "Candidate E031",
+      "path": "data/holdout/resumes/E031.pdf",
+      "sha256": "81615d3bdc7364be9881ba6a54896ed7a224772c040d20005061d12f02333aca",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "4173ff243ef60758c43e3d2210a3e063670337155d4e457977bfdb630a7b2ed8"
+    },
+    {
+      "candidate_id": "E032",
+      "source_id": "syn_senior_specialist_0033051",
+      "display_name": "Candidate E032",
+      "path": "data/holdout/resumes/E032.pdf",
+      "sha256": "b061812999e6fe4a177f4b8619cb4a672b72e14c460065fabac35eb3e3655425",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "e830a66f0c0f054b0dc6b540fc9a9edff52f2c0ea13ae9f8389d4c2bdee8e144"
+    },
+    {
+      "candidate_id": "E033",
+      "source_id": "syn2_student_intern_0079524",
+      "display_name": "Candidate E033",
+      "path": "data/holdout/resumes/E033.pdf",
+      "sha256": "1afba69b504b30dce9669114a5f1951240f3f6677a9bb3deaef27b7bd8cd0e5b",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "1df1c93ad6d14d546b805e52bbb47064c34ac2bf040021fecbc951684443bb3a"
+    },
+    {
+      "candidate_id": "E034",
+      "source_id": "syn2_over_qualified_0097164",
+      "display_name": "Candidate E034",
+      "path": "data/holdout/resumes/E034.pdf",
+      "sha256": "cfc01f4178228fb66d9646c5085985c891e05d1af6c41c2ff24f05bf19fe59c1",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "f06a32385a7609e0cd0db91a77beff23402b50af060be6e28c13179546345cd6"
+    },
+    {
+      "candidate_id": "E035",
+      "source_id": "syn_standard_0026526",
+      "display_name": "Candidate E035",
+      "path": "data/holdout/resumes/E035.pdf",
+      "sha256": "3864b04658852f2b6023f015089964baafbd52b9f9af3393556343aefe0cdaec",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "82c63eb160a36ef5781c7a0c1fe91a72e7b7ca30371a524a6edf66ea1d087088"
+    },
+    {
+      "candidate_id": "E036",
+      "source_id": "syn2_bootcamp_self_taught_0098094",
+      "display_name": "Candidate E036",
+      "path": "data/holdout/resumes/E036.docx",
+      "sha256": "025cca2f9695d1f3b195b4e09c80f4f17984ed1955cdd6dcec9fe2506cb6c239",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "9b7f48beabb3d01a7830012cafe7bce02fcad62187a87441a9da246bb60eb754"
+    },
+    {
+      "candidate_id": "E037",
+      "source_id": "syn_military_transition_0018352",
+      "display_name": "Candidate E037",
+      "path": "data/holdout/resumes/E037.docx",
+      "sha256": "e4fe84e520d3ac3c0b32ef3c65fe9dca898a403f0c0afe388556ad87163b2a2a",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "e5837291d52a4b4511dd49e1d0268c214c251464432f7dd14311717a42990ef9"
+    },
+    {
+      "candidate_id": "E038",
+      "source_id": "syn2_over_qualified_0098065",
+      "display_name": "Candidate E038",
+      "path": "data/holdout/resumes/E038.docx",
+      "sha256": "483f954da1ba368f09c8e6cc8b73d351bba008dd416c4d0baa94f68c049711b4",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "1ccd7ac5585bd75e98a60a46937078a41cb5fbde169d3f637578e4ca034c2ea5"
+    },
+    {
+      "candidate_id": "E039",
+      "source_id": "syn_sparse_profile_0097046",
+      "display_name": "Candidate E039",
+      "path": "data/holdout/resumes/E039.txt",
+      "sha256": "012e1445845b3ba32601647d53fab5eb7b344f43102595c3fd0da7da2a59f6fe",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "012e1445845b3ba32601647d53fab5eb7b344f43102595c3fd0da7da2a59f6fe"
+    },
+    {
+      "candidate_id": "E040",
+      "source_id": "syn_manager_lead_0051275",
+      "display_name": "Candidate E040",
+      "path": "data/holdout/resumes/E040.txt",
+      "sha256": "6ec81c302bbbb5ed62bb98d4ceb18992cac9e8794fde6513c99edc9f175ec48b",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "6ec81c302bbbb5ed62bb98d4ceb18992cac9e8794fde6513c99edc9f175ec48b"
+    },
+    {
+      "candidate_id": "E041",
+      "source_id": "syn2_senior_specialist_0009637",
+      "display_name": "Candidate E041",
+      "path": "data/holdout/resumes/E041.pdf",
+      "sha256": "5c0e958a3c82b2fd0c675fa1a604881274dd2fb4d09116ca59659e20e94a2a6b",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "cd2a2eb76562b798922c29920134a00689d464457effa106538a6d4608e38eb2"
+    },
+    {
+      "candidate_id": "E042",
+      "source_id": "syn2_bootcamp_self_taught_0136510",
+      "display_name": "Candidate E042",
+      "path": "data/holdout/resumes/E042.pdf",
+      "sha256": "4c25c3186819fea0626e1c5ee6095aa91174436ef58c00ba6b5b038420f81746",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "ae5795a514736103d4e9e3e6500aa7d2f5c8201e936fb8ef37cdd46bb79248d3"
+    },
+    {
+      "candidate_id": "E043",
+      "source_id": "syn2_military_transition_0052196",
+      "display_name": "Candidate E043",
+      "path": "data/holdout/resumes/E043.pdf",
+      "sha256": "8db15b6688d85f8f99b9b36334a97fddeb307e838361cc089d217dbfb8c3f2ef",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "c22b21ff17b9a24a78912267f442306173c9b6d493e5384b11eba71af5d6240a"
+    },
+    {
+      "candidate_id": "E044",
+      "source_id": "syn_gig_contract_0024090",
+      "display_name": "Candidate E044",
+      "path": "data/holdout/resumes/E044.pdf",
+      "sha256": "618ef25bb28eaa52269b2965fee89d57e6bd0104b1fefd96c305400ec82f12cb",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "a33472d22bd6b8ba57674b1f48e4588da78881810068c03906244caaea86d8e3"
+    },
+    {
+      "candidate_id": "E045",
+      "source_id": "syn2_return_to_work_0123545",
+      "display_name": "Candidate E045",
+      "path": "data/holdout/resumes/E045.pdf",
+      "sha256": "73be36ad413fb71ea677fbf37784621f0c25a6b6836c6f45590e7666ecc766d7",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "0a6b5220d683f2b2b7d350ead4d3f1658f6891d82b823a7cca8c780936ed70c7"
+    },
+    {
+      "candidate_id": "E046",
+      "source_id": "syn2_gig_contract_0026598",
+      "display_name": "Candidate E046",
+      "path": "data/holdout/resumes/E046.docx",
+      "sha256": "6be002812a2408fd853870d2fb376c26c2c681bd2e713a09ee30d8ca0d5bcfbd",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "89a3d7cd2d757aa699393394de214c290ad1c937ad5f018959f9b22a3392c6b8"
+    },
+    {
+      "candidate_id": "E047",
+      "source_id": "syn_gig_contract_0002537",
+      "display_name": "Candidate E047",
+      "path": "data/holdout/resumes/E047.docx",
+      "sha256": "52cf4833b967487c7552f4ccf0ddd0b069b45f27217e4eda7be2d49528e268d2",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "d22e862bcad0d128eaeddde7deacee81e7c0a2523c8d6b6218a49193f2748626"
+    },
+    {
+      "candidate_id": "E048",
+      "source_id": "syn2_sparse_profile_0069085",
+      "display_name": "Candidate E048",
+      "path": "data/holdout/resumes/E048.docx",
+      "sha256": "dc8275d64523b2b8fc7c550142d3e12582a6647e0d4b61ee0d7677aa6f7ddec6",
+      "split": "holdout",
+      "layout": 2,
+      "canonical_text_sha256": "af6824c174e8f13e9ef54007297f8e03aa007ecb6e48b7110ceb0c906a951105"
+    },
+    {
+      "candidate_id": "E049",
+      "source_id": "syn_gig_contract_0029773",
+      "display_name": "Candidate E049",
+      "path": "data/holdout/resumes/E049.txt",
+      "sha256": "9cb8c69595eac831f08bcd7fb1e4e5817978605c159ee1814616e6c06960a82e",
+      "split": "holdout",
+      "layout": 0,
+      "canonical_text_sha256": "9cb8c69595eac831f08bcd7fb1e4e5817978605c159ee1814616e6c06960a82e"
+    },
+    {
+      "candidate_id": "E050",
+      "source_id": "syn2_gig_contract_0007254",
+      "display_name": "Candidate E050",
+      "path": "data/holdout/resumes/E050.txt",
+      "sha256": "b7ab40ed387f98c9d6ef41c029da888b23a8faab83edac44328ff53d454cad77",
+      "split": "holdout",
+      "layout": 1,
+      "canonical_text_sha256": "b7ab40ed387f98c9d6ef41c029da888b23a8faab83edac44328ff53d454cad77"
+    }
+  ]
+}

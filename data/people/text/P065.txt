@@ -1,0 +1,25 @@
+Candidate P065
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Machine Learning Engineer | National Renewable Energy Laboratory | 2023-01 to Present
+Develop ML models for energy grid optimization. Monitor model performance in production and tune hyperparameters.
+Data Scientist | Solar Analytics Co. | 2021-06 to 2022-12
+Built predictive models for solar output. Used Spark for large-scale data processing.
+Data Analyst | Georgia Power | 2020-02 to 2021-05
+Analyzed energy consumption data and created dashboards in Power BI.
+Junior Data Analyst | Kenya Energy Research Institute | 2018-01 to 2019-12
+Assisted in data collection and visualization. Started using Python for analysis.
+SKILLS
+Model Monitoring; Reinforcement Learning; Hadoop; Spark; Model Evaluation; Hyperparameter Tuning; PyTorch; MLflow; Airflow; AWS; Tableau; Power BI; Seaborn
+EDUCATION
+Master of Science | Data Science | Georgia State University
+2019-09 to 2021-06
+Bachelor of Science | Electrical Engineering | University of Nairobi
+2013-09 to 2017-06
+PROJECTS
+Energy Grid Reinforcement Learning
+Developed a reinforcement learning agent to optimize energy distribution. Used PyTorch and Spark.
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2023-01

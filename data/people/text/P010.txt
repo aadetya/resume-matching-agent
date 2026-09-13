@@ -1,0 +1,27 @@
+Candidate P010
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Full Stack Developer | Cascade Content Systems | 2018-06 to Present
+Lead a team of 8 developers building a CMS platform. Manage sprint planning, code reviews, and architecture decisions. Oversee a budget of $2M and coordinate with product and design teams.
+Full Stack Developer | Cascade Content Systems | 2014-01 to 2018-05
+Built and maintained CMS features using Node.js, Express, MongoDB, and Angular. Implemented RBAC and GraphQL APIs. Improved page load times by 40% through caching with Redis.
+Senior Full Stack Developer | Pacific Web Solutions | 2012-03 to 2013-12
+Developed custom CMS modules for enterprise clients. Mentored junior developers and led migration to Angular. Worked with PostgreSQL and Redis.
+Full Stack Developer | Cascade Content Systems | 2008-06 to 2012-02
+Built internal tools and customer-facing CMS components. Implemented authentication and authorization. Experience with Node.js, Express, and MongoDB.
+Web Developer | US Army (Information Systems) | 2000-09 to 2008-05
+Developed training and logistics systems as part of military IT. Gained foundational skills in web development, database management, and network security.
+SKILLS
+Node.js; Express.js; MongoDB; PostgreSQL; SQL; Angular; State management (Redux, Zustand); GraphQL; Authorization (RBAC, ABAC); Unit testing (Jest, Mocha); Redis; AWS; Azure; Netlify; Vercel; Docker; Kubernetes
+EDUCATION
+Associate of Applied Science in Information Systems | Information Technology | US Army Signal School
+2000-09 to 2002-06
+PROJECTS
+CMS Platform Migration
+Led migration from monolithic CMS to microservices architecture. Implemented RBAC, GraphQL, and Redis caching. Reduced infrastructure costs by 30%. Technologies used: Node.js, Express.js, MongoDB, Docker, AWS.
+Real-Time Collaboration Feature
+Designed and built real-time editing for CMS using WebSockets. Used Angular state management with Redux. Improved user engagement by 25%. Technologies used: Node.js.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2019-01

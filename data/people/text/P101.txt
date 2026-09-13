@@ -1,0 +1,23 @@
+Candidate P101
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Intern | Midland College | 2024-06 to 2024-08
+Developed React components with TypeScript. Wrote Cypress tests for integration testing. Used WebSockets for real-time updates.
+Research Assistant | Prairie View A&M University | 2024-01 to 2024-05
+Built a data visualization tool with React and TypeScript. Used pnpm for package management.
+Campus Tech Support | Prairie View A&M University | 2023-09 to 2023-12
+Provided tech support. Helped with network and software issues. Used Slack for team communication.
+SKILLS
+HTML5; Cypress; WebSockets; Integration testing; Generics; React; Slack; Postman; pnpm; Git; JavaScript
+EDUCATION
+Bachelor of Science | Computer Science | Prairie View A&M University
+2022-09 to 2026-06
+PROJECTS
+Real-time Chat App
+Built with React, TypeScript, and WebSockets. Implemented user authentication and message history. Used Postman for API testing.
+E-commerce Storefront
+Developed with React and TypeScript. Used generics for reusable components. Conducted integration testing with Cypress.
+CERTIFICATIONS
+Certified JavaScript Developer
+Issued by Certification Institute.
+2024-01

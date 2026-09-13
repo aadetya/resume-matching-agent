@@ -1,0 +1,23 @@
+Candidate P008
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Streaming Data Engineer | Health Data Systems | 2021-03 to Present
+Design and implement real-time fraud detection pipelines. Stream processing for patient data. Optimize Flink jobs. Manage Kafka clusters.
+Junior Streaming Data Engineer | Pacific Health Network | 2019-06 to 2021-02
+Built and maintained streaming data pipelines. Implemented change data capture with Debezium. Monitored with Grafana.
+Data Analyst | LifeLink Medical Center | 2017-08 to 2019-05
+Analyzed claim data. Built batch reports. Learned SQL and Python. Moved to real-time data.
+SKILLS
+Apache Flink; Streaming joins; Real-time data processing; Apache Kafka; Kafka Streams; Schema management; Stateful stream processing; Checkpointing and recovery; Parquet file format; RisingWave; Apache Beam; Grafana; Confluent Platform; Debezium; Amazon Kinesis; Redpanda; SQL; Python
+EDUCATION
+Associate of Science | Computer Information Systems | California Technical Institute
+2015-09 to 2017-06
+PROJECTS
+Real-time fraud alerting system
+Streaming pipeline to flag anomalies in claim submissions. Flink + Kafka. Reduced detection time from hours to minutes. Technologies used: Apache Flink, Apache Kafka, Kafka Streams, Grafana.
+Patient data pipeline modernization
+Migrated batch to streaming. Used Debezium for CDC. Parquet for storage. Improved data freshness. Technologies used: Apache Kafka, RisingWave.
+CERTIFICATIONS
+Confluent Certified Developer for Apache Kafka
+Issued by Confluent.
+2020-01

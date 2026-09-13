@@ -1,0 +1,20 @@
+Candidate P127
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Payments Engineer | Community First Credit Union | 2018-03 to 2021-07
+Led payments platform modernization, integrating RTP and ISO 8583. Coordinated vendor partnerships and fraud prevention.
+Principal Payments Engineer | Community First Credit Union | 2021-08 to Present
+Designing gateway integrations and ensuring idempotency across recurring billing. Mentor engineering teams on payments best practices.
+Payments Engineer | MidSouth Bank | 2012-10 to 2018-02
+Implemented ISO 8583 message handling and integrated payment gateways. Improved fraud detection rules and reduced chargebacks.
+Junior Payments Engineer | First Tennessee Bank | 2011-01 to 2012-09
+Assisted in maintenance of payment processing systems. Wrote API integrations and supported legacy platforms.
+SKILLS
+ISO 8583; Real-time payments (RTP); Idempotency; Recurring billing; Fraud detection and prevention; Payment gateway integration; Modusbox; PostgreSQL; Marqeta; Spreedly; Worldpay; Braintree; Java; API design; Distributed systems
+EDUCATION
+Bachelor of Science | Computer Science | University of Alabama
+2006-09 to 2010-06
+CERTIFICATIONS
+PCI Professional (PCIP)
+Issued by PCI Security Standards Council.
+2017-01

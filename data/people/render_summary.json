@@ -1,0 +1,18 @@
+{
+  "active": {
+    "candidate_count": 200,
+    "formats": {
+      "pdf": 100,
+      "docx": 60,
+      "txt": 40
+    }
+  },
+  "holdout": {
+    "candidate_count": 50,
+    "formats": {
+      "pdf": 25,
+      "docx": 15,
+      "txt": 10
+    }
+  }
+}

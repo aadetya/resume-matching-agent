@@ -1,0 +1,32 @@
+Candidate P186
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Tooling Engineer | TechFlow Solutions (franchise location) | 2023-06 to Present
+Leading the tooling team, driving adoption of Bazel and Terraform across the org. Still hands-on: building and maintaining CI pipelines, integrating tools with Jira and Slack, and optimizing caching strategies.
+Staff Tooling Engineer | DataSphere Analytics | 2019-03 to 2023-05
+Scaled release engineering from manual to fully automated, using Splunk for monitoring and bazel for builds. Developed internal developer platform, improving developer velocity by 40%.
+Senior Tooling Engineer | TechFlow Solutions (franchise location) | 2015-04 to 2019-02
+Owned the entire SDLC toolchain: source control, CI, artifact management, and deployment automation. Implemented caching and on-premises infra improvements, reducing build times by 50%.
+Release Manager | CloudMatrix Inc. | 2011-02 to 2015-03
+Managed releases across multiple products, coordinating between dev, QA, and ops. Automated deployment pipelines and introduced version control best practices, cutting release cycles from weeks to days.
+Build Engineer | NexGen Motors | 2008-07 to 2011-01
+Set up build systems for embedded software in automotive control units. Transitioned from mechanical engineering to software tooling, learning Git and Jenkins on the job.
+Mechanical Engineer | AeroTech Dynamics | 2001-01 to 2008-06
+Designed hydraulic systems for military aircraft. Developed skills in documentation and precision that later became crucial in software tooling.
+SKILLS
+Documentation for developer tools; Tool integration (Jira, Slack, IDE plugins); Software development lifecycle (SDLC) automation; Release engineering; Version control systems (Git); On-premises infrastructure; Caching strategies; Bazel; Terraform; Splunk; Python; Kubernetes
+EDUCATION
+Bachelor of Science | Mechanical Engineering | United States Military Academy
+1996-09 to 2000-06
+PROJECTS
+Developer Portal
+Built an internal portal integrating Jira, Slack, and IDE plugins. Used Bazel and Terraform to standardize environments. Improved developer onboarding from 2 weeks to 2 days. Technologies used: React.
+Release Automation Suite
+Designed a suite to automate the entire SDLC pipeline, including caching strategies for artifacts. Reduced release time by 70%. Technologies used: Splunk, Python, Jenkins, Git.
+CERTIFICATIONS
+AWS Certified DevOps Engineer
+Issued by Amazon Web Services.
+2020-01
+Certified Kubernetes Administrator (CKA)
+Issued by Cloud Native Computing Foundation.
+2022-01

@@ -1,0 +1,614 @@
+{
+  "schema_version": 1,
+  "seed": 20260910,
+  "candidate_count": 100,
+  "query_count": 15,
+  "formats": {
+    "pdf": 50,
+    "docx": 30,
+    "txt": 20
+  },
+  "files": [
+    {
+      "candidate_id": "CAND_FE_001",
+      "path": "data/resumes/CAND_FE_001.pdf",
+      "sha256": "a950617fe42786993a0308de381b178cedf5f2160349e0d7931609ff4029f7af",
+      "layout": 0
+    },
+    {
+      "candidate_id": "CAND_FE_002",
+      "path": "data/resumes/CAND_FE_002.pdf",
+      "sha256": "91fb7effca25d8f37c574d1b1eb96608a24bb1cba19c332b8a99bd32447c4d8c",
+      "layout": 1
+    },
+    {
+      "candidate_id": "CAND_FE_003",
+      "path": "data/resumes/CAND_FE_003.pdf",
+      "sha256": "f3f1402e79f09121737d6fd482a1d69446ae92df545b8efd543621d9d5520ceb",
+      "layout": 2
+    },
+    {
+      "candidate_id": "CAND_FE_004",
+      "path": "data/resumes/CAND_FE_004.pdf",
+      "sha256": "ab08ff3e14e47b19b7b85ce5a801e59bdfa919a9e33999b464f18f021076f0f1",
+      "layout": 3
+    },
+    {
+      "candidate_id": "CAND_FE_005",
+      "path": "data/resumes/CAND_FE_005.pdf",
+      "sha256": "95f43d3fe3a6fb524e1d310f8d449c88621b7e523ed3af7e4b53ba558fbb2eda",
+      "layout": 4
+    },
+    {
+      "candidate_id": "CAND_FE_006",
+      "path": "data/resumes/CAND_FE_006.docx",
+      "sha256": "a378c9e8ab657ac1014642ae84f3a1cbf0db328c14333f2d32803610640c1bc3",
+      "layout": 5
+    },
+    {
+      "candidate_id": "CAND_FE_007",
+      "path": "data/resumes/CAND_FE_007.docx",
+      "sha256": "1d562ade9a742150363e74ee5dbf33b35199b0781b1375b317c52e12ba6ae904",
+      "layout": 6
+    },
+    {
+      "candidate_id": "CAND_FE_008",
+      "path": "data/resumes/CAND_FE_008.docx",
+      "sha256": "2c283521553f5a79440a5e6168bb79c078d3f2ce5e133bd831e86e88964c4f10",
+      "layout": 7
+    },
+    {
+      "candidate_id": "CAND_FE_009",
+      "path": "data/resumes/CAND_FE_009.txt",
+      "sha256": "5e9951944cbafb389d50af96750eee2912ebca7112b1e20a5cf7163c9c10fa35",
+      "layout": 8
+    },
+    {
+      "candidate_id": "CAND_FE_010",
+      "path": "data/resumes/CAND_FE_010.txt",
+      "sha256": "d2cc9f9fb22277791642615ed171d8d0290437e0b349defb6e16e256198b4aa8",
+      "layout": 9
+    },
+    {
+      "candidate_id": "CAND_FE_011",
+      "path": "data/resumes/CAND_FE_011.pdf",
+      "sha256": "4799329749b73eba5389eedecc5b6eb00fc8eccbdd2db6f9139f1ebf44885aef",
+      "layout": 0
+    },
+    {
+      "candidate_id": "CAND_FE_012",
+      "path": "data/resumes/CAND_FE_012.pdf",
+      "sha256": "32f3792ae86bafc55c15f0f6bf676e5c147b746f80f9fe75b90d42161440154d",
+      "layout": 1
+    },
+    {
+      "candidate_id": "CAND_FE_013",
+      "path": "data/resumes/CAND_FE_013.pdf",
+      "sha256": "b4364fad0531aaf1eab7f3b62992500baa977159933f006931e34400364d38aa",
+      "layout": 2
+    },
+    {
+      "candidate_id": "CAND_FE_014",
+      "path": "data/resumes/CAND_FE_014.pdf",
+      "sha256": "72ae9cb9ad655133b7173250b27fac9ce0ec5db949bf6590823b49a84c7967b3",
+      "layout": 3
+    },
+    {
+      "candidate_id": "CAND_FE_015",
+      "path": "data/resumes/CAND_FE_015.pdf",
+      "sha256": "e4c03845684440f2972ca74a3edc08068a640a2501f886de26e68754d80f8b7c",
+      "layout": 4
+    },
+    {
+      "candidate_id": "CAND_FE_016",
+      "path": "data/resumes/CAND_FE_016.docx",
+      "sha256": "68f6c4e104c9c92575584ed5c546bcbb891aacfeb41b3a0d9202014acd4493e2",
+      "layout": 5
+    },
+    {
+      "candidate_id": "CAND_FE_017",
+      "path": "data/resumes/CAND_FE_017.docx",
+      "sha256": "63ddf85fbb25f64e3c729e21436cd1673fd618c93d2c1f3c592152007cf625f7",
+      "layout": 6
+    },
+    {
+      "candidate_id": "CAND_FE_018",
+      "path": "data/resumes/CAND_FE_018.docx",
+      "sha256": "31b29a0b335ac50f67a59d4342a5f0432e9bc852cb651f8b456a3449ba549f3e",
+      "layout": 7
+    },
+    {
+      "candidate_id": "CAND_FE_019",
+      "path": "data/resumes/CAND_FE_019.txt",
+      "sha256": "6ce50ce3826ac731cfa2c3a03cdcdc9b4cdd4b7f6b56d71602d9d95f8bca8135",
+      "layout": 8
+    },
+    {
+      "candidate_id": "CAND_FE_020",
+      "path": "data/resumes/CAND_FE_020.txt",
+      "sha256": "23493ccf30602a6e43f1f09e8d427943073f200f12ab575c3c46a09c9907c94e",
+      "layout": 9
+    },
+    {
+      "candidate_id": "CAND_BE_001",
+      "path": "data/resumes/CAND_BE_001.pdf",
+      "sha256": "1c92bd486a36b9ad32a2b54408228bdf7e305c98679d4d11cd588798d1b14ca2",
+      "layout": 0
+    },
+    {
+      "candidate_id": "CAND_BE_002",
+      "path": "data/resumes/CAND_BE_002.pdf",
+      "sha256": "d74eb04fb055fe8fce2a28249f8f328acfeebd66a3aae33d84fc9e3cb797b8b9",
+      "layout": 1
+    },
+    {
+      "candidate_id": "CAND_BE_003",
+      "path": "data/resumes/CAND_BE_003.pdf",
+      "sha256": "842a3e8ad6cffe0fd1eba8ec2a1bd5c86feeb30f9a763eba119ab0eb705dabc6",
+      "layout": 2
+    },
+    {
+      "candidate_id": "CAND_BE_004",
+      "path": "data/resumes/CAND_BE_004.pdf",
+      "sha256": "63e5bc77c5202b559fb9b73542293245d2d4ea49b8a51951f0702223050bcef9",
+      "layout": 3
+    },
+    {
+      "candidate_id": "CAND_BE_005",
+      "path": "data/resumes/CAND_BE_005.pdf",
+      "sha256": "3dd31f19bb785beba1b582c7ce42fd9c19e7924e48ae339529026b43e53ff26a",
+      "layout": 4
+    },
+    {
+      "candidate_id": "CAND_BE_006",
+      "path": "data/resumes/CAND_BE_006.docx",
+      "sha256": "31eb5d854abfe689088a8881246982b96192a9de8063cd5a4884d7762aad174a",
+      "layout": 5
+    },
+    {
+      "candidate_id": "CAND_BE_007",
+      "path": "data/resumes/CAND_BE_007.docx",
+      "sha256": "af43419755e7e6124387340223246a760eae925c4586c2fbbf0d00f62eab7bab",
+      "layout": 6
+    },
+    {
+      "candidate_id": "CAND_BE_008",
+      "path": "data/resumes/CAND_BE_008.docx",
+      "sha256": "e47b83cbe47f5967de780aef267ebfa81cac3f9e550924b576450605c26654d1",
+      "layout": 7
+    },
+    {
+      "candidate_id": "CAND_BE_009",
+      "path": "data/resumes/CAND_BE_009.txt",
+      "sha256": "23a1a5ec7d7a0c6f57d03d5017764ecdeaf57ba27676ad939ea8aa7c56c4590b",
+      "layout": 8
+    },
+    {
+      "candidate_id": "CAND_BE_010",
+      "path": "data/resumes/CAND_BE_010.txt",
+      "sha256": "20c9441746884b377e07e6cd9bb8bd5d278a0ec1c06806829c38def1b341c1ef",
+      "layout": 9
+    },
+    {
+      "candidate_id": "CAND_BE_011",
+      "path": "data/resumes/CAND_BE_011.pdf",
+      "sha256": "a9d8b292dca8c3904ca7b9f89194444befbb578b29c61e97d22f38d0d2b9158c",
+      "layout": 0
+    },
+    {
+      "candidate_id": "CAND_BE_012",
+      "path": "data/resumes/CAND_BE_012.pdf",
+      "sha256": "e4b5e32e701d8fc7cca567d1b83f51a0cd684a68fd303dfbffbf6af759411faa",
+      "layout": 1
+    },
+    {
+      "candidate_id": "CAND_BE_013",
+      "path": "data/resumes/CAND_BE_013.pdf",
+      "sha256": "216f0551aacec7cc29e4bb19d23a3ec2900e5e1c619d9f762f8aa7d9f62ae44f",
+      "layout": 2
+    },
+    {
+      "candidate_id": "CAND_BE_014",
+      "path": "data/resumes/CAND_BE_014.pdf",
+      "sha256": "2402422a6c302dc8f0dfe47adf67ef4b1d70277506c1357d9451e835757af344",
+      "layout": 3
+    },
+    {
+      "candidate_id": "CAND_BE_015",
+      "path": "data/resumes/CAND_BE_015.pdf",
+      "sha256": "dd4b808b9cb90a151d2951c276fd820a6ec42f292706d6bb20503f6b4f58ebc2",
+      "layout": 4
+    },
+    {
+      "candidate_id": "CAND_BE_016",
+      "path": "data/resumes/CAND_BE_016.docx",
+      "sha256": "e09f669f1ab78b28c0a2520cc968d005eec6990e7e849c5659806e70547855bd",
+      "layout": 5
+    },
+    {
+      "candidate_id": "CAND_BE_017",
+      "path": "data/resumes/CAND_BE_017.docx",
+      "sha256": "cfe5c04f4b7272bf44833ebfff5146e93f74ca6a2b7033dfe13571dea51d6324",
+      "layout": 6
+    },
+    {
+      "candidate_id": "CAND_BE_018",
+      "path": "data/resumes/CAND_BE_018.docx",
+      "sha256": "7509316a7b477fee2cea464e1a53877d41636f025cc8681f098e1771ee5f5e8b",
+      "layout": 7
+    },
+    {
+      "candidate_id": "CAND_BE_019",
+      "path": "data/resumes/CAND_BE_019.txt",
+      "sha256": "b8ae54b98d2bf1e4e554111bb1c4aabaf5f498107eaad8d4da3e6b71df495905",
+      "layout": 8
+    },
+    {
+      "candidate_id": "CAND_BE_020",
+      "path": "data/resumes/CAND_BE_020.txt",
+      "sha256": "4ad1043ba742fc1832d5e8ab09e57ef0aa0f1e59a59f8a4c513592b8abc177ba",
+      "layout": 9
+    },
+    {
+      "candidate_id": "CAND_DE_001",
+      "path": "data/resumes/CAND_DE_001.pdf",
+      "sha256": "500800ef2847bd66c3ea73b602a11f3f1ec64fc21ffcaba0ea3d2ab2e630cf08",
+      "layout": 0
+    },
+    {
+      "candidate_id": "CAND_DE_002",
+      "path": "data/resumes/CAND_DE_002.pdf",
+      "sha256": "a3dc2997a4496620c4dbf132a4f233129b1384e863604cef903b969ca7e77866",
+      "layout": 1
+    },
+    {
+      "candidate_id": "CAND_DE_003",
+      "path": "data/resumes/CAND_DE_003.pdf",
+      "sha256": "33642c70adea8f1b76f9efb8a684ab07cc789674cb269d5b585e9980d2fb1f8e",
+      "layout": 2
+    },
+    {
+      "candidate_id": "CAND_DE_004",
+      "path": "data/resumes/CAND_DE_004.pdf",
+      "sha256": "da939326e6fe7f2a7fb6bf0819bd2c1f8b6c985cae4a3bc271a4db5b731f559f",
+      "layout": 3
+    },
+    {
+      "candidate_id": "CAND_DE_005",
+      "path": "data/resumes/CAND_DE_005.pdf",
+      "sha256": "46ce806a6e631e9c9d8aa8ba5a2604de93ae354b48fffe5b77f25c002e913779",
+      "layout": 4
+    },
+    {
+      "candidate_id": "CAND_DE_006",
+      "path": "data/resumes/CAND_DE_006.docx",
+      "sha256": "e96dc7b20cbb59a067d5550b022557373b376db37d92a276ecdb8e5f09edcc0d",
+      "layout": 5
+    },
+    {
+      "candidate_id": "CAND_DE_007",
+      "path": "data/resumes/CAND_DE_007.docx",
+      "sha256": "d43ddba5a559de2943a15d507eb346cdfd50baed972928d5ee29241113eef1c7",
+      "layout": 6
+    },
+    {
+      "candidate_id": "CAND_DE_008",
+      "path": "data/resumes/CAND_DE_008.docx",
+      "sha256": "3b97b4a4d4285eb68340a05debd9240030cbbdc63c40411e126b3cdbe2923ed1",
+      "layout": 7
+    },
+    {
+      "candidate_id": "CAND_DE_009",
+      "path": "data/resumes/CAND_DE_009.txt",
+      "sha256": "0780cf3327f24de4aa690e641bd44e8a5d30ce12ad643b7af6adce63d05b135f",
+      "layout": 8
+    },
+    {
+      "candidate_id": "CAND_DE_010",
+      "path": "data/resumes/CAND_DE_010.txt",
+      "sha256": "e8b6caa487faa8e2fdee0200cda88a656f353879df59077019a94fc74f5c8f57",
+      "layout": 9
+    },
+    {
+      "candidate_id": "CAND_DE_011",
+      "path": "data/resumes/CAND_DE_011.pdf",
+      "sha256": "a04b48a9cb2e1cf847c43125a317252f0d98d5ccfccca9e144e1e62ca38c3a64",
+      "layout": 0
+    },
+    {
+      "candidate_id": "CAND_DE_012",
+      "path": "data/resumes/CAND_DE_012.pdf",
+      "sha256": "2043db7ef61c4563c1673d2d4ef16ec2d1883c78b1b70a61b9a1fc7d0f3a1069",
+      "layout": 1
+    },
+    {
+      "candidate_id": "CAND_DE_013",
+      "path": "data/resumes/CAND_DE_013.pdf",
+      "sha256": "2f314afa0fc727f7a48b93a293610262a7549da2a7b7f732b6f7b51b7361053a",
+      "layout": 2
+    },
+    {
+      "candidate_id": "CAND_DE_014",
+      "path": "data/resumes/CAND_DE_014.pdf",
+      "sha256": "994cefcc74de41c8374086d6f99fc47eec452735d71b1b6d9f49782a69b1a1e1",
+      "layout": 3
+    },
+    {
+      "candidate_id": "CAND_DE_015",
+      "path": "data/resumes/CAND_DE_015.pdf",
+      "sha256": "f694f9db034c58c66e231df5addd33ad7eda3dad287181abc57d3b62771ba3f9",
+      "layout": 4
+    },
+    {
+      "candidate_id": "CAND_DE_016",
+      "path": "data/resumes/CAND_DE_016.docx",
+      "sha256": "52e847ba7360e6321d5ea30f11e5ffba95d1cf39bd451df3acfa09b5150678c5",
+      "layout": 5
+    },
+    {
+      "candidate_id": "CAND_DE_017",
+      "path": "data/resumes/CAND_DE_017.docx",
+      "sha256": "abbf13e4e22e512513dc3e8a4654b2de1a069232a130ddfff4bd667f34db6d02",
+      "layout": 6
+    },
+    {
+      "candidate_id": "CAND_DE_018",
+      "path": "data/resumes/CAND_DE_018.docx",
+      "sha256": "83442181e8292bf20285cb5d204249974776a23ee9291aa6733095bc03121c02",
+      "layout": 7
+    },
+    {
+      "candidate_id": "CAND_DE_019",
+      "path": "data/resumes/CAND_DE_019.txt",
+      "sha256": "a41e089244b8d3d73ac42c010dec5122a922cccd87485f2a129305e2b93e23ef",
+      "layout": 8
+    },
+    {
+      "candidate_id": "CAND_DE_020",
+      "path": "data/resumes/CAND_DE_020.txt",
+      "sha256": "731e41185bf2b35fff4f236c4ae88051cb15eaf32960f8bdba46957af0116713",
+      "layout": 9
+    },
+    {
+      "candidate_id": "CAND_DO_001",
+      "path": "data/resumes/CAND_DO_001.pdf",
+      "sha256": "ffb4561f680f1bc04483d6f8389d7913a5efd1211aa0ce34e6832f91c01ef7f0",
+      "layout": 0
+    },
+    {
+      "candidate_id": "CAND_DO_002",
+      "path": "data/resumes/CAND_DO_002.pdf",
+      "sha256": "9885c73b02f2dabf6e8b675703fab2acd5fbc111d6605ebeefe97629c3755f74",
+      "layout": 1
+    },
+    {
+      "candidate_id": "CAND_DO_003",
+      "path": "data/resumes/CAND_DO_003.pdf",
+      "sha256": "f68fd33c3faac5e27479afc90fe7c114b30912ea5a3595ac57f22d933a2f3564",
+      "layout": 2
+    },
+    {
+      "candidate_id": "CAND_DO_004",
+      "path": "data/resumes/CAND_DO_004.pdf",
+      "sha256": "5e9b2247c108b899918779b44e891e184da34da55dacc1f43a4b6ecc6b1ff223",
+      "layout": 3
+    },
+    {
+      "candidate_id": "CAND_DO_005",
+      "path": "data/resumes/CAND_DO_005.pdf",
+      "sha256": "b8de4ad2cea02a9d3432d43b04eb7aebcaf1c3c1aa39fb067cd1aa60540f3351",
+      "layout": 4
+    },
+    {
+      "candidate_id": "CAND_DO_006",
+      "path": "data/resumes/CAND_DO_006.docx",
+      "sha256": "dd052dd8c3f502d5903ded448d363f3754f0ffae82d287bbe10c91ced6375c8d",
+      "layout": 5
+    },
+    {
+      "candidate_id": "CAND_DO_007",
+      "path": "data/resumes/CAND_DO_007.docx",
+      "sha256": "62e8710f01f80861906eda2406f9b84906a95e9bc559603ad927390c86d56871",
+      "layout": 6
+    },
+    {
+      "candidate_id": "CAND_DO_008",
+      "path": "data/resumes/CAND_DO_008.docx",
+      "sha256": "7bcbd88db9947e6ffeafe830431af52fd7ca95af13a3a9547bdb3900cdb2263e",
+      "layout": 7
+    },
+    {
+      "candidate_id": "CAND_DO_009",
+      "path": "data/resumes/CAND_DO_009.txt",
+      "sha256": "0bf0a1447d57a08a53e6623823834fd58d461b6a24207b2b76557ef85535ca0d",
+      "layout": 8
+    },
+    {
+      "candidate_id": "CAND_DO_010",
+      "path": "data/resumes/CAND_DO_010.txt",
+      "sha256": "eb22d0d982221b7d5461b14addd70dbf45d11b8c920e70697a1746287a7b2592",
+      "layout": 9
+    },
+    {
+      "candidate_id": "CAND_DO_011",
+      "path": "data/resumes/CAND_DO_011.pdf",
+      "sha256": "f440cd95bf17d560033927a497158ba6a4c1b10048c6a6becf57e58f4b1e4a17",
+      "layout": 0
+    },
+    {
+      "candidate_id": "CAND_DO_012",
+      "path": "data/resumes/CAND_DO_012.pdf",
+      "sha256": "8b07ffbd71a457cadafc73f047c25928bb33669d803d515f058133201426acac",
+      "layout": 1
+    },
+    {
+      "candidate_id": "CAND_DO_013",
+      "path": "data/resumes/CAND_DO_013.pdf",
+      "sha256": "641949f9a630256fb7ac19fdee245aba20d7fb865913d4d5925d6ca845cda633",
+      "layout": 2
+    },
+    {
+      "candidate_id": "CAND_DO_014",
+      "path": "data/resumes/CAND_DO_014.pdf",
+      "sha256": "ae788a0f68632fd2643292a058f38800d26aef31f70adefac82841b910e304fe",
+      "layout": 3
+    },
+    {
+      "candidate_id": "CAND_DO_015",
+      "path": "data/resumes/CAND_DO_015.pdf",
+      "sha256": "db67d49fbee893f3830beaaa23206c2ea31c157af89e75fa75a1a296313b42c2",
+      "layout": 4
+    },
+    {
+      "candidate_id": "CAND_DO_016",
+      "path": "data/resumes/CAND_DO_016.docx",
+      "sha256": "fb2b6b89ca2b1193785d9b7e10efa0ef34bf5df37d420dae5d14c313cabd9e95",
+      "layout": 5
+    },
+    {
+      "candidate_id": "CAND_DO_017",
+      "path": "data/resumes/CAND_DO_017.docx",
+      "sha256": "72c3b788b2556f6e437cac8d9f4eebc826a39b2043fc2b4497a9e5c4910c12f4",
+      "layout": 6
+    },
+    {
+      "candidate_id": "CAND_DO_018",
+      "path": "data/resumes/CAND_DO_018.docx",
+      "sha256": "67b9f17dd5352edd9e4b13f93b0c76b24056b65c9b22f96b863fd0a263ed5e4c",
+      "layout": 7
+    },
+    {
+      "candidate_id": "CAND_DO_019",
+      "path": "data/resumes/CAND_DO_019.txt",
+      "sha256": "a8118089811f36484962d17ecb648bb5db66f856ce598c3217867dda9acfcd89",
+      "layout": 8
+    },
+    {
+      "candidate_id": "CAND_DO_020",
+      "path": "data/resumes/CAND_DO_020.txt",
+      "sha256": "fb88abe54b2249d4d59c5cd003052cc5d02845dd2749ce40bb4bb103da61c9aa",
+      "layout": 9
+    },
+    {
+      "candidate_id": "CAND_ML_001",
+      "path": "data/resumes/CAND_ML_001.pdf",
+      "sha256": "cabb3d8c2fe118bb7d62e5543b7400bfddc6353c90de85c7c15ea4cc605238d4",
+      "layout": 0
+    },
+    {
+      "candidate_id": "CAND_ML_002",
+      "path": "data/resumes/CAND_ML_002.pdf",
+      "sha256": "81804913d4595a3a9cecb9a119a351bd85a4194bccd9d45b00c20de02184b248",
+      "layout": 1
+    },
+    {
+      "candidate_id": "CAND_ML_003",
+      "path": "data/resumes/CAND_ML_003.pdf",
+      "sha256": "d941aa8d74bf0c496eb7eebb581f8f80ebec5e3677c4017431f17211b70f85c0",
+      "layout": 2
+    },
+    {
+      "candidate_id": "CAND_ML_004",
+      "path": "data/resumes/CAND_ML_004.pdf",
+      "sha256": "50f6a81db33db7b3eb2b6101176cc4920a7625183eff869b2d72e6e04c342cb5",
+      "layout": 3
+    },
+    {
+      "candidate_id": "CAND_ML_005",
+      "path": "data/resumes/CAND_ML_005.pdf",
+      "sha256": "d336a9e71eb94aff9b0b3b4a43536543a77a7211e35208c0ce8dd4daea5069bd",
+      "layout": 4
+    },
+    {
+      "candidate_id": "CAND_ML_006",
+      "path": "data/resumes/CAND_ML_006.docx",
+      "sha256": "6ea6f8788bc57d49ad8bdbafb29b7d2e3338a4ab24f55a1485336ede066fc479",
+      "layout": 5
+    },
+    {
+      "candidate_id": "CAND_ML_007",
+      "path": "data/resumes/CAND_ML_007.docx",
+      "sha256": "cb28bdf802b8c92d33652d48453d6be421d7bdbbf824851f666356efe89b351a",
+      "layout": 6
+    },
+    {
+      "candidate_id": "CAND_ML_008",
+      "path": "data/resumes/CAND_ML_008.docx",
+      "sha256": "6bc68b052f64e5bb1a2a12d9ffbd6477dc8d6192ce535f089010ee901b2c4912",
+      "layout": 7
+    },
+    {
+      "candidate_id": "CAND_ML_009",
+      "path": "data/resumes/CAND_ML_009.txt",
+      "sha256": "bac108bf453f7d640ce43694482265e239037553e0db994abae5eb29f450e8c9",
+      "layout": 8
+    },
+    {
+      "candidate_id": "CAND_ML_010",
+      "path": "data/resumes/CAND_ML_010.txt",
+      "sha256": "3cd460c701c6a16d9a205982722d71a56147e47c3512138b353460fee1621853",
+      "layout": 9
+    },
+    {
+      "candidate_id": "CAND_ML_011",
+      "path": "data/resumes/CAND_ML_011.pdf",
+      "sha256": "4bcb4ac48151b65c74206028b19a5820e21422bf69abe367e30512484aa315fa",
+      "layout": 0
+    },
+    {
+      "candidate_id": "CAND_ML_012",
+      "path": "data/resumes/CAND_ML_012.pdf",
+      "sha256": "2d77b250ed26f345f49efcc4db2201b294685a868598fc310deec87f0a5e4455",
+      "layout": 1
+    },
+    {
+      "candidate_id": "CAND_ML_013",
+      "path": "data/resumes/CAND_ML_013.pdf",
+      "sha256": "352dd00c0e4fce2d3d1fc1dce5f978cbd240431267b5ed58a6ca52bb5e271ce9",
+      "layout": 2
+    },
+    {
+      "candidate_id": "CAND_ML_014",
+      "path": "data/resumes/CAND_ML_014.pdf",
+      "sha256": "55ba89643e2177e26ca817a37d31b5b4803e0f15b7a660d2688ebaa6a6f089d7",
+      "layout": 3
+    },
+    {
+      "candidate_id": "CAND_ML_015",
+      "path": "data/resumes/CAND_ML_015.pdf",
+      "sha256": "b7861334ea8e8af58e1c58e851ce181ec4380c879a340e89bb2497897c970373",
+      "layout": 4
+    },
+    {
+      "candidate_id": "CAND_ML_016",
+      "path": "data/resumes/CAND_ML_016.docx",
+      "sha256": "07e920834dab1482dbf598677793133b58878a2b0e5c34c06633b029dfc00749",
+      "layout": 5
+    },
+    {
+      "candidate_id": "CAND_ML_017",
+      "path": "data/resumes/CAND_ML_017.docx",
+      "sha256": "fa8507ab84bcebbeea507a97e1878aef6a212e2809807201d50d9348f3da9e7e",
+      "layout": 6
+    },
+    {
+      "candidate_id": "CAND_ML_018",
+      "path": "data/resumes/CAND_ML_018.docx",
+      "sha256": "3c9f359a297c32fc5316970e078a232a8c67df1ce4cbe575a33317877a647ec3",
+      "layout": 7
+    },
+    {
+      "candidate_id": "CAND_ML_019",
+      "path": "data/resumes/CAND_ML_019.txt",
+      "sha256": "7abf61727597621321fe94ef76dab1991a4f468796d73eb9a331c3c32a3c7fec",
+      "layout": 8
+    },
+    {
+      "candidate_id": "CAND_ML_020",
+      "path": "data/resumes/CAND_ML_020.txt",
+      "sha256": "5151bf16a37750eda4f2ec125e22183b09677e5fb06de67f9fdfdfd6b17a0849",
+      "layout": 9
+    }
+  ],
+  "description": "All people, employers, institutions, dates and achievements are fictional. Ground truth is excluded from runtime indexing."
+}

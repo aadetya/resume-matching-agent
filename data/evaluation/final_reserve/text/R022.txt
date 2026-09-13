@@ -1,0 +1,21 @@
+Candidate R022
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+DevOps Engineer | Utah Department of Technology Services | 2015-03 to 2018-06
+Managed configuration and automation for state agency systems. Led migration to Azure and implemented logging with ELK Stack.
+Senior DevOps Engineer | Utah Department of Technology Services | 2018-07 to 2022-02
+Led release engineering for multiple agencies. Implemented blue/green deployments and chaos engineering practices. Supervised two junior engineers.
+Lead DevOps Engineer | Utah Department of Technology Services | 2022-03 to Present
+Oversee a team of five engineers. Managed budget of $2M for infrastructure tools. Coordinate with security and network teams for compliance.
+SKILLS
+Configuration management; Backup and restore procedures; Scripting and automation; Service mesh implementation; Immutable infrastructure; Log management and analysis; Security hardening and compliance; Chaos engineering; Network configuration and troubleshooting; Blue/green and canary deployments; Container orchestration; Azure; Jenkins; Terraform; ELK Stack; Splunk; New Relic; Prometheus
+EDUCATION
+Web Development | DevPoint Labs
+2014-09 to 2014-06
+PROJECTS
+Disaster Recovery Automation
+Automated backup and restore procedures for critical state services using Terraform and Azure, reducing recovery time by 60%. Technologies used: PowerShell.
+CERTIFICATIONS
+Microsoft Certified: DevOps Engineer Expert
+Issued by Microsoft.
+2021-01

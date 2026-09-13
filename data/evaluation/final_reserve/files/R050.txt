@@ -1,0 +1,30 @@
+Candidate R050
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+React Developer (Contract) | HealthSync Solutions | 2023-01 to Present
+Optimizing patient portal performance using React and TypeScript. Implemented REST API integrations and state management for real-time data.
+Frontend Developer (Contract) | CarePoint Systems | 2021-06 to 2022-12
+Built dashboards for clinical staff, focusing on React Router navigation and state management. Automated CI/CD pipelines with Docker.
+JavaScript Developer (Freelance) | Self-employed | 2019-03 to 2021-05
+Developed and deployed React applications for local healthcare providers. Integrated REST APIs and used MongoDB for data persistence.
+Independent IT Consultant | Self-employed | 2015-08 to 2019-02
+Provided technical support and developed internal tools for small clinics. Gained experience with debugging and performance tuning.
+Pharmacy Technician | MediPlus Retail | 2007-04 to 2015-07
+Processed prescriptions and managed inventory in a fast-paced retail environment. Shift work, varied hours.
+SKILLS
+REST API Integration; State Management; Debugging; React Router; CI/CD; TypeScript; Docker; MongoDB; Yarn; Vercel; ESLint; Performance Optimization
+EDUCATION
+Certificate | Full-Stack Web Development | Coding Bootcamp (Online)
+2017-09 to 2018-06
+PROJECTS
+Telehealth Appointment Scheduler
+React-based scheduling module for telehealth platforms, integrating REST APIs and managing complex state with React Query. Technologies used: TypeScript, State Management, Docker.
+Patient Data Visualization Tool
+Dashboard for visualizing patient metrics, using React Router for navigation and MongoDB for data storage. Technologies used: State Management.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2020-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2022-01

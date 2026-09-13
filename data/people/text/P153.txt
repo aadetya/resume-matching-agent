@@ -1,0 +1,18 @@
+Candidate P153
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Frontend Engineer | Inland Health Systems | 2020-03 to Present
+Lead the design and implementation of patient-facing web applications using React and TypeScript. Mentor developers and drive frontend architecture across the health system.
+Senior React Developer | MediLink Solutions | 2016-01 to 2020-02
+Developed and maintained React applications for hospital management systems. Improved performance and introduced TypeScript and testing best practices.
+React Developer | HealthFirst Digital | 2013-06 to 2015-12
+Built frontend features for patient portals using React and JavaScript. Collaborated with designers to implement responsive UI components.
+SKILLS
+Static Site Generation (SSG); TypeScript; Hooks; JavaScript (ES6+); React Testing Library; Jest; Prettier; Kubernetes; AWS; Node.js; GraphQL
+EDUCATION
+Associate of Science | Computer Science | California Technical Institute
+2010-09 to 2013-06
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2019-01

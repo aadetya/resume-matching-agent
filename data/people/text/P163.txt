@@ -1,0 +1,26 @@
+Candidate P163
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Director of Mobile Engineering | Bay Area Health Network | 2018-06 to Present
+Spearheaded the mobile strategy for a multi-hospital system, delivering patient-facing apps that prioritize offline-first access to medical records. Led a team of 12 engineers to reduce crash rates by 70% and improved app store ratings from 3.2 to 4.8. Championed the adoption of React Native and established a federated architecture using GraphQL and Apollo Client.
+Senior React Native Developer | HealthStream Solutions | 2014-03 to 2018-05
+Led the development of a cross-platform patient engagement app, implementing offline-first data synchronization with SQLite and WebSockets. Mentored a team of 4 junior developers and drove adoption of performance optimization techniques that doubled load speed. Collaborated with product to redesign the user journey, increasing user retention by 25%.
+Mobile Developer | MediConnect | 2007-01 to 2014-02
+Developed and maintained native Android and iOS apps for a health records platform. Revamped the data layer to use secure storage best practices, ensuring HIPAA compliance. Introduced Crashlytics for real-time error tracking, cutting crash reports by 40%.
+SKILLS
+React Native; Secure storage; React Navigation; Apollo Client; SQLite; Push notifications; Crashlytics; Memory management; Performance optimization; WebSockets; TypeScript; Redux; GraphQL; Jest; Detox
+EDUCATION
+Certificate | Computer Science | Foothill College
+2003-09 to 2005-06
+PROJECTS
+Offline-First Patient Portal
+Designed a patient portal that allows full access to lab results and appointments without internet connectivity, using SQLite for local storage and background sync via WebSockets. Technologies used: React Native, Apollo Client.
+Secure Messaging App
+Built a secure messaging feature for clinicians using end-to-end encryption and secure storage, integrated with push notifications for critical alerts. Technologies used: React Native, React Navigation.
+CERTIFICATIONS
+Meta React Native Certification
+Issued by Meta.
+2021-01
+Coursera React Native Specialization
+Issued by Coursera.
+2019-01

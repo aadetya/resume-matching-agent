@@ -1,0 +1,21 @@
+Candidate P047
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+IT Support Technician | Michigan State University | 2022-06 to 2023-08
+Provided technical support for faculty and students, troubleshooting hardware/software issues and managing AV systems during classes. Collaborated with team to set up new equipment and maintain network infrastructure.
+Full Stack Developer (Freelance/Project) | Self-employed | 2023-09 to 2024-02
+Developed a full-stack web app for a local retail store using React/Next.js, Node.js, and PostgreSQL. Integrated REST APIs and deployed on AWS, ensuring CI/CD with GitHub Actions.
+SKILLS
+JavaScript (ES6+); TypeScript; Express.js; Node.js; PostgreSQL; REST API design; State management (Redux, Zustand); Vue.js; Next.js; Angular; CI/CD pipelines; Accessibility (a11y); AWS; Firebase; Heroku
+EDUCATION
+Bachelor of Science | Computer Science | Albion College
+2019-09 to 2023-06
+PROJECTS
+E-commerce Storefront
+Built a responsive e-commerce site with Next.js and Redux, implementing product catalog, cart, and checkout. Used REST API with Express and PostgreSQL. Focused on accessibility (WCAG 2.1) and performance optimization. Technologies used: Express.js, AWS, GitHub Actions.
+Task Management App
+Created a full-stack task app with Vue.js, Node.js, and Firebase. Implemented real-time updates and authentication. Deployed on Heroku.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2023-01

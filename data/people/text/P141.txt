@@ -1,0 +1,23 @@
+Candidate P141
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior API Engineer | Larimer Financial Systems | 2022-06 to Present
+Lead the design and implementation of GraphQL APIs serving 2M+ daily requests. Improved p95 latency by 30% through caching and query optimization. Implemented OAuth 2.0 and OIDC, reducing auth-related incidents by 40%.
+API Engineer | Larimer Financial Systems | 2019-01 to 2022-06
+Developed and maintained REST and GraphQL APIs for banking integrations. Automated load testing with Newman, reducing regression testing time by 60%. Containerized services with Docker and managed deployment on Kubernetes.
+Systems Analyst (Civilian Transition from Military IT) | Larimer Financial Systems | 2015-06 to 2019-01
+Bridged IT operations and software teams. Designed monitoring dashboards with Prometheus and Datadog, cutting alert noise by 45%. Administered NGINX and F5 BIG-IP for internal tools.
+Communications Systems Specialist (Signal Corps) | US Army | 2002-07 to 2015-06
+Managed tactical communication networks and satellite systems. Directed teams of 8-12 soldiers, ensuring 99.9% availability of systems. Led network security initiatives aligned with DoD standards. Held Secret clearance.
+SKILLS
+GraphQL schema design; API security best practices (OWASP API Top 10); API authentication and authorization; OAuth 2.0 and OpenID Connect; API versioning strategies; API performance optimization; Containerization (Docker) and orchestration (Kubernetes); Load testing and stress testing; Postman/Newman automation; API caching strategies; Asynchronous processing patterns; Backward compatibility and deprecation policies; Python; Node.js; REST API design
+EDUCATION
+Certificate | Computer Information Systems | Front Range Community College
+2016-09 to 2018-06
+PROJECTS
+Internal API Gateway Optimization
+Redesigned API gateway caching layer using Google Cloud Endpoints, reducing upstream calls by 50% and saving $30K/month in infrastructure costs. Technologies used: Docker, Kubernetes, Prometheus.
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate
+Issued by Amazon Web Services.
+2021-01

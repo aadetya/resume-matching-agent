@@ -1,0 +1,30 @@
+Candidate P188
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Consultant | CareBridge Solutions | 2022-03 to Present
+Returning to workforce after caregiving gap. Building prototypes for mobile health apps.
+Lead Software Engineer | Omaha Manufacturing Systems | 2015-06 to 2020-08
+Led mobile development for plant floor tracking. Architected RESTful APIs. Mentored junior engineers.
+Senior Software Engineer | Omaha Manufacturing Systems | 2011-03 to 2015-05
+Developed mobile inventory apps. Improved security. Optimized SQL queries.
+Software Engineer | Omaha Manufacturing Systems | 2008-01 to 2011-02
+Built backend services. Maintained legacy code. Participated in Agile ceremonies.
+Junior Software Engineer | Omaha Manufacturing Systems | 2006-06 to 2007-12
+Supported QA testing. Fixed bugs. Wrote documentation.
+IT Support Technician | Omaha Manufacturing Systems | 2005-01 to 2006-05
+Helpdesk support. Hardware setup. Basic networking.
+SKILLS
+Agile methodologies; Object-oriented programming; Security best practices; Relational databases; API design; RESTful services; Version control; Mobile development; Java; Kotlin; Confluence; Visual Studio Code; GitHub; SQL; AWS
+EDUCATION
+Associate of Applied Science | Computer Science | Metropolitan Community College
+2004-09 to 2006-06
+PROJECTS
+Mobile Health Tracker
+Developed a mobile app for patients to track medications. Used Java and RESTful APIs. Technologies used: Android.
+CERTIFICATIONS
+AWS Certified Developer
+Issued by Amazon Web Services.
+2019-01
+Microsoft Certified: Azure Developer Associate
+Issued by Microsoft.
+2020-01

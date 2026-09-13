@@ -1,0 +1,28 @@
+Candidate P190
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Software Engineer / Team Lead | Hudson Street Financial Services | 2018-03 to Present
+Lead a team of five engineers building internal web applications. Manage sprint planning, code reviews, and performance optimization. Serve as technical liaison to business stakeholders.
+Software Engineer | Liberty Mutual Insurance | 2015-01 to 2018-02
+Developed and maintained RESTful APIs for policy management systems. Improved API response times by 30% through refactoring and caching strategies. Participated in on-call rotation.
+Junior Software Developer | Family First Hardware Co. | 2013-06 to 2014-12
+Built and maintained the company's e-commerce website using HTML, CSS, and JavaScript. Implemented inventory tracking features and improved page load speed.
+IT Support Specialist | Jersey City Medical Center | 2012-02 to 2013-05
+Provided technical support to hospital staff. Troubleshot hardware and software issues, managed user accounts, and assisted with network configurations.
+SKILLS
+version control; HTTP; performance optimization; debugging; code review; algorithms; refactoring; API design; Confluence; GCP; Azure
+EDUCATION
+Bachelor of Science | Computer Science | St. Peter's University
+2008-09 to 2012-06
+PROJECTS
+Internal Portfolio Dashboard
+Created a web dashboard for financial advisors to view client portfolios. Implemented secure API endpoints and optimized data loading using caching. Technologies used: GCP, JavaScript, React.
+Automated Code Review Bot
+Developed a bot that automatically reviews pull requests for common style issues and security vulnerabilities, reducing manual review time by 20%. Technologies used: Python, Azure, Git.
+CERTIFICATIONS
+AWS Certified Cloud Practitioner
+Issued by Amazon Web Services.
+2019-01
+Microsoft Certified: Azure Fundamentals
+Issued by Microsoft.
+2021-01

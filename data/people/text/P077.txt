@@ -1,0 +1,28 @@
+Candidate P077
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Customer Service Representative | National Retail Chain | 2020-06 to 2022-08
+Handled customer inquiries and returns. Shift work, often overnight. Promoted to team lead after one year.
+Junior React Developer (Freelance) | Self-employed | 2023-01 to 2023-06
+Built small business sites. Used React, TypeScript, and GraphQL. One client project involved performance optimization, cutting load time by 40%.
+Junior React Developer | HealthTech Solutions | 2023-07 to Present
+Develop patient portal components. Use Redux and React Testing Library. Optimize dashboards for performance.
+SKILLS
+HTML5; Component Architecture; TypeScript; Redux; Static Site Generation (SSG); GraphQL; React Testing Library; Express; pnpm; Storybook; Prettier; CSS3; JavaScript
+EDUCATION
+Associate of Applied Science | Web Development | Phoenix Community College
+2021-09 to 2023-06
+PROJECTS
+Health Dashboard
+Real-time patient metrics dashboard. Lazy-loaded routes and memoized selectors. Reduced initial bundle size by 30%. Technologies used: React, TypeScript, Redux, GraphQL.
+Local Business Directory
+Static site with SSG for fast loads. Integrated with headless CMS. Technologies used: React, Static Site Generation (SSG), GraphQL.
+E-commerce Storefront
+PWA with offline support. Implemented optimistic UI and state persistence. Technologies used: React, Redux, Express, pnpm.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Coursera.
+2023-01
+freeCodeCamp Front End Development Libraries Certification
+Issued by freeCodeCamp.
+2023-01

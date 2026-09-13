@@ -1,0 +1,19 @@
+Candidate P108
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Logistics Coordinator | Gulf Coast Freight Solutions | 2022-06 to 2024-02
+Coordinated freight shipments, managed inventory, and worked with dispatch software. Maintained and troubleshot networked devices, ensuring seamless communication between warehouse systems.
+SKILLS
+CI/CD pipeline design; Artifact repository management; Version control strategies; Blue/green and canary deployments; Monitoring and alerting; Container orchestration; Infrastructure as Code (IaC); Infrastructure testing; Incident response and management; Network configuration and troubleshooting; Release management and rollback strategies; Immutable infrastructure; Scripting with Bash; Cloud security best practices; Helm; Splunk; Ansible; AWS; Puppet; Kubernetes; Docker; Git; Linux administration
+EDUCATION
+Information Systems Technology | U.S. Navy (Military Training Pipeline)
+2020-09 to 2021-06
+PROJECTS
+Automated Deployment Pipeline for Personal Projects
+Designed and implemented a CI/CD pipeline using AWS CodePipeline and CodeDeploy for a web application, incorporating blue/green deployments and automated rollbacks. Technologies used: Git, Ansible, Kubernetes.
+Kubernetes Cluster Monitoring
+Set up a monitoring stack for a Kubernetes cluster using Prometheus and Grafana, configuring alerts for resource usage and application health. Technologies used: Helm, Splunk.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2023-01

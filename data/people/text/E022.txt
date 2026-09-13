@@ -1,0 +1,15 @@
+Candidate E022
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Development Intern | Richmond Retail Solutions | 2024-05 to 2024-08
+Developed responsive UI components using React and Vite, integrated CMS content, and ensured accessibility compliance.
+IT Support Assistant | Richmond Retail Solutions | 2023-06 to 2024-05
+Provided technical support and assisted with system maintenance, gaining exposure to e-commerce operations.
+SKILLS
+React; Vite; React Testing Library; Responsive Design; HTML5; CSS; JavaScript; Debugging; Babel; Accessibility (a11y); Docker; Netlify; Kubernetes; AWS; Contentful
+EDUCATION
+Associate of Science | Computer Science | Contra Costa Community College
+2022-09 to 2025-06
+PROJECTS
+E-commerce Storefront Prototype
+Built a responsive e-commerce prototype with React and Vite, using Contentful for content, and tested with React Testing Library.

@@ -1,0 +1,25 @@
+Candidate P123
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Farm Manager | Sunflower Ag Solutions | 2009-01 to 2021-06
+Oversaw daily operations of a 500-acre farm, including crop planning, equipment maintenance, and staff management.
+Agricultural Equipment Sales | Heartland Tractor Co. | 2021-07 to 2022-02
+Sold and serviced agricultural equipment, managing client relationships and coordinating deliveries.
+Independent Consultant | Self-employed | 2022-03 to 2023-08
+Provided farm management consulting, analyzing yield data and optimizing logistics.
+Junior Backend Engineer (Contract) | Prairie Web Works | 2023-09 to Present
+Building RESTful APIs and integrating PostgreSQL, Redis, and Kafka for a SaaS platform.
+SKILLS
+API versioning; Load balancing; Performance tuning; Observability; Distributed transactions; CI/CD pipeline design; GraphQL; Containerization; Event-driven architecture; JWT; PostgreSQL; TypeScript; Redis; Kafka; MySQL
+EDUCATION
+Bachelor of Science | Agricultural Economics | University of Nebraska-Lincoln
+2004-09 to 2008-06
+PROJECTS
+Farm Management API
+Developed a REST API for tracking crop yields and equipment maintenance using TypeScript and PostgreSQL. Technologies used: GraphQL, Docker.
+Observability Dashboard
+Built a dashboard to monitor farm sensor data, using Redis for caching and Kafka for event streaming. Technologies used: Observability.
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Issued by Amazon Web Services.
+2023-01

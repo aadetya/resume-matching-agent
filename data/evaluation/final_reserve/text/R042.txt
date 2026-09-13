@@ -1,0 +1,25 @@
+Candidate R042
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Engineering Intern | Harbor Data Systems | 2026-06 to Present
+Implement real-time dashboard features with WebSockets. Assist with accessibility fixes and unit tests.
+Web Development Tutor | Community College Tutoring Center | 2025-09 to 2026-05
+Tutor students in HTML/CSS and JavaScript. Create exercises on responsive design.
+Shift Lead (Campus Café) | Campus Dining Services | 2024-01 to 2025-08
+Managed shift operations, trained new staff, handled cash. Balanced with coursework.
+SKILLS
+WebSockets; CSS-in-JS; Web Accessibility (WCAG); Testing (Jest, React Testing Library, Cypress); Next.js; Svelte; Web Performance Optimization; Responsive Design; Redux; Cross-Browser Compatibility; TypeScript; Git; HTML5; CSS3
+EDUCATION
+Associate of Science | Computer Science | Gateway Community College
+2023-09 to 2026-06
+PROJECTS
+Real-time Chat App
+Built chat app with WebSockets and React. Focus on accessibility with keyboard navigation. Technologies used: CSS-in-JS.
+Recipe Finder
+Responsive web app using Next.js, API integration, and performance optimization. Technologies used: Redux, Jest.
+Accessible Portfolio
+Designed portfolio site with WCAG compliance, tested with screen readers. Technologies used: Svelte, Testing Library, Storybook.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Coursera.
+2026-01

@@ -1,0 +1,921 @@
+{
+  "scope": "Fault-injected replay of a real invalid provider response, followed by one real model repair call. This tests correction behavior; it is not a fresh end-to-end accuracy estimate.",
+  "source_failure_sha256": "9f7367cc35c5743c5f5d0ee724d55f871da42174f3b72a92cb26dcb515aac441",
+  "planner_sha256": "f6a61611432bc1b875389e315d9add8a52957bbf700c97b3b4d5867e3042f205",
+  "rows": [
+    {
+      "run": 0,
+      "plan": {
+        "action": "search",
+        "requirements": {
+          "title": "Backend Engineer \u2014 Python and SQL \u2014 3+ years overall employment",
+          "role": "backend_developer",
+          "must_have": [
+            [
+              "python"
+            ],
+            [
+              "sql"
+            ]
+          ],
+          "nice_to_have": [
+            "fastapi",
+            "postgresql",
+            "docker"
+          ],
+          "minimum_years": 3.0,
+          "skill_years": {},
+          "source_text": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker.",
+          "semantic_brief": "Search for Backend Engineer candidates whose role is Backend Engineer or equivalent backend-engineering work, with Python and SQL independently mandatory and at least 3 years of overall employment. FastAPI, PostgreSQL, and Docker are preferred but not mandatory. Skill evidence may be supported by explicit claims; role evidence may be supported by equivalent backend-engineering work. No full-time-only or literal-keyword restriction is imposed.",
+          "unresolved": [],
+          "capability_skills": [],
+          "evidence_standards": [],
+          "standards_signature": "",
+          "requirement_sources": [
+            {
+              "source_id": "request_d5088d0a38166cdb",
+              "kind": "user_request",
+              "text": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker."
+            }
+          ],
+          "criterion_meanings": [
+            {
+              "criterion_id": "c_22ff6c7bfd44fe10",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "Find Backend Engineer candidates"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "role",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "role_or_equivalent_work"
+            },
+            {
+              "criterion_id": "c_1396d1486dd0a43d",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "with Python and SQL"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_6e8b2f2be6d8bc7b",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "with Python and SQL"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_17b00654333a3045",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "at least 3 years of overall employment"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "employment",
+              "experience_basis": "total_employment",
+              "evidence_scope": "all_employment"
+            },
+            {
+              "criterion_id": "c_1722305b5be9169a",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_97bbc6b16a120afa",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_cda4a38e783b5630",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            }
+          ]
+        },
+        "changed_criterion_ids": [
+          "c_22ff6c7bfd44fe10",
+          "c_1396d1486dd0a43d",
+          "c_6e8b2f2be6d8bc7b",
+          "c_17b00654333a3045",
+          "c_1722305b5be9169a",
+          "c_97bbc6b16a120afa",
+          "c_cda4a38e783b5630"
+        ],
+        "candidate_ids": [],
+        "top_n": 10,
+        "explanation": "Start a new search for Backend Engineer candidates meeting the mandatory role, Python, SQL, and 3-year overall employment criteria, while ranking FastAPI, PostgreSQL, and Docker as preferences.",
+        "file_tool_name": null,
+        "file_arguments": null
+      },
+      "trace": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "response": {
+              "action": "search",
+              "requirements": {
+                "title": "Backend Engineer \u2014 Python and SQL \u2014 3+ years overall employment",
+                "role": "backend_engineer",
+                "required_skills": [
+                  "python",
+                  "sql"
+                ],
+                "alternative_skill_groups": [],
+                "nice_to_have": [
+                  "fastapi",
+                  "postgresql",
+                  "docker"
+                ],
+                "minimum_years": 3.0,
+                "skill_years": [],
+                "source_text": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker.",
+                "criterion_updates": [
+                  {
+                    "kind": "role",
+                    "alternatives": [
+                      "backend_engineer"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Find Backend Engineer candidates"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "role_or_equivalent_work"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "python"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "with Python"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "sql"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "and SQL"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "total_duration",
+                    "alternatives": [],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "at least 3 years of overall employment"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "all_employment"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "fastapi"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer FastAPI"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "postgresql"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer PostgreSQL"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "docker"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer Docker"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  }
+                ],
+                "semantic_brief": "Search for candidates whose role is Backend Engineer or an equivalent backend-engineering role, with Python and SQL independently mandatory, and at least 3 years of overall employment across stated employment experience. FastAPI, PostgreSQL, and Docker are preferred but not mandatory. Skill evidence may be supported by explicit resume claims; role evidence may be supported by equivalent backend-engineering work. No full-time-only or literal-keyword restriction is imposed.",
+                "unresolved": [],
+                "capability_skills": []
+              },
+              "candidate_ids": [],
+              "top_n": 10,
+              "explanation": "Start a new search for Backend Engineer candidates meeting the mandatory role, Python, SQL, and 3-year overall employment criteria, while ranking FastAPI, PostgreSQL, and Docker as preferences.",
+              "file_tool_name": null,
+              "file_arguments": null
+            },
+            "validation_error": "Requirement provenance must quote the exact declared user or document source. Invalid clauses: [{\"source_id\": \"current_request\", \"quote\": \"Prefer PostgreSQL\"}, {\"source_id\": \"current_request\", \"quote\": \"Prefer Docker\"}]. Copy contiguous source text, preserving case and punctuation. Do not join separated words or prepend a list introduction to an individual item. A whole list clause can be cited for each of its independently selected criteria. Preserve the requested criteria while correcting these citations.",
+            "usage": {}
+          },
+          {
+            "attempt": 2,
+            "response": {
+              "action": "search",
+              "requirements": {
+                "title": "Backend Engineer \u2014 Python and SQL \u2014 3+ years overall employment",
+                "role": "backend_engineer",
+                "required_skills": [
+                  "python",
+                  "sql"
+                ],
+                "alternative_skill_groups": [],
+                "nice_to_have": [
+                  "fastapi",
+                  "postgresql",
+                  "docker"
+                ],
+                "minimum_years": 3.0,
+                "skill_years": [],
+                "source_text": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker.",
+                "criterion_updates": [
+                  {
+                    "kind": "role",
+                    "alternatives": [
+                      "backend_engineer"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Find Backend Engineer candidates"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "role_or_equivalent_work"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "python"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "with Python and SQL"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "sql"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "with Python and SQL"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "total_duration",
+                    "alternatives": [],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "at least 3 years of overall employment"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "all_employment"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "fastapi"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "postgresql"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "docker"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  }
+                ],
+                "semantic_brief": "Search for Backend Engineer candidates whose role is Backend Engineer or equivalent backend-engineering work, with Python and SQL independently mandatory and at least 3 years of overall employment. FastAPI, PostgreSQL, and Docker are preferred but not mandatory. Skill evidence may be supported by explicit claims; role evidence may be supported by equivalent backend-engineering work. No full-time-only or literal-keyword restriction is imposed.",
+                "unresolved": [],
+                "capability_skills": []
+              },
+              "candidate_ids": [],
+              "top_n": 10,
+              "explanation": "Start a new search for Backend Engineer candidates meeting the mandatory role, Python, SQL, and 3-year overall employment criteria, while ranking FastAPI, PostgreSQL, and Docker as preferences.",
+              "file_tool_name": null,
+              "file_arguments": null
+            },
+            "validation_error": null,
+            "usage": {
+              "input_tokens": 4583,
+              "output_tokens": 616,
+              "total_tokens": 5199
+            }
+          }
+        ],
+        "usage": {
+          "input_tokens": 4583,
+          "output_tokens": 616,
+          "total_tokens": 5199
+        },
+        "model_calls": 2,
+        "usage_unknown_calls": 1
+      }
+    },
+    {
+      "run": 1,
+      "plan": {
+        "action": "search",
+        "requirements": {
+          "title": "Backend Engineer \u2014 Python and SQL \u2014 3+ years overall employment",
+          "role": "backend_developer",
+          "must_have": [
+            [
+              "python"
+            ],
+            [
+              "sql"
+            ]
+          ],
+          "nice_to_have": [
+            "fastapi",
+            "postgresql",
+            "docker"
+          ],
+          "minimum_years": 3.0,
+          "skill_years": {},
+          "source_text": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker.",
+          "semantic_brief": "Search for Backend Engineer candidates whose role is Backend Engineer or equivalent backend-engineering work, with Python and SQL independently mandatory and at least 3 years of overall employment. FastAPI, PostgreSQL, and Docker are preferred but not mandatory. No full-time-only or literal-keyword restriction is imposed.",
+          "unresolved": [],
+          "capability_skills": [],
+          "evidence_standards": [],
+          "standards_signature": "",
+          "requirement_sources": [
+            {
+              "source_id": "request_d5088d0a38166cdb",
+              "kind": "user_request",
+              "text": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker."
+            }
+          ],
+          "criterion_meanings": [
+            {
+              "criterion_id": "c_22ff6c7bfd44fe10",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "Find Backend Engineer candidates"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "role",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "role_or_equivalent_work"
+            },
+            {
+              "criterion_id": "c_1396d1486dd0a43d",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "with Python and SQL"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_6e8b2f2be6d8bc7b",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "with Python and SQL"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_17b00654333a3045",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "at least 3 years of overall employment"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "employment",
+              "experience_basis": "total_employment",
+              "evidence_scope": "all_employment"
+            },
+            {
+              "criterion_id": "c_1722305b5be9169a",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_97bbc6b16a120afa",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_cda4a38e783b5630",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            }
+          ]
+        },
+        "changed_criterion_ids": [
+          "c_22ff6c7bfd44fe10",
+          "c_1396d1486dd0a43d",
+          "c_6e8b2f2be6d8bc7b",
+          "c_17b00654333a3045",
+          "c_1722305b5be9169a",
+          "c_97bbc6b16a120afa",
+          "c_cda4a38e783b5630"
+        ],
+        "candidate_ids": [],
+        "top_n": 10,
+        "explanation": "Start a new search for Backend Engineer candidates meeting the mandatory role, Python, SQL, and 3-year overall employment criteria, while ranking FastAPI, PostgreSQL, and Docker as preferences.",
+        "file_tool_name": null,
+        "file_arguments": null
+      },
+      "trace": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "response": {
+              "action": "search",
+              "requirements": {
+                "title": "Backend Engineer \u2014 Python and SQL \u2014 3+ years overall employment",
+                "role": "backend_engineer",
+                "required_skills": [
+                  "python",
+                  "sql"
+                ],
+                "alternative_skill_groups": [],
+                "nice_to_have": [
+                  "fastapi",
+                  "postgresql",
+                  "docker"
+                ],
+                "minimum_years": 3.0,
+                "skill_years": [],
+                "source_text": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker.",
+                "criterion_updates": [
+                  {
+                    "kind": "role",
+                    "alternatives": [
+                      "backend_engineer"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Find Backend Engineer candidates"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "role_or_equivalent_work"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "python"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "with Python"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "sql"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "and SQL"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "total_duration",
+                    "alternatives": [],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "at least 3 years of overall employment"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "all_employment"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "fastapi"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer FastAPI"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "postgresql"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer PostgreSQL"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "docker"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer Docker"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  }
+                ],
+                "semantic_brief": "Search for candidates whose role is Backend Engineer or an equivalent backend-engineering role, with Python and SQL independently mandatory, and at least 3 years of overall employment across stated employment experience. FastAPI, PostgreSQL, and Docker are preferred but not mandatory. Skill evidence may be supported by explicit resume claims; role evidence may be supported by equivalent backend-engineering work. No full-time-only or literal-keyword restriction is imposed.",
+                "unresolved": [],
+                "capability_skills": []
+              },
+              "candidate_ids": [],
+              "top_n": 10,
+              "explanation": "Start a new search for Backend Engineer candidates meeting the mandatory role, Python, SQL, and 3-year overall employment criteria, while ranking FastAPI, PostgreSQL, and Docker as preferences.",
+              "file_tool_name": null,
+              "file_arguments": null
+            },
+            "validation_error": "Requirement provenance must quote the exact declared user or document source. Invalid clauses: [{\"source_id\": \"current_request\", \"quote\": \"Prefer PostgreSQL\"}, {\"source_id\": \"current_request\", \"quote\": \"Prefer Docker\"}]. Copy contiguous source text, preserving case and punctuation. Do not join separated words or prepend a list introduction to an individual item. A whole list clause can be cited for each of its independently selected criteria. Preserve the requested criteria while correcting these citations.",
+            "usage": {}
+          },
+          {
+            "attempt": 2,
+            "response": {
+              "action": "search",
+              "requirements": {
+                "title": "Backend Engineer \u2014 Python and SQL \u2014 3+ years overall employment",
+                "role": "backend_engineer",
+                "required_skills": [
+                  "python",
+                  "sql"
+                ],
+                "alternative_skill_groups": [],
+                "nice_to_have": [
+                  "fastapi",
+                  "postgresql",
+                  "docker"
+                ],
+                "minimum_years": 3.0,
+                "skill_years": [],
+                "source_text": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker.",
+                "criterion_updates": [
+                  {
+                    "kind": "role",
+                    "alternatives": [
+                      "backend_engineer"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Find Backend Engineer candidates"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "role_or_equivalent_work"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "python"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "with Python and SQL"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "sql"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "with Python and SQL"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "total_duration",
+                    "alternatives": [],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "at least 3 years of overall employment"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "all_employment"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "fastapi"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "postgresql"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "docker"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer FastAPI, PostgreSQL, Docker."
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  }
+                ],
+                "semantic_brief": "Search for Backend Engineer candidates whose role is Backend Engineer or equivalent backend-engineering work, with Python and SQL independently mandatory and at least 3 years of overall employment. FastAPI, PostgreSQL, and Docker are preferred but not mandatory. No full-time-only or literal-keyword restriction is imposed.",
+                "unresolved": [],
+                "capability_skills": []
+              },
+              "candidate_ids": [],
+              "top_n": 10,
+              "explanation": "Start a new search for Backend Engineer candidates meeting the mandatory role, Python, SQL, and 3-year overall employment criteria, while ranking FastAPI, PostgreSQL, and Docker as preferences.",
+              "file_tool_name": null,
+              "file_arguments": null
+            },
+            "validation_error": null,
+            "usage": {
+              "input_tokens": 4583,
+              "output_tokens": 595,
+              "total_tokens": 5178
+            }
+          }
+        ],
+        "usage": {
+          "input_tokens": 4583,
+          "output_tokens": 595,
+          "total_tokens": 5178
+        },
+        "model_calls": 2,
+        "usage_unknown_calls": 1
+      }
+    }
+  ]
+}

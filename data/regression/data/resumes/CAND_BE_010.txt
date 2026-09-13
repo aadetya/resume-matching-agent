@@ -1,0 +1,21 @@
+Nikhil Shah
+cand_be_010@example.test
+
+PROFILE
+Backend Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+
+Backend Engineer | Northstar Fiction Labs | 2020-01 to 2026-01
+Implemented Python services that validate incoming orders and recover from duplicate requests.
+Investigated slow SQL queries and added indexes after reading execution plans.
+Used FastAPI, PostgreSQL in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+Consultant | Cedar Fiction Studio | Jan 2024 - Jan 2025
+Implemented Python services that validate incoming orders and recover from duplicate requests.
+
+TECHNOLOGIES
+Python, SQL, FastAPI, PostgreSQL
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "selection_seed": "semantic-audit-reserve-v1-20260911",
+  "queries_sha256": "cab2c55c4cf95c29b5cccefe980f8549cb2f50cf59812e88fb6e616f923dc4a5",
+  "snapshot_date": "2026-09-01",
+  "selection_order": "Queries and role-only strata written before source selection and before any model ranking or output. Within each stratum sort by SHA256(seed + source_id), excluding previously selected IDs and sanitized content duplicates.",
+  "source_id_exclusion_scope": [
+    "data/people/active.jsonl",
+    "data/people/holdout.jsonl",
+    "historical architecture-experiment JSON/JSONL artifacts represented by content and path hashes in selection_manifest.json"
+  ],
+  "selection_restrictions": "Selection uses source identity, source-role text and schema validity. No skill matching, experience total, runtime metadata, semantic judgments, retrieval score or model output chooses membership. Source cohort, demographics and seniority are not used for balancing.",
+  "assignment": "Exactly one of three predeclared requests per candidate. These 50 assigned pairs measure source-evidence criteria, not complete-corpus retrieval ranking, recall or nDCG.",
+  "annotation_status": "sealed_before_model_evaluation",
+  "annotation_kind": "Single-agent source-only review; no independent human ground truth.",
+  "employment_month_convention": "Ended month ranges include both named months; Present is clipped at 2026-09-01, excluding the incomplete September month. Union overlapping employment; do not infer skill-use duration from total employment.",
+  "unknown_policy": "Use uncertain for unresolved attribution, contradiction or missing information; not_demonstrated applies documentary insufficiency or explicit counterevidence under the request. Allow multiple conservative statuses when source ambiguity warrants it. Unknown is never automatically zero.",
+  "freeze_policy": "Freeze selected source records, queries, labels and hashes before the final model evaluation. Do not tune against that result. Until labels are complete and sealed, do not run final evaluation.",
+  "limits": "Excluded IDs are verified only against the named local artifacts. No claim is made that the provider profiles were absent from model training, that no other historical copy exists, or that synthetic machine labels establish human hiring validity.",
+  "judgments_sha256": "68f7302bbb63513e71315f24d69d74827d97b82068e2fc36525c6afff7b9b52c",
+  "review_packet_sha256": "44e9a2351ded2e54c414bdabbeff9924fb4579baf59006b8228b9edfd8ceae47"
+}

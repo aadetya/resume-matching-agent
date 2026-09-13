@@ -1,0 +1,24 @@
+Vikram Reed
+cand_do_020@example.test
+
+PROFILE
+DevOps Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+
+DevOps Engineer | Mosaic Example Works | Jan 2019 - Jan 2021
+Operated AWS services with budget checks, least-privilege access, and tested recovery procedures.
+Diagnosed Kubernetes scheduling failures and configured readiness checks before deployment.
+Used Terraform in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+DevOps Engineer | Cedar Fiction Studio | Jan 2023 - Jan 2025
+Operated AWS services with budget checks, least-privilege access, and tested recovery procedures.
+Diagnosed Kubernetes scheduling failures and configured readiness checks before deployment.
+Used Terraform in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+TECHNOLOGIES
+AWS, Kubernetes, Terraform
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

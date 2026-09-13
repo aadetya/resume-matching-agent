@@ -1,0 +1,23 @@
+Candidate P124
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Operations Technician | Heartland Data Solutions | 2023-06 to 2024-07
+Managed data ingestion pipelines and monitored cluster health. Assisted in troubleshooting data flow issues and optimizing storage on HDFS.
+Technical Support Specialist | Heartland Data Solutions | 2022-01 to 2022-12
+Provided technical support for internal data tools and customer-facing dashboards. Gained familiarity with big data concepts and infrastructure.
+Sales Associate | Best Buy | 2021-05 to 2021-12
+Assisted customers and processed sales. Learned to explain technical specifications clearly.
+SKILLS
+Apache Spark; Apache Kafka; Apache Airflow; Apache Hadoop; HDFS; Data ingestion; Stream processing; Cluster management; Apache Iceberg; Apache NiFi; Performance tuning; Python; SQL
+EDUCATION
+Bachelor of Science | Computer Science | Kansas State University
+2018-09 to 2022-06
+PROJECTS
+Real-time Clickstream Analysis
+Built a streaming pipeline using Kafka and Spark to process clickstream data in real time. Stored results in HDFS and visualized with Databricks. Technologies used: Apache Kafka, Apache Spark.
+Data Lake Migration
+Implemented a data lake on Amazon S3 using Apache Iceberg for a class project. Automated ETL with Airflow and optimized queries with BigQuery. Technologies used: Apache Airflow, Google BigQuery.
+CERTIFICATIONS
+Databricks Certified Associate Developer for Apache Spark
+Issued by Databricks.
+2024-01

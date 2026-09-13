@@ -1,0 +1,21 @@
+Candidate P118
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Machine Learning Intern | Innovative Retail Solutions | 2024-06 to 2024-08
+Engineered and deployed a recommendation engine utilizing collaborative filtering and time series analysis, resulting in a 12% uplift in click-through rates. Leveraged GCP and MLOps pipelines to streamline model retraining and monitoring.
+Data Science Research Assistant | University of the Pacific | 2023-09 to 2024-05
+Conducted research on anomaly detection in time series data, applying TensorFlow and XGBoost. Prepared comprehensive reports and presentations, showcasing strong analytical and communication skills.
+Campus IT Support | University of the Pacific | 2022-08 to 2023-08
+Provided technical support to students and faculty, troubleshooting hardware and software issues. Developed a Python script to automate ticket classification, demonstrating initiative and problem-solving skills.
+SKILLS
+Python; TensorFlow; Time Series Analysis; Recommender Systems; Natural Language Processing; Spark; XGBoost; Anomaly Detection; Hyperparameter Tuning; MLOps
+EDUCATION
+Bachelor of Science | Computer Science | University of the Pacific
+2021-09 to 2025-06
+PROJECTS
+E-commerce Recommendation System
+Developed a hybrid recommendation system combining collaborative and content-based filtering, achieving a precision@10 of 0.34. Used TensorFlow and PySpark to process large-scale user-item interactions. Technologies used: Python, Pandas.
+CERTIFICATIONS
+TensorFlow Developer Certificate
+Issued by TensorFlow.
+2024-01

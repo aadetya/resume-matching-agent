@@ -1,0 +1,26 @@
+Candidate P092
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Streaming Data Engineer | Pacific Distribution Systems | 2019-03 to Present
+Led design of real-time tracking pipeline for 2M+ shipments/day, reducing data latency from 5 minutes to under 5 seconds (99.9% uptime). Deployed Kafka Streams and Debezium to integrate legacy systems.
+Network Operations Specialist | US Navy | 2012-01 to 2019-02
+Managed communications and data systems on naval vessels, ensuring 99.5% availability for mission-critical networks. Led team of 5 in troubleshooting and maintaining real-time data feeds.
+IT Support Technician | SoCal Freight Co. | 2007-06 to 2011-12
+Provided technical support for warehouse management systems, resolving 90% of tickets within SLA. Assisted in migrating inventory tracking to a barcode system.
+SKILLS
+Kafka Streams; Stateful stream processing; Fault tolerance in streaming; Windowing and watermarking; Event-driven architecture; Streaming ETL; Schema management; Data ingestion; Real-time data processing; Avro serialization; Backpressure handling; Apache Iceberg; Debezium; Kafka Connect; Apache Pulsar; SQL; Python
+EDUCATION
+Associate of Science | Computer Science | Palomar College
+2004-09 to 2006-06
+Bachelor of Science | Computer Science | California State University San Marcos
+2006-09 to 2008-06
+PROJECTS
+Real-time Sensor Ingestion Platform
+Built a streaming pipeline using Kafka Streams and Pulsar to process IoT sensor data from warehouse equipment, reducing alarm response time from 10 minutes to under 1 minute. Technologies used: Apache Pulsar, Avro, Debezium.
+CERTIFICATIONS
+Confluent Certified Developer for Apache Kafka
+Issued by Confluent.
+2021-01
+Google Cloud Professional Data Engineer
+Issued by Google.
+2022-01

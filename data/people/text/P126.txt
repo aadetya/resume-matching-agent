@@ -1,0 +1,17 @@
+Candidate P126
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior E-commerce Engineer | Midwest Tech Solutions | 2015-03 to Present
+work on marketplace development for automotive parts clients. handle fraud detection and personalization, plus custom caching. do shift work for support.
+SKILLS
+Fraud detection and prevention; Personalization and recommendation engines; Database design and optimization; Tax and shipping calculation; Caching strategies; Supply chain integration; Webhook and event-driven architecture; Python; BigCommerce; React; Magento; Braintree
+EDUCATION
+Bachelor of Science | Computer Science | University of Illinois Springfield
+2012-09 to 2015-06
+PROJECTS
+Marketplace Fraud Detection System
+Developed a real-time fraud detection system using event-driven architecture and custom scoring. Reduced chargebacks by 30%. Technologies used: Python, Braintree.
+CERTIFICATIONS
+Magento Certified Professional Developer
+Issued by Adobe.
+2018-01

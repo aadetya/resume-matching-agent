@@ -1,0 +1,23 @@
+Candidate P082
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Operations Analyst | Appalachian Power Cooperative | 2023-04 to Present
+Lead HR operations reporting and HRIS data management for a regional energy cooperative. Improved time-to-fill by 20% through data-driven process improvements.
+HR Operations Specialist | Kanawha Valley Utilities | 2021-03 to 2022-01
+Managed HR ticket system and supported headcount planning and compliance reporting. Implemented new vendor tracking process.
+HR Analyst | Mountain State Energy | 2018-06 to 2021-02
+Developed HR metrics dashboards in Power BI, analyzed time-to-fill and turnover trends, and contributed to HR policy implementation.
+HR Assistant | Capital City Electric Cooperative | 2016-09 to 2018-05
+Assisted with HRIS data entry, employee onboarding, and maintained HR files. Supported HR metrics reporting and compliance audits.
+SKILLS
+HRIS data management; HR ticket management; HR metrics reporting; HR policy implementation; Time-to-fill analysis; Process improvement; HR compliance; Headcount planning; HR data analysis; Vendor management; Stakeholder management; Data visualization; Excel; SQL; Project coordination; Training & development
+EDUCATION
+Bachelor of Science | Business Administration | Bluefield State College
+2012-09 to 2016-06
+PROJECTS
+HR Data Dashboard Migration
+Led migration of HR metrics reporting from Excel to Power BI, reducing reporting time by 40% and improving data accuracy for stakeholders. Technologies used: Workday.
+CERTIFICATIONS
+HRIP (HR Information Professional)
+Issued by IHRIM.
+2023-01

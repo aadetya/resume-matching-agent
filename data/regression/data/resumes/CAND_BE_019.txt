@@ -1,0 +1,15 @@
+Sara Shah
+cand_be_019@example.test
+
+PROFILE
+A focused resume with one directly supported technical skill.
+
+CAREER HISTORY
+Backend Engineer | Northstar Fiction Labs | Jan 2021 - Jan 2026
+Used SQL for a small internal workflow. Prepared manual spreadsheet exports and reconciled order totals with the operations team.
+
+TECHNOLOGIES
+SQL
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

@@ -1,0 +1,31 @@
+Candidate E017
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Engineering Lead | Midwest Financial Group | 2018-06 to Present
+Lead the design and implementation of a modern data lake architecture using Delta Lake and Iceberg, enabling real-time analytics across multiple business lines. Manage a team of 5 engineers and orchestrate complex ETL pipelines with Airflow, reducing data processing time by 40%.
+Senior Data Engineer | Midwest Financial Group | 2015-03 to 2018-05
+Developed and maintained ETL pipelines using Hadoop, Hive, and Airflow to support regulatory reporting and fraud detection. Migrated legacy on-premises data workflows to cloud-based architectures, improving scalability and cost efficiency.
+Data Engineer | Midwest Financial Group | 2012-09 to 2015-02
+Designed and optimized data pipelines for customer analytics, utilizing Hive and Hadoop. Collaborated with data scientists to ensure data quality and availability.
+Intelligence Analyst | United States Army | 2010-01 to 2012-08
+Collected and analyzed intelligence data to support mission planning, developing skills in data analysis and problem-solving. Held a security clearance and worked with large datasets from multiple sources.
+SKILLS
+Apache Hadoop; Delta Lake; Apache Iceberg; ETL pipelines; Apache Hive; Apache Airflow; Apache Kafka; Apache NiFi; Python; SQL; Data Modeling
+EDUCATION
+Certificate | Data Analytics | Columbia Area Career Center
+2013-09 to 2014-06
+PROJECTS
+Real-Time Fraud Detection Pipeline
+Architected a streaming fraud detection pipeline using Kafka and Iceberg, reducing false positives by 30%. Technologies used: Apache Kafka, Apache Iceberg, Apache Airflow.
+Data Lake Migration
+Led the migration of on-premises data warehouse to a cloud-based lakehouse using Delta Lake, improving query performance and reducing costs. Technologies used: Apache Spark, Apache Hadoop.
+CERTIFICATIONS
+Cloudera Certified Professional (CCP) Data Engineer
+Issued by Cloudera.
+2021-01
+Databricks Certified Associate Developer for Apache Spark
+Issued by Databricks.
+2020-01
+AWS Certified Big Data - Specialty
+Issued by Amazon Web Services.
+2019-01

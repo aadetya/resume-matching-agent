@@ -1,0 +1,18 @@
+Priya Morgan
+cand_fe_009@example.test
+
+PROFILE
+Frontend Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+CAREER HISTORY
+Frontend Engineer | Atlas Sample Services | January 2019 to January 2026
+Built accessible account screens and reusable React components for a customer portal.
+Reduced repeated browser work by splitting large JavaScript bundles and caching static assets.
+Used TypeScript, automated testing in delivery work, with peer review and documented failure cases.
+Owned a analytics workflow; checked outputs against recorded examples before release.
+
+TECHNOLOGIES
+React, JavaScript, TypeScript, automated testing
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

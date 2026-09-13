@@ -1,0 +1,23 @@
+Candidate P133
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Student Intern | San Diego County Health Services | 2023-06 to Present
+Help build event streaming APIs for public health data. Work with grpc and protobuf. some docker and kubernetes.
+IT Support Assistant | San Diego County Health Services | 2022-01 to 2023-05
+Provided helpdesk support. Assited with network config and some apigee setup.
+Retail Sales Associate | Local Grocery Store | 2020-05 to 2021-12
+Cashier and stock. learned to work shifts and handle customers.
+SKILLS
+Microservices architecture; Database integration (SQL and NoSQL); gRPC service implementation; Containerization (Docker) and orchestration (Kubernetes); Serverless functions (AWS Lambda, Azure Functions); Data serialization (JSON, Protobuf, Avro); CI/CD for API deployment; RESTful API design; OAuth 2.0; API testing
+EDUCATION
+Bachelor of Science | Computer Science | University of Phoenix
+2021-09 to 2024-06
+Associate of Science | Information Technology | Southwestern College
+2019-09 to 2021-06
+PROJECTS
+Health Event API
+Built a serverless API using AWS Lambda and API Gateway to stream health events. Used Protobuf and gRPC for efficient data transfer.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

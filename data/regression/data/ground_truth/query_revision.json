@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "reason": "Correct source/label mismatches: retain optional preferences in actual paraphrases, distinguish overall from skill-related duration, and label all generator-authored queries as development material. Resume sources are unchanged.",
+  "superseded": {
+    "path": "data/regression/data/ground_truth/queries.v1.json",
+    "sha256": "ffa54ab1c64cbf4d3ef0fb3a7c08a8ce06d0e8916c5be6e7f62b708ca12cfcbd"
+  },
+  "current": {
+    "path": "data/regression/data/ground_truth/queries.json",
+    "sha256": "475a53b065b6ba8b952c9febd9bb1cd120ee5bdaf80284b0401add9e38f24587",
+    "label_version": 2
+  }
+}

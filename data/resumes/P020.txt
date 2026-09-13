@@ -1,0 +1,19 @@
+Candidate P020
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Web Development Intern | Rutherford County School District | 2023-06 to 2023-08
+Built and maintained a school event registration form using React, improving load times by 20% through code splitting and lazy loading. Assisted with database queries in MySQL for student data reports.
+Student Research Assistant | University of Tennessee | 2024-01 to Present
+Developing a data visualization dashboard in React to display telecom network usage patterns, using MongoDB for data storage. Collaborating with a team to optimize query performance and front-end rendering.
+SKILLS
+React; State management (Redux, Zustand); HTML5; CSS3; Responsive design; MySQL; MongoDB; Web performance optimization; Vercel; Git; Figma; Vite; Webpack; JavaScript; Node.js
+EDUCATION
+Master's degree | Computer Science | University of Tennessee
+2023-09 to 2025-06
+Bachelor's degree | Computer Science | University of Tennessee
+2019-09 to 2023-06
+PROJECTS
+E-Commerce Storefront
+Designed a responsive e-commerce site using React and Redux for state management. Implemented serverless functions on Vercel for cart and checkout, optimized images and code splitting for performance. Technologies used: CSS3, MongoDB.
+Event Planning App
+Built a full-stack event planning app with React frontend and Node.js/Express backend, using MySQL for relational data. Integrated calendar APIs and deployed on Vercel with Git for version control.

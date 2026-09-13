@@ -1,0 +1,18 @@
+Priya Shah
+cand_be_009@example.test
+
+PROFILE
+Backend Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+CAREER HISTORY
+Backend Engineer | Atlas Sample Services | January 2019 to January 2026
+Implemented Python services that validate incoming orders and recover from duplicate requests.
+Investigated slow SQL queries and added indexes after reading execution plans.
+Used FastAPI, PostgreSQL in delivery work, with peer review and documented failure cases.
+Owned a analytics workflow; checked outputs against recorded examples before release.
+
+TECHNOLOGIES
+Python, SQL, FastAPI, PostgreSQL
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

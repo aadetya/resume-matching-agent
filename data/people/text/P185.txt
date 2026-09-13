@@ -1,0 +1,21 @@
+Candidate P185
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Integration Engineering Intern | NexaScale | 2024-06 to 2024-12
+Built and tested API integrations for client onboarding. Used Redis and Temporal to handle async workflows, and Debezium for change data capture.
+Backend Developer Intern | NexaScale | 2023-06 to 2023-08
+Developed REST endpoints for internal tools and wrote SQL queries to optimize report generation. Implemented rate limiting on a public API.
+SKILLS
+API gateway; Data serialization; Authentication and authorization; Rate limiting; SQL optimization; Message queues; Integration testing; Redis; Kubernetes; Debezium; Temporal; MongoDB; Python; Java; RESTful APIs; Docker; Git
+EDUCATION
+Bachelor of Science | Computer Science | California State University San Marcos
+2022-09 to 2025-06
+PROJECTS
+Event-Driven Microservices Dashboard
+Built a dashboard to monitor Kafka messages and service health, using Debezium for CDC and Kubernetes for deployment. Technologies used: React.
+REST API Rate Limiter
+Implemented a middleware for rate limiting using Redis and token bucket algorithm. Technologies used: Node.js, Express.
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Issued by Amazon Web Services.
+2024-01

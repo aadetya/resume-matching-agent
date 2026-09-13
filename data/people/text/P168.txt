@@ -1,0 +1,21 @@
+Candidate P168
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Engineering Intern | Pacific Data Solutions | 2024-05 to 2024-08
+Developed streaming pipelines for game telemetry using Kafka Streams and Google Cloud Pub/Sub. Implemented real-time dashboards in Grafana, monitoring data flow and backpressure to ensure low-latency processing.
+Undergraduate Research Assistant | University of Washington | 2023-09 to 2024-05
+Assisted in research on real-time data processing, using Kafka Streams to analyze streaming logs. Contributed to performance tuning and schema management for improved throughput.
+IT Support Assistant | University of Washington | 2022-09 to 2023-06
+Provided technical support for campus events, troubleshooting network and software issues. Assisted in setting up streaming equipment for live lectures.
+SKILLS
+Kafka Streams; Real-time data processing; Streaming SQL; Performance tuning for streaming workloads; Monitoring and alerting for streaming; Schema management; Parquet file format; Backpressure handling; Grafana; Kafka Connect; Python; Java; SQL; Apache Spark
+EDUCATION
+Bachelor of Science | Computer Science | University of Washington
+2021-09 to 2025-06
+PROJECTS
+Clickstream Analytics Pipeline
+Built a real-time clickstream processing pipeline using Kafka Streams and Snowflake, with Parquet storage and Grafana dashboards to monitor latency and throughput. Technologies used: Apache Kafka.
+CERTIFICATIONS
+Confluent Certified Developer for Apache Kafka
+Issued by Confluent.
+2024-01

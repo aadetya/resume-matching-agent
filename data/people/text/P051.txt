@@ -1,0 +1,21 @@
+Candidate P051
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Streaming Data Engineer | DataStream Solutions – Des Moines Franchise | 2023-06 to 2024-07
+Built and maintained Kafka pipelines for real-time analytics, implemented checkpointing and offset management, and tuned Spark Streaming jobs for performance.
+Data Engineer Intern | Midwest Analytics Group | 2022-05 to 2022-08
+Assisted in migrating batch ETL to streaming using Kafka and Spark Structured Streaming, focusing on fault tolerance and backpressure handling.
+Streaming Data Engineer | DataStream Solutions – Des Moines Franchise | 2024-08 to Present
+Returned to the franchise to lead streaming infrastructure improvements, implementing Debezium for CDC and optimizing lakehouse storage in Snowflake.
+SKILLS
+Apache Kafka; Apache Spark Streaming; Streaming ETL; Fault tolerance in streaming; Checkpointing and recovery; Offset management; Consumer group management; Avro serialization; Data lakes and lakehouses; Snowflake; Debezium; RisingWave; Materialize; Monitoring and alerting for streaming; Backpressure handling; Performance tuning for streaming workloads
+EDUCATION
+Bachelor of Science | Computer Science | Iowa State University
+2019-09 to 2023-06
+PROJECTS
+Real-time Anomaly Detection Pipeline
+Designed a streaming ML feature pipeline using Kafka and Spark Streaming to detect anomalies in IoT sensor data, with exactly-once semantics and checkpointing. Technologies used: Apache Kafka, Apache Spark Streaming, Avro, Snowflake.
+CERTIFICATIONS
+Confluent Certified Developer for Apache Kafka
+Issued by Confluent.
+2024-01

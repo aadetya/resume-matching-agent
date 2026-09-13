@@ -1,0 +1,21 @@
+Candidate P176
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Python Developer | Prairie Interactive | 2008-06 to 2016-11
+Automated game server orchestration using Python and Django, reducing manual ops by 70%. Handled scaling issues with Redis and PostgreSQL, ensuring low latency during peak hours.
+Lead Python Developer | High Plains Studios | 2016-12 to Present
+Lead a team of 5 engineers, directing automation of QA pipelines and game telemetry ingestion. Manage budget of $1.2M and coordinate cross-functionally with production and live-ops. Migrated CI/CD to GitHub Actions, cutting deployment time by 40%.
+SKILLS
+Python; Django; PostgreSQL; Redis; RESTful APIs; Concurrency; Type hints; Virtual environments; GIL; MySQL; Kubernetes; GitHub Actions; Travis CI; Pytest; Automation scripting; Team Leadership
+EDUCATION
+Certificate | Full Stack Web Development | Per Scholas
+2007-09 to 2008-06
+PROJECTS
+Automated Game Telemetry Pipeline
+Built a real-time telemetry ingestion system using Python, Redis, and PostgreSQL, processing 10M+ events/day with minimal latency. Technologies used: Kubernetes.
+CI/CD Optimization
+Overhauled build pipeline from Travis CI to GitHub Actions, reducing build times by 50% and integrating automated testing with Pytest. Technologies used: Docker.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2017-01

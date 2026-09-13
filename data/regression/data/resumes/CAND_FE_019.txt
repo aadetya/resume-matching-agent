@@ -1,0 +1,15 @@
+Sara Morgan
+cand_fe_019@example.test
+
+PROFILE
+A focused resume with one directly supported technical skill.
+
+CAREER HISTORY
+Frontend Engineer | Northstar Fiction Labs | Jan 2021 - Jan 2026
+Used JavaScript for a small internal workflow. Designed wireframes and static HTML pages; production application development was outside this role.
+
+TECHNOLOGIES
+JavaScript
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

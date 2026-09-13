@@ -1,0 +1,24 @@
+Candidate P072
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Freelance Python Developer | Self-employed | 2023-01 to Present
+Developed REST APIs and GraphQL endpoints for small healthcare clients. Focused on integration testing and code quality.
+Branch Manager | Community First Credit Union | 2018-06 to 2022-12
+Oversaw daily operations and staff. Stepped back to focus on a career change into software development.
+Teller | Community First Credit Union | 2016-05 to 2018-05
+SKILLS
+Python; PostgreSQL; GraphQL; Docker; Unit testing; Integration testing; Code review; Refactoring; Multithreading; Concurrency; Linux command line; Virtual environments; Git; Jenkins; Travis CI; CircleCI; PyCharm; Visual Studio Code
+EDUCATION
+Electrical | Union Apprenticeship Program
+2014-09 to 2016-06
+Certificate | Computer Science | Online Bootcamp - Python API Development
+2022-09 to 2023-06
+PROJECTS
+Healthcare Appointment Scheduler API
+Built a REST API with Python and Flask, using PostgreSQL and GraphQL for a demo healthcare system. Implemented unit and integration tests and used Docker for deployment. Technologies used: pytest.
+Real-time Data Processor
+Developed a multithreaded Python service to process streaming healthcare data. Focused on concurrency and performance optimization. Technologies used: Multithreading, RabbitMQ.
+CERTIFICATIONS
+PCEP – Certified Entry-Level Python Programmer
+Issued by Python Institute.
+2023-01

@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.coverage
+.env
+.env.*
+!.env.example
+*INSTRUCTOR-ACCESS*
+.DS_Store
+*.mov
+*.mp4
+runtime/
+*.sqlite*
+artifacts/
+!artifacts/.gitkeep
+
+# Reports written during local conversations
+reports/generated/

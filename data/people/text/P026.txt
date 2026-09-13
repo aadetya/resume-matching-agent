@@ -1,0 +1,23 @@
+Candidate P026
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+HR Operations Analyst | Hudson Alpha Institute for Biotechnology | 2023-06 to Present
+Manage HR data and dashboards. Handle employee lifecycle tickets. Support compliance reporting. Document SOPs. Use SAP SuccessFactors and Python.
+HR Data Coordinator | Research Triangle Institute | 2022-01 to 2023-05
+Processed HRIS data. Created Google Sheets reports. Assisted with data cleanup. Worked with remote teams.
+HR Assistant | University of Alabama in Huntsville | 2021-05 to 2021-12
+Supported HR operations. Filed documents with DocuSign. Maintained employee files. Assisted with onboarding.
+HR Intern | Teledyne Brown Engineering | 2020-05 to 2020-08
+Shadowed HR team. Learned HRIS basics. Created spreadsheets.
+SKILLS
+HR data analysis; Workforce analytics; HRIS data management; Employee lifecycle management; Data visualization; Dashboard creation; HR ticket management; Stakeholder management; SOP documentation; HR compliance; Python; Google Sheets
+EDUCATION
+Bachelor of Business Administration | Management Information Systems | University of Georgia
+2017-09 to 2021-06
+PROJECTS
+HR Dashboard
+Built dashboards in Google Sheets for headcount and turnover. Used data visualization best practices.
+CERTIFICATIONS
+Six Sigma Green Belt
+Issued by ASQ.
+2023-01

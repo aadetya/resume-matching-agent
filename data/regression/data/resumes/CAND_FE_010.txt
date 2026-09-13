@@ -1,0 +1,21 @@
+Nikhil Morgan
+cand_fe_010@example.test
+
+PROFILE
+Frontend Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+
+Frontend Engineer | Northstar Fiction Labs | 2020-01 to 2026-01
+Built accessible account screens and reusable React components for a customer portal.
+Reduced repeated browser work by splitting large JavaScript bundles and caching static assets.
+Used TypeScript, automated testing in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+Consultant | Cedar Fiction Studio | Jan 2024 - Jan 2025
+Built accessible account screens and reusable React components for a customer portal.
+
+TECHNOLOGIES
+React, JavaScript, TypeScript, automated testing
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

@@ -1,0 +1,23 @@
+Candidate P178
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Chief Technology Officer | Northwest Financial Systems | 2015-03 to Present
+Lead all technology strategy and engineering for a core banking software firm. Oversee real-time transaction processing, regulatory reporting, and risk management systems, while driving cloud migration to AWS and GCP.
+Vice President of Engineering | Pacific Crest Payment Solutions | 2008-01 to 2015-02
+Directed a 60-person engineering organization building high-frequency trading systems and payment gateways. Championed low-latency architectures and securities settlement processes, ensuring system reconciliation across millions of transactions daily.
+Senior Fintech Engineer | Pacific Crest Payment Solutions | 2004-06 to 2007-12
+Designed real-time transaction processing engines and integrated payment gateways. Implemented Option pricing models and audit logging, strengthening fraud detection and KYC compliance.
+Fintech Engineer | Pacific Crest Payment Solutions | 2002-01 to 2004-05
+Developed risk management systems and fraud detection algorithms. Built and maintained real-time transaction processing pipelines.
+SKILLS
+payment gateway integration; high-frequency trading systems; Option pricing models; system reconciliation; real-time transaction processing; regulatory reporting; risk management systems; Know Your Customer (KYC); fraud detection algorithms; securities settlement; audit logging; AWS; GCP; gRPC; cloud architecture; team leadership
+EDUCATION
+BS | Computer Science | Oregon Institute of Technology
+1998-09 to 2001-06
+PROJECTS
+Cloud-Based Core Banking Platform
+Spearheaded migration of legacy core banking suite to microservices on AWS and GCP, using gRPC for inter-service communication. Improved scalability and reduced operational costs by 40%.
+CERTIFICATIONS
+Certified Information Systems Security Professional (CISSP)
+Issued by ISC2.
+2010-01

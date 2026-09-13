@@ -1,0 +1,27 @@
+Candidate P187
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior React Developer | Frontier Networks Research | 2013-03 to 2018-02
+Led a 5-person frontend team building a design system for telecom dashboards. Reduced component render time by 30% and cut bundle size 40% via code splitting.
+React Developer | Voltage Tech Solutions | 2011-11 to 2013-02
+Built and maintained customer self-service portals. Migrated legacy Backbone views to React, improving page load time by 50%.
+Frontend Developer | PixelForge Studios | 2010-05 to 2011-10
+Developed responsive marketing sites and interactive demos. Increased conversion rate by 15% with A/B tested UI changes.
+Web Developer | MidSouth Telecom Co. | 2008-06 to 2010-04
+Created internal tools and customer-facing portals with vanilla JS and jQuery. Reduced support tickets by 20% with clearer UI.
+Junior Developer | AdTech Solutions | 2006-03 to 2008-05
+Implemented tracking pixels and ad landing pages. Improved page load speed by 25% through code optimization.
+Technical Assistant | Southern Bell Research Lab | 2004-09 to 2006-02
+Supported network testing and data collection. Automated reporting with Python scripts, saving 10 hours per week.
+SKILLS
+Redux; Git; Webpack; Next.js; Babel; React Testing Library; Jest; Hooks; React Router; Static Site Generation (SSG); Netlify; Jenkins; pnpm; GitHub Actions; Storybook; Docker; Express; TypeScript
+EDUCATION
+Associate of Applied Science | Computer Information Technology | Nashville State Community College
+2006-09 to 2008-06
+PROJECTS
+Telecom Design System
+Built a component library with Storybook used by 20+ developers. Reduced UI implementation time by 60%. Technologies used: React, Redux, Webpack.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2024-01

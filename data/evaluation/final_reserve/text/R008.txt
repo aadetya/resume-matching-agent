@@ -1,0 +1,21 @@
+Candidate R008
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Frontend Engineer | MedStar Health | 2021-03 to Present
+Lead a team of 5 frontend engineers to build a patient portal with a focus on performance and accessibility. Reduced initial load time by 40% by implementing code-splitting and SSR strategies.
+Senior Frontend Engineer | Children's National Hospital | 2016-02 to 2021-02
+Developed high-traffic patient-facing web applications using React and Next.js. Championed a design system using Storybook and CSS-in-JS to ensure consistency across teams.
+Frontend Engineer | Geisinger Health | 2011-08 to 2016-01
+Built and maintained responsive web app interfaces using HTML, CSS, and JavaScript, with a focus on converting design mockups to pixel-perfect implementations.
+SKILLS
+CSS3; CSS Preprocessors (Sass/SCSS); Build Tools (Webpack, Vite); Static Site Generation (SSG); REST APIs; Progressive Web Apps (PWA); CI/CD; CSS-in-JS; Server-Side Rendering (SSR); Babel; Sentry; Vite; VS Code; Storybook; Prettier; TypeScript; React; Next.js
+EDUCATION
+Associate of Applied Science | Web Development | Pennsylvania College of Technology
+2009-09 to 2011-06
+PROJECTS
+Patient Portal Performance Initiative
+Led a project to improve page load times and accessibility, achieving a 40% reduction in load time using lazy loading and resource minification. Technologies used: React, Next.js, Webpack, Lighthouse.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2020-01

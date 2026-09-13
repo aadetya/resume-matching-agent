@@ -1,0 +1,9 @@
+Candidate P111
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Tooling Engineer | Texas Department of Information Resources | 2020-06 to Present
+SKILLS
+Package distribution (npm, pip, apt); Binary signing and notarization; CI/CD pipeline design; Kubernetes
+EDUCATION
+Bachelor of Science | Computer Science | Western Governors University
+2019-09 to 2022-06

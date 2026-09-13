@@ -1,0 +1,25 @@
+Candidate P158
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Backend Engineer | LogiTrans Distribution Systems | 2022-03 to Present
+I design and maintain APIs that handle shipment tracking and fleet management. I've introduced message queues to decouple system components and improved database query performance by optimizing indexes and queries.
+Junior Backend Engineer | Sunshine Freight Solutions | 2019-01 to 2022-02
+Developed and maintained RESTful APIs for an internal logistics platform. I learned to build CI/CD pipelines and conducted integration testing to ensure smooth deployments.
+Operations Coordinator | Bosphorus Cargo Services | 2017-02 to 2018-12
+In an unexpected turn, I spent a couple of years coordinating shipment schedules and customer communications. I got a firsthand look at how logistics operations rely on reliable software, which eventually turned me back to engineering.
+SKILLS
+Distributed transactions; CI/CD pipeline design; SQL optimization; Integration testing; Database design; REST API design; Authentication and authorization; OAuth2; Message queues; Serverless computing; Load balancing; AWS; Kafka; Redis; Kubernetes; Temporal; RabbitMQ
+EDUCATION
+Bachelor's Degree | Computer Engineering | Turkish Military Academy
+2010-09 to 2014-06
+Master's Degree | Computer Science | State University of New York
+2015-09 to 2017-06
+PROJECTS
+Real-Time Fleet Tracking API
+Built a REST API that ingests GPS data from thousands of vehicles and exposes real-time location endpoints. Utilized Kafka for stream processing and Redis for caching to handle high throughput. Technologies used: AWS, REST API design.
+Order Processing Workflow Automation
+Designed a serverless workflow using Temporal to orchestrate order fulfillment. Implemented distributed transactions and ensured idempotency, reducing processing time by 30%. Technologies used: Serverless computing, AWSLambda.
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Issued by Amazon Web Services.
+2021-01

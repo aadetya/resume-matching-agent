@@ -1,0 +1,32 @@
+Candidate R048
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Director of Software Engineering | Gulf Coast Utilities Cooperative | 2019-03 to Present
+Lead a team of 12 engineers building serverless systems for grid telemetry. Manage $2M budget and coordinate with ops and field teams.
+Lead Full Stack Developer | South Texas Energy Cooperative | 2015-08 to 2019-02
+Transitioned from coding to leading a squad of 5. Introduced CI/CD and serverless architecture, cutting deployment time by 60%.
+Senior Full Stack Developer | Bluebonnet Telecom | 2012-06 to 2015-07
+Built customer portal using React and Node.js, integrated with SQL and MongoDB. Led migration to cloud.
+Full Stack Developer | Hill Country Internet Services | 2009-08 to 2012-05
+Developed and maintained web applications for rural broadband services. Used CSS3, React, and PostgreSQL.
+Junior Full Stack Developer | Rio Grande Valley Design Studio | 2007-03 to 2009-07
+Worked on client sites, learning the ropes of full stack development. Handled small features and bug fixes.
+SKILLS
+CSS3; PostgreSQL; Unit testing (Jest, Mocha); SQL; MongoDB; React; Authentication (JWT, OAuth); CI/CD pipelines; Node.js; TypeScript; Google Cloud Platform; Vite; Azure; Netlify; Postman; VS Code; GraphQL; Docker
+EDUCATION
+Master's degree | Computer Science | University of Texas at Austin
+2010-09 to 2012-06
+Bachelor's degree | Computer Science | Texas A&M University - Corpus Christi
+2003-09 to 2007-06
+PROJECTS
+Serverless Grid Monitoring Platform
+Designed and led development of event-driven system on GCP for real-time utility grid monitoring, handling thousands of devices. Technologies used: Node.js, TypeScript, Google Cloud Platform, PostgreSQL, MongoDB.
+Customer Self-Service Portal
+Built a customer portal with React and microservices, reducing support calls by 30%. Technologies used: Node.js, PostgreSQL, Vite.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2018-01
+Google Associate Cloud Engineer
+Issued by Google.
+2020-01

@@ -1,0 +1,34 @@
+Candidate P162
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Python Developer | Veridian Research Institute | 2021-04 to Present
+Leading migration of legacy data pipeline to modern Python with type hints and concurrency. Mentoring juniors on best practices and refactoring strategies.
+Python Developer | Halcyon Analytics | 2019-11 to 2021-03
+worked on client site to optimize PostgreSQL queries and implement multithreading for their reporting service. Also did some Docker containerization and Travis CI setup.
+DevOps Engineer | Bluepeak Systems | 2018-07 to 2019-10
+Maintained CI/CD pipelines using Travis CI and Docker. Focused on increasing deployment reliability and reducing downtime.
+Backend Python Developer | Altitude Technologies | 2017-01 to 2018-06
+Developed REST APIs and worked on database optimization with MySQL and PostgreSQL. Introduced type hints to improve code maintainability.
+Python Developer | Northstar Data Labs | 2015-08 to 2016-12
+Built data processing scripts using Jupyter Notebooks for exploratory analysis. worked on refactoring legacy code and improving performance.
+Junior Python Developer | Cobalt Software | 2014-02 to 2015-07
+Started as junior dev, focused on writing unit tests and maintaining virtual environments. Learned a lot about MySQL and PostgreSQL backends.
+Travelling Technician | Metro Utilities | 2011-06 to 2013-12
+Worked in the field installing and maintaining electrical systems. This was during my apprenticeship and taught me practical problem solving.
+SKILLS
+Virtual environments; PostgreSQL; Refactoring; Type hints; Multithreading; Concurrency; MySQL; Docker; Travis CI; Jupyter Notebook; AWS; Kubernetes
+EDUCATION
+Electrical Systems | Union Apprenticeship Program
+2011-09 to 2014-06
+PROJECTS
+Concurrent Data Pipeline
+Designed and implemented a multithreaded data ingestion pipeline using Python's concurrency features. Improved throughput by 300%. Technologies used: Multithreading, PostgreSQL.
+Refactoring Legacy Monolith
+Led a project to refactor a monolithic Python application into modular components with type hints, reducing tech debt significantly. Technologies used: Refactoring.
+CERTIFICATIONS
+PCPP – Certified Professional in Python Programming
+Issued by Python Institute.
+2019-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2020-01

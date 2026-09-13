@@ -1,0 +1,18 @@
+Candidate P060
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Analyst | Blue Ridge Energy Cooperative | 2023-06 to Present
+Analyzed energy usage data and created Tableau dashboards to track consumption patterns.
+IT Support Intern | Asheville City Schools | 2022-05 to 2022-08
+SKILLS
+Computer Vision; Model Monitoring; Time Series Analysis; Keras; Model Evaluation; Data Visualization; MLOps; Hadoop; Kubernetes; MLflow; PostgreSQL; Tableau; Power BI
+EDUCATION
+Bachelor of Science | Computer Science | North Carolina A&T State University
+2019-09 to 2023-06
+PROJECTS
+Speech Emotion Recognition
+Built a CNN model using Keras to classify emotions from audio recordings, achieving 78% accuracy. Technologies used: TensorFlow, Librosa.
+CERTIFICATIONS
+TensorFlow Developer Certificate
+Issued by TensorFlow.
+2023-01

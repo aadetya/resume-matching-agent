@@ -1,0 +1,18 @@
+Candidate P056
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Machine Learning Engineer | AutonomIQ | 2020-03 to 2021-02
+Built NLP models for autonomous vehicle support. Evaluated model performance. Deployed models with Kubeflow.
+Data Engineer | DataBridge | 2018-06 to 2020-02
+Prepared data pipelines using Spark. Managed MongoDB storage. Implemented time series processing.
+Junior Machine Learning Engineer | AutonomIQ | 2016-01 to 2018-05
+Assisted in building ML models. Conducted cross-validation and model selection. Developed time series forecasting.
+SKILLS
+Natural Language Processing; Model Selection; Spark; PyTorch; Time Series Analysis; Model Evaluation; Cross-validation; Git; MongoDB; Kubeflow; Python; SQL
+PROJECTS
+Autonomous Vehicle Sensor Fusion
+Developed models for sensor data fusion using PyTorch. Improved obstacle detection accuracy by 15%. Technologies used: Time Series Analysis, Spark.
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2023-01

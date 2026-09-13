@@ -1,0 +1,15 @@
+Candidate R002
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Analyst | Panhandle Retail Group | 2023-01 to Present
+Work with sales data and help with reports. have started learning streaming tools on my own and applied some of them to projects.
+SKILLS
+Apache Spark Streaming; Kafka Streams; Streaming SQL; Apache Flink; Streaming data quality; Windowing and watermarking; Checkpointing and recovery; Apache Hudi; Redpanda; Kafka Connect
+EDUCATION
+Certificate | Data Analytics | Amarillo College
+2022-09 to 2023-06
+PROJECTS
+Real-Time Sales Dashboard
+built a dashboard using Kafka Streams and Redpanda to show live sales counts and trends for a mock e-commerce platform. Technologies used: Streaming SQL.
+Streaming Data Quality Checker
+Developed a small app to detect missing data and lag in streaming pipelines, using windowing and watermarking. Technologies used: Apache Flink, Streaming data quality.

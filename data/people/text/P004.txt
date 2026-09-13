@@ -1,0 +1,27 @@
+Candidate P004
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Case Manager | Nebraska Family Services | 2012-01 to 2020-06
+Managed a caseload of 30+ at-risk youth, coordinating with CPS, courts, and schools. Documented every case in CRM, tracked outcomes, and shifted to evening/night shifts to cover crisis calls.
+Program Coordinator | Lincoln Community Action Partnership | 2020-07 to 2024-01
+Oversaw after-school programs, managed grants and reporting, and trained staff. Built Excel dashboards and moved to rotating shifts to cover program hours.
+Data Engineering Bootcamp Student | StreamSet Academy | 2024-02 to 2024-08
+Completed 6-month intensive bootcamp on streaming data: built Flink pipelines, used Kafka, and learned real-time monitoring with Grafana.
+Freelance Data Engineer (Contract) | Self | 2024-09 to Present
+Building a log aggregation pipeline for a local startup using Flink and Kafka, with Iceberg for storage and Grafana for dashboards.
+SKILLS
+Apache Flink; Monitoring and alerting for streaming; Stateful stream processing; Streaming ETL; Schema management; Apache Spark Streaming; Streaming data quality; Event-driven architecture; Apache Spark; Apache Iceberg; Grafana; Materialize; Apache Hudi; SQL; Python; Kafka
+EDUCATION
+BSW | Social Work | University of Nebraska Omaha
+2007-09 to 2011-06
+Data Engineering | StreamSet Academy
+2024-09 to 2024-06
+PROJECTS
+Log Aggregation Pipeline
+Real-time log pipeline ingesting from microservices, using Flink for stateful processing, Kafka for transport, and Iceberg for storage. Grafana dashboards monitor latency and errors. Technologies used: Apache Flink, Apache Kafka, Apache Iceberg.
+Customer Event Stream
+Event-driven architecture for clickstream data, using Spark Streaming for ETL and Hudi for upserts. Implemented schema management and data quality checks. Technologies used: Apache Spark, Apache Hudi, Apache Spark Streaming.
+CERTIFICATIONS
+Cloudera CCA Spark and Hadoop Developer
+Issued by Cloudera.
+2024-01

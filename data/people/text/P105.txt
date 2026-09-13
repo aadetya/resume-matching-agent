@@ -1,0 +1,26 @@
+Candidate P105
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Software Engineer | Marine Corps Cyber Command | 2018-06 to Present
+Lead a team of four developers building and maintaining web applications for logistics tracking. Implemented performance optimizations that reduced load times by 40%. Also serve as scrum master, facilitating ceremonies and removing impediments. Collaborated with stakeholders to define requirements and ensure alignment with mission objectives.
+Software Engineer | Marine Corps Forces Cyberspace Command | 2014-01 to 2018-05
+Developed and maintained internal tools using JavaScript and Python. Refactored legacy codebases to improve maintainability. Conducted code reviews and mentored junior developers. Managed deployment to AWS environments.
+Network Administrator | Marine Corps Base Camp Pendleton | 2010-02 to 2013-12
+Managed network infrastructure and provided technical support. This role was a lateral move from an earlier communications role, broadening my understanding of IT systems.
+Communications Specialist | Marine Corps Recruit Depot San Diego | 2001-03 to 2010-01
+Operated and maintained communication equipment, developing a strong foundation in signal processing and troubleshooting.
+SKILLS
+design patterns; performance optimization; scrum; refactoring; data structures; code review; version control (Git); backend basics; scripting; AWS; Postman; MongoDB; JavaScript; Python; SQL; REST APIs
+EDUCATION
+Bachelor of Science | Computer Science | University of San Francisco
+2015-09 to 2018-06
+PROJECTS
+Logistics Tracking Platform
+Designed and built a web application to track equipment shipments across bases, using React and Node.js with MongoDB. Improved visibility and reduced reporting time by 50%. Technologies used: AWS.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2021-01
+Certified Scrum Master (CSM)
+Issued by Scrum Alliance.
+2022-01

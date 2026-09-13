@@ -1,0 +1,37 @@
+Candidate E050
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior DevOps Engineer (Contract) | Stratford Media Group | 2023-06 to Present
+Implementing blue/green and canary deployments for streaming services. Manage incident response and performance tuning using Grafana and Datadog.
+DevOps Engineer (Contract) | Nutmeg Logistics | 2022-01 to 2023-05
+Managed configuration management and secrets management for a fleet of warehouse servers. Implemented backup and restore procedures and used Ansible for automation.
+DevOps Engineer (Contract) | Connexion Media | 2021-03 to 2021-12
+Handled artifact repository management and version control strategies for a small media company. Set up ELK Stack for log aggregation and monitoring.
+IT Consultant (Contract) | CT Distribution Partners | 2020-06 to 2021-02
+Deployed service mesh (Istio) for a distribution company. Enhanced Linux system admin tasks and performance tuning for their in-house applications.
+Systems Administrator | Bristol Distribution Warehouse | 2016-05 to 2020-05
+Managed Linux servers and backups. Led incident response for outages. Introduced configuration management with Ansible, reducing downtime.
+IT Support Specialist | Naugatuck Valley Hospital | 2013-04 to 2016-04
+Provided IT support and basic system admin. Handled helpdesk tickets and maintained Windows/Linux systems.
+Warehouse Associate | Home Depot Distribution Center | 2011-01 to 2013-03
+Early-career detour. Worked in inventory management and shipping. Developed an interest in automation and IT systems.
+SKILLS
+Blue/green and canary deployments; Incident response and management; Linux system administration; Performance tuning; Backup and restore procedures; Service mesh implementation; Configuration management; Artifact repository management; Secrets management; Version control strategies; Ansible; Grafana; ELK Stack; Datadog; Docker; Kubernetes; Terraform
+EDUCATION
+IT Systems Operations | U.S. Army Signal School
+2009-09 to 2010-06
+PROJECTS
+CI/CD Pipeline Automation
+Designed and implemented a CI/CD pipeline with blue/green deployments for a media client, reducing release time by 60%. Technologies used: Ansible, Jenkins, Kubernetes.
+Service Mesh Implementation
+Deployed Istio service mesh on EKS for a logistics company, improving observability and traffic management. Technologies used: Kubernetes, Grafana.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2021-01
+CKA: Certified Kubernetes Administrator
+Issued by Cloud Native Computing Foundation.
+2022-01
+CompTIA Security+
+Issued by CompTIA.
+2018-01

@@ -1,0 +1,9 @@
+Candidate R016
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Machine Learning Engineer | Kent Auto Parts | 2021-03 to Present
+SKILLS
+MLOps; Hadoop; LightGBM; Git; Python
+EDUCATION
+Nuclear Engineering | Naval Nuclear Power Training Command
+2014-09 to 2016-06

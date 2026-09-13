@@ -1,0 +1,28 @@
+Candidate P061
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+DevOps Engineer | AgroTech Solutions | 2022-08 to Present
+Architect and implement robust disaster recovery and high availability solutions, ensuring business continuity through comprehensive backup and restore procedures and infrastructure testing. Collaborate cross-functionally to roll out immutable infrastructure patterns, enhancing security hardening and compliance across multi-cloud environments.
+Junior DevOps Engineer | CloudWave Systems | 2020-06 to 2022-07
+Managed Kubernetes cluster administration and CI/CD pipeline design, leveraging Terraform and Ansible for infrastructure as code. Played a key role in outage mitigation and rollback strategies, ensuring service mesh implementation did not disrupt production traffic.
+DevOps Engineer | AgroTech Solutions | 2019-01 to 2020-05
+Supported cloud platform management and automation initiatives. Designed backup and restore procedures that became the company standard, while contributing to security hardening and compliance audits.
+SKILLS
+Infrastructure testing; Immutable infrastructure; Release management and rollback strategies; Container orchestration; Scripting and automation; Security hardening and compliance; Kubernetes cluster administration; Backup and restore procedures; Service mesh implementation; Cloud platform management; CI/CD pipeline design; Ansible; Azure; AWS; Kubernetes; Terraform; Python; Bash; Docker
+EDUCATION
+Bachelor of Science | Computer Science | California State University, Monterey Bay
+2016-09 to 2018-06
+Associate of Science | Computer Science | Hartnell Community College
+2014-09 to 2016-06
+PROJECTS
+Automated Disaster Recovery Drill
+Developed a fully automated disaster recovery drill system using Terraform and Ansible, reducing recovery time from hours to minutes. Implemented infrastructure testing to validate RTO and RPO, and integrated with CI/CD pipelines for continuous readiness. Technologies used: AWS, Kubernetes.
+Service Mesh Migration
+Led the migration of a microservices architecture to a service mesh implementation, utilizing Istio on Kubernetes. Ensured zero-downtime during migration and implemented security policies for mTLS and traffic management. Technologies used: Azure, Terraform.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2023-01
+CKA: Certified Kubernetes Administrator
+Issued by Cloud Native Computing Foundation.
+2021-01

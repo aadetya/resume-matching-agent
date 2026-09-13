@@ -1,0 +1,34 @@
+Candidate P037
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Data Engineer | Coastal Bend Energy Cooperative | 2019-03 to Present
+Architected a real-time data platform integrating SCADA and smart meter data using Kafka and Kappa architecture, ensuring 99.95% uptime. Led data governance initiatives aligning with NERC CIP and Texas utility regulations.
+Lead Data Engineer | Golden State Media Group | 2015-06 to 2019-02
+Designed ELT pipelines processing 10TB+ daily of streaming telemetry using Fivetran, Stitch, and Snowflake. Supported real-time ad bidding with Kafka streams, improving latency by 40%.
+Senior Data Engineer | Streamline Analytics | 2012-04 to 2015-05
+Built data lake architecture on AWS with S3 and Redshift, implementing partitioning strategies that reduced scan costs by 30%. Automated workflow scheduling with Airflow.
+Data Engineer | Innovative Data Systems | 2008-11 to 2012-03
+Developed ETL pipelines for clients in energy and media, integrating disparate sources. Implemented data quality testing frameworks ensuring 99.9% accuracy.
+Junior Data Engineer | TechValley Solutions | 2007-09 to 2008-10
+Assisted in building data pipelines using SQL and Python. Maintained documentation and supported schema design.
+Data Analyst | South Texas Utilities | 2005-02 to 2007-08
+Analyzed energy consumption data and created reports for regulatory compliance. Started learning SQL and data modeling.
+Field Technician | Gulf Coast Cable | 2003-01 to 2004-12
+Installed and maintained cable/internet services. Not relevant to data, but provided foundation for technical work.
+SKILLS
+ETL pipeline development; ELT pipeline development; Data lake architecture; Schema design; Data partitioning strategies; Workflow scheduling; Data quality testing; Kappa architecture; Data integration; Real-time data processing; Data modeling; Data governance; Apache Kafka; Fivetran; Stitch; Amazon S3; Apache Spark; dbt; Snowflake; Python; SQL
+EDUCATION
+Bachelor of Arts | Computer Science | Trinity University
+1998-09 to 2002-06
+PROJECTS
+Smart Grid Real-Time Analytics
+Implemented a Kappa architecture with Kafka to process meter data in real-time, enabling load forecasting and outage detection. Used data partitioning to improve query performance. Technologies used: Apache Kafka, Python, Snowflake.
+Media Streaming Telemetry Lake
+Built a data lake on AWS S3 with partition strategies, integrating Fivetran and Stitch for ELT into Snowflake. Enabled self-service analytics for product teams. Technologies used: dbt.
+CERTIFICATIONS
+AWS Certified Big Data – Specialty
+Issued by Amazon Web Services.
+2018-01
+Google Professional Data Engineer
+Issued by Google.
+2020-01

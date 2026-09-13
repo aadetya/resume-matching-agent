@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "scope": "The original freeze is unchanged. This record identifies publication projections of selection and reviewer metadata. Candidate identities, source records, requests and criterion judgments are unchanged. Annotation content hashes are recorded in reports/manifest.json.",
+  "files": {
+    "selection_manifest.json": {
+      "sealed_sha256": "2d4b0992704fb6188602ef456d94e429a6698c618569e345e18e16889a7d74bc",
+      "published_sha256": "43914105eef170e0904542ad1ed0ebebe11f2663205fa7cd9b72db30e1e9188a",
+      "changes": [
+        "Replace private exclusion-artifact paths with their SHA-256 hashes.",
+        "Clarify the published manifest scope."
+      ]
+    },
+    "selection_protocol.json": {
+      "sealed_sha256": "1a4a5e6a19f74d58310235c12c4f8b3ad06b933ddb59c7a604e1ca65a173ac9b",
+      "published_sha256": "d25652cc442fcf127a464ef5e1a70c49a5beb307cbba241199b67bda123c5b77",
+      "changes": [
+        "Describe the exclusion-artifact scope without private workspace directory names."
+      ]
+    },
+    "review_protocol.json": {
+      "sealed_sha256": "242836cd9f796a2d655d5b8173a4fddbb0f4126eb45a95b386c419f9e0977846",
+      "published_sha256": "b2bc594506af1b665ee30019cce3af018428ebfa0c545d7861a5753df2407346",
+      "changes": [
+        "Describe the exclusion-artifact scope without private workspace directory names."
+      ]
+    },
+    "judgments.json": {
+      "sealed_sha256": "68f7302bbb63513e71315f24d69d74827d97b82068e2fc36525c6afff7b9b52c",
+      "published_sha256": "6277e528f3b3939a262d5adb7f8a3b2667a3a5d2aafb3e97632c86c317cf8eae",
+      "changes": [
+        "Express the reviewer name by its AI annotation role; preserve all criterion judgments and human-review declarations."
+      ]
+    }
+  }
+}

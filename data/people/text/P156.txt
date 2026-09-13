@@ -1,0 +1,6 @@
+Candidate P156
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Logistics Coordinator | PNW Distribution | 2022-06 to Present
+SKILLS
+Transpilation; Cypress; Vue.js; GitLab

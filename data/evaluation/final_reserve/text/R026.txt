@@ -1,0 +1,21 @@
+Candidate R026
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Engineer (Junior) | Defense Information Systems Agency (DISA) | 2023-07 to Present
+Design and maintain ETL pipelines for SIGINT metadata. Implemented CDC for real-time data feeds. Tune queries in Redshift and orchestrate with Airflow. Ensure data validation and governance compliance for DISA networks.
+Signal Support Systems Specialist | U.S. Army | 2019-01 to 2022-06
+Install and troubleshoot tactical communications systems. Gained TS/SCI clearance. Learned network protocols and data transmission fundamentals.
+SKILLS
+Orchestration; Data transformation; Data governance; Performance tuning; Data warehousing; Metadata management; Change data capture; Data validation; Query tuning; Kappa architecture; Real-time data processing; dbt; Apache Airflow; Redshift; AWS Glue; Python; SQL; Spark; Kafka
+EDUCATION
+Associate of Applied Science | Information Systems Technology | Community College of the Air Force
+2020-09 to 2023-06
+PROJECTS
+Real-Time Analysis Dashboard
+Built a streaming pipeline using Kappa architecture to process real-time network telemetry for DISA. Implemented dbt transformations and Redshift for analytics. Technologies used: Apache Airflow, AWS Glue, Kafka.
+Signal Data Migration
+Migrated legacy Signal datasets to AWS Glue ETL jobs. Applied CDC techniques to ensure data consistency and validation during transition. Technologies used: Change data capture, Data validation.
+CERTIFICATIONS
+AWS Certified Big Data – Specialty
+Issued by AWS.
+2024-01

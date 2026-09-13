@@ -1,0 +1,21 @@
+Candidate P191
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Web Developer | DeKalb Avenue Creative | 2020-06 to Present
+Developed and maintained client websites using JAMstack architecture, focusing on performance, SEO, and security. Implemented cloud deployment and monitoring for multiple small business sites.
+Shift Supervisor | Fast Track Foods | 2014-05 to 2020-06
+Managed shift operations, supervised a team of 8, handled inventory and customer service. Maintained open communication with management, ensuring seamless daily workflow.
+SKILLS
+Cloud Deployment (AWS, Azure, GCP); Version Control (Git); SEO Basics; Monitoring and Logging; Event-driven Architecture; Web Security (OWASP); Caching Strategies; HTML; Next.js; Node.js; Express.js; Git; JavaScript; CSS; REST APIs
+EDUCATION
+Associate of Applied Science | Web Development | Rock Valley College
+2018-09 to 2020-06
+PROJECTS
+Local Business Site Overhaul
+Redesigned a local restaurant's website using Next.js and deployed to AWS. Improved load time by 50% and boosted SEO rankings, resulting in a 20% increase in online orders. Technologies used: Node.js, Git.
+Portfolio Showcase
+Built a personal portfolio site using a JAMstack approach with Next.js and integrated monitoring and logging to track visitor interactions. Showcased client work and freelance projects. Technologies used: Netlify, Git, Google Analytics.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2022-01

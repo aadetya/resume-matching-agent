@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "provenance": "Authored controlled comparisons. No independent human review. Transfer cases use occupations outside the original five engineering fixture families; these are not real resume accuracy estimates.",
+  "cases": [
+    {
+      "id": "MEANING_001",
+      "split": "development",
+      "category": "denial",
+      "domain": "backend",
+      "query": "Find a developer with professional Python experience.",
+      "supported": "Software Engineer, 2020\u20132025. Built and maintained Python web services for order processing.",
+      "insufficient": "Software Engineer, 2020\u20132025. No professional Python experience; interested in learning Python web services."
+    },
+    {
+      "id": "MEANING_002",
+      "split": "development",
+      "category": "denial",
+      "domain": "database",
+      "query": "Find a developer who has used PostgreSQL in production.",
+      "supported": "Database Developer, 2021\u20132025. Tuned PostgreSQL queries and maintained production database migrations.",
+      "insufficient": "Database Developer, 2021\u20132025. No production PostgreSQL experience; learned its terminology."
+    },
+    {
+      "id": "MEANING_003",
+      "split": "development",
+      "category": "attribution",
+      "domain": "backend",
+      "query": "Find someone who personally developed backend services.",
+      "supported": "Engineer, 2020\u20132025. Personally implemented the backend services; colleagues built the frontend.",
+      "insufficient": "Engineer, 2020\u20132025. Personally implemented the frontend; colleagues developed all backend services."
+    },
+    {
+      "id": "MEANING_004",
+      "split": "development",
+      "category": "coursework",
+      "domain": "web",
+      "query": "Find candidates with professional React development experience.",
+      "supported": "Web Developer, 2020\u20132025. Built React components and shipped customer-facing web releases.",
+      "insufficient": "Office Administrator, 2020\u20132025. Completed a React development course; has not used it professionally."
+    },
+    {
+      "id": "MEANING_005",
+      "split": "development",
+      "category": "scope",
+      "domain": "web",
+      "query": "Find a developer with React web experience; mobile-only React Native work is insufficient.",
+      "supported": "Developer, 2021\u20132025. Built React applications that run in desktop web browsers.",
+      "insufficient": "Developer, 2021\u20132025. Built only React Native mobile applications; no React web projects."
+    },
+    {
+      "id": "MEANING_006",
+      "split": "development",
+      "category": "implicit_absence",
+      "domain": "cloud",
+      "query": "Find an engineer who operated Kubernetes clusters.",
+      "supported": "Engineer, 2020\u20132025. Operated Kubernetes clusters and resolved scheduling incidents.",
+      "insufficient": "Engineer, 2020\u20132025. Kubernetes operations were outside my responsibilities; another team operated the clusters."
+    },
+    {
+      "id": "MEANING_007",
+      "split": "development",
+      "category": "unrelated_negation",
+      "domain": "python",
+      "query": "Find a professional Python developer.",
+      "supported": "Developer, 2020\u20132025. Built Python APIs. No Java experience.",
+      "insufficient": "Developer, 2020\u20132025. Built Java APIs. No Python experience."
+    },
+    {
+      "id": "MEANING_008",
+      "split": "development",
+      "category": "negative_word_positive",
+      "domain": "python",
+      "query": "Find candidates who developed Python services.",
+      "supported": "Developer, 2020\u20132025. Not only developed Python services but also maintained their deployment pipelines.",
+      "insufficient": "Developer, 2020\u20132025. Did not develop Python services; maintained office spreadsheets."
+    },
+    {
+      "id": "MEANING_009",
+      "split": "development",
+      "category": "conjunction",
+      "domain": "backend",
+      "query": "Find a developer who used both Python and SQL in professional work.",
+      "supported": "Developer, 2020\u20132025. Implemented Python APIs and SQL database queries in a production order system.",
+      "insufficient": "Developer, 2020\u20132025. Implemented Python APIs; SQL was handled exclusively by another team and is not a claimed skill."
+    },
+    {
+      "id": "MEANING_010",
+      "split": "development",
+      "category": "alternative",
+      "domain": "backend",
+      "query": "Find a backend developer using Python or Java; either is acceptable.",
+      "supported": "Backend Developer, 2021\u20132025. Developed Java services and tested their APIs.",
+      "insufficient": "Backend Developer, 2021\u20132025. No Python or Java experience; hopes to learn either language."
+    },
+    {
+      "id": "MEANING_011",
+      "split": "development",
+      "category": "scope_change",
+      "domain": "education",
+      "query": "Find someone who has studied Python; a completed course is sufficient.",
+      "supported": "Completed a Python programming course with assessed Python exercises.",
+      "insufficient": "Has not studied Python, enrolled in a course, or written Python code."
+    },
+    {
+      "id": "MEANING_012",
+      "split": "development",
+      "category": "cross_sentence",
+      "domain": "database",
+      "query": "Find someone with hands-on SQL query optimization experience.",
+      "supported": "Database Engineer, 2020\u20132025. SQL query optimization was my responsibility. I inspected execution plans and redesigned indexes.",
+      "insufficient": "Database Engineer, 2020\u20132025. SQL query optimization was discussed by the team. I did not participate in that work."
+    },
+    {
+      "id": "MEANING_013",
+      "split": "transfer",
+      "category": "denial",
+      "domain": "civil",
+      "query": "Find an engineer who designed prestressed concrete bridges.",
+      "supported": "Civil Engineer, 2018\u20132025. Designed prestressed concrete bridges and calculated tendon layouts.",
+      "insufficient": "Civil Engineer, 2018\u20132025. No experience designing prestressed concrete bridges or calculating tendon layouts."
+    },
+    {
+      "id": "MEANING_014",
+      "split": "transfer",
+      "category": "attribution",
+      "domain": "civil",
+      "query": "Find an engineer who personally performed seismic analysis of buildings.",
+      "supported": "Structural Engineer, 2019\u20132025. Personally performed building seismic analysis and reviewed load combinations.",
+      "insufficient": "Structural Engineer, 2019\u20132025. Colleagues performed all seismic analysis; my role was document control."
+    },
+    {
+      "id": "MEANING_015",
+      "split": "transfer",
+      "category": "coursework",
+      "domain": "accounting",
+      "query": "Find a candidate with professional experience conducting financial audits.",
+      "supported": "Audit Associate, 2020\u20132025. Conducted financial audits and tested financial statement evidence for clients.",
+      "insufficient": "Office Associate, 2020\u20132025. Took a financial auditing course but has never conducted a financial audit professionally."
+    },
+    {
+      "id": "MEANING_016",
+      "split": "transfer",
+      "category": "implicit_absence",
+      "domain": "localization",
+      "query": "Find a translator who translated Japanese technical manuals into English.",
+      "supported": "Technical Translator, 2019\u20132025. Translated Japanese technical manuals into English for equipment suppliers.",
+      "insufficient": "Technical Translator, 2019\u20132025. Japanese-to-English technical manuals were outside my language pair; I translated German material."
+    },
+    {
+      "id": "MEANING_017",
+      "split": "transfer",
+      "category": "unrelated_negation",
+      "domain": "mechanical",
+      "query": "Find an engineer who used SolidWorks in product design.",
+      "supported": "Product Engineer, 2020\u20132025. Used SolidWorks for mechanical assembly design. No CATIA experience.",
+      "insufficient": "Product Engineer, 2020\u20132025. Used CATIA for mechanical assembly design. No SolidWorks experience."
+    },
+    {
+      "id": "MEANING_018",
+      "split": "transfer",
+      "category": "negative_word_positive",
+      "domain": "logistics",
+      "query": "Find a logistics professional who managed cold-chain shipments.",
+      "supported": "Logistics Coordinator, 2020\u20132025. Not only managed cold-chain shipments but also investigated temperature excursions.",
+      "insufficient": "Logistics Coordinator, 2020\u20132025. Did not manage cold-chain shipments; routed ordinary parcels."
+    },
+    {
+      "id": "MEANING_019",
+      "split": "transfer",
+      "category": "conjunction",
+      "domain": "manufacturing",
+      "query": "Find someone with professional experience using both CNC milling and CAD.",
+      "supported": "Machinist, 2018\u20132025. Created CAD models and used CNC milling to manufacture the specified parts.",
+      "insufficient": "Machinist, 2018\u20132025. Created CAD models. CNC milling was outside my experience and handled by suppliers."
+    },
+    {
+      "id": "MEANING_020",
+      "split": "transfer",
+      "category": "alternative",
+      "domain": "languages",
+      "query": "Find a translator working in French or Spanish; either language qualifies.",
+      "supported": "Translator, 2019\u20132025. Translated Spanish technical contracts into English for clients.",
+      "insufficient": "Translator, 2019\u20132025. No French or Spanish translation experience; worked only with German."
+    },
+    {
+      "id": "MEANING_021",
+      "split": "transfer",
+      "category": "scope_change",
+      "domain": "design",
+      "query": "Find candidates who have studied industrial design; coursework is sufficient.",
+      "supported": "Completed an industrial design course and submitted assessed product design assignments.",
+      "insufficient": "Has not studied industrial design and has no design assignments or experience."
+    },
+    {
+      "id": "MEANING_022",
+      "split": "transfer",
+      "category": "cross_sentence",
+      "domain": "laboratory",
+      "query": "Find someone who personally performed HPLC method validation.",
+      "supported": "Analytical Scientist, 2020\u20132025. HPLC method validation was part of my work. I executed validation experiments and documented accuracy and precision.",
+      "insufficient": "Analytical Scientist, 2020\u20132025. HPLC method validation was part of the laboratory workflow. I did not perform it; another scientist conducted all validation experiments."
+    },
+    {
+      "id": "MEANING_023",
+      "split": "transfer",
+      "category": "aspiration",
+      "domain": "energy",
+      "query": "Find an engineer with experience commissioning solar inverters.",
+      "supported": "Electrical Engineer, 2020\u20132025. Commissioned solar inverters and verified grid connection settings.",
+      "insufficient": "Electrical Engineer, 2020\u20132025. Interested in commissioning solar inverters in a future role; has never commissioned one."
+    },
+    {
+      "id": "MEANING_024",
+      "split": "transfer",
+      "category": "scope",
+      "domain": "research",
+      "query": "Find a researcher who ran randomized controlled trials, not solely literature reviews.",
+      "supported": "Researcher, 2018\u20132025. Ran randomized controlled trials, monitored allocation, and collected participant outcomes.",
+      "insufficient": "Researcher, 2018\u20132025. Reviewed publications about randomized controlled trials; did not run or participate in any trials."
+    }
+  ]
+}

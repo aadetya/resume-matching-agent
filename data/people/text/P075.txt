@@ -1,0 +1,23 @@
+Candidate P075
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Backend Engineer | NonProfit Tech Solutions | 2023-08 to Present
+Lead backend development for donor management platform; implemented rate limiting and idempotent APIs to handle high-volume donations. Optimized SQL queries reducing response times by 40%.
+Security Engineer (Contract) | DevSecOps Consulting | 2022-06 to 2023-07
+Implemented authentication and authorization using JWT for client projects. Set up message queues with RabbitMQ for secure data processing.
+Junior Backend Developer | Tech Startup Incubator | 2021-01 to 2022-05
+Developed microservices with Node.js and MongoDB. Worked with Kubernetes for deployment and Terraform for infrastructure as code.
+SKILLS
+Load balancing; SQL optimization; Rate limiting; Message queues; Idempotency; GraphQL; JWT; Integration testing; Authentication and authorization; MySQL; Git; RabbitMQ; MongoDB; Kubernetes; Node.js; Terraform; AWS; Docker
+EDUCATION
+Bachelor of Science | Computer Science | University of Oregon
+2016-09 to 2020-06
+Certificate | Full Stack Web Development | Coding Dojo
+2020-09 to 2020-06
+PROJECTS
+Secure API Gateway
+Designed a rate-limited API gateway with authentication, using JWT and Redis for token storage. Technologies used: Node.js.
+CERTIFICATIONS
+AWS Certified Solutions Architect
+Issued by Amazon Web Services.
+2023-01

@@ -1,0 +1,55 @@
+%% Both node and edge sets come from the compiled graphs; prefixes avoid ID collisions.
+flowchart TB
+  subgraph workflow["Resume matching: connected conversation workflow"]
+    workflow___start__["START"]
+    workflow_parse_jd["Parse request"]
+    workflow_extract_requirements["Extract requirements"]
+    workflow_search_resumes["Search resumes"]
+    workflow_expand_search["Expand retrieval"]
+    workflow_rank_candidates["Rank candidates"]
+    workflow_generate_report["Generate report"]
+    workflow_human_feedback["Human feedback"]
+    workflow_compare_candidates["Compare candidates"]
+    workflow_interview_questions["Interview questions"]
+    workflow_file_tool["File tools"]
+    workflow_deep_screen["Detailed screening"]
+    workflow_final_screen["Recommendations"]
+    workflow_finish_review["Complete review"]
+    workflow___end__["END"]
+    workflow___start__ --> workflow_parse_jd
+    workflow_compare_candidates --> workflow_generate_report
+    workflow_deep_screen -.-> workflow_final_screen
+    workflow_deep_screen -.-> workflow_generate_report
+    workflow_expand_search -.-> workflow_generate_report
+    workflow_expand_search -.-> workflow_rank_candidates
+    workflow_extract_requirements -.-> workflow_generate_report
+    workflow_extract_requirements -.-> workflow_search_resumes
+    workflow_file_tool --> workflow_generate_report
+    workflow_final_screen --> workflow_generate_report
+    workflow_generate_report --> workflow_human_feedback
+    workflow_human_feedback --> workflow_parse_jd
+    workflow_interview_questions --> workflow_generate_report
+    workflow_parse_jd -.-> workflow_compare_candidates
+    workflow_parse_jd -.-> workflow_deep_screen
+    workflow_parse_jd -.-> workflow_extract_requirements
+    workflow_parse_jd -.-> workflow_file_tool
+    workflow_parse_jd -.-> workflow_final_screen
+    workflow_parse_jd -.-> workflow_finish_review
+    workflow_parse_jd -.-> workflow_generate_report
+    workflow_parse_jd -.-> workflow_interview_questions
+    workflow_rank_candidates --> workflow_generate_report
+    workflow_search_resumes -.-> workflow_expand_search
+    workflow_search_resumes -.-> workflow_generate_report
+    workflow_finish_review --> workflow___end__
+  end
+  subgraph review["Contextual reviewer: detailed evidence review"]
+    review___start__["START"]
+    review_extract_and_audit_work_history["Prepare work records"]
+    review_assess_requirements["Assess requirements"]
+    review_audit_evidence["Audit final evidence"]
+    review___end__["END"]
+    review___start__ --> review_extract_and_audit_work_history
+    review_assess_requirements --> review_audit_evidence
+    review_extract_and_audit_work_history --> review_assess_requirements
+    review_audit_evidence --> review___end__
+  end

@@ -1,0 +1,25 @@
+Candidate E046
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Machine Learning Engineer (Contract) | FraudScope AI | 2023-08 to Present
+Building fraud detection models for financial clients, handling everything from data ingestion to model monitoring. I shift between client projects and internal R&D, often working odd hours to align with client teams.
+Data Science Consultant (Freelance) | Self-employed | 2022-01 to 2023-07
+Took on short-term contracting projects, mostly focused on building recommendation systems and time-series forecasts for small businesses. The gigs were sporadic, with some weeks of intense work followed by lulls.
+Junior Data Analyst (Contract) | Antelope Valley Health Network | 2020-06 to 2021-12
+Supported the analytics team by building dashboards and running A/B tests on patient outreach. It was a six-month contract that turned into another contract, but the funding dried up and I moved on.
+Machine Learning Intern (Part-time) | Desert Data Labs | 2019-09 to 2020-05
+Assisted with model prototyping for client proof-of-concepts, mainly using LightGBM and XGBoost. I learned a lot about hyperparameter tuning and model monitoring during this internship.
+SKILLS
+Model Monitoring; LightGBM; Hyperparameter Tuning; A/B Testing; Python; Recommender Systems; Big Data Technologies; XGBoost; Matplotlib; MLflow; NumPy; Feature Engineering; Time Series Analysis
+EDUCATION
+Data Science | Coding Temple
+2019-09 to 2019-06
+PROJECTS
+Real-time Fraud Detection Dashboard
+Developed a monitoring dashboard that tracks model drift and accuracy for a fintech client, using MLflow and custom alerts. Technologies used: Python, LightGBM, Big Data Technologies.
+Movie Recommendation Engine
+Built a collaborative filtering model for a niche streaming service, improving engagement by 15% through A/B testing. Technologies used: Python, Recommender Systems, NumPy.
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2023-01

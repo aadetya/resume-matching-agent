@@ -1,0 +1,21 @@
+Candidate E003
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Full Stack Developer | Family-Owned Local Business | 2021-03 to Present
+Leading the frontend architecture for our e-commerce platform, building with Next.js and Angular while also designing and implementing GraphQL APIs, ensuring cross-browser compatibility and responsive design across all devices.
+Full Stack Developer | Local Solutions Inc. | 2016-04 to 2021-02
+Worked on a variety of client projects, from small business websites to internal tools, where I honed my skills in REST API design, PostgreSQL, and Redis, and gained exposure to microservices architecture.
+Junior Full Stack Developer | Boutique Web Agency | 2014-02 to 2016-03
+Started my career at a small agency where I built and maintained websites for local businesses, using Angular and basic backend technologies, and learned the importance of cross-browser compatibility and responsive design.
+SKILLS
+Next.js; Angular; GraphQL; REST API design; PostgreSQL; Redis; Microservices architecture; Authorization (RBAC, ABAC); Responsive design; Cross-browser compatibility; CI/CD pipelines; Google Cloud Platform; Firebase; Datadog; Sentry; npm/yarn/pnpm; VS Code; Slack
+EDUCATION
+Bachelor of Arts | Computer Science | Private Liberal Arts College
+2010-09 to 2014-06
+PROJECTS
+E-commerce Platform Overhaul
+Moved the company's e-commerce platform to a microservices architecture with Next.js and GraphQL, improving performance and maintainability. Technologies used: PostgreSQL, Redis, Docker.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2020-01

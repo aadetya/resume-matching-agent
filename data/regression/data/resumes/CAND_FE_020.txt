@@ -1,0 +1,24 @@
+Vikram Morgan
+cand_fe_020@example.test
+
+PROFILE
+Frontend Engineer working on maintainable systems, explicit checks, and documented operational decisions.
+
+
+Frontend Engineer | Mosaic Example Works | Jan 2019 - Jan 2021
+Built accessible account screens and reusable React components for a customer portal.
+Reduced repeated browser work by splitting large JavaScript bundles and caching static assets.
+Used TypeScript in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+Frontend Engineer | Cedar Fiction Studio | Jan 2023 - Jan 2025
+Built accessible account screens and reusable React components for a customer portal.
+Reduced repeated browser work by splitting large JavaScript bundles and caching static assets.
+Used TypeScript in delivery work, with peer review and documented failure cases.
+Owned a billing workflow; checked outputs against recorded examples before release.
+
+TECHNOLOGIES
+React, JavaScript, TypeScript
+
+EDUCATION
+Bachelor of Science | Fictional Institute of Technology

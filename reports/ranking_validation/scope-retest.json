@@ -1,0 +1,1647 @@
+{
+  "scope": "Direct connected interpretation checks, including three repeated attempts of the browser failure. No candidate rankings supplied and no human accuracy claim.",
+  "planner_sha256": "5109b8165757bf87ed2d9bb1e3c33cc675e883e68405ec1a0569905c081752ac",
+  "rows": [
+    {
+      "query": "backend dev 4+ years of experice with specialisation in using react",
+      "plan": {
+        "action": "search",
+        "requirements": {
+          "title": "Backend developer with React specialization and 4+ years of experience",
+          "role": "backend_developer",
+          "must_have": [
+            [
+              "react"
+            ]
+          ],
+          "nice_to_have": [],
+          "minimum_years": 4.0,
+          "skill_years": {},
+          "source_text": "backend dev 4+ years of experice with specialisation in using react",
+          "semantic_brief": "Screen for a backend developer role, requiring applied use of React, with at least 4 years of total professional experience. Equivalent backend developer work may satisfy the role; React specialization is interpreted as demonstrated personal application, without inventing additional technology or ownership requirements.",
+          "unresolved": [],
+          "capability_skills": [],
+          "evidence_standards": [],
+          "standards_signature": "",
+          "requirement_sources": [
+            {
+              "source_id": "request_1d9724c86eb4617c",
+              "kind": "user_request",
+              "text": "backend dev 4+ years of experice with specialisation in using react"
+            }
+          ],
+          "criterion_meanings": [
+            {
+              "criterion_id": "c_22ff6c7bfd44fe10",
+              "conditions": [
+                {
+                  "source_id": "request_1d9724c86eb4617c",
+                  "quote": "backend dev"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "role",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "role_or_equivalent_work"
+            },
+            {
+              "criterion_id": "c_d5975ae3654a99a8",
+              "conditions": [
+                {
+                  "source_id": "request_1d9724c86eb4617c",
+                  "quote": "specialisation in using react"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "application",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "personal_application"
+            },
+            {
+              "criterion_id": "c_17b00654333a3045",
+              "conditions": [
+                {
+                  "source_id": "request_1d9724c86eb4617c",
+                  "quote": "4+ years of experice"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "employment",
+              "experience_basis": "total_employment",
+              "evidence_scope": "all_employment"
+            }
+          ]
+        },
+        "changed_criterion_ids": [
+          "c_22ff6c7bfd44fe10",
+          "c_d5975ae3654a99a8",
+          "c_17b00654333a3045"
+        ],
+        "candidate_ids": [],
+        "top_n": 10,
+        "explanation": "Start a new candidate search for a backend developer with React specialization and at least four years of total professional experience.",
+        "file_tool_name": null,
+        "file_arguments": null
+      },
+      "trace": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "response": {
+              "action": "search",
+              "requirements": {
+                "title": "Backend developer with React specialization and 4+ years of experience",
+                "role": "backend_developer",
+                "required_skills": [
+                  "react"
+                ],
+                "alternative_skill_groups": [],
+                "nice_to_have": [],
+                "minimum_years": 4.0,
+                "skill_years": [],
+                "source_text": "backend dev 4+ years of experice with specialisation in using react",
+                "criterion_updates": [
+                  {
+                    "kind": "role",
+                    "alternatives": [
+                      "backend_developer"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "backend dev"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "role_or_equivalent_work"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "react"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "specialisation in using react"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "personal_application"
+                  },
+                  {
+                    "kind": "total_duration",
+                    "alternatives": [],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "4+ years of experice"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "all_employment"
+                  }
+                ],
+                "semantic_brief": "Screen for a backend developer role, requiring applied use of React, with at least 4 years of total professional experience. Equivalent backend developer work may satisfy the role; React specialization is interpreted as demonstrated personal application, without inventing additional technology or ownership requirements.",
+                "unresolved": [],
+                "capability_skills": []
+              },
+              "candidate_ids": [],
+              "top_n": 10,
+              "explanation": "Start a new candidate search for a backend developer with React specialization and at least four years of total professional experience.",
+              "file_tool_name": null,
+              "file_arguments": null
+            },
+            "validation_error": null,
+            "usage": {
+              "input_tokens": 3681,
+              "output_tokens": 344,
+              "total_tokens": 4025
+            }
+          }
+        ],
+        "usage": {
+          "input_tokens": 3681,
+          "output_tokens": 344,
+          "total_tokens": 4025
+        },
+        "model_calls": 1,
+        "usage_unknown_calls": 0
+      },
+      "seconds": 5.826803290983662
+    },
+    {
+      "query": "backend dev 4+ years of experice with specialisation in using react",
+      "plan": {
+        "action": "search",
+        "requirements": {
+          "title": "Backend Developer \u2014 React Specialist (4+ Years Experience)",
+          "role": "backend_developer",
+          "must_have": [
+            [
+              "react"
+            ]
+          ],
+          "nice_to_have": [],
+          "minimum_years": 4.0,
+          "skill_years": {},
+          "source_text": "backend dev 4+ years of experice with specialisation in using react",
+          "semantic_brief": "Backend developer role with React as a mandatory specialized skill and at least 4 years of total professional experience. Role fit may be shown through equivalent backend developer work; React specialization is accepted when claimed in source materials. Total experience includes all stated employment experience, including internships or employment during study when reported. No React-specific duration minimum is required.",
+          "unresolved": [],
+          "capability_skills": [],
+          "evidence_standards": [],
+          "standards_signature": "",
+          "requirement_sources": [
+            {
+              "source_id": "request_1d9724c86eb4617c",
+              "kind": "user_request",
+              "text": "backend dev 4+ years of experice with specialisation in using react"
+            }
+          ],
+          "criterion_meanings": [
+            {
+              "criterion_id": "c_22ff6c7bfd44fe10",
+              "conditions": [
+                {
+                  "source_id": "request_1d9724c86eb4617c",
+                  "quote": "backend dev"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "role",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "role_or_equivalent_work"
+            },
+            {
+              "criterion_id": "c_d5975ae3654a99a8",
+              "conditions": [
+                {
+                  "source_id": "request_1d9724c86eb4617c",
+                  "quote": "specialisation in using react"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_17b00654333a3045",
+              "conditions": [
+                {
+                  "source_id": "request_1d9724c86eb4617c",
+                  "quote": "4+ years of experice"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "employment",
+              "experience_basis": "total_employment",
+              "evidence_scope": "all_employment"
+            }
+          ]
+        },
+        "changed_criterion_ids": [
+          "c_22ff6c7bfd44fe10",
+          "c_d5975ae3654a99a8",
+          "c_17b00654333a3045"
+        ],
+        "candidate_ids": [],
+        "top_n": 10,
+        "explanation": "Start a new candidate search for a backend developer with React specialization and at least four years of total experience.",
+        "file_tool_name": null,
+        "file_arguments": null
+      },
+      "trace": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "response": {
+              "action": "search",
+              "requirements": {
+                "title": "Backend Developer \u2014 React Specialist (4+ Years Experience)",
+                "role": "backend_developer",
+                "required_skills": [
+                  "react"
+                ],
+                "alternative_skill_groups": [],
+                "nice_to_have": [],
+                "minimum_years": 4.0,
+                "skill_years": [],
+                "source_text": "backend dev 4+ years of experice with specialisation in using react",
+                "criterion_updates": [
+                  {
+                    "kind": "role",
+                    "alternatives": [
+                      "backend_developer"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "backend dev"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "role_or_equivalent_work"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "react"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "specialisation in using react"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "total_duration",
+                    "alternatives": [],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "4+ years of experice"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "all_employment"
+                  }
+                ],
+                "semantic_brief": "Backend developer role with React as a mandatory specialized skill and at least 4 years of total professional experience. Role fit may be shown through equivalent backend developer work; React specialization is accepted when claimed in source materials. Total experience includes all stated employment experience, including internships or employment during study when reported. No React-specific duration minimum is required.",
+                "unresolved": [],
+                "capability_skills": []
+              },
+              "candidate_ids": [],
+              "top_n": 10,
+              "explanation": "Start a new candidate search for a backend developer with React specialization and at least four years of total experience.",
+              "file_tool_name": null,
+              "file_arguments": null
+            },
+            "validation_error": null,
+            "usage": {
+              "input_tokens": 3681,
+              "output_tokens": 358,
+              "total_tokens": 4039
+            }
+          }
+        ],
+        "usage": {
+          "input_tokens": 3681,
+          "output_tokens": 358,
+          "total_tokens": 4039
+        },
+        "model_calls": 1,
+        "usage_unknown_calls": 0
+      },
+      "seconds": 5.724209166830406
+    },
+    {
+      "query": "backend dev 4+ years of experice with specialisation in using react",
+      "plan": {
+        "action": "search",
+        "requirements": {
+          "title": "Backend Developer with React Specialization",
+          "role": "backend_developer",
+          "must_have": [
+            [
+              "react"
+            ]
+          ],
+          "nice_to_have": [],
+          "minimum_years": 4.0,
+          "skill_years": {},
+          "source_text": "backend dev 4+ years of experice with specialisation in using react",
+          "semantic_brief": "Backend developer role with at least 4 years of total professional experience and demonstrated specialization through use of React. React is mandatory; no separate minimum duration for React is specified.",
+          "unresolved": [],
+          "capability_skills": [],
+          "evidence_standards": [],
+          "standards_signature": "",
+          "requirement_sources": [
+            {
+              "source_id": "request_1d9724c86eb4617c",
+              "kind": "user_request",
+              "text": "backend dev 4+ years of experice with specialisation in using react"
+            }
+          ],
+          "criterion_meanings": [
+            {
+              "criterion_id": "c_22ff6c7bfd44fe10",
+              "conditions": [
+                {
+                  "source_id": "request_1d9724c86eb4617c",
+                  "quote": "backend dev"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "role",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "role_or_equivalent_work"
+            },
+            {
+              "criterion_id": "c_d5975ae3654a99a8",
+              "conditions": [
+                {
+                  "source_id": "request_1d9724c86eb4617c",
+                  "quote": "specialisation in using react"
+                }
+              ],
+              "examples": [],
+              "assumptions": [
+                "React specialization is assessed through demonstrated use; no separate React-duration minimum is specified."
+              ],
+              "requested_depth": "application",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "personal_application"
+            },
+            {
+              "criterion_id": "c_17b00654333a3045",
+              "conditions": [
+                {
+                  "source_id": "request_1d9724c86eb4617c",
+                  "quote": "4+ years of experice"
+                }
+              ],
+              "examples": [],
+              "assumptions": [
+                "The 4+ years refers to total professional experience, including employment and internships unless otherwise specified."
+              ],
+              "requested_depth": "employment",
+              "experience_basis": "total_employment",
+              "evidence_scope": "all_employment"
+            }
+          ]
+        },
+        "changed_criterion_ids": [
+          "c_22ff6c7bfd44fe10",
+          "c_17b00654333a3045",
+          "c_d5975ae3654a99a8"
+        ],
+        "candidate_ids": [],
+        "top_n": 10,
+        "explanation": "Start a new candidate search for backend developers with at least four years of total experience and demonstrated React specialization.",
+        "file_tool_name": null,
+        "file_arguments": null
+      },
+      "trace": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "response": {
+              "action": "search",
+              "requirements": {
+                "title": "Backend Developer with React Specialization",
+                "role": "backend_developer",
+                "required_skills": [
+                  "react"
+                ],
+                "alternative_skill_groups": [],
+                "nice_to_have": [],
+                "minimum_years": 4.0,
+                "skill_years": [],
+                "source_text": "backend dev 4+ years of experice with specialisation in using react",
+                "criterion_updates": [
+                  {
+                    "kind": "role",
+                    "alternatives": [
+                      "backend_developer"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "backend dev"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "role_or_equivalent_work"
+                  },
+                  {
+                    "kind": "total_duration",
+                    "alternatives": [],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "4+ years of experice"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [
+                      "The 4+ years refers to total professional experience, including employment and internships unless otherwise specified."
+                    ],
+                    "evidence_scope": "all_employment"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "react"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "specialisation in using react"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [
+                      "React specialization is assessed through demonstrated use; no separate React-duration minimum is specified."
+                    ],
+                    "evidence_scope": "personal_application"
+                  }
+                ],
+                "semantic_brief": "Backend developer role with at least 4 years of total professional experience and demonstrated specialization through use of React. React is mandatory; no separate minimum duration for React is specified.",
+                "unresolved": [],
+                "capability_skills": []
+              },
+              "candidate_ids": [],
+              "top_n": 10,
+              "explanation": "Start a new candidate search for backend developers with at least four years of total experience and demonstrated React specialization.",
+              "file_tool_name": null,
+              "file_arguments": null
+            },
+            "validation_error": null,
+            "usage": {
+              "input_tokens": 3681,
+              "output_tokens": 355,
+              "total_tokens": 4036
+            }
+          }
+        ],
+        "usage": {
+          "input_tokens": 3681,
+          "output_tokens": 355,
+          "total_tokens": 4036
+        },
+        "model_calls": 1,
+        "usage_unknown_calls": 0
+      },
+      "seconds": 8.405506792012602
+    },
+    {
+      "query": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker.",
+      "plan": {
+        "action": "search",
+        "requirements": {
+          "title": "Backend Engineer \u2014 Python and SQL \u2014 3+ years overall; preferred FastAPI, PostgreSQL, Docker",
+          "role": "backend_developer",
+          "must_have": [
+            [
+              "python"
+            ],
+            [
+              "sql"
+            ]
+          ],
+          "nice_to_have": [
+            "fastapi",
+            "postgresql",
+            "docker"
+          ],
+          "minimum_years": 3.0,
+          "skill_years": {},
+          "source_text": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker.",
+          "semantic_brief": "Find candidates for the Backend Engineer role with Python and SQL as independently mandatory skills, at least 3 years of overall employment across any occupations and stated employment including internships or study-period employment, and FastAPI, PostgreSQL, and Docker as preferred rather than mandatory skills. Equivalent backend-engineering work may support the role; named technologies require evidence of the named technology unless explicitly stated otherwise.",
+          "unresolved": [],
+          "capability_skills": [],
+          "evidence_standards": [],
+          "standards_signature": "",
+          "requirement_sources": [
+            {
+              "source_id": "request_d5088d0a38166cdb",
+              "kind": "user_request",
+              "text": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker."
+            }
+          ],
+          "criterion_meanings": [
+            {
+              "criterion_id": "c_22ff6c7bfd44fe10",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "Find Backend Engineer candidates"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "role",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "role_or_equivalent_work"
+            },
+            {
+              "criterion_id": "c_1396d1486dd0a43d",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "with Python"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_6e8b2f2be6d8bc7b",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "and SQL"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_17b00654333a3045",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "at least 3 years of overall employment"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "employment",
+              "experience_basis": "total_employment",
+              "evidence_scope": "all_employment"
+            },
+            {
+              "criterion_id": "c_1722305b5be9169a",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "Prefer FastAPI"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_97bbc6b16a120afa",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "PostgreSQL"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_cda4a38e783b5630",
+              "conditions": [
+                {
+                  "source_id": "request_d5088d0a38166cdb",
+                  "quote": "Docker"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            }
+          ]
+        },
+        "changed_criterion_ids": [
+          "c_22ff6c7bfd44fe10",
+          "c_1396d1486dd0a43d",
+          "c_6e8b2f2be6d8bc7b",
+          "c_17b00654333a3045",
+          "c_1722305b5be9169a",
+          "c_97bbc6b16a120afa",
+          "c_cda4a38e783b5630"
+        ],
+        "candidate_ids": [],
+        "top_n": 10,
+        "explanation": "Start a new candidate search for Backend Engineer candidates meeting the mandatory Python, SQL, and 3-year overall employment criteria, ranking preferred FastAPI, PostgreSQL, and Docker experience positively.",
+        "file_tool_name": null,
+        "file_arguments": null
+      },
+      "trace": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "response": {
+              "action": "search",
+              "requirements": {
+                "title": "Backend Engineer \u2014 Python and SQL \u2014 3+ years overall; preferred FastAPI, PostgreSQL, Docker",
+                "role": "backend_engineer",
+                "required_skills": [
+                  "python",
+                  "sql"
+                ],
+                "alternative_skill_groups": [],
+                "nice_to_have": [
+                  "fastapi",
+                  "postgresql",
+                  "docker"
+                ],
+                "minimum_years": 3.0,
+                "skill_years": [],
+                "source_text": "Find Backend Engineer candidates with Python and SQL, and at least 3 years of overall employment. Prefer FastAPI, PostgreSQL, Docker.",
+                "criterion_updates": [
+                  {
+                    "kind": "role",
+                    "alternatives": [
+                      "backend_engineer"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Find Backend Engineer candidates"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "role_or_equivalent_work"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "python"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "with Python"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "sql"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "and SQL"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "total_duration",
+                    "alternatives": [],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "at least 3 years of overall employment"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "all_employment"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "fastapi"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Prefer FastAPI"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "postgresql"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "PostgreSQL"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "docker"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Docker"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  }
+                ],
+                "semantic_brief": "Find candidates for the Backend Engineer role with Python and SQL as independently mandatory skills, at least 3 years of overall employment across any occupations and stated employment including internships or study-period employment, and FastAPI, PostgreSQL, and Docker as preferred rather than mandatory skills. Equivalent backend-engineering work may support the role; named technologies require evidence of the named technology unless explicitly stated otherwise.",
+                "unresolved": [],
+                "capability_skills": []
+              },
+              "candidate_ids": [],
+              "top_n": 10,
+              "explanation": "Start a new candidate search for Backend Engineer candidates meeting the mandatory Python, SQL, and 3-year overall employment criteria, ranking preferred FastAPI, PostgreSQL, and Docker experience positively.",
+              "file_tool_name": null,
+              "file_arguments": null
+            },
+            "validation_error": null,
+            "usage": {
+              "input_tokens": 3694,
+              "output_tokens": 595,
+              "total_tokens": 4289
+            }
+          }
+        ],
+        "usage": {
+          "input_tokens": 3694,
+          "output_tokens": 595,
+          "total_tokens": 4289
+        },
+        "model_calls": 1,
+        "usage_unknown_calls": 0
+      },
+      "seconds": 6.69728337507695
+    },
+    {
+      "query": "Please shortlist people who have done Data Engineer work with both SQL and Apache Spark. They need at least three years of overall employment. Experience with Python, Airflow, Kafka would be useful but is optional.",
+      "plan": {
+        "action": "search",
+        "requirements": {
+          "title": "Data Engineer with SQL and Apache Spark",
+          "role": "data_engineer",
+          "must_have": [
+            [
+              "sql"
+            ],
+            [
+              "spark"
+            ]
+          ],
+          "nice_to_have": [
+            "python",
+            "airflow",
+            "kafka"
+          ],
+          "minimum_years": 3.0,
+          "skill_years": {},
+          "source_text": "Please shortlist people who have done Data Engineer work with both SQL and Apache Spark. They need at least three years of overall employment. Experience with Python, Airflow, Kafka would be useful but is optional.",
+          "semantic_brief": "Shortlist candidates who have performed Data Engineer work, have experience with both SQL and Apache Spark, and have at least three years of overall employment. Python, Airflow, and Kafka are preferred but not mandatory. Overall employment includes stated employment such as internships or student employment when documented; no full-time-only or literal-keyword restriction is imposed.",
+          "unresolved": [],
+          "capability_skills": [],
+          "evidence_standards": [],
+          "standards_signature": "",
+          "requirement_sources": [
+            {
+              "source_id": "request_cd2ac71e087ff291",
+              "kind": "user_request",
+              "text": "Please shortlist people who have done Data Engineer work with both SQL and Apache Spark. They need at least three years of overall employment. Experience with Python, Airflow, Kafka would be useful but is optional."
+            }
+          ],
+          "criterion_meanings": [
+            {
+              "criterion_id": "c_46d32c9582b89065",
+              "conditions": [
+                {
+                  "source_id": "request_cd2ac71e087ff291",
+                  "quote": "done Data Engineer work"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "role",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "role_or_equivalent_work"
+            },
+            {
+              "criterion_id": "c_6e8b2f2be6d8bc7b",
+              "conditions": [
+                {
+                  "source_id": "request_cd2ac71e087ff291",
+                  "quote": "with both SQL and Apache Spark"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_b1ff4d8b56aeb0e3",
+              "conditions": [
+                {
+                  "source_id": "request_cd2ac71e087ff291",
+                  "quote": "with both SQL and Apache Spark"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_17b00654333a3045",
+              "conditions": [
+                {
+                  "source_id": "request_cd2ac71e087ff291",
+                  "quote": "at least three years of overall employment"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "employment",
+              "experience_basis": "total_employment",
+              "evidence_scope": "all_employment"
+            },
+            {
+              "criterion_id": "c_1396d1486dd0a43d",
+              "conditions": [
+                {
+                  "source_id": "request_cd2ac71e087ff291",
+                  "quote": "Experience with Python, Airflow, Kafka would be useful but is optional"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_4f282cc1ae8e3009",
+              "conditions": [
+                {
+                  "source_id": "request_cd2ac71e087ff291",
+                  "quote": "Experience with Python, Airflow, Kafka would be useful but is optional"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_d02ad526b567f408",
+              "conditions": [
+                {
+                  "source_id": "request_cd2ac71e087ff291",
+                  "quote": "Experience with Python, Airflow, Kafka would be useful but is optional"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            }
+          ]
+        },
+        "changed_criterion_ids": [
+          "c_46d32c9582b89065",
+          "c_6e8b2f2be6d8bc7b",
+          "c_b1ff4d8b56aeb0e3",
+          "c_17b00654333a3045",
+          "c_1396d1486dd0a43d",
+          "c_4f282cc1ae8e3009",
+          "c_d02ad526b567f408"
+        ],
+        "candidate_ids": [],
+        "top_n": 10,
+        "explanation": "Start a new candidate search for Data Engineer experience, mandatory SQL and Apache Spark, at least three years of overall employment, and optional Python, Airflow, and Kafka experience.",
+        "file_tool_name": null,
+        "file_arguments": null
+      },
+      "trace": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "response": {
+              "action": "search",
+              "requirements": {
+                "title": "Data Engineer with SQL and Apache Spark",
+                "role": "data_engineer",
+                "required_skills": [
+                  "sql",
+                  "spark"
+                ],
+                "alternative_skill_groups": [],
+                "nice_to_have": [
+                  "python",
+                  "airflow",
+                  "kafka"
+                ],
+                "minimum_years": 3.0,
+                "skill_years": [],
+                "source_text": "Please shortlist people who have done Data Engineer work with both SQL and Apache Spark. They need at least three years of overall employment. Experience with Python, Airflow, Kafka would be useful but is optional.",
+                "criterion_updates": [
+                  {
+                    "kind": "role",
+                    "alternatives": [
+                      "data_engineer"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "done Data Engineer work"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "role_or_equivalent_work"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "sql"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "with both SQL and Apache Spark"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "spark"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "with both SQL and Apache Spark"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "total_duration",
+                    "alternatives": [],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "at least three years of overall employment"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "all_employment"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "python"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Experience with Python, Airflow, Kafka would be useful but is optional"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "airflow"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Experience with Python, Airflow, Kafka would be useful but is optional"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "kafka"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Experience with Python, Airflow, Kafka would be useful but is optional"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  }
+                ],
+                "semantic_brief": "Shortlist candidates who have performed Data Engineer work, have experience with both SQL and Apache Spark, and have at least three years of overall employment. Python, Airflow, and Kafka are preferred but not mandatory. Overall employment includes stated employment such as internships or student employment when documented; no full-time-only or literal-keyword restriction is imposed.",
+                "unresolved": [],
+                "capability_skills": []
+              },
+              "candidate_ids": [],
+              "top_n": 10,
+              "explanation": "Start a new candidate search for Data Engineer experience, mandatory SQL and Apache Spark, at least three years of overall employment, and optional Python, Airflow, and Kafka experience.",
+              "file_tool_name": null,
+              "file_arguments": null
+            },
+            "validation_error": null,
+            "usage": {
+              "input_tokens": 3707,
+              "output_tokens": 626,
+              "total_tokens": 4333
+            }
+          }
+        ],
+        "usage": {
+          "input_tokens": 3707,
+          "output_tokens": 626,
+          "total_tokens": 4333
+        },
+        "model_calls": 1,
+        "usage_unknown_calls": 0
+      },
+      "seconds": 6.593970375135541
+    },
+    {
+      "query": "Please shortlist people who have done Machine Learning Engineer work with both Python and PyTorch. They need at least three years of overall employment. Experience with Docker, statistics, observability would be useful but is optional.",
+      "plan": {
+        "action": "search",
+        "requirements": {
+          "title": "Machine Learning Engineer with Python and PyTorch",
+          "role": "machine_learning_engineer",
+          "must_have": [
+            [
+              "python"
+            ],
+            [
+              "pytorch"
+            ]
+          ],
+          "nice_to_have": [
+            "docker",
+            "statistics",
+            "observability"
+          ],
+          "minimum_years": 3.0,
+          "skill_years": {},
+          "source_text": "Please shortlist people who have done Machine Learning Engineer work with both Python and PyTorch. They need at least three years of overall employment. Experience with Docker, statistics, observability would be useful but is optional.",
+          "semantic_brief": "Shortlist candidates who have performed Machine Learning Engineer work, with both Python and PyTorch experience, and at least three years of overall employment. Docker, statistics, and observability are preferred but not mandatory. Related or equivalent role work is acceptable; overall employment includes stated employment across occupations, including internships or employment during study when documented. Skill evidence may be based on explicit resume claims; no literal keyword or full-time-only restriction is imposed.",
+          "unresolved": [],
+          "capability_skills": [],
+          "evidence_standards": [],
+          "standards_signature": "",
+          "requirement_sources": [
+            {
+              "source_id": "request_e49ec77f20096136",
+              "kind": "user_request",
+              "text": "Please shortlist people who have done Machine Learning Engineer work with both Python and PyTorch. They need at least three years of overall employment. Experience with Docker, statistics, observability would be useful but is optional."
+            }
+          ],
+          "criterion_meanings": [
+            {
+              "criterion_id": "c_2e76e92215841ab4",
+              "conditions": [
+                {
+                  "source_id": "request_e49ec77f20096136",
+                  "quote": "have done Machine Learning Engineer work"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "role",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "role_or_equivalent_work"
+            },
+            {
+              "criterion_id": "c_1396d1486dd0a43d",
+              "conditions": [
+                {
+                  "source_id": "request_e49ec77f20096136",
+                  "quote": "with both Python and PyTorch"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_37051f21873f0684",
+              "conditions": [
+                {
+                  "source_id": "request_e49ec77f20096136",
+                  "quote": "with both Python and PyTorch"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_17b00654333a3045",
+              "conditions": [
+                {
+                  "source_id": "request_e49ec77f20096136",
+                  "quote": "at least three years of overall employment"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "employment",
+              "experience_basis": "total_employment",
+              "evidence_scope": "all_employment"
+            },
+            {
+              "criterion_id": "c_cda4a38e783b5630",
+              "conditions": [
+                {
+                  "source_id": "request_e49ec77f20096136",
+                  "quote": "Experience with Docker, statistics, observability would be useful but is optional"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_aa60686bb0e574f4",
+              "conditions": [
+                {
+                  "source_id": "request_e49ec77f20096136",
+                  "quote": "Experience with Docker, statistics, observability would be useful but is optional"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            },
+            {
+              "criterion_id": "c_99b7043902e5c539",
+              "conditions": [
+                {
+                  "source_id": "request_e49ec77f20096136",
+                  "quote": "Experience with Docker, statistics, observability would be useful but is optional"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "presence",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "source_claim"
+            }
+          ]
+        },
+        "changed_criterion_ids": [
+          "c_2e76e92215841ab4",
+          "c_1396d1486dd0a43d",
+          "c_37051f21873f0684",
+          "c_17b00654333a3045",
+          "c_cda4a38e783b5630",
+          "c_aa60686bb0e574f4",
+          "c_99b7043902e5c539"
+        ],
+        "candidate_ids": [],
+        "top_n": 10,
+        "explanation": "Start a new candidate search for Machine Learning Engineer work requiring Python, PyTorch, and at least three years of overall employment, while treating Docker, statistics, and observability as optional preferences.",
+        "file_tool_name": null,
+        "file_arguments": null
+      },
+      "trace": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "response": {
+              "action": "search",
+              "requirements": {
+                "title": "Machine Learning Engineer with Python and PyTorch",
+                "role": "machine_learning_engineer",
+                "required_skills": [
+                  "python",
+                  "pytorch"
+                ],
+                "alternative_skill_groups": [],
+                "nice_to_have": [
+                  "docker",
+                  "statistics",
+                  "observability"
+                ],
+                "minimum_years": 3.0,
+                "skill_years": [],
+                "source_text": "Please shortlist people who have done Machine Learning Engineer work with both Python and PyTorch. They need at least three years of overall employment. Experience with Docker, statistics, observability would be useful but is optional.",
+                "criterion_updates": [
+                  {
+                    "kind": "role",
+                    "alternatives": [
+                      "machine_learning_engineer"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "have done Machine Learning Engineer work"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "role_or_equivalent_work"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "python"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "with both Python and PyTorch"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "pytorch"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "with both Python and PyTorch"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "total_duration",
+                    "alternatives": [],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "at least three years of overall employment"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "all_employment"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "docker"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Experience with Docker, statistics, observability would be useful but is optional"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "statistics"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Experience with Docker, statistics, observability would be useful but is optional"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  },
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "observability"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "Experience with Docker, statistics, observability would be useful but is optional"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "source_claim"
+                  }
+                ],
+                "semantic_brief": "Shortlist candidates who have performed Machine Learning Engineer work, with both Python and PyTorch experience, and at least three years of overall employment. Docker, statistics, and observability are preferred but not mandatory. Related or equivalent role work is acceptable; overall employment includes stated employment across occupations, including internships or employment during study when documented. Skill evidence may be based on explicit resume claims; no literal keyword or full-time-only restriction is imposed.",
+                "unresolved": [],
+                "capability_skills": []
+              },
+              "candidate_ids": [],
+              "top_n": 10,
+              "explanation": "Start a new candidate search for Machine Learning Engineer work requiring Python, PyTorch, and at least three years of overall employment, while treating Docker, statistics, and observability as optional preferences.",
+              "file_tool_name": null,
+              "file_arguments": null
+            },
+            "validation_error": null,
+            "usage": {
+              "input_tokens": 3708,
+              "output_tokens": 654,
+              "total_tokens": 4362
+            }
+          }
+        ],
+        "usage": {
+          "input_tokens": 3708,
+          "output_tokens": 654,
+          "total_tokens": 4362
+        },
+        "model_calls": 1,
+        "usage_unknown_calls": 0
+      },
+      "seconds": 7.533495708135888
+    },
+    {
+      "query": "Find candidates with 3 years of hands-on Python as a substantive job responsibility; isolated scripts do not count for the whole job.",
+      "plan": {
+        "action": "search",
+        "requirements": {
+          "title": "Candidates with 3 years of hands-on Python responsibility",
+          "role": null,
+          "must_have": [
+            [
+              "python"
+            ]
+          ],
+          "nice_to_have": [],
+          "minimum_years": 0.0,
+          "skill_years": {
+            "python": 3.0
+          },
+          "source_text": "Find candidates with 3 years of hands-on Python as a substantive job responsibility; isolated scripts do not count for the whole job.",
+          "semantic_brief": "Candidates must have hands-on Python experience for at least 3 years, with Python being a substantive job responsibility rather than limited to isolated scripts. No specific role or total-experience minimum is required.",
+          "unresolved": [],
+          "capability_skills": [],
+          "evidence_standards": [],
+          "standards_signature": "",
+          "requirement_sources": [
+            {
+              "source_id": "request_afaf5c1c710c9289",
+              "kind": "user_request",
+              "text": "Find candidates with 3 years of hands-on Python as a substantive job responsibility; isolated scripts do not count for the whole job."
+            }
+          ],
+          "criterion_meanings": [
+            {
+              "criterion_id": "c_1396d1486dd0a43d",
+              "conditions": [
+                {
+                  "source_id": "request_afaf5c1c710c9289",
+                  "quote": "hands-on Python as a substantive job responsibility"
+                },
+                {
+                  "source_id": "request_afaf5c1c710c9289",
+                  "quote": "isolated scripts do not count for the whole job"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "application",
+              "experience_basis": "not_applicable",
+              "evidence_scope": "personal_application"
+            },
+            {
+              "criterion_id": "c_2632e55252787a62",
+              "conditions": [
+                {
+                  "source_id": "request_afaf5c1c710c9289",
+                  "quote": "3 years of hands-on Python"
+                }
+              ],
+              "examples": [],
+              "assumptions": [],
+              "requested_depth": "employment",
+              "experience_basis": "skill_related_employment",
+              "evidence_scope": "skill_related_employment"
+            }
+          ]
+        },
+        "changed_criterion_ids": [
+          "c_1396d1486dd0a43d",
+          "c_2632e55252787a62"
+        ],
+        "candidate_ids": [],
+        "top_n": 10,
+        "explanation": "Start a new candidate search for at least three years of substantive, hands-on Python job responsibility; isolated scripts alone do not qualify.",
+        "file_tool_name": null,
+        "file_arguments": null
+      },
+      "trace": {
+        "attempts": [
+          {
+            "attempt": 1,
+            "response": {
+              "action": "search",
+              "requirements": {
+                "title": "Candidates with 3 years of hands-on Python responsibility",
+                "role": null,
+                "required_skills": [
+                  "python"
+                ],
+                "alternative_skill_groups": [],
+                "nice_to_have": [],
+                "minimum_years": 0.0,
+                "skill_years": [
+                  {
+                    "skill": "python",
+                    "years": 3.0
+                  }
+                ],
+                "source_text": "Find candidates with 3 years of hands-on Python as a substantive job responsibility; isolated scripts do not count for the whole job.",
+                "criterion_updates": [
+                  {
+                    "kind": "skill",
+                    "alternatives": [
+                      "python"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "hands-on Python as a substantive job responsibility"
+                      },
+                      {
+                        "source_id": "current_request",
+                        "quote": "isolated scripts do not count for the whole job"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "personal_application"
+                  },
+                  {
+                    "kind": "skill_duration",
+                    "alternatives": [
+                      "python"
+                    ],
+                    "change": "meaning",
+                    "conditions": [
+                      {
+                        "source_id": "current_request",
+                        "quote": "3 years of hands-on Python"
+                      }
+                    ],
+                    "examples": [],
+                    "assumptions": [],
+                    "evidence_scope": "skill_related_employment"
+                  }
+                ],
+                "semantic_brief": "Candidates must have hands-on Python experience for at least 3 years, with Python being a substantive job responsibility rather than limited to isolated scripts. No specific role or total-experience minimum is required.",
+                "unresolved": [],
+                "capability_skills": []
+              },
+              "candidate_ids": [],
+              "top_n": 10,
+              "explanation": "Start a new candidate search for at least three years of substantive, hands-on Python job responsibility; isolated scripts alone do not qualify.",
+              "file_tool_name": null,
+              "file_arguments": null
+            },
+            "validation_error": null,
+            "usage": {
+              "input_tokens": 3692,
+              "output_tokens": 327,
+              "total_tokens": 4019
+            }
+          }
+        ],
+        "usage": {
+          "input_tokens": 3692,
+          "output_tokens": 327,
+          "total_tokens": 4019
+        },
+        "model_calls": 1,
+        "usage_unknown_calls": 0
+      },
+      "seconds": 4.671162375016138
+    }
+  ]
+}

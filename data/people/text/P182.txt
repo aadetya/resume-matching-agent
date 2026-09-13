@@ -1,0 +1,23 @@
+Candidate P182
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior Fintech Engineer | Delta Financial Systems | 2021-06 to 2023-08
+Developed and maintained cloud-native payment processing services, integrating tokenization and API security measures. Assisted in building fault-tolerant transaction systems and automated reconciliation workflows.
+Fintech Engineer | Meridian Core Banking Solutions | 2023-09 to Present
+Design and implement low-latency core banking modules, focusing on regulatory reporting and fraud detection. Collaborate with cross-functional teams to ensure PCI DSS compliance and optimize system performance using Kubernetes and Grafana.
+SKILLS
+fault-tolerant system design; payment gateway integration; API security; tokenization; system reconciliation; smart contract development; PCI DSS compliance; fraud detection algorithms; risk management systems; distributed ledger technology; low-latency programming; regulatory reporting; Java; Go; Python; C++; Docker; Rust; SQL
+EDUCATION
+Certificate in Full Stack Web Development | Computer Science | Community College of Shreveport
+2019-09 to 2020-06
+Certificate in Fintech Engineering | Fintech | Online Bootcamp
+2020-09 to 2021-06
+PROJECTS
+Peer-to-Peer Lending DApp
+Built a decentralized lending platform using smart contracts on Ethereum, implementing tokenization and ensuring transaction integrity. Technologies used: Solidity, Node.js, React.
+Real-time Fraud Detection System
+Developed a fraud detection algorithm using machine learning models in Python, integrated with a monitoring dashboard. Technologies used: TensorFlow, Grafana, Kafka.
+CERTIFICATIONS
+Certified Blockchain Professional (CBP)
+Issued by Blockchain Council.
+2022-01

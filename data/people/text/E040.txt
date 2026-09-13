@@ -1,0 +1,32 @@
+Candidate E040
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+HR Operations Manager | Lone Star Energy Cooperative | 2018-03 to Present
+Lead a team of 5 HR ops specialists overseeing full employee lifecycle for 1,200 employees. Reduced onboarding time by 30% through process automation and standardized workflows. Manage $2M annual HR budget and drive workforce analytics reporting.
+Senior HR Operations Analyst | Texas Municipal Power Agency | 2015-01 to 2018-02
+Performed salary analysis and HR metrics reporting for 600 employees. Implemented SuccessFactors and improved data quality, reducing reporting errors by 25%. Coordinated cross-functional projects to streamline onboarding and offboarding.
+HR Operations Analyst | GridPower Cooperative | 2012-06 to 2014-12
+Managed end-to-end onboarding and offboarding processes for 200 employees, reducing paperwork time by 40% using DocuSign. Created Excel dashboards for turnover and headcount trends. Supported HR policy implementation and compliance audits.
+HR Generalist | North Texas Utility Services | 2010-03 to 2012-05
+Administered employee records and payroll data in ADP Workforce Now. Assisted in benefits administration and HR reporting. Participated in process improvement initiatives that cut data entry errors by 15%.
+HR Assistant | Community College District | 2007-01 to 2010-02
+Supported HR team with file management and scheduling. Assisted in onboarding documentation and data entry. Gained foundational knowledge of HR policies and employee lifecycle.
+SKILLS
+Salary analysis; HR project coordination; Employee lifecycle management; Onboarding coordination; HR metrics reporting; Excel advanced functions; SQL querying; HR policy implementation; Statistical analysis; Data quality management; Workforce analytics; Process improvement; BambooHR; ADP Workforce Now; SAP SuccessFactors; DocuSign
+EDUCATION
+Master of Science | Human Resource Management | University of Texas at Arlington
+2007-09 to 2009-06
+Bachelor of Business Administration | Management | Texas A&M University
+2002-09 to 2006-06
+PROJECTS
+Onboarding Automation Project
+Led redesign of onboarding workflow, reducing manual steps by 50% and cutting time-to-productivity by 3 days. Implemented DocuSign e-signatures and integrated with BambooHR.
+HR Metrics Dashboard
+Developed real-time dashboard using Excel and SQL to track headcount, turnover, and time-to-hire, enabling data-driven decisions for leadership.
+CERTIFICATIONS
+PHR (Professional in Human Resources)
+Issued by HRCI.
+2011-01
+Six Sigma Green Belt
+Issued by ASQ.
+2016-01

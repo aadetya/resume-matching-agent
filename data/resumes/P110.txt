@@ -1,0 +1,19 @@
+Candidate P110
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Full Stack Developer | National Non-Profit for Community Health | 2023-02 to Present
+Full Stack Developer | Civic Tech Solutions | 2021-08 to 2023-01
+Full Stack Developer | DataSystems Inc. | 2020-01 to 2021-07
+Web Developer | State of Connecticut IT Services | 2018-05 to 2019-12
+Frontend Developer | Marketing Agency X | 2016-10 to 2018-03
+Junior Web Developer | Web Designs Co. | 2015-01 to 2016-08
+Web Developer Intern | Tech Start-up | 2014-05 to 2014-08
+SKILLS
+JavaScript (ES6+); Node.js; Express.js; PostgreSQL; HTML5; CSS3; CI/CD pipelines; Docker; Web performance optimization; End-to-end testing (Cypress, Playwright); Cross-browser compatibility; Firebase; Figma; Slack; Sentry; VS Code; Vercel; Git
+EDUCATION
+Bachelor of Science | Computer Science | University of Washington
+2010-09 to 2014-06
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2021-01

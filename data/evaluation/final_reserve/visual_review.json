@@ -1,0 +1,515 @@
+{
+  "schema_version": 1,
+  "review_type": "agent visual inspection plus deterministic extraction and page geometry checks",
+  "human_review": false,
+  "sealed_manifest_sha256": "b1f847ebb9b9bfb187661239e325ffdf8be8f0753f3be4284e8fe8c5f788a84e",
+  "sealed_judgments_sha256": "68f7302bbb63513e71315f24d69d74827d97b82068e2fc36525c6afff7b9b52c",
+  "binary_documents_rendered": 40,
+  "pdf_documents": 25,
+  "docx_documents": 15,
+  "rendered_pages": 43,
+  "contact_sheets_visually_inspected": 11,
+  "all_canonical_texts_match_runner_case_bytes": true,
+  "all_source_lines_preserved_by_file_tool_extraction": true,
+  "all_file_hashes_match_manifest": true,
+  "page_bounds_violations": [],
+  "visual_findings": [],
+  "layout_notes": [
+    "R014 and R044 PDF exports have a second page containing a complete certification section.",
+    "R027 DOCX export has a second page containing a complete certification section.",
+    "Sparse source profiles retain their source content without invented filler."
+  ],
+  "scope": "All 43 rendered PDF/DOCX pages visually inspected for readable text, clipping, overlap and missing characters. All 50 files checked for preservation of every canonical source line after whitespace normalization. Rendering adds page furniture and extraction normalizes whitespace, so binary extraction is not claimed byte-identical to canonical TXT.",
+  "documents": [
+    {
+      "candidate_id": "R001",
+      "format": "pdf",
+      "canonical_sha256": "8962d87d63d85d781f98c8ff4f07fa6c55fb8bb744cf4d671a6e7a02b4f214ab",
+      "file_sha256": "de50c4e347d4baff1bf1db75c1eff08222e7035377b1386dd25549e9b166e170",
+      "source_lines": 23,
+      "source_lines_found": 23,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R002",
+      "format": "pdf",
+      "canonical_sha256": "b24090549eec55b71d82fdb9453d6e47ce507940542ba82eca0d85e67159b4ab",
+      "file_sha256": "1013ff41054787124e4c811de56658a310912eeed96af6c64fbd3a01bbebc47e",
+      "source_lines": 15,
+      "source_lines_found": 15,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R003",
+      "format": "pdf",
+      "canonical_sha256": "256877ecccc73fec3d79bbec8dcd046f6e931e815a32a6c417d53fdaa7b2ee3d",
+      "file_sha256": "568bc87ec5ba38220b5fd652de5d20e9ff6f64aa90790d5c73adc621ce5acbe6",
+      "source_lines": 28,
+      "source_lines_found": 28,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R004",
+      "format": "pdf",
+      "canonical_sha256": "18ccca401201b8a163ab44a4d34da40eee26541ecaa7db43ec97dc38afc991ed",
+      "file_sha256": "6dddf8b606325a4aaec1f757ef0fd95ffd06e7f5225d37ded4422c8000243db2",
+      "source_lines": 19,
+      "source_lines_found": 19,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R005",
+      "format": "pdf",
+      "canonical_sha256": "ddd7d4b4331adf01d3daf4886d3d38e8b7489765576b16fd57439a9190d7d139",
+      "file_sha256": "58718b00caa7cc5f57104ed00307f63dfedb9af6985ee985fee39d37aada63b9",
+      "source_lines": 25,
+      "source_lines_found": 25,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R006",
+      "format": "docx",
+      "canonical_sha256": "e4dd0b68fed10449a35a6b252bb79485e8cccfd680ddd59e1b06f650f5838290",
+      "file_sha256": "0bfab8f962c0485a41e982164a8776d7b6b8ce03376a64b6a06cfc66dd2a7da9",
+      "source_lines": 25,
+      "source_lines_found": 25,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R007",
+      "format": "docx",
+      "canonical_sha256": "7f1c55ea4bdc92cbd4d3f9421dc0bc6a20df962a362c4209665f333a95a2c903",
+      "file_sha256": "fdb239dfeb967da93f33c2acb4556462d64c36a50e694fe4f8ee6d19bf5a0b33",
+      "source_lines": 21,
+      "source_lines_found": 21,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R008",
+      "format": "docx",
+      "canonical_sha256": "1ba3b7950ed1559bcddfe0b54d6ab305f2ee15d4c1b1f26933dd25b64b514133",
+      "file_sha256": "4c4349347ac7731cd2db43fa220507d6448af21a1057abc4ea6d0155fe466949",
+      "source_lines": 21,
+      "source_lines_found": 21,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R009",
+      "format": "txt",
+      "canonical_sha256": "f2cfb93860ec543a1b0f06c835232c4590db22e997327cdcfea3c378b6636f6f",
+      "file_sha256": "f2cfb93860ec543a1b0f06c835232c4590db22e997327cdcfea3c378b6636f6f",
+      "source_lines": 30,
+      "source_lines_found": 30,
+      "text_exact": false
+    },
+    {
+      "candidate_id": "R010",
+      "format": "txt",
+      "canonical_sha256": "2b292344909ec4d1c21189bd4ae7d566d488dc5660ba840052280aeddddf92bf",
+      "file_sha256": "2b292344909ec4d1c21189bd4ae7d566d488dc5660ba840052280aeddddf92bf",
+      "source_lines": 9,
+      "source_lines_found": 9,
+      "text_exact": false
+    },
+    {
+      "candidate_id": "R011",
+      "format": "pdf",
+      "canonical_sha256": "14ebae3995f22e7031e6715870dccfb9110122f17cd90d7efcb0e46165e82a6b",
+      "file_sha256": "cdf23da7fe14718679bd1fa972cdffe7c4b4ec8d265f65fb395cd72cbf2136f1",
+      "source_lines": 29,
+      "source_lines_found": 29,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R012",
+      "format": "pdf",
+      "canonical_sha256": "bf3fe223fc17b1aed03445045f3611af9808029b9f5127fc7576489dc664c62a",
+      "file_sha256": "c5f738bcbaa88f78b1d188d59e38336dac2e7aa60fc9f16f16540f736cda8676",
+      "source_lines": 21,
+      "source_lines_found": 21,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R013",
+      "format": "pdf",
+      "canonical_sha256": "a1a7496e0bd36fc3e23f1ec74d164b50e9faaa7fe3dab69724c66fc6ca8b5b03",
+      "file_sha256": "32d119d6c474d3a841519b5da08525b8ec18ac75d119774106744103e0b2402e",
+      "source_lines": 19,
+      "source_lines_found": 19,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R014",
+      "format": "pdf",
+      "canonical_sha256": "04a4028f0541be3adda622ce4c40813f78923dd2b17c30a7b6f182927624106c",
+      "file_sha256": "547bac2e7ec4d0818812ae28e8679ba8877d0b36b38d85b11bd4b8ec777dc675",
+      "source_lines": 34,
+      "source_lines_found": 34,
+      "text_exact": false,
+      "rendered_pages": 2
+    },
+    {
+      "candidate_id": "R015",
+      "format": "pdf",
+      "canonical_sha256": "999c7c46c051b99789112f4ddbfff05755d45dd946b44c84ee5d5f4a93fb355f",
+      "file_sha256": "9c657846d4de84d18a046f49c9abef1e0a381f015473ded9b3c91e1eaffe8f79",
+      "source_lines": 25,
+      "source_lines_found": 25,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R016",
+      "format": "docx",
+      "canonical_sha256": "2d93964d8bf7c1166a55b6539e45d25b88499808b606a0ec159d5be4e0757819",
+      "file_sha256": "71f97c76817c51e913f426535f2ddc91294fc3a99e3074ae79d32686658a440d",
+      "source_lines": 9,
+      "source_lines_found": 9,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R017",
+      "format": "docx",
+      "canonical_sha256": "e49f79e050162ae4e3b6bf25c106d8e65f2a89e2859847c80a174ac3d9821ce9",
+      "file_sha256": "26181e1546887b5d142df7292e3d3868b8c3bddb745c893d348923ccd25e1f17",
+      "source_lines": 28,
+      "source_lines_found": 28,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R018",
+      "format": "docx",
+      "canonical_sha256": "bdc5162f6e5c6d18b576b681db05bffbe1493ad7289d54e344f13f89f555ef40",
+      "file_sha256": "1083a72b5d167dcd31d5eec40a8718e8074f1b16b2d6c30cacc13c1bf4b5f3ba",
+      "source_lines": 9,
+      "source_lines_found": 9,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R019",
+      "format": "txt",
+      "canonical_sha256": "f4dfab8d8a3c2fdf9b261d8e05f581a765bfae48a7f3a5a2b1c1a6db5ee72227",
+      "file_sha256": "f4dfab8d8a3c2fdf9b261d8e05f581a765bfae48a7f3a5a2b1c1a6db5ee72227",
+      "source_lines": 21,
+      "source_lines_found": 21,
+      "text_exact": false
+    },
+    {
+      "candidate_id": "R020",
+      "format": "txt",
+      "canonical_sha256": "b8730abeb4933241da8ce669304976fd9bc41d6acefd28ac253e017f7c27ab4a",
+      "file_sha256": "b8730abeb4933241da8ce669304976fd9bc41d6acefd28ac253e017f7c27ab4a",
+      "source_lines": 25,
+      "source_lines_found": 25,
+      "text_exact": false
+    },
+    {
+      "candidate_id": "R021",
+      "format": "pdf",
+      "canonical_sha256": "43d51aad33ce9ce112fe784cef7ee89c1ea4969ef8fa43a0c3eca3485d5558f0",
+      "file_sha256": "8901ea282e49043cf56cc9ca9a1d34aa87bf08c1dc9b93d9cf9e8e183e0d4a53",
+      "source_lines": 23,
+      "source_lines_found": 23,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R022",
+      "format": "pdf",
+      "canonical_sha256": "eb17912020a1093777592712e236b34184d2a35c850c40b761b11954f96e8bcc",
+      "file_sha256": "ddecf189b9b176d182ec4a6753a43986ef46f2a3bc9761f9570975d1d8159874",
+      "source_lines": 21,
+      "source_lines_found": 21,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R023",
+      "format": "pdf",
+      "canonical_sha256": "f828c65dda42c2e3ec7b6660044d273a39e8f8492d00399dc2f84435db011d71",
+      "file_sha256": "182d24205c03bfa55596337044cdd6bbaf28200ad18de15243f23e2f66a966cf",
+      "source_lines": 21,
+      "source_lines_found": 21,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R024",
+      "format": "pdf",
+      "canonical_sha256": "b1b304bd59022ead2922b96dc50808e05cb0a98d87dc03b1d00f075db54fecd5",
+      "file_sha256": "d34f78846969a64074ffd8e11064f4076998e467658d60a0d167d39fc001f794",
+      "source_lines": 26,
+      "source_lines_found": 26,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R025",
+      "format": "pdf",
+      "canonical_sha256": "6a715f58430b079cdbeea55bf42d0176cb140c41bc5763aaf9a2b7f5f80ca21d",
+      "file_sha256": "a2f722e02fce6d5cbb5857ede72f66344672dbca9b3f1fd9a9ff6ae54e533e04",
+      "source_lines": 21,
+      "source_lines_found": 21,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R026",
+      "format": "docx",
+      "canonical_sha256": "5e8b8eeef55417c800a5794e7cd5061698c3e2455a7efc40be7a0e06cf02e228",
+      "file_sha256": "b0a4961e9bedaacc43de95a69c130c4df22e3218aeb49350dc1d7351a71b41b2",
+      "source_lines": 21,
+      "source_lines_found": 21,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R027",
+      "format": "docx",
+      "canonical_sha256": "4b7599faf11f053e11e3f08dcadbd3a45f259104be54d764ba0a3bf8ff906bf3",
+      "file_sha256": "3263e9a246b33bcfcbe3f0d6e0361be9a1a9bacdd3cc8423949857d2ba4db3b8",
+      "source_lines": 30,
+      "source_lines_found": 30,
+      "text_exact": false,
+      "rendered_pages": 2
+    },
+    {
+      "candidate_id": "R028",
+      "format": "docx",
+      "canonical_sha256": "34107ea6343171214bab76a0f74a19b8926edef8372812be83b5dfdf5055ccb6",
+      "file_sha256": "7c98ece5ed1980aa640f3549fba00ba4dd9309db5d2a99183b98067682a29022",
+      "source_lines": 9,
+      "source_lines_found": 9,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R029",
+      "format": "txt",
+      "canonical_sha256": "41d1e9045aadcd5224d78212f69f5afa1ba1ebfe4be9bb9ba35118821edc6b0e",
+      "file_sha256": "41d1e9045aadcd5224d78212f69f5afa1ba1ebfe4be9bb9ba35118821edc6b0e",
+      "source_lines": 34,
+      "source_lines_found": 34,
+      "text_exact": false
+    },
+    {
+      "candidate_id": "R030",
+      "format": "txt",
+      "canonical_sha256": "b0348203ba890c2729717ec263fcf4acde26a69dc69cd9c3aa1abff6037a1edc",
+      "file_sha256": "b0348203ba890c2729717ec263fcf4acde26a69dc69cd9c3aa1abff6037a1edc",
+      "source_lines": 21,
+      "source_lines_found": 21,
+      "text_exact": false
+    },
+    {
+      "candidate_id": "R031",
+      "format": "pdf",
+      "canonical_sha256": "71f3371852b80b6e15f6c7d1757d6643615446c496aba6452a4ceb6cb6c3e0ca",
+      "file_sha256": "836504bcb613890b8e2a826c3d41c1fbbf0ae43ad0b6dd51d8d1e7fc170f4849",
+      "source_lines": 23,
+      "source_lines_found": 23,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R032",
+      "format": "pdf",
+      "canonical_sha256": "1ce66c44cf2315a3661d7a74b599fd92e20b4013c5186eb013b5873f8aa43366",
+      "file_sha256": "c0e2a689d91be8cc667947d04879b583a49aa409742d5376f3426aa8a29545ed",
+      "source_lines": 27,
+      "source_lines_found": 27,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R033",
+      "format": "pdf",
+      "canonical_sha256": "54496b60713a23e87ae1f0dbf1dd673bd34efa2953adf2b019cb4c29fe248fe1",
+      "file_sha256": "9c41689475d1f3550277ef0cc3fb72972759bfff7e4079c8a375725002dbe4bd",
+      "source_lines": 11,
+      "source_lines_found": 11,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R034",
+      "format": "pdf",
+      "canonical_sha256": "cf2dce51dd897b8c48144b2d9b09ceeeaa504604f5d9e97a1fbd8f4e66f74805",
+      "file_sha256": "b8f558515968498f423edc76146598fb3400416a0560717c5074ccc25312ab63",
+      "source_lines": 21,
+      "source_lines_found": 21,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R035",
+      "format": "pdf",
+      "canonical_sha256": "5f325309ee2084928b3782c5089d9cafe4db7ba827a02e62ffef4f018e691438",
+      "file_sha256": "dbd479c190de1fac9d2fd83ba7012645dff5d22f7ee6d17a545a949e2854dc03",
+      "source_lines": 23,
+      "source_lines_found": 23,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R036",
+      "format": "docx",
+      "canonical_sha256": "d44e3c0fe9be542a03ba9685ac2820c1245acf1ebfba3d7e52cc4245825f85ee",
+      "file_sha256": "e8ca5fb1d849172dbac42abe9250b962dcd4d4ce50c1ac3799cbf406ba2376c7",
+      "source_lines": 18,
+      "source_lines_found": 18,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R037",
+      "format": "docx",
+      "canonical_sha256": "0328e49595539ced7e111af539bb624b169568153d9c1c9624588ebdeb78054e",
+      "file_sha256": "e6dd5c8a8d6f859abec83e9d12c86b3ba56c42c453153ab2ad8e05247bfe820b",
+      "source_lines": 23,
+      "source_lines_found": 23,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R038",
+      "format": "docx",
+      "canonical_sha256": "7ded3e8b89039caee87649fcd46cbc31b5a53a2cabd5bd7265bc18c6420b55b0",
+      "file_sha256": "6a6fddcf281f8c31df77e28898ab3579e5069ff22c75b7d028bd0e88e04b81e8",
+      "source_lines": 9,
+      "source_lines_found": 9,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R039",
+      "format": "txt",
+      "canonical_sha256": "3923d54c33cda87c1cbb0a9d6401de68ca301576b37d65599c910529bffdc986",
+      "file_sha256": "3923d54c33cda87c1cbb0a9d6401de68ca301576b37d65599c910529bffdc986",
+      "source_lines": 23,
+      "source_lines_found": 23,
+      "text_exact": false
+    },
+    {
+      "candidate_id": "R040",
+      "format": "txt",
+      "canonical_sha256": "cfc0a03dffeffb0bba7b4e0a69c26f297f983afa06f4298f13fd1c69f52a7e3d",
+      "file_sha256": "cfc0a03dffeffb0bba7b4e0a69c26f297f983afa06f4298f13fd1c69f52a7e3d",
+      "source_lines": 16,
+      "source_lines_found": 16,
+      "text_exact": false
+    },
+    {
+      "candidate_id": "R041",
+      "format": "pdf",
+      "canonical_sha256": "7c811359cfc7d3667df8665c2f46216b5548f54db59fa51eb7c3f09e9a7592e5",
+      "file_sha256": "c04a0a10cd11fb6e3e4f2896f2637847a5c5581deab1492f7677ac9b84a9a082",
+      "source_lines": 27,
+      "source_lines_found": 27,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R042",
+      "format": "pdf",
+      "canonical_sha256": "93d427fc4725722b01ee59da0855c42a2da9eecc73dc3441cfccdacaae3deb97",
+      "file_sha256": "f0333f026b7ae0a6881fdea852a85bf3e1213682fb7b0c567066d2e1624d2b36",
+      "source_lines": 25,
+      "source_lines_found": 25,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R043",
+      "format": "pdf",
+      "canonical_sha256": "4348c27aad05a668945a3119cc43379ade12fc8ed54d422d4c7a67f364526516",
+      "file_sha256": "2de3713cb82250b77c33148bcd341cf27955a473e147da56b447fdb85cfa44b9",
+      "source_lines": 21,
+      "source_lines_found": 21,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R044",
+      "format": "pdf",
+      "canonical_sha256": "5c31973fb4601c6f1ece79b24ff7d844a1ae3af361b6d820b162c5ed8819f0ea",
+      "file_sha256": "c54868dae152299bc0abeed06adf057bf2244ad239c320cac131415c4a0f9271",
+      "source_lines": 27,
+      "source_lines_found": 27,
+      "text_exact": false,
+      "rendered_pages": 2
+    },
+    {
+      "candidate_id": "R045",
+      "format": "pdf",
+      "canonical_sha256": "637d8e408b0956e0654b81a0bfd6bb73f29d05562147ab7e2605110d38a3a484",
+      "file_sha256": "d5b9bda47f3f49114624c67243f948f842e3e60f8307665a898fa399dfd5987a",
+      "source_lines": 27,
+      "source_lines_found": 27,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R046",
+      "format": "docx",
+      "canonical_sha256": "a09ba59792db66d53c08e8dd647e396cd82ffaa8a2a9d121ffc8655cffab65e5",
+      "file_sha256": "5e9780e64c71ccfff3c69b17a9fbea6910d653a2436625236a6044a6babf8d90",
+      "source_lines": 30,
+      "source_lines_found": 30,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R047",
+      "format": "docx",
+      "canonical_sha256": "4637af98458b672d9b5135b338589942736e02d9736a94b17656815b2ef5398f",
+      "file_sha256": "23ab8d72986c5ea0dcc06453dac93a2d06b7d7732e1e460955bb73d54364adc3",
+      "source_lines": 19,
+      "source_lines_found": 19,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R048",
+      "format": "docx",
+      "canonical_sha256": "e174f67be60da213c5e098f70a401eeebf90790591592d8b6b5923231a67f45d",
+      "file_sha256": "e7bab739f67b6b54bb5902e9d299f9d9ee94d37ce19f15a2a8f00d0d45386c0a",
+      "source_lines": 32,
+      "source_lines_found": 32,
+      "text_exact": false,
+      "rendered_pages": 1
+    },
+    {
+      "candidate_id": "R049",
+      "format": "txt",
+      "canonical_sha256": "08f51212d25d63b8a26775fc29dee275deae47423f8f3d99e4c5cfa4ea7f6df5",
+      "file_sha256": "08f51212d25d63b8a26775fc29dee275deae47423f8f3d99e4c5cfa4ea7f6df5",
+      "source_lines": 19,
+      "source_lines_found": 19,
+      "text_exact": false
+    },
+    {
+      "candidate_id": "R050",
+      "format": "txt",
+      "canonical_sha256": "0424e7a97942c24364fc2b4a3c7917d423cedf095f31829d76df8f61a1882070",
+      "file_sha256": "0424e7a97942c24364fc2b4a3c7917d423cedf095f31829d76df8f61a1882070",
+      "source_lines": 30,
+      "source_lines_found": 30,
+      "text_exact": false
+    }
+  ]
+}

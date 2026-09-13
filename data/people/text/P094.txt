@@ -1,0 +1,23 @@
+Candidate P094
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Communications Network Engineer | U.S. Air Force | 2014-03 to 2018-11
+Orchestrated network infrastructure, ensuring high availability and secure communications. Implemented robust version control strategies and automated configuration management, reducing deployment times by 40%.
+Network Operations Supervisor | U.S. Air Force | 2018-11 to 2021-06
+Led a team of 12 in monitoring and maintaining mission-critical systems. Leveraged log management and analysis to proactively identify and resolve issues, ensuring 99.99% uptime for core services.
+Release Engineering Specialist | State of California Technology Agency | 2021-06 to 2023-09
+Championed the adoption of immutable infrastructure and chaos engineering practices, increasing system resilience by 50%. Orchestrated microservices deployments across AWS, utilizing Terraform and Ansible for efficient infrastructure as code.
+Senior DevOps Engineer | San Bernardino County Information Services | 2023-09 to Present
+Currently orchestrating release pipelines for telecom infrastructure projects, ensuring seamless deployment with proactive monitoring using Prometheus and Splunk. Mentoring junior engineers in version control strategies and log analysis best practices.
+SKILLS
+Version control strategies; Network configuration and troubleshooting; Log management and analysis; Microservices deployment; Infrastructure as Code (IaC); Chaos engineering; Immutable infrastructure; AWS; Terraform; Ansible; Splunk; Prometheus; New Relic
+EDUCATION
+Bachelor of Science | Computer Science | University of Maryland Global Campus
+2016-09 to 2020-06
+PROJECTS
+Disaster Recovery Automation
+Developed an automated failover system using AWS and Terraform, reducing recovery time from hours to minutes. Implemented chaos engineering experiments to validate system resilience under failure. Technologies used: Ansible, Prometheus.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2022-01

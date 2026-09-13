@@ -1,0 +1,22 @@
+Candidate P113
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Streaming Data Engineer | Nashville AdStream Analytics | 2015-01 to Present
+Lead the real-time log aggregation and monitoring pipeline for our ad analytics platform. I manage the Kafka clusters and Spark Streaming jobs, tuning them for high throughput and low latency. Built the alerting system that notifies our on-call team of any anomolies in the data flow.
+Data Analyst | Music City Retail Group | 2015-01 to 2015-01
+Analyzed sales data to identify trends. Worked with Excel and SQL. Left after a few months to pursue a career in data engineering.
+SKILLS
+Apache Spark Streaming; Performance tuning for streaming workloads; Monitoring and alerting for streaming; Consumer group management; Streaming joins; Windowing and watermarking; Data governance for real-time data; Confluent Platform; Delta Lake; Amazon Kinesis; Apache Iceberg; Snowflake; Debezium; RisingWave
+EDUCATION
+B.S. in Software Engineering | Software Engineering | Western Governors University
+2015-09 to 2020-06
+PROJECTS
+Real-time Ad Impressions Dashboard
+Developed a streaming pipeline using Kinesis and Spark to process ad impressions in real time, providing up-to-the-minute dashboards for clients. Technologies used: Apache Spark Streaming, Amazon Kinesis, Confluent Platform.
+CERTIFICATIONS
+Confluent Certified Developer for Apache Kafka
+Issued by Confluent.
+2018-01
+Google Cloud Professional Data Engineer
+Issued by Google.
+2021-01

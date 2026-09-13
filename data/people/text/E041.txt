@@ -1,0 +1,33 @@
+Candidate E041
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Frontend Engineer | Midwest Learning Technologies | 2023-08 to Present
+Lead frontend architecture for mobile learning platform, focusing on performance and accessibility. Implemented design system with Tailwind and improved Core Web Vitals.
+Frontend Architect | Innovate Education Lab | 2022-01 to 2023-07
+Drove frontend strategy and tooling across multiple products. Introduced Playwright for e2e testing and reduced bundle size by 40%.
+Lead UI Engineer | Agile EdTech Solutions | 2020-06 to 2021-12
+Managed and mentored a team of three frontend developers. Architected a component library using React and Styled Components.
+Senior Frontend Developer | Virtual Classroom Inc. | 2019-02 to 2020-05
+Led migration from Angular to React and implemented server-side rendering with Next.js. Improved load times by 50%.
+Frontend Engineer | Campus Tools LLC | 2017-11 to 2019-01
+Developed responsive web interfaces for student management systems using Angular and Bootstrap.
+Web Developer | State University Research Institute | 2016-03 to 2017-09
+Built interactive data visualization for research projects using D3.js and React.
+UI Developer | BrightPath Education | 2014-10 to 2016-01
+Developed and maintained frontend for online course platform using jQuery and CSS3.
+Frontend Developer | Digital Learning Systems | 2013-05 to 2014-08
+Implemented responsive landing pages and email templates using HTML5 and CSS3.
+Junior Frontend Developer | TechStart Inc. | 2012-01 to 2013-03
+Created interactive prototypes and supported senior developers in building client websites.
+SKILLS
+Next.js; React; HTML5; Responsive Design; Testing (Jest, React Testing Library, Cypress); Tailwind CSS; Build Tools (Webpack, Vite); Web Accessibility (WCAG); Core Web Vitals; Angular; Svelte; CSS-in-JS; Playwright; Prettier; Sentry
+EDUCATION
+Bachelor of Science | Computer Science | University of Kansas
+2008-09 to 2012-06
+PROJECTS
+Mobile Learning App Redesign
+Led frontend overhaul of a mobile-optimized learning management system, improving accessibility to WCAG 2.1 AA and cutting load time by 60%. Technologies used: Next.js, React, Tailwind CSS, Playwright.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2021-01

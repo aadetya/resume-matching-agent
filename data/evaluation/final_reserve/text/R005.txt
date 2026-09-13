@@ -1,0 +1,25 @@
+Candidate R005
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+React Developer | TechNest Solutions | 2021-03 to Present
+Develop and maintain 15+ React-based PWAs, improving load times by 40% and user engagement by 25%. Led migration to server-side rendering, reducing time-to-interactive by 50%.
+Frontend Developer | Pixel Craft Studios | 2019-07 to 2021-02
+Built 20+ responsive web interfaces with React and integrated accessibility best practices, achieving 100% Lighthouse accessibility scores on 10 projects. Increased conversion rates by 30% through A/B testing.
+Junior Web Developer | TechNest Solutions | 2018-05 to 2019-06
+Supported senior developers in building React components and fixing 100+ bugs. Implemented code splitting that cut bundle size by 35%.
+Web Developer Intern | TechNest Solutions | 2017-05 to 2017-08
+Assisted in building a React-based internal dashboard used by 100+ employees. Wrote unit tests with Jest, reaching 80% coverage.
+SKILLS
+CSS3; Progressive Web Apps (PWA); Accessibility (a11y); Code Splitting; Context API; Jest; Server-Side Rendering (SSR); Cypress; HTML5; Debugging; Git; Express; Kubernetes; Docker; React DevTools; Redux DevTools; Storybook; Redux; TypeScript
+EDUCATION
+Associate of Science | Computer Science | Amarillo College
+2014-09 to 2016-06
+Bachelor of Science | Computer Science | Texas Tech University
+2016-09 to 2018-06
+PROJECTS
+PWA Storefront
+Developed a fully offline-capable PWA for a local retailer, supporting push notifications and background sync. Increased repeat visits by 60%. Technologies used: React, Redux, Express.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2021-01

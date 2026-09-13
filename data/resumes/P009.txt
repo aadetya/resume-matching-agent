@@ -1,0 +1,15 @@
+Candidate P009
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Clerical Assistant | County of Kern | 2023-01 to Present
+Handle data entry and office support. sometimes I get to help with the website updates using simple html. Learned a lot about how goverment works.
+SKILLS
+HTML5; Hooks; React Testing Library; Performance Optimization; Git; Cypress; GraphQL; Firebase; Node.js; Docker
+EDUCATION
+Bachelor of Science | Computer Science | Western Governors University
+2022-09 to date unavailable
+PROJECTS
+Patient Portal Dashboard
+Built a patient portal prototype as a capstone project. Used React hooks and GraphQL to fetch patient data. Focused on optimizing initial load time with code splitting. Technologies used: Performance Optimization.
+Health Tracker App
+A fitness tracking app built with React and Firebase. Used React Testing Library for unit tests and Cypress for end-to-end tests. Deployed on Netlify.

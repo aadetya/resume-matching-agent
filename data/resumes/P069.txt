@@ -1,0 +1,24 @@
+Candidate P069
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+HR Operations Manager | Regional Medical Center of Scranton | 2019-06 to Present
+Oversee HRIS data management, report automation, and turnover analysis for a 3-hospital system. Lead vendor management for Oracle HCM and Tableau, ensuring HR compliance and data integrity.
+Lead Operations Analyst | Luzerne County Health Network | 2014-03 to 2019-05
+Developed HR dashboards in Tableau and automated weekly reports using Excel and Workday. Conducted statistical analysis on turnover and headcount planning, presenting insights to C-suite.
+Operations Analyst | Scranton Community Hospital | 2011-01 to 2014-02
+Managed employee records and HRIS data within Oracle HCM. Performed root cause analysis on process gaps and supported HR compliance audits.
+SKILLS
+Vendor management; Data visualization; Turnover analysis; Statistical analysis; Report automation; HRIS data management; Employee records management; Headcount planning; HR compliance; Root cause analysis; Process improvement; Workforce analytics; HR reporting
+EDUCATION
+PhD | Operations Research | University of Pennsylvania
+2005-09 to 2010-06
+PROJECTS
+HR Analytics Dashboard
+Designed and implemented a real-time Tableau dashboard to monitor turnover trends and headcount across the health system, reducing reporting time by 50%. Technologies used: Oracle HCM, Excel.
+CERTIFICATIONS
+HRIP (HR Information Professional)
+Issued by IHRIM.
+2018-01
+Six Sigma Green Belt
+Issued by ASQ.
+2016-01

@@ -1,0 +1,24 @@
+Candidate P067
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal DevOps Architect | New England Digital Goods | 2016-03 to Present
+Led platform reliability and delivery for a regional e-commerce firm, directing a team of 8 and designing multi-cloud Kubernetes infrastructure with GitLab CI and Chef. Drove chaos engineering and disaster recovery strategies that cut downtime by 40%.
+Senior DevOps Engineer | New England Digital Goods | 2014-01 to 2016-02
+Managed configuration and deployment pipelines, migrating legacy systems to Docker and Kubernetes. Implemented blue/green deployment processes and secrets management, improving release velocity and security posture.
+DevOps Engineer | New England Digital Goods | 2015-08 to 2016-01
+Maintained CI/CD infrastructure and monitored production systems with Splunk. Automated recurring operational tasks and supported incident management, contributing to on-call rotations.
+SKILLS
+Cloud platform management; Incident response and management; Kubernetes cluster administration; Configuration management; Linux system administration; CI/CD pipeline design; Chaos engineering; Security hardening and compliance; Disaster recovery planning; Immutable infrastructure; Blue/green and canary deployments; Secrets management; GitLab CI; Chef; Docker; Splunk; Python scripting; Terraform
+EDUCATION
+Bachelor of Science | Computer Networking | Wentworth Institute of Technology
+2003-09 to 2007-06
+PROJECTS
+Kubernetes Migration Initiative
+Led migration of legacy monolithic apps to Kubernetes with immutable infrastructure and canary deployments, supporting zero-downtime releases. Technologies used: Docker, GitLab CI, Chef.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2019-01
+CKA: Certified Kubernetes Administrator
+Issued by Cloud Native Computing Foundation.
+2020-01

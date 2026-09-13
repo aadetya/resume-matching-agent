@@ -1,0 +1,23 @@
+Candidate P112
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Payments Engineer | Precision Manufacturing Solutions | 2019-06 to Present
+Lead architect of payment systems for B2B invoicing and ACH transfers. Spearheaded integration of Stripe and Adyen, cutting transaction failures by 40%. Implemented real-time monitoring and alerting for settlement anomalies.
+Payments Engineer | Precision Manufacturing Solutions | 2016-03 to 2019-05
+Owned design and maintenance of internal payment processing for supplier invoices. Deployed tokenization for card-on-file transactions and upgraded database schemas for transaction logging.
+Software Engineer | Precision Manufacturing Solutions | 2014-02 to 2016-02
+Developed internal tools for inventory and order management. Gained exposure to ERP systems and began focusing on payment flows.
+Junior Software Developer | Precision Manufacturing Solutions | 2012-01 to 2014-01
+Built reporting dashboards and maintained legacy .NET applications. Collaborated with finance team to automate invoice generation.
+SKILLS
+Event-driven architecture; Database design; Monitoring and alerting; Recurring billing; Tokenization; Incident response; Transaction lifecycle management; Payment gateway integration; SWIFT messaging; Distributed systems; Cryptocurrency payments; Settlement and reconciliation; Stripe; PostgreSQL; Bambora; Square; Adyen
+EDUCATION
+Associate of Applied Science | Computer Science | Austin Community College
+2009-09 to 2012-06
+PROJECTS
+Automated Reconciliation Pipeline
+Designed a system to match bank statements with transaction records, reducing manual effort by 90%. Technologies used: Python, PostgreSQL, Event-driven architecture.
+CERTIFICATIONS
+PCI Professional (PCIP)
+Issued by PCI Security Standards Council.
+2018-01

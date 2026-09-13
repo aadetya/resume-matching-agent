@@ -1,0 +1,23 @@
+Candidate P054
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Logistics Coordinator | Heartland Distribution Services | 2023-09 to Present
+Coordinate freight movements and inventory tracking. Use spreadsheets and internal tools to manage schedules, but I am eager to apply my Python skills to build more efficient data processing pipelines.
+Telecommunications Equipment Operator | Ukrainian Armed Forces | 2019-06 to 2022-08
+Operated and maintained communication systems in a military environment. Developed discipline and problem-solving skills, and learned to work under pressure.
+SKILLS
+Python; Django; PostgreSQL; RESTful APIs; Integration testing; Version control; Refactoring; Code review; Redis; Concurrency; GitHub Actions; Anaconda; Pipenv
+EDUCATION
+Associate of Science | Computer Science | Metropolitan Community College
+2022-09 to 2024-06
+Telecommunications | Kyiv Polytechnic Institute
+2015-09 to 2019-06
+PROJECTS
+Inventory Dashboard
+Built a Django-based dashboard to visualize inventory data for the logistics team, integrating with PostgreSQL and deploying via GitHub Actions.
+API Integration for Shipping
+Developed RESTful APIs to connect internal systems with shipping carriers, using Redis for caching and implementing integration tests. Technologies used: Python.
+CERTIFICATIONS
+PCEP – Certified Entry-Level Python Programmer
+Issued by Python Institute.
+2023-01

@@ -1,0 +1,2319 @@
+{
+  "fixture_sha256": "68f7302bbb63513e71315f24d69d74827d97b82068e2fc36525c6afff7b9b52c",
+  "model": "gpt-5.6-luna",
+  "engine_signature": "555760a98d677811cecd78c4e3f693e8dadb780279d22ec80c2c25960ad5fbcf",
+  "generation_options": {
+    "reasoning": {
+      "effort": "low"
+    }
+  },
+  "annotation_provenance": {
+    "author": "AI annotation reviewer",
+    "annotation_kind": "single-agent source-only judgments",
+    "independent_human_ground_truth": false,
+    "engine_outputs_consulted": false,
+    "historical_evaluation_labels_reused": false,
+    "queries_sha256": "cab2c55c4cf95c29b5cccefe980f8549cb2f50cf59812e88fb6e616f923dc4a5",
+    "review_packet_sha256": "44e9a2351ded2e54c414bdabbeff9924fb4579baf59006b8228b9edfd8ceae47",
+    "scope": "One preregistered assigned request per profile. This supports criterion-level source-evidence evaluation, not complete-corpus retrieval ranking metrics. The reviewer reads complete rendered canonical text before supplying each manual status and source anchors. Explicit employment entries selected by the reviewer feed deterministic calendar-month union arithmetic.",
+    "freeze_status": "sealed_before_model_evaluation",
+    "reviewed_profile_count": 50,
+    "criterion_count": 200,
+    "complete_source_review": true,
+    "local_validation": "All source/quote hashes, public requirement labels and independently enumerated calendar months checked before sealing."
+  },
+  "requested_cases": 50,
+  "completed_cases": 50,
+  "errors": [],
+  "stages": {
+    "initial": {
+      "criteria": 200,
+      "strict_passes": 166,
+      "single_status_expectations": 119,
+      "single_status_agreements": 99,
+      "required_association_contexts": 155,
+      "found_association_contexts": 137,
+      "excluded_context_credit_flags": [],
+      "status_agreements": 178,
+      "duration_expectations": 50,
+      "duration_value_agreements": 32,
+      "relationship_label_only_disagreements": [],
+      "other_disagreements": [
+        {
+          "id": "R001",
+          "criterion": "Role: frontend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The resume shows a dated Freelance TypeScript Developer role and Vue.js desktop-app work, plus an undated Vue.js dashboard. It does not demonstrate personal implementation of a browser-based interface or a substantially frontend-focused role; the described application is explicitly a desktop app."
+        },
+        {
+          "id": "R002",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The candidate personally built a dashboard using Streaming SQL, but the resume does not establish that this was SQL database functionality or substantive relational query, schema, migration, or performance work. This is relevant SQL-related project evidence but is insufficiently specific for the criterion."
+        },
+        {
+          "id": "R004",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Space Systems Operator",
+              "found_source_context": true
+            },
+            {
+              "title": "Backend Engineer",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 106,
+            "years": 8.83,
+            "basis": "total_employment",
+            "minimum_months": 106,
+            "maximum_months": 106,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "106 months (8.83 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Space Systems Operator | United States Space Force (2014-06 to 2023-03): This unit is dated employment as Space Systems Operator from 2014-06 to 2023-03. Calendar coverage stops at the 2026-09-01 snapshot."
+        },
+        {
+          "id": "R005",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "React Developer",
+              "found_source_context": false
+            },
+            {
+              "title": "Frontend Developer",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior Web Developer",
+              "found_source_context": true
+            },
+            {
+              "title": "Web Developer Intern",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 38,
+            "years": 3.17,
+            "basis": "total_employment",
+            "minimum_months": 38,
+            "maximum_months": 38,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "38 months (3.17 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Frontend Developer | Pixel Craft Studios (2019-07 to 2021-02): This is a dated employment interval as Frontend Developer at Pixel Craft Studios from 2019-07 to 2021-02. Junior Web Developer | TechNest Solutions (2018-05 to 2019-06): This is a dated employment interval as Junior Web Developer at TechNest Solutions from 2018-05 to 2019-06. Web Developer Intern | TechNest Solutions (2017-05 to 2017-08): This is a dated employment interval as Web Developer Intern at TechNest Solutions from 2017-05 to 2017-08. Calendar coverage stops at the 2026-09-01 snapshot."
+        },
+        {
+          "id": "R007",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Intern, Data Analytics",
+              "found_source_context": true
+            },
+            {
+              "title": "IT Support Technician",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 3,
+            "years": 0.25,
+            "basis": "total_employment",
+            "minimum_months": 3,
+            "maximum_months": 3,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "3 months (0.25 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Intern, Data Analytics | Nutmeg Energy Cooperative (2023-06 to 2023-08): This unit is the candidate's dated employment as an Intern, Data Analytics from 2023-06 to 2023-08. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum."
+        },
+        {
+          "id": "R009",
+          "criterion": "Role: backend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The resume shows Full Stack Developer and Web Developer roles. The senior role includes full-stack work and Express.js, and the earlier Web Developer role mentions some server-side scripts, but no role is explicitly backend-focused and the described work is not clearly centered on backend systems, services, or APIs."
+        },
+        {
+          "id": "R012",
+          "criterion": "Required skill: python",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "Python is not named. NumPy is listed in the skills section and used for preprocessing in the recommendation project, but the source does not explicitly identify Python or describe personally implementing a data pipeline or transformation using Python."
+        },
+        {
+          "id": "R012",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The recommendation-engine project names SQL as a technology, supporting project association, but it does not describe personal SQL pipeline or transformation implementation, relational query construction, schema work, migrations, or database performance work. The SQL skills-list mention alone is insufficient for the requested application depth."
+        },
+        {
+          "id": "R013",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Point of Sale Support Specialist",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior DevOps Technician",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 7,
+            "years": 0.58,
+            "basis": "total_employment",
+            "minimum_months": 7,
+            "maximum_months": 7,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "7 months (0.58 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Point of Sale Support Specialist | National Retail Chain (2023-08 to 2024-02): This is a dated employment period from 2023-08 to 2024-02. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum."
+        },
+        {
+          "id": "R014",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Senior Data Engineer",
+              "found_source_context": false
+            },
+            {
+              "title": "Data Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "ETL Developer",
+              "found_source_context": true
+            },
+            {
+              "title": "Data Analyst",
+              "found_source_context": true
+            },
+            {
+              "title": "Data Technician",
+              "found_source_context": true
+            },
+            {
+              "title": "Signal Intelligence Analyst",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior Data Analyst",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 120,
+            "years": 10.0,
+            "basis": "total_employment",
+            "minimum_months": 120,
+            "maximum_months": 120,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4",
+              "u5",
+              "u6",
+              "u7"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "120 months (10.00 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Data Engineer | Logistics Group Inc. (2021-06 to 2022-12): This is a dated employment record for the candidate's Data Engineer role from 2021-06 to 2022-12. ETL Developer | HealthFirst Solutions (2020-01 to 2021-05): This is a dated employment record for the candidate's ETL Developer role from 2020-01 to 2021-05. Data Analyst | Market Trends Co. (2018-08 to 2019-12): This is a dated employment record for the candidate's Data Analyst role from 2018-08 to 2019-12. Data Technician | IT Support Services (2017-01 to 2018-07): This is a dated employment record for the candidate's Data Technician role from 2017-01 to 2018-07. Signal Intelligence Analyst | Air National Guard (2014-01 to 2016-12): This is a dated employment record for the candidate's Signal Intelligence Analyst role from 2014-01 to 2016-12. Junior Data Analyst | Small Business Consulting (2013-01 to 2013-12): This is a dated employment record for the candidate's Junior Data Analyst role from 2013-01 to 2013-12. Calendar coverage stops at the 2026-09-01 snapshot."
+        },
+        {
+          "id": "R015",
+          "criterion": "Role: backend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The resume states a Contract Full Stack Developer role and describes building a CMS with PostgreSQL, authentication, and a Vue.js frontend. This demonstrates software development, but it does not clearly establish that the work was centered on server-side software, services, APIs, or backend systems, and no backend developer title is stated."
+        },
+        {
+          "id": "R016",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Machine Learning Engineer",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Unexpected duration basis",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": null,
+            "years": null,
+            "basis": "unknown",
+            "minimum_months": null,
+            "maximum_months": null,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "Duration remains unknown: no sufficiently dated positive association was accepted for numeric credit. The cited source context remains available for review."
+        },
+        {
+          "id": "R017",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Big Data Engineer",
+              "found_source_context": false
+            },
+            {
+              "title": "Data Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Operations Coordinator",
+              "found_source_context": true
+            },
+            {
+              "title": "Warehouse Associate",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 86,
+            "years": 7.17,
+            "basis": "total_employment",
+            "minimum_months": 86,
+            "maximum_months": 86,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "86 months (7.17 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Data Engineer | Carolina Freight Solutions (2019-03 to 2021-07): This unit is the candidate's dated employment as Data Engineer at Carolina Freight Solutions from 2019-03 to 2021-07. Operations Coordinator | Port City Warehousing (2016-01 to 2019-02): This unit is the candidate's dated employment as Operations Coordinator at Port City Warehousing from 2016-01 to 2019-02. Warehouse Associate | Port City Warehousing (2014-06 to 2015-12): This unit is the candidate's dated employment as Warehouse Associate at Port City Warehousing from 2014-06 to 2015-12. Calendar coverage stops at the 2026-09-01 snapshot."
+        },
+        {
+          "id": "R022",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "DevOps Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Senior DevOps Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Lead DevOps Engineer",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 84,
+            "years": 7.0,
+            "basis": "total_employment",
+            "minimum_months": 84,
+            "maximum_months": 84,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1",
+              "u2"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "84 months (7.00 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: DevOps Engineer | Utah Department of Technology Services (2015-03 to 2018-06): This is a dated employment period for the candidate from 2015-03 to 2018-06. Senior DevOps Engineer | Utah Department of Technology Services (2018-07 to 2022-02): This is a dated employment period for the candidate from 2018-07 to 2022-02. Calendar coverage stops at the 2026-09-01 snapshot."
+        },
+        {
+          "id": "R023",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "IT Support Intern",
+              "found_source_context": true
+            },
+            {
+              "title": "Student Developer (Work-Study)",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 20,
+            "years": 1.67,
+            "basis": "total_employment",
+            "minimum_months": 20,
+            "maximum_months": 20,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1",
+              "u2"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "20 months (1.67 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: IT Support Intern | Carrollton Independent School District (2024-06 to 2024-08): This unit is a dated employment period for the IT Support Intern role from 2024-06 to 2024-08. Student Developer (Work-Study) | Prairie View A&M University (2023-01 to 2024-05): This unit is a dated employment period for the Student Developer (Work-Study) role from 2023-01 to 2024-05. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum."
+        },
+        {
+          "id": "R024",
+          "criterion": "Role: frontend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "none",
+          "duration": null,
+          "finding": "The resume does not state a frontend developer role or equivalent browser-interface responsibilities. The documented work is primarily enterprise mobile, React Native, modernization, management, or APIs; the skills list alone does not establish frontend implementation."
+        },
+        {
+          "id": "R025",
+          "criterion": "Required skill: python",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "equivalent",
+          "duration": null,
+          "finding": "The Data Analyst role says Python was used for data preprocessing, which is potentially transformation-related personal application, but it does not explicitly describe implementing a data pipeline or transformation. The Python project describes an implemented reinforcement-learning agent rather than a pipeline or transformation."
+        },
+        {
+          "id": "R025",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Data Analyst",
+              "found_source_context": false
+            },
+            {
+              "title": "Production Associate",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 17,
+            "years": 1.42,
+            "basis": "total_employment",
+            "minimum_months": 17,
+            "maximum_months": 17,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "17 months (1.42 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Production Associate | Hawkeye Manufacturing Solutions (2022-01 to 2023-05): The Production Associate position is dated employment from 2022-01 to 2023-05. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum."
+        },
+        {
+          "id": "R033",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Warehouse Associate",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 3,
+            "years": 0.25,
+            "basis": "total_employment",
+            "minimum_months": 3,
+            "maximum_months": 3,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "3 months (0.25 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Warehouse Associate | Regional Distribution Center (2023-06 to 2023-08): The source identifies u1 as a dated employment period from 2023-06 to 2023-08. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum."
+        },
+        {
+          "id": "R035",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Data Analyst Intern",
+              "found_source_context": true
+            },
+            {
+              "title": "Research Assistant",
+              "found_source_context": true
+            },
+            {
+              "title": "Part-time Data Entry Clerk",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 19,
+            "years": 1.58,
+            "basis": "total_employment",
+            "minimum_months": 19,
+            "maximum_months": 19,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1",
+              "u2",
+              "u3"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "19 months (1.58 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Data Analyst Intern | Saint Thomas Health (2023-06 to 2023-08): This unit is a dated employment record for the candidate from 2023-06 to 2023-08. Research Assistant | Middle Tennessee State University (2023-09 to 2024-05): This unit is a dated employment record for the candidate from 2023-09 to 2024-05. Part-time Data Entry Clerk | Murfreesboro Medical Clinic (2024-06 to 2024-12): This unit is a dated employment record for the candidate from 2024-06 to 2024-12. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum."
+        },
+        {
+          "id": "R038",
+          "criterion": "Role: frontend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The dated title “Junior React Developer” suggests frontend-oriented work, but the resume does not describe personal implementation of browser-based user interfaces or any frontend responsibilities."
+        },
+        {
+          "id": "R039",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Data Analyst",
+              "found_source_context": true
+            },
+            {
+              "title": "Analytics Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Lead Analytics Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Analytics Engineer",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 48,
+            "years": 4.0,
+            "basis": "total_employment",
+            "minimum_months": 48,
+            "maximum_months": 48,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1",
+              "u2",
+              "u3"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "48 months (4.00 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Data Analyst | Desert Financial Credit Union (2020-06 to 2022-03): This is a dated employment record for the candidate from 2020-06 to 2022-03. Analytics Engineer | Mountain Park Health Center (2022-04 to 2023-08): This is a dated employment record for the candidate from 2022-04 to 2023-08. Lead Analytics Engineer | Sun Health (2023-09 to 2024-05): This is a dated employment record for the candidate from 2023-09 to 2024-05. Calendar coverage stops at the 2026-09-01 snapshot."
+        },
+        {
+          "id": "R041",
+          "criterion": "Required skill: python",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "Python is listed as a skill, and the candidate reports automating report generation with Python scripts, but the source does not explicitly describe personally implementing a data pipeline or transformation using Python."
+        },
+        {
+          "id": "R041",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The candidate reports SQL-based analysis and reporting, but the source does not explicitly establish personal implementation of data pipelines or transformations using SQL database functionality, such as substantive schema, migration, ORM query, or performance work."
+        },
+        {
+          "id": "R042",
+          "criterion": "Required skill: react",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": null,
+          "finding": "The candidate personally states, \"Built chat app with WebSockets and React,\" and describes keyboard-navigation accessibility work. This supports personal React implementation, but the project does not explicitly identify the chat app as a browser-based interface; the separate responsive web project does not name React."
+        },
+        {
+          "id": "R042",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Frontend Engineering Intern",
+              "found_source_context": false
+            },
+            {
+              "title": "Web Development Tutor",
+              "found_source_context": true
+            },
+            {
+              "title": "Shift Lead (Campus Café)",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 29,
+            "years": 2.42,
+            "basis": "total_employment",
+            "minimum_months": 29,
+            "maximum_months": 29,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u_employment_cafe",
+              "u_employment_tutor"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "29 months (2.42 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Shift Lead (Campus Café) | Campus Dining Services (2024-01 to 2025-08): The Shift Lead role is dated employment from 2024-01 to 2025-08. Web Development Tutor | Community College Tutoring Center (2025-09 to 2026-05): The Web Development Tutor role is dated employment from 2025-09 to 2026-05. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum."
+        },
+        {
+          "id": "R044",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Data Engineering Manager",
+              "found_source_context": false
+            },
+            {
+              "title": "Senior Data Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Data Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Data Analyst",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior Data Engineer",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 106,
+            "years": 8.83,
+            "basis": "total_employment",
+            "minimum_months": 106,
+            "maximum_months": 106,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4",
+              "u5"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "106 months (8.83 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Senior Data Engineer | Los Angeles County Office of Education (2017-03 to 2020-05): This unit is a dated employment record from 2017-03 to 2020-05. Data Engineer | Entertainment Data Services (2014-01 to 2016-12): This unit is a dated employment record from 2014-01 to 2016-12. Data Analyst | Santa Clarita Community College District (2012-08 to 2013-12): This unit is a dated employment record from 2012-08 to 2013-12. Junior Data Engineer | Media Metrics Inc. (2011-06 to 2012-07): This unit is a dated employment record from 2011-06 to 2012-07. Calendar coverage stops at the 2026-09-01 snapshot."
+        },
+        {
+          "id": "R045",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Branch Manager",
+              "found_source_context": true
+            },
+            {
+              "title": "Assistant Branch Manager",
+              "found_source_context": true
+            },
+            {
+              "title": "Personal Banker",
+              "found_source_context": true
+            },
+            {
+              "title": "Freelance Full Stack Developer",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 130,
+            "years": 10.83,
+            "basis": "total_employment",
+            "minimum_months": 130,
+            "maximum_months": 130,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1",
+              "u2",
+              "u3"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "130 months (10.83 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Branch Manager | Arizona Central Credit Union (2016-03 to 2022-10): This is a dated employment role from 2016-03 to 2022-10 and contributes to total employment duration. Assistant Branch Manager | First Interstate Bank (2014-06 to 2016-02): This is a dated employment role from 2014-06 to 2016-02 and contributes to total employment duration. Personal Banker | Wells Fargo (2012-01 to 2014-05): This is a dated employment role from 2012-01 to 2014-05 and contributes to total employment duration. Calendar coverage stops at the 2026-09-01 snapshot."
+        },
+        {
+          "id": "R046",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Senior API Engineer",
+              "found_source_context": false
+            },
+            {
+              "title": "API Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior API Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Data Analyst",
+              "found_source_context": true
+            },
+            {
+              "title": "Intern",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 64,
+            "years": 5.33,
+            "basis": "total_employment",
+            "minimum_months": 64,
+            "maximum_months": 64,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4",
+              "u5"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "64 months (5.33 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: API Engineer | Pacific Data Systems (2015-06 to 2017-12): This is a dated employment period for the candidate: API Engineer at Pacific Data Systems from 2015-06 to 2017-12. Junior API Engineer | NexGen Software (2013-01 to 2014-08): This is a dated employment period for the candidate: Junior API Engineer at NexGen Software from 2013-01 to 2014-08. Data Analyst | Greenfield Analytics (2011-08 to 2012-05): This is a dated employment period for the candidate: Data Analyst at Greenfield Analytics from 2011-08 to 2012-05. Intern | Innovatech Solutions (2010-06 to 2010-08): This is a dated employment period for the candidate: Intern at Innovatech Solutions from 2010-06 to 2010-08. Calendar coverage stops at the 2026-09-01 snapshot."
+        },
+        {
+          "id": "R047",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The inventory project personally integrated with a SQLite database, demonstrating some database implementation. However, the resume does not specify relational schema design, ORM query construction, migrations, or database performance work, so broad SQL capability is not fully established; SQLite is also not itself evidence of SQL breadth."
+        },
+        {
+          "id": "R047",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Shift Lead",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Unexpected duration basis",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": null,
+            "years": null,
+            "basis": "unknown",
+            "minimum_months": null,
+            "maximum_months": null,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "Duration remains unknown: no sufficiently dated positive association was accepted for numeric credit. The cited source context remains available for review."
+        },
+        {
+          "id": "R048",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Director of Software Engineering",
+              "found_source_context": false
+            },
+            {
+              "title": "Lead Full Stack Developer",
+              "found_source_context": true
+            },
+            {
+              "title": "Senior Full Stack Developer",
+              "found_source_context": true
+            },
+            {
+              "title": "Full Stack Developer",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior Full Stack Developer",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 144,
+            "years": 12.0,
+            "basis": "total_employment",
+            "minimum_months": 144,
+            "maximum_months": 144,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4",
+              "u5"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "144 months (12.00 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Lead Full Stack Developer | South Texas Energy Cooperative (2015-08 to 2019-02): This is a dated employment role from 2015-08 to 2019-02. Senior Full Stack Developer | Bluebonnet Telecom (2012-06 to 2015-07): This is a dated employment role from 2012-06 to 2015-07. Full Stack Developer | Hill Country Internet Services (2009-08 to 2012-05): This is a dated employment role from 2009-08 to 2012-05. Junior Full Stack Developer | Rio Grande Valley Design Studio (2007-03 to 2009-07): This is a dated employment role from 2007-03 to 2009-07. Calendar coverage stops at the 2026-09-01 snapshot."
+        },
+        {
+          "id": "R049",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Junior Full Stack Developer",
+              "found_source_context": false
+            },
+            {
+              "title": "Shift Supervisor",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 39,
+            "years": 3.25,
+            "basis": "total_employment",
+            "minimum_months": 39,
+            "maximum_months": 39,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "39 months (3.25 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Shift Supervisor | Peet's Coffee (2020-03 to 2023-05): The candidate's dated employment at Peet's Coffee runs from 2020-03 to 2023-05. Calendar coverage stops at the 2026-09-01 snapshot."
+        },
+        {
+          "id": "R050",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "React Developer (Contract)",
+              "found_source_context": false
+            },
+            {
+              "title": "Frontend Developer (Contract)",
+              "found_source_context": true
+            },
+            {
+              "title": "JavaScript Developer (Freelance)",
+              "found_source_context": true
+            },
+            {
+              "title": "Independent IT Consultant",
+              "found_source_context": true
+            },
+            {
+              "title": "Pharmacy Technician",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 189,
+            "years": 15.75,
+            "basis": "total_employment",
+            "minimum_months": 189,
+            "maximum_months": 189,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4",
+              "u5"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "189 months (15.75 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Frontend Developer (Contract) | CarePoint Systems (2021-06 to 2022-12): This is a dated employment interval for the candidate from 2021-06 to 2022-12. JavaScript Developer (Freelance) | Self-employed (2019-03 to 2021-05): This is a dated freelance employment interval for the candidate from 2019-03 to 2021-05. Independent IT Consultant | Self-employed (2015-08 to 2019-02): This is a dated self-employed employment interval for the candidate from 2015-08 to 2019-02. Pharmacy Technician | MediPlus Retail (2007-04 to 2015-07): This is a dated employment interval for the candidate from 2007-04 to 2015-07. Calendar coverage stops at the 2026-09-01 snapshot."
+        }
+      ],
+      "invariant_pairs": [],
+      "input_tokens": 220195,
+      "output_tokens": 60139
+    },
+    "deep": {
+      "criteria": 200,
+      "strict_passes": 163,
+      "single_status_expectations": 119,
+      "single_status_agreements": 98,
+      "required_association_contexts": 155,
+      "found_association_contexts": 134,
+      "excluded_context_credit_flags": [],
+      "status_agreements": 177,
+      "duration_expectations": 50,
+      "duration_value_agreements": 29,
+      "relationship_label_only_disagreements": [],
+      "other_disagreements": [
+        {
+          "id": "R001",
+          "criterion": "Role: frontend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The source documents personal frontend-adjacent work on Electron desktop applications using Vue.js, including the freelance role and case-management app. It does not document implementation of a browser-based interface, so the stated frontend-developer standard is not fully demonstrated."
+        },
+        {
+          "id": "R002",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "Streaming SQL is listed as a technology used for the real-time dashboard, but the source does not describe personal implementation of SQL database functionality such as relational queries, schema work, migrations, or database performance work. This is related evidence but insufficiently specific for the requested application depth."
+        },
+        {
+          "id": "R004",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": null,
+          "finding": "The candidate personally reports backend work focused on database performance, and PostgreSQL is listed among the technical skills. Database performance work directly supports the requested SQL/database implementation capability."
+        },
+        {
+          "id": "R004",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Space Systems Operator",
+              "found_source_context": true
+            },
+            {
+              "title": "Backend Engineer",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 106,
+            "years": 8.83,
+            "basis": "total_employment",
+            "minimum_months": 106,
+            "maximum_months": 106,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "106 months (8.83 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Space Systems Operator | United States Space Force (2014-06 to 2023-03): This unit is dated employment from 2014-06 to 2023-03. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The source contains two dated employment periods covering the listed roles: Space Systems Operator from 2014-06 to 2023-03 and Backend Engineer from 2023-04 to Present. These are the complete dated employment units relevant to total employment coverage."
+        },
+        {
+          "id": "R007",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Intern, Data Analytics",
+              "found_source_context": true
+            },
+            {
+              "title": "IT Support Technician",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 3,
+            "years": 0.25,
+            "basis": "total_employment",
+            "minimum_months": 3,
+            "maximum_months": 3,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "3 months (0.25 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Intern, Data Analytics | Nutmeg Energy Cooperative (2023-06 to 2023-08): This unit is dated employment as an Intern, Data Analytics at Nutmeg Energy Cooperative from 2023-06 to 2023-08. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum.\n\nSource assessment: The source contains the two proposed dated employment periods: Nutmeg Energy Cooperative from 2023-06 to 2023-08 and Liberty Electric Cooperative from 2024-01 to Present. No additional dated employment period appears in the source."
+        },
+        {
+          "id": "R008",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Lead Frontend Engineer",
+              "found_source_context": false
+            },
+            {
+              "title": "Senior Frontend Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Frontend Engineer",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 115,
+            "years": 9.58,
+            "basis": "total_employment",
+            "minimum_months": 115,
+            "maximum_months": 115,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "115 months (9.58 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Senior Frontend Engineer | Children's National Hospital (2016-02 to 2021-02): The Children's National Hospital Senior Frontend Engineer entry is dated employment from 2016-02 to 2021-02. Frontend Engineer | Geisinger Health (2011-08 to 2016-01): The Geisinger Health Frontend Engineer entry is dated employment from 2011-08 to 2016-01. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The supplied association inventory covers all three dated employment entries shown in the source: MedStar Health, Children's National Hospital, and Geisinger. Each is an employment interval relevant to total-employment duration."
+        },
+        {
+          "id": "R009",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Senior Full Stack Developer",
+              "found_source_context": false
+            },
+            {
+              "title": "Full Stack Developer",
+              "found_source_context": true
+            },
+            {
+              "title": "Web Developer",
+              "found_source_context": true
+            },
+            {
+              "title": "Web Developer",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior Web Developer",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 105,
+            "years": 8.75,
+            "basis": "total_employment",
+            "minimum_months": 105,
+            "maximum_months": 105,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4",
+              "u5"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "105 months (8.75 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Full Stack Developer | Agile Digital Works (2015-06 to 2019-02): This is a dated employment period at Agile Digital Works from 2015-06 to 2019-02. Web Developer | Ventura Web Solutions (franchise) (2013-01 to 2015-05): This is a dated employment period at Ventura Web Solutions from 2013-01 to 2015-05. Web Developer | Navy Cyber Systems (military) (2012-01 to 2012-12): This is a dated employment period at Navy Cyber Systems from 2012-01 to 2012-12. Junior Web Developer | Harbor IT Services (2010-06 to 2011-12): This is a dated employment period at Harbor IT Services from 2010-06 to 2011-12. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The listed association inventory is supported and complete for the supplied dated employment periods: five employment roles have explicit start and end or present dates. Each association is a valid total-employment period, and the source contains no omitted dated employment period in the employment history."
+        },
+        {
+          "id": "R010",
+          "criterion": "Role: data engineer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": null,
+          "finding": "The source states a Big Data Engineer employment title, but provides no responsibilities or work description confirming personal implementation of data pipelines or transformations."
+        },
+        {
+          "id": "R012",
+          "criterion": "Required skill: python",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "none",
+          "duration": null,
+          "finding": "The source does not explicitly mention Python or describe personally implementing a data pipeline or transformation with Python. PyTorch and NumPy references do not, by themselves, establish the required Python application."
+        },
+        {
+          "id": "R012",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "SQL is listed in the skills section and as a project technology, but the project provides no SQL-specific implementation details such as queries, schema work, migrations, ORM usage, or performance work. This leaves SQL application ambiguous rather than demonstrated."
+        },
+        {
+          "id": "R013",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Point of Sale Support Specialist",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior DevOps Technician",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 7,
+            "years": 0.58,
+            "basis": "total_employment",
+            "minimum_months": 7,
+            "maximum_months": 7,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "7 months (0.58 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Point of Sale Support Specialist | National Retail Chain (2023-08 to 2024-02): This unit is a dated employment period from 2023-08 to 2024-02. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum.\n\nSource assessment: The association inventory covers both dated employment periods shown in the source: Point of Sale Support Specialist from 2023-08 to 2024-02 and Junior DevOps Technician from 2024-03 to Present. These are employment periods supporting the total-employment criterion; no additional dated employment is shown elsewhere."
+        },
+        {
+          "id": "R015",
+          "criterion": "Role: backend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The candidate held a Full Stack Developer role and built a CMS using Vue.js, PostgreSQL, and AWS, but the source does not explicitly describe server-side software, services, APIs, or backend-system work. This is related full-stack/project evidence, not conclusive backend-focused work."
+        },
+        {
+          "id": "R015",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "PostgreSQL appears in the full-stack role and CMS project, and SQL appears in the skills list, but the source does not describe personal schema design, ORM queries, migrations, or database performance work. A database name and skills-list entry alone do not meet the required implementation depth."
+        },
+        {
+          "id": "R016",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Machine Learning Engineer",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Unexpected duration basis",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": null,
+            "years": null,
+            "basis": "unknown",
+            "minimum_months": null,
+            "maximum_months": null,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "Duration remains unknown: no sufficiently dated positive association was accepted for numeric credit. The cited source context remains available for review.\n\nSource assessment: The source contains a dated employment record beginning in 2021-03 and continuing to Present. The proposed association correctly represents total employment for the dated role; no additional employment record is shown."
+        },
+        {
+          "id": "R017",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Big Data Engineer",
+              "found_source_context": false
+            },
+            {
+              "title": "Data Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Operations Coordinator",
+              "found_source_context": true
+            },
+            {
+              "title": "Warehouse Associate",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 86,
+            "years": 7.17,
+            "basis": "total_employment",
+            "minimum_months": 86,
+            "maximum_months": 86,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "86 months (7.17 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Data Engineer | Carolina Freight Solutions (2019-03 to 2021-07): This is a dated employment record for the candidate's Data Engineer role at Carolina Freight Solutions. Operations Coordinator | Port City Warehousing (2016-01 to 2019-02): This is a dated employment record for the candidate's Operations Coordinator role at Port City Warehousing. Warehouse Associate | Port City Warehousing (2014-06 to 2015-12): This is a dated employment record for the candidate's Warehouse Associate role at Port City Warehousing. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The source provides dated employment records for all four listed roles, covering the employment history from 2014-06 through the present. These records support the proposed total-employment inventory; the duration criterion does not require the employment to be specifically data-engineering work."
+        },
+        {
+          "id": "R020",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Streaming Data Engineer",
+              "found_source_context": false
+            },
+            {
+              "title": "Data Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Data Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior Data Engineer",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 44,
+            "years": 3.67,
+            "basis": "total_employment",
+            "minimum_months": 44,
+            "maximum_months": 44,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "wu2",
+              "wu3",
+              "wu4"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "44 months (3.67 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Data Engineer | FPT Technology (2021-06 to 2023-01): This is a dated employment record for the candidate as Data Engineer at FPT Technology from 2021-06 to 2023-01. Data Engineer | Capital Stream Analytics (2020-01 to 2021-05): This is a dated employment record for the candidate as Data Engineer at Capital Stream Analytics from 2020-01 to 2021-05. Junior Data Engineer | DataVista Solutions (2019-06 to 2019-12): This is a dated employment record for the candidate as Junior Data Engineer at DataVista Solutions from 2019-06 to 2019-12. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: All four listed employment records are dated and positively establish employment: Capital Stream Analytics from 2023-02 to Present, FPT Technology from 2021-06 to 2023-01, Capital Stream Analytics from 2020-01 to 2021-05, and DataVista Solutions from 2019-06 to 2019-12. No additional employment record appears elsewhere in the source."
+        },
+        {
+          "id": "R021",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Communications Systems Specialist (Mobile App Developer)",
+              "found_source_context": true
+            },
+            {
+              "title": "Senior React Native Developer (Contract)",
+              "found_source_context": true
+            },
+            {
+              "title": "Lead React Native Developer (Staffing)",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 75,
+            "years": 6.25,
+            "basis": "total_employment",
+            "minimum_months": 75,
+            "maximum_months": 75,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1",
+              "u2"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "75 months (6.25 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Communications Systems Specialist (Mobile App Developer) | United States Space Force (2017-06 to 2021-03): This is a dated employment interval from June 2017 through March 2021. Senior React Native Developer (Contract) | Fusion Logistics Solutions (2021-04 to 2023-08): This is a dated contract employment interval from April 2021 through August 2023. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The source contains three dated employment intervals: June 2017 to March 2021, April 2021 to August 2023, and September 2023 to Present. These are employment records supporting the listed total-employment association inventory; no additional dated employment is evident elsewhere in the source."
+        },
+        {
+          "id": "R022",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "DevOps Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Senior DevOps Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Lead DevOps Engineer",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 84,
+            "years": 7.0,
+            "basis": "total_employment",
+            "minimum_months": 84,
+            "maximum_months": 84,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1",
+              "u2"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "84 months (7.00 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: DevOps Engineer | Utah Department of Technology Services (2015-03 to 2018-06): This unit is dated employment from 2015-03 to 2018-06. Senior DevOps Engineer | Utah Department of Technology Services (2018-07 to 2022-02): This unit is dated employment from 2018-07 to 2022-02. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The association inventory covers all three dated employment periods shown in the source: 2015-03 to 2018-06, 2018-07 to 2022-02, and 2022-03 to Present. These are employment records relevant to the total-employment criterion; no additional dated employment period is shown."
+        },
+        {
+          "id": "R023",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "IT Support Intern",
+              "found_source_context": true
+            },
+            {
+              "title": "Student Developer (Work-Study)",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "none",
+          "duration": {
+            "months": 20,
+            "years": 1.67,
+            "basis": "total_employment",
+            "minimum_months": 20,
+            "maximum_months": 20,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1",
+              "u2"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "20 months (1.67 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: IT Support Intern | Carrollton Independent School District (2024-06 to 2024-08): This unit is dated employment as an IT Support Intern from 2024-06 to 2024-08. Student Developer (Work-Study) | Prairie View A&M University (2023-01 to 2024-05): This unit is dated employment as a Student Developer (Work-Study) from 2023-01 to 2024-05. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum.\n\nSource assessment: The source lists both employment periods with dates, and the association inventory includes each dated employment unit on a total-employment basis. No additional employment entry appears in the source."
+        },
+        {
+          "id": "R024",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Senior Software Engineering Manager",
+              "found_source_context": false
+            },
+            {
+              "title": "Lead Software Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Senior Software Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Software Engineer",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 121,
+            "years": 10.08,
+            "basis": "total_employment",
+            "minimum_months": 121,
+            "maximum_months": 121,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "121 months (10.08 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Lead Software Engineer | State of California Employment Development Department (2015-01 to 2018-02): This is a dated employment role from 2015-01 to 2018-02. Senior Software Engineer | State of California Employment Development Department (2012-04 to 2014-12): This is a dated employment role from 2012-04 to 2014-12. Software Engineer | State of California Employment Development Department (2008-02 to 2012-03): This is a dated employment role from 2008-02 to 2012-03. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The source provides four dated employment intervals covering the listed roles, and the supplied association inventory includes each interval on a total-employment basis. No relevant dated employment interval is omitted from the source."
+        },
+        {
+          "id": "R027",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Lead API Engineer",
+              "found_source_context": false
+            },
+            {
+              "title": "API Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Integration Specialist",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior Software Engineer",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 127,
+            "years": 10.58,
+            "basis": "total_employment",
+            "minimum_months": 127,
+            "maximum_months": 127,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "127 months (10.58 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: API Engineer | Accenture (2019-06 to 2023-07): The source identifies this as dated employment from 2019-06 to 2023-07. Integration Specialist | Cognizant (2016-01 to 2019-05): The source identifies this as dated employment from 2016-01 to 2019-05. Junior Software Engineer | MTN Ghana (2013-01 to 2015-12): The source identifies this as dated employment from 2013-01 to 2015-12. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The complete source lists four dated employment periods, and all four proposed associations correspond to those roles and dates. No additional dated employment period is shown elsewhere in the source; undated projects and education are not employment associations."
+        },
+        {
+          "id": "R028",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Senior Python Developer",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Unexpected duration basis",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": null,
+            "years": null,
+            "basis": "unknown",
+            "minimum_months": null,
+            "maximum_months": null,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "Duration remains unknown: no sufficiently dated positive association was accepted for numeric credit. The cited source context remains available for review.\n\nSource assessment: The source contains one dated employment period, Senior Python Developer at Norman Public Schools District, beginning in 2017-03 and continuing to Present. This supports the listed whole-role employment association; no additional employment periods are shown."
+        },
+        {
+          "id": "R031",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Frontend Developer Intern",
+              "found_source_context": false
+            },
+            {
+              "title": "Teaching Assistant",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior Web Developer (Part-time)",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 12,
+            "years": 1.0,
+            "basis": "total_employment",
+            "minimum_months": 12,
+            "maximum_months": 12,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "12 months (1.00 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Teaching Assistant | State University (2024-01 to 2024-05): The Teaching Assistant role is dated 2024-01 to 2024-05 and is listed under Employment History. Junior Web Developer (Part-time) | Tidal Media Group (2023-06 to 2023-12): The Junior Web Developer (Part-time) role is dated 2023-06 to 2023-12 and is listed under Employment History. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum.\n\nSource assessment: The source lists three dated employment intervals: Frontend Developer Intern from 2024-06 to Present, Teaching Assistant from 2024-01 to 2024-05, and Junior Web Developer from 2023-06 to 2023-12. These cover the supplied employment-history entries; no additional dated employment is present."
+        },
+        {
+          "id": "R033",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Warehouse Associate",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "none",
+          "duration": {
+            "months": 3,
+            "years": 0.25,
+            "basis": "total_employment",
+            "minimum_months": 3,
+            "maximum_months": 3,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "wu_employment_1"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "3 months (0.25 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Warehouse Associate | Regional Distribution Center (2023-06 to 2023-08): The source identifies the candidate's dated employment as Warehouse Associate from 2023-06 to 2023-08. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum.\n\nSource assessment: The source contains one dated employment period, Warehouse Associate employment from 2023-06 to 2023-08, and the association inventory captures that dated employment. No additional dated employment period is present."
+        },
+        {
+          "id": "R035",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Data Analyst Intern",
+              "found_source_context": true
+            },
+            {
+              "title": "Research Assistant",
+              "found_source_context": true
+            },
+            {
+              "title": "Part-time Data Entry Clerk",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 19,
+            "years": 1.58,
+            "basis": "total_employment",
+            "minimum_months": 19,
+            "maximum_months": 19,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1",
+              "u2",
+              "u3"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "19 months (1.58 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Data Analyst Intern | Saint Thomas Health (2023-06 to 2023-08): This is a dated employment record for the Data Analyst Intern role from 2023-06 to 2023-08. Research Assistant | Middle Tennessee State University (2023-09 to 2024-05): This is a dated employment record for the Research Assistant role from 2023-09 to 2024-05. Part-time Data Entry Clerk | Murfreesboro Medical Clinic (2024-06 to 2024-12): This is a dated employment record for the Part-time Data Entry Clerk role from 2024-06 to 2024-12. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum.\n\nSource assessment: The complete source identifies three dated employment records covering June 2023 through December 2024. The proposed association inventory includes each dated employment unit and does not omit another dated employment record; the undated projects and education do not establish additional employment duration."
+        },
+        {
+          "id": "R037",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Data Analyst",
+              "found_source_context": false
+            },
+            {
+              "title": "Data Analyst",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior Data Analyst",
+              "found_source_context": true
+            },
+            {
+              "title": "Inventory Clerk",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 67,
+            "years": 5.58,
+            "basis": "total_employment",
+            "minimum_months": 67,
+            "maximum_months": 67,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "67 months (5.58 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Data Analyst | Prairie State Retail (2019-01 to 2021-02): This is a dated employment record for the Data Analyst role at Prairie State Retail. Junior Data Analyst | Prairie State Retail (2017-06 to 2018-12): This is a dated employment record for the Junior Data Analyst role at Prairie State Retail. Inventory Clerk | Warehouse Solutions Inc. (2015-08 to 2017-05): This is a dated employment record for the Inventory Clerk role at Warehouse Solutions Inc. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The listed positive associations are all dated employment records. Together they provide the complete dated employment history relevant to total employment; the standard does not require the employment to be tied to Python or SQL usage."
+        },
+        {
+          "id": "R038",
+          "criterion": "Role: frontend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": null,
+          "finding": "The source gives the title “Junior React Developer,” which directly supports a frontend-oriented role, but provides no responsibility bullets or project details confirming personal browser-interface implementation."
+        },
+        {
+          "id": "R039",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Data Analyst",
+              "found_source_context": true
+            },
+            {
+              "title": "Analytics Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Lead Analytics Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Analytics Engineer",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 48,
+            "years": 4.0,
+            "basis": "total_employment",
+            "minimum_months": 48,
+            "maximum_months": 48,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1",
+              "u2",
+              "u3"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "48 months (4.00 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Data Analyst | Desert Financial Credit Union (2020-06 to 2022-03): This is a dated employment record for Data Analyst at Desert Financial Credit Union from 2020-06 to 2022-03. Analytics Engineer | Mountain Park Health Center (2022-04 to 2023-08): This is a dated employment record for Analytics Engineer at Mountain Park Health Center from 2022-04 to 2023-08. Lead Analytics Engineer | Sun Health (2023-09 to 2024-05): This is a dated employment record for Lead Analytics Engineer at Sun Health from 2023-09 to 2024-05. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The source contains a complete inventory of the supplied dated employment records: Data Analyst from 2020-06 to 2022-03, Analytics Engineer from 2022-04 to 2023-08, Lead Analytics Engineer from 2023-09 to 2024-05, and Analytics Engineer from 2024-06 to Present. Each listed association is supported as total employment for its corresponding role."
+        },
+        {
+          "id": "R040",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Logistics Coordinator",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Unexpected duration basis",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": null,
+            "years": null,
+            "basis": "unknown",
+            "minimum_months": null,
+            "maximum_months": null,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "Duration remains unknown: no sufficiently dated positive association was accepted for numeric credit. The cited source context remains available for review.\n\nSource assessment: The source provides one dated employment period, Logistics Coordinator at Rocky Mountain Distribution, beginning 2023-06 and continuing to Present. The listed positive association correctly represents that employment period for total-employment coverage; no additional dated employment period appears in the source."
+        },
+        {
+          "id": "R041",
+          "criterion": "Required skill: python",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "Python is listed as a skill, and the candidate used Python scripts to automate report generation, but the source does not explicitly describe personal implementation of data pipelines or transformations using Python."
+        },
+        {
+          "id": "R041",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "not_demonstrated",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The source reports SQL-based analysis and reporting, but does not explicitly establish personal implementation of data pipelines or transformations using SQL database functionality. The SQL evidence is therefore related but below the requested application depth."
+        },
+        {
+          "id": "R042",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Frontend Engineering Intern",
+              "found_source_context": false
+            },
+            {
+              "title": "Web Development Tutor",
+              "found_source_context": true
+            },
+            {
+              "title": "Shift Lead (Campus Café)",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status",
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 29,
+            "years": 2.42,
+            "basis": "total_employment",
+            "minimum_months": 29,
+            "maximum_months": 29,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "29 months (2.42 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Web Development Tutor | Community College Tutoring Center (2025-09 to 2026-05): The Web Development Tutor entry is dated employment from 2025-09 to 2026-05. Shift Lead (Campus Café) | Campus Dining Services (2024-01 to 2025-08): The Shift Lead entry is dated employment from 2024-01 to 2025-08. Calendar coverage stops at the 2026-09-01 snapshot. The accepted lower bound does not establish the requested minimum.\n\nSource assessment: The employment history inventory includes all three dated employment entries: Frontend Engineering Intern, Web Development Tutor, and Shift Lead. Each is explicitly dated and supports total-employment coverage; no additional employment entry appears elsewhere in the source."
+        },
+        {
+          "id": "R044",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Data Engineering Manager",
+              "found_source_context": false
+            },
+            {
+              "title": "Senior Data Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Data Engineer",
+              "found_source_context": true
+            },
+            {
+              "title": "Data Analyst",
+              "found_source_context": true
+            },
+            {
+              "title": "Junior Data Engineer",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 106,
+            "years": 8.83,
+            "basis": "total_employment",
+            "minimum_months": 106,
+            "maximum_months": 106,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4",
+              "u5"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "106 months (8.83 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Senior Data Engineer | Los Angeles County Office of Education (2017-03 to 2020-05): This is a dated employment record from 2017-03 to 2020-05. Data Engineer | Entertainment Data Services (2014-01 to 2016-12): This is a dated employment record from 2014-01 to 2016-12. Data Analyst | Santa Clarita Community College District (2012-08 to 2013-12): This is a dated employment record from 2012-08 to 2013-12. Junior Data Engineer | Media Metrics Inc. (2011-06 to 2012-07): This is a dated employment record from 2011-06 to 2012-07. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The association inventory includes all five dated employment records shown in the source, with no omitted dated employment record. These records establish the requested total-employment evidence; the threshold itself is not adjudicated here."
+        },
+        {
+          "id": "R045",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "Branch Manager",
+              "found_source_context": true
+            },
+            {
+              "title": "Assistant Branch Manager",
+              "found_source_context": true
+            },
+            {
+              "title": "Personal Banker",
+              "found_source_context": true
+            },
+            {
+              "title": "Freelance Full Stack Developer",
+              "found_source_context": false
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 130,
+            "years": 10.83,
+            "basis": "total_employment",
+            "minimum_months": 130,
+            "maximum_months": 130,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u1",
+              "u2",
+              "u3"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "130 months (10.83 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Branch Manager | Arizona Central Credit Union (2016-03 to 2022-10): The Branch Manager role is dated employment from 2016-03 to 2022-10. Assistant Branch Manager | First Interstate Bank (2014-06 to 2016-02): The Assistant Branch Manager role is dated employment from 2014-06 to 2016-02. Personal Banker | Wells Fargo (2012-01 to 2014-05): The Personal Banker role is dated employment from 2012-01 to 2014-05. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The source provides dated employment for three banking roles and a dated self-employed developer role, with the listed association inventory covering each employment interval. The present end date for the freelance role remains open, but the source supports its inclusion as dated employment."
+        },
+        {
+          "id": "R047",
+          "criterion": "Required skill: sql",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "related",
+          "duration": null,
+          "finding": "The candidate personally developed a tool integrating with a SQLite database, but the source does not specify relational schema work, ORM queries, migrations, performance work, or another substantive SQL implementation activity. This is relevant database evidence but does not clearly establish the requested broad SQL capability."
+        },
+        {
+          "id": "R049",
+          "criterion": "Role: frontend developer",
+          "association_checks": [],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Unexpected evidence status"
+          ],
+          "actual_status": "uncertain",
+          "actual_relationship": "equivalent",
+          "duration": null,
+          "finding": "The candidate holds a full-stack developer role and reports developing patient-portal features, but the source does not explicitly state personal browser-interface implementation or clearly identify frontend responsibilities. The HealthTrack project uses React and describes a dashboard, which is related frontend evidence, but the platform is not explicitly specified."
+        },
+        {
+          "id": "R050",
+          "criterion": "Total employment",
+          "association_checks": [
+            {
+              "title": "React Developer (Contract)",
+              "found_source_context": false
+            },
+            {
+              "title": "Frontend Developer (Contract)",
+              "found_source_context": true
+            },
+            {
+              "title": "JavaScript Developer (Freelance)",
+              "found_source_context": true
+            },
+            {
+              "title": "Independent IT Consultant",
+              "found_source_context": true
+            },
+            {
+              "title": "Pharmacy Technician",
+              "found_source_context": true
+            }
+          ],
+          "excluded_credit": [],
+          "passed": false,
+          "failures": [
+            "Duration outside source-supported bounds",
+            "Required positive association context missing"
+          ],
+          "actual_status": "supported",
+          "actual_relationship": "direct",
+          "duration": {
+            "months": 189,
+            "years": 15.75,
+            "basis": "total_employment",
+            "minimum_months": 189,
+            "maximum_months": 189,
+            "snapshot_date": "2026-09-01",
+            "unit_ids": [
+              "u2",
+              "u3",
+              "u4",
+              "u5"
+            ],
+            "explicit_caps_months": {},
+            "minimum_years": 3.0
+          },
+          "finding": "189 months (15.75 years) of dated employment after merging overlaps; 3 years requested. Accepted source associations: Frontend Developer (Contract) | CarePoint Systems (2021-06 to 2022-12): This is a dated employment interval for the candidate from 2021-06 to 2022-12. JavaScript Developer (Freelance) | Self-employed (2019-03 to 2021-05): This is a dated freelance employment interval for the candidate from 2019-03 to 2021-05. Independent IT Consultant | Self-employed (2015-08 to 2019-02): This is a dated self-employed employment interval for the candidate from 2015-08 to 2019-02. Pharmacy Technician | MediPlus Retail (2007-04 to 2015-07): This is a dated employment interval for the candidate from 2007-04 to 2015-07. Calendar coverage stops at the 2026-09-01 snapshot.\n\nSource assessment: The source provides dated employment intervals for all five listed employment units, including the current role and prior contract, freelance, self-employed, and pharmacy-technician work. These associations cover the supplied employment history; no additional dated employment is omitted from the source."
+        }
+      ],
+      "invariant_pairs": [],
+      "input_tokens": 449027,
+      "output_tokens": 118061
+    }
+  },
+  "source_provenance": {
+    "unique_original_spans_checked": 1464,
+    "mismatches": [],
+    "scope": "Exact source positions and hashes; this does not measure semantic entailment."
+  },
+  "measurement_scope": "Historical development architecture; this does not measure the current source-inventory review contract."
+}

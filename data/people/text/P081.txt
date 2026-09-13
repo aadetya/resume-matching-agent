@@ -1,0 +1,19 @@
+Candidate P081
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Satellite Systems Operator | United States Space Force | 2013-06 to 2023-08
+Operated and maintained satellite communication systems, ensuring secure and reliable data transmission. Led a team of technicians in monitoring system health and troubleshooting anomalies, honing my ability to work under pressure and in shifts.
+Frontend Developer (Contract) | Nexus Staffing Solutions | 2023-09 to Present
+Developing responsive React components for a government client, focusing on accessibility and performance. Collaborating with a distributed team to integrate REST APIs and optimize PWA features.
+SKILLS
+TypeScript; JavaScript (ES6+); React; Component Architecture; Progressive Web Apps (PWA); Jest; Performance Optimization; REST API Integration; MongoDB; Redux DevTools; Netlify; CSS3; HTML5
+EDUCATION
+Front End Development | freeCodeCamp
+2021-09 to 2022-06
+PROJECTS
+Mission Dashboard PWA
+Built a progressive web app to visualize satellite telemetry data, using React and TypeScript. Implemented offline support and performance optimizations. Technologies used: PWA, MongoDB.
+CERTIFICATIONS
+freeCodeCamp Front End Development Libraries Certification
+Issued by freeCodeCamp.
+2022-01

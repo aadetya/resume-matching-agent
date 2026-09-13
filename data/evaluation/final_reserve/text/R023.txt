@@ -1,0 +1,21 @@
+Candidate R023
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+IT Support Intern | Carrollton Independent School District | 2024-06 to 2024-08
+Supported district-wide technology rollouts, assisted with network troubleshooting, and helped maintain computer labs.
+Student Developer (Work-Study) | Prairie View A&M University | 2023-01 to 2024-05
+Built and maintained the campus event calendar web app using React and Next.js, improving accessibility and mobile responsiveness.
+SKILLS
+React; Next.js; TypeScript; Vue.js; Kubernetes; CI/CD pipelines; MySQL; State management (Redux, Zustand); Cross-browser compatibility; Responsive design; Accessibility (a11y); AWS; Google Cloud Platform; Sentry; Datadog
+EDUCATION
+Bachelor of Science | Computer Science | Prairie View A&M University
+2020-09 to 2024-06
+PROJECTS
+Cloud Resume API
+Serverless contact form and visitor counter using AWS Lambda, API Gateway, and DynamoDB; deployed via GitHub Actions. Technologies used: React, CI/CD pipelines, TypeScript.
+Chat App with Vue and
+Real-time messaging app with user authentication and message history stored in MySQL. Technologies used: Vue.js, TypeScript.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01

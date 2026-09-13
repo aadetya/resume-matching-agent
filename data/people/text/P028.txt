@@ -1,0 +1,21 @@
+Candidate P028
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Frontend Engineer | AgriParts Manufacturing | 2022-03 to Present
+Develop and maintain PWA for internal inventory tracking. Implimented WebSockets for real-time updates and optimized performance to achieve 95+ Lighthouse scores.
+Production Scheduler | AgriParts Manufacturing | 2019-06 to 2022-03
+Managed production schedules and worked with engineering team to improve workflow. Learned basic scripting to automate report generation, leading to an internal transfer.
+Assembly Line Worker | AgriParts Manufacturing | 2018-01 to 2019-06
+Assembled components and quality checked parts. Took online courses in web development during evenings.
+SKILLS
+Progressive Web Apps (PWA); JavaScript (ES6+); Build Tools (Webpack, Vite); CSS-in-JS; Angular; Vue.js; Web Performance Optimization; GraphQL; WebSockets; Static Site Generation (SSG); Yarn; Chrome DevTools; GitLab; Webpack; ESLint
+EDUCATION
+Certificate | Web Development | Cosumnes River College
+2020-09 to 2022-06
+PROJECTS
+PWA Inventory Dashboard
+Progressive web app for tracking parts in warehouse. Implemented offline support and push notifcations. Technologies used: Vue.js, Webpack, PWA, IndexedDB.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2022-01

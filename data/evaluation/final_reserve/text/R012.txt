@@ -1,0 +1,21 @@
+Candidate R012
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Director of Athletics | Red River Credit Union Arena | 2016-08 to 2023-06
+Managed facility operations, budgets, and personnel for a large community sports complex. Oversaw youth leagues, tournaments, and maintenance staff. Implemented data-driven scheduling to improve facility utilization by 18%.
+Head Coach | Shreveport Storm Basketball | 2011-07 to 2016-06
+Coached competitive youth basketball teams, focusing on player development and teamwork. Managed schedules, travel logistics, and parent communication. Used video analysis to improve team strategy.
+Assistant Coach | Louisiana State University Athletics | 2008-01 to 2011-06
+Supported head coach in training and game planning. Analyzed opponent performance using video and basic stats. Coordinated equipment and practice plans.
+SKILLS
+Data Preprocessing; SQL; A/B Testing; Spark; Hadoop; Hyperparameter Tuning; Computer Vision; Data Visualization; Feature Engineering; MLOps; PyTorch; Anomaly Detection; Seaborn; AWS; NumPy; Airflow; dbt
+EDUCATION
+Bachelor of Science | Sports Management | Louisiana State University
+2004-09 to 2007-06
+PROJECTS
+E-commerce Recommendation Engine
+Built a collaborative filtering model using PyTorch to recommend products based on user browsing history. Preprocessed data with NumPy and visualized results with Seaborn. Technologies used: SQL.
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2024-01

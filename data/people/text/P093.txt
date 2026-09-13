@@ -1,0 +1,30 @@
+Candidate P093
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Intelligence Analyst | Air National Guard | 2018-06 to Present
+Apply data analysis and pattern recognition to support mission planning. Leverage Python and big data tools to process and interpret intelligence data. Maintain Secret clearance and ensure data accuracy and security.
+Junior Machine Learning Engineer | Aero Data Systems | 2022-08 to Present
+Develop and deploy ML models for autonomous vehicle navigation. Implemented time series models and recommender systems using PyTorch and scikit-learn. Worked with Docker and Kubernetes for model deployment.
+Data Analyst Intern | Aero Data Systems | 2021-06 to 2021-12
+Assisted senior analysts with data cleaning, exploratory analysis, and visualization. Used Python, R, and Power BI to support project reports. Gained exposure to cross-validation and model evaluation techniques.
+Intelligence Specialist | Air National Guard | 2018-06 to 2021-05
+Processed and analyzed intelligence data to support operations. Utilized big data technologies and statistical tools to identify trends. Developed strong attention to detail and data accuracy.
+SKILLS
+Python; PyTorch; scikit-learn; Cross-validation; Model Evaluation; Recommender Systems; Time Series Analysis; Big Data Technologies; R; LightGBM; Docker; Kubernetes; Power BI; Seaborn; NumPy; Git
+EDUCATION
+Associate of Science | Computer Science | Bakersfield Community College
+2016-09 to 2018-06
+Bachelor of Science | Computer Science | California State University, Bakersfield
+2019-09 to 2021-06
+PROJECTS
+Predictive Maintenance for UAV Sensors
+Developed a time series model using LSTM networks to predict sensor failures in drones, improving maintenance scheduling by 20%. Technologies used: Python, PyTorch, pandas, NumPy, Docker.
+Recommendation System for Intelligence Reports
+Built a recommender system to suggest relevant intelligence reports to analysts using collaborative filtering. Implemented with scikit-learn and evaluated using precision@k. Technologies used: Python, LightGBM, Git, Seaborn.
+CERTIFICATIONS
+AWS Certified Machine Learning – Specialty
+Issued by Amazon Web Services.
+2023-01
+TensorFlow Developer Certificate
+Issued by Google.
+2022-01

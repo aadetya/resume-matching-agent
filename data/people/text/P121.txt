@@ -1,0 +1,15 @@
+Candidate P121
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Software Development Intern | University of Nebraska–Lincoln | 2023-05 to 2023-08
+Built and maintained CI/CD pipelines in Jenkins for internal web apps. Implemented performance optimizations reducing page load by 30%. Used Git for version control and collaborated on microservices architecture.
+Undergraduate Research Assistant | Private Liberal Arts College | 2023-09 to 2024-05
+Assisted in research on distributed systems, focusing on containerization with Kubernetes. Designed RESTful APIs and optimized SQL queries for data retrieval. Participated in code reviews using GitLab.
+SKILLS
+CI/CD pipelines; performance optimization; version control (Git); API development; web development fundamentals; microservices architecture; design patterns; dependency management; containerization; data structures; SQL queries; Jenkins; Kubernetes; MongoDB; GitLab; CircleCI; GitHub; IntelliJ IDEA
+EDUCATION
+Bachelor of Science | Computer Science | A Private Liberal Arts College
+2021-09 to 2025-06
+PROJECTS
+E-Commerce Platform
+Developed a full-stack e-commerce web app using microservices architecture. Containerized services with Docker and orchestrated with Kubernetes. Automated deployments with CircleCI. Technologies used: Node.js, React, MongoDB.

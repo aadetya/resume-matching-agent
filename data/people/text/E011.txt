@@ -1,0 +1,21 @@
+Candidate E011
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Machine Learning Engineer | BayPort Credit Union | 2023-01 to Present
+Develop recommendation models for member offers. Deploy with Docker on Azure. Build dashboards in R.
+Lead Data Scientist | Chartway Federal Credit Union | 2021-06 to 2022-12
+Led a team of 3 data scientists. Built propensity models with XGBoost. Stepped down for more hands-on ML work.
+Junior Data Scientist | TownBank | 2019-07 to 2021-05
+Built churn models. Early PyTorch experiments. Learned MLOps basics.
+SKILLS
+PyTorch; TensorFlow; XGBoost; Deep Learning; Model Deployment; Data Visualization; R; MLOps; Cross-validation; Azure; NumPy; Docker; SQL
+EDUCATION
+Bachelor of Science | Computer Science | University of Virginia
+2015-09 to 2019-06
+PROJECTS
+Product Recommendation Engine
+Built a hybrid collaborative+content recommendation engine for member offers using PyTorch and deployed with Docker on Azure.
+CERTIFICATIONS
+TensorFlow Developer Certificate
+Issued by Google.
+2022-01

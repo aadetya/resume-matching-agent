@@ -1,0 +1,27 @@
+Candidate P014
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Frontend Engineer | Treasure Valley Community Credit Union | 2022-03 to Present
+Leading the design system initiative, I've built a comprehensive component library in React and Next.js that serves our online banking suite. I also mentor a small team of frontend engineers, balancing hands-on development with architectural guidance.
+Lead Frontend Engineer | Intermountain Community Bank | 2018-06 to 2022-02
+Transitioned from senior engineer to lead, where I managed a team of four frontend developers and owned the component library roadmap. I drove the adoption of TypeScript and improved test coverage with Cypress, cutting production bugs by a third.
+Senior React Developer | Idaho Trust & Savings | 2014-01 to 2018-05
+As a senior engineer, I led the migration of our legacy web apps to React and established the initial component library using Storybook. I also collaborated with UX designers to ensure responsive design patterns across our digital channels.
+React Developer | Gem State Financial Services | 2011-02 to 2013-12
+Developed interactive loan application forms and customer dashboards using React and Node.js, improving the digital experience and reducing form completion time.
+Junior React Developer | Boise Valley Credit Union | 2008-06 to 2011-01
+Started my career building and maintaining React components for the credit union's online banking portal, learning best practices under senior developers.
+SKILLS
+Next.js; Responsive Design; TypeScript; Cypress; Component Architecture; Hooks; React; Node.js; Storybook; npm; AWS; ESLint; GitHub Actions; JavaScript; CSS
+EDUCATION
+Bachelor of Science | Computer Science | Boise State University
+2004-09 to 2008-06
+PROJECTS
+Design System Component Library
+Created a comprehensive library of accessible, responsive React components with Storybook documentation, used across multiple banking products. Technologies used: TypeScript, Next.js.
+CI/CD Pipeline Implementation
+Set up GitHub Actions workflows for automated linting, testing with Cypress, and deployment to AWS, reducing release cycles from weeks to days. Technologies used: Node.js.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2020-01

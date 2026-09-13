@@ -1,0 +1,18 @@
+Candidate P164
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Software Engineer | ProTech Solutions | 2016-03 to Present
+Lead architectural design and development of client-facing applications. Reduced travel and shifted to fully remote.
+Senior Software Engineer | Apex Consulting Group | 2012-06 to 2016-02
+Built full-stack solutions for retail clients using Node.js and React. Mentored junior developers.
+Software Engineer | TechBridge Systems | 2010-01 to 2012-05
+Developed RESTful APIs and front-end interfaces for retail management software.
+SKILLS
+Node.js; React; RESTful APIs; Jest; Decorators; Lazy loading; GraphQL; Docker; Kubernetes
+EDUCATION
+Bachelor of Science | Software Engineering | University of Advancing Technology
+2005-09 to 2009-06
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2018-01

@@ -1,0 +1,24 @@
+Candidate E006
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Communications Systems Specialist | United States Army | 2018-03 to 2020-08
+Managed and troubleshot tactical communication networks, ensuring reliability and performance. Automated routine monitoring tasks with scripts.
+IT Operations Specialist | National Retail Chain Distribution Center | 2020-09 to 2022-02
+Supported Linux servers and network infrastructure for a distribution center. Implemented Ansible playbooks for config management.
+DevOps Engineer | National Retail Chain IT Division | 2022-03 to Present
+Manage Kubernetes clusters and microservices deployments for e-commerce platform. Use Splunk for log analysis and performance tuning. Implement blue/green deployments and chaos experiments.
+SKILLS
+Log management and analysis; Performance tuning; Linux system administration; Microservices deployment; Network configuration and troubleshooting; Scripting and automation; Cost optimization; Immutable infrastructure; Chaos engineering; Blue/green and canary deployments; Configuration management; Cloud platform management; Ansible; Kubernetes; Splunk; Python; bash
+EDUCATION
+Bachelor of Science | Computer Science | University of Massachusetts
+2019-09 to 2023-06
+PROJECTS
+Automated Canary Deployment Pipeline
+Built a CI/CD pipeline with automated canary analysis using Kubernetes and Prometheus metrics, reducing deployment failures by 40%. Technologies used: Jenkins.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2023-01
+CKA: Certified Kubernetes Administrator
+Issued by Cloud Native Computing Foundation.
+2024-01

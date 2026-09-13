@@ -1,0 +1,26 @@
+Candidate R024
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Software Engineering Manager | State of California Employment Development Department | 2018-03 to Present
+Lead a matrixed team of 8 engineers delivering enterprise mobile solutions for unemployment insurance systems, leveraging TypeScript and stakeholder alignment to drive strategic outcomes.
+Lead Software Engineer | State of California Employment Development Department | 2015-01 to 2018-02
+Architected and directed the development of high-impact mobile applications using React Native and NativeScript, ensuring alignment with business objectives and robust integration testing frameworks.
+Senior Software Engineer | State of California Employment Development Department | 2012-04 to 2014-12
+Spearheaded the modernization of legacy systems, transitioning codebases to TypeScript and Vue.js, implementing rigorous unit and integration tests to ensure optimal system performance.
+Software Engineer | State of California Employment Development Department | 2008-02 to 2012-03
+Developed and maintained RESTful APIs and WebSockets for internal tools, promoting cross-functional collaboration and agile delivery metrics.
+SKILLS
+Type typescript; Generics; Unit testing; Integration testing; RESTful APIs; Vue.js; Type definitions and interfaces; Transpilation; WebSockets; React; Code splitting; React Native; NativeScript; Node.js; JavaScript; CSS
+EDUCATION
+Bachelor of Science | Computer Science | University of Phoenix
+2010-09 to 2013-06
+PROJECTS
+Enterprise Mobile Field Inspection Platform
+Led the development of a React Native application for field agents, reducing manual data entry by 40% and enabling real-time synchronization via WebSockets. Technologies used: TypeScript, NativeScript.
+CERTIFICATIONS
+Microsoft Certified: Azure Developer Associate
+Issued by Microsoft.
+2020-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2018-01

@@ -1,0 +1,9 @@
+Candidate P160
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Engineer | Lancaster Manufacturing Co. | 2019-03 to Present
+SKILLS
+Unit testing; WebSocket; Backward compatibility; PostgreSQL
+EDUCATION
+PhD | Computer Science | University of California, Los Angeles
+2012-09 to 2018-06

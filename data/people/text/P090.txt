@@ -1,0 +1,23 @@
+Candidate P090
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Full Stack Developer (Contract) | Permian Basin Community Health Centers | 2023-06 to Present
+Developing a patient portal using Angular and Express.js, integrating with MySQL and ensuring HIPAA compliance.
+Lead Full Stack Developer | West Texas Credit Union | 2021-01 to 2023-05
+Led a team of four developers building internal banking applications. Oversaw migration to microservices.
+Full Stack Developer | Odessa Regional Medical Center | 2019-03 to 2020-12
+Worked on a patient scheduling system. Implemented automated testing with Cypress and Jest.
+Junior Developer (Contract) | Texas Tech University Health Sciences Center | 2018-01 to 2019-02
+Supported development of a research data dashboard using Angular and Firebase.
+SKILLS
+Angular; SQL; Unit testing (Jest, Mocha); End-to-end testing (Cypress, Playwright); Express.js; CSS3; Microservices architecture; MySQL; CI/CD pipelines; Figma; Firebase; Jira; Git; REST APIs; Agile methodologies
+EDUCATION
+Bachelor of Science | Computer Science | Texas State University
+2013-09 to 2017-06
+PROJECTS
+Healthcare Appointment Scheduler
+Built a scheduling app for a clinic with real-time availability and automated reminders. Technologies used: Angular, Express.js, MySQL, Firebase.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2021-01

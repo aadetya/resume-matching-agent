@@ -1,0 +1,25 @@
+Candidate E024
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Engineer | Minnesota Department of Revenue | 2021-03 to Present
+Design and maintain ELT pipelines for tax data. Implement data lake architecture and streaming ingestion using Kafka and Dataflow. Ensure data governance and lineage for compliance.
+Junior Data Engineer | Minnesota Department of Revenue | 2019-06 to 2021-02
+Built and maintained ETL jobs using Talend and AWS Glue. Cleansed and partitioned large datasets for analytics.
+Data Analyst | Minnesota Department of Revenue | 2018-01 to 2019-05
+Analyzed tax data and created reports. Led migration of on-premise data to cloud using Snowflake and AWS.
+Systems Analyst | IT Solutions Brazil | 2015-01 to 2017-12
+Supported data systems and performed data ingestion and cleansing for clients. Worked with early versions of Talend.
+SKILLS
+Data cleansing; Workflow scheduling; Data ingestion; Streaming data processing; Data lake architecture; Scala/Spark development; Data governance; Real-time data processing; ELT pipeline development; Data partitioning; Data lineage; Data partitioning strategies; Python; Google Cloud Dataflow; Talend; SQL; CloudFormation; Terraform; Airflow
+EDUCATION
+Certificate | Data Engineering | Bootcamp Data Engineering
+2017-09 to 2018-06
+Bachelor's | Computer Science | University of São Paulo
+2010-09 to 2014-06
+PROJECTS
+Real-Time Tax Filing Monitoring
+Built streaming pipeline to monitor tax filings in real time using Kafka and Dataflow. Technologies used: Apache Kafka, Google Cloud Dataflow, Python.
+CERTIFICATIONS
+Google Professional Data Engineer
+Issued by Google.
+2022-01

@@ -1,0 +1,16 @@
+Candidate P085
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+DevOps Intern | Michigan State University | 2024-05 to 2024-08
+Assisted in managing CI/CD pipelines and containerized applications.
+IT Support Assistant | Michigan State University | 2023-05 to 2023-08
+SKILLS
+Azure; Docker; Helm; Scripting and automation; Build automation; Splunk; New Relic; Blue/green and canary deployments; Artifact repository management; Incident response and management; Backup and restore procedures; Release management and rollback strategies; Service mesh implementation; Disaster recovery planning; Security hardening and compliance
+EDUCATION
+Bachelor of Science | Computer Science | Howard University
+2021-09 to 2025-06
+PROJECTS
+Cloud Infrastructure for University Event Platform
+Deployed a web application using Docker and Azure with blue/green deployments. Technologies used: Helm.
+Monitoring and Alerting Setup
+Configured Splunk and New Relic for application performance monitoring.

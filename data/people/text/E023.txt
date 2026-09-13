@@ -1,0 +1,25 @@
+Candidate E023
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior DevOps Engineer | Omni Retail Solutions | 2019-03 to 2021-01
+Assisted in maintaining CI/CD pipelines and monitoring systems for a national retail chain's e-commerce platform. Performed routine backups and basic Linux administration.
+DevOps Engineer | Omni Retail Solutions | 2021-02 to 2023-06
+Managed release processes for multiple applications, implemented service mesh for microservices, and optimized cloud costs. Introduced automated rollback strategies reducing downtime.
+Senior DevOps Engineer | Omni Retail Solutions | 2023-07 to Present
+Currently leading release engineering for a national retail chain's cloud infrastructure. Focus on service mesh implementation, cost optimization, and mentoring junior engineers.
+SKILLS
+Release management and rollback strategies; Service mesh implementation; Infrastructure as Code (IaC); Linux system administration; Backup and restore procedures; Cost optimization; Docker; AWS; ELK Stack; Grafana; Jenkins; Python; Bash; Terraform; Kubernetes
+EDUCATION
+Certificate | DevOps Engineering | Tech Bootcamp
+2018-09 to 2019-06
+Bachelor of Science | Computer Science | University of Dhaka
+2012-09 to 2016-06
+PROJECTS
+Automated Rollback System
+Designed and implemented an automated rollback mechanism for critical applications, reducing recovery time from hours to minutes and ensuring high availability. Technologies used: Jenkins, AWS, Docker.
+Service Mesh Adoption
+Led the implementation of a service mesh across a microservices architecture, improving observability and traffic management. Technologies used: Istio, Kubernetes, Grafana.
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional
+Issued by Amazon Web Services.
+2023-01

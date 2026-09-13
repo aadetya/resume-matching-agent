@@ -1,0 +1,21 @@
+Candidate R043
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior Backend Engineer | Elm City Financial Services | 2024-01 to Present
+Developing microservices for a local financial firm; implementing caching strategies and API versioning to support legacy clients. Collaborating with senior engineers to optimize SQL queries and improve observability.
+IT Support Technician | Family-Owned Hardware Store | 2023-05 to 2023-12
+Managed point-of-sale systems and network troubleshooting; wrote scripts to automate inventory reports, gaining exposure to backend logic.
+SKILLS
+SQL optimization; Backward compatibility; API versioning; OAuth2; Data serialization; Microservices architecture; Observability; Caching strategies; Authentication and authorization; GCP; Node.js; Python; Go; Kafka; PostgreSQL; TypeScript
+EDUCATION
+Bachelor of Science | Computer Science | Howard University
+2019-09 to 2023-06
+PROJECTS
+Real-Time Transaction Processing System
+Built a Kafka-based streaming pipeline for processing financial transactions; integrated OAuth2 for secure access, ensured backward compatibility with existing APIs. Technologies used: GCP, Node.js, PostgreSQL.
+Microservices Migration Demo
+Refactored a monolith into microservices, focusing on data serialization with Avro; implemented caching strategies using Redis. Technologies used: Python, Go, PostgreSQL.
+CERTIFICATIONS
+Google Cloud Professional Cloud Architect
+Issued by Google.
+2024-01

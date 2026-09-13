@@ -1,0 +1,23 @@
+Candidate P192
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Cyber Systems Operator | Army National Guard | 2017-06 to Present
+Managed and secured tactical communication systems, ensuring data integrity and availability. Coordinated with joint forces on network operations, applying agile methodologies to mission planning and execution.
+IT Support Specialist | Ohio State University | 2021-01 to 2022-08
+Provided technical support for faculty and students, troubleshooting hardware and software issues. Implemented minor database queries for asset tracking and contributed to internal documentation.
+Freelance Web Developer | Self-employed | 2023-03 to Present
+Developed and maintained small business websites, focusing on responsive design and performance optimization. Utilized RESTful API design and unit testing to ensure reliable delivery.
+SKILLS
+agile development; unit testing; performance optimization; API design; database design; Docker; version control; Kubernetes; Jenkins; VS Code
+EDUCATION
+Bachelor of Science | Computer Science | Denison University
+2019-09 to 2024-06
+PROJECTS
+Secure Chat Application
+Built a real-time chat application with end-to-end encryption using WebSockets and PostgreSQL. Focused on API design and unit testing to ensure security and reliability. Technologies used: JavaScript, Node.js, Jest.
+Inventory Management System
+Created a web-based inventory system for a campus department, featuring role-based access control and reporting. Leveraged Docker for deployment and Jenkins for CI/CD. Technologies used: React, Python, MySQL.
+CERTIFICATIONS
+AWS Certified Cloud Practitioner
+Issued by Amazon Web Services.
+2023-01

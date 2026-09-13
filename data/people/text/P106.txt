@@ -1,0 +1,18 @@
+Candidate P106
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Junior MLOps Engineer | Valley Manufacturing | 2023-01 to Present
+Support ML platform for predictive maintenance. Maintain deployment pipelines and monitoring dashboards.
+Data Analyst | Valley Manufacturing | 2022-06 to 2022-12
+Analyzed production data; supported transition to ML-based quality control.
+SKILLS
+model monitoring; model explainability; infrastructure as code; model deployment; data pipeline; A/B testing; cloud computing; feature store management; containerization; model retraining; Terraform; Kubeflow; Google AI Platform; Python; Docker
+EDUCATION
+Bachelor's | Computer Engineering | Instituto Tecnológico de Caracas
+2014-09 to 2018-06
+Master's | Data Science | University of Texas Rio Grande Valley
+2021-09 to 2023-06
+CERTIFICATIONS
+AWS Certified Machine Learning Specialty
+Issued by Amazon Web Services.
+2023-01

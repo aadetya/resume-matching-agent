@@ -1,0 +1,19 @@
+Candidate P140
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Sales Associate | Farm Fresh Grocery | 2023-06 to 2024-02
+Improved inventory accuracy by 15% through weekly cycle counts. Processed 100+ orders per day and supported the rollout of a new point-of-sale system, reducing checkout times by 20%.
+SKILLS
+React; WooCommerce; Catalog management; Inventory management; Order management systems; Supply chain integration; Performance monitoring and alerting; Mobile commerce; Braintree; JavaScript; Node.js
+EDUCATION
+Associate of Science | Computer Science | Tidewater Community College
+2020-09 to 2022-06
+Bachelor of Science | Computer Science | Old Dominion University
+2022-09 to 2024-06
+PROJECTS
+Grocery E-commerce Platform
+Built a WooCommerce-based prototype for online grocery ordering with real-time inventory syncing, using React for the frontend and Braintree for payments. Reduced cart abandonment by 10% in testing.
+CERTIFICATIONS
+Certified Shopify Developer
+Issued by Shopify.
+2024-01

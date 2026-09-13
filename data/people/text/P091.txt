@@ -1,0 +1,30 @@
+Candidate P091
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior Frontend Engineer (Contract) | Harborline Digital | 2023-03 to 2024-12
+Lead performance optimization for a major hotel booking platform. Audited Core Web Vitals, reducing LCP by 40%. Built a reusable design system using CSS-in-JS and Storybook.
+Frontend Engineer (Contract) | NextStop Travel | 2022-02 to 2023-02
+Developed a PWA for itinerary planning, enabling offline access and push notifications. Collaborated with designers in Figma to ensure cross-browser consistency.
+Frontend Engineer (Contract) | Brightpath Consulting | 2019-06 to 2021-11
+Worked on multiple client projects including a travel rewards portal. Implemented server-side rendering with Next.js and improved page speed scores from 60 to 95.
+Frontend Developer | Inkwell Interactive | 2014-01 to 2019-05
+Built responsive marketing sites and email templates. Focused on cross-browser compatibility and maintainable SCSS. Introduced ESLint and Prettier to the team.
+Junior Developer | Mosaic Web Studio | 2011-03 to 2013-12
+Assisted in building websites for local businesses. Learned the basics of HTML, CSS, and JavaScript while supporting senior developers.
+SKILLS
+Static Site Generation (SSG); Design Systems; Core Web Vitals; Cross-Browser Compatibility; Progressive Web Apps (PWA); CSS-in-JS; Node.js; ESLint; Prettier; Yarn; Babel; Figma
+EDUCATION
+Associate of Science | Web Development | Community College of Tampa
+2009-09 to 2011-06
+PROJECTS
+Travel Booking Optimization
+Led a speed optimization sprint for a travel booking site, refactoring images and inlining critical CSS. Achieved all perfect Core Web Vitals scores. Technologies used: Next.js, Node.js, Lighthouse.
+Offline Travel Guide PWA
+Created a PWA that allows travelers to download guides and access them offline. Integrated service workers and manifest for installability. Technologies used: React, Workbox, IndexedDB.
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2023-01
+freeCodeCamp Responsive Web Design Certification
+Issued by freeCodeCamp.
+2019-01

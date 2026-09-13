@@ -1,0 +1,21 @@
+Candidate P052
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Principal Frontend Engineer | National Non-Profit Organization | 2022-03 to Present
+Lead Frontend Engineer | Telecom Solutions Inc. | 2019-07 to 2022-02
+Senior React Developer | TechStart LLC | 2017-11 to 2019-06
+Frontend Developer | Digital Agency Co. | 2016-01 to 2017-10
+Web Developer | Local Business Solutions | 2013-02 to 2015-12
+Junior Developer | Startup Hub | 2010-01 to 2013-01
+SKILLS
+React; Next.js; State Management; Progressive Web Apps (PWA); Static Site Generation (SSG); HTML5; JavaScript; Debugging; React Router; Jest; Webpack; Cypress; Storybook; Firebase; Node.js; Express
+EDUCATION
+Bachelor of Science | Computer Science | University of Michigan
+2002-09 to 2006-06
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2021-01
+Meta Front-End Developer Professional Certificate
+Issued by Meta.
+2022-01

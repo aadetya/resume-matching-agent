@@ -1,0 +1,23 @@
+Candidate R039
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Data Analyst | Desert Financial Credit Union | 2020-06 to 2022-03
+Built SQL queries and reports in Power BI. Started using dbt for transformations.
+Analytics Engineer | Mountain Park Health Center | 2022-04 to 2023-08
+Owned data pipelines for clinical analytics. Implemented dbt models and data quality tests.
+Lead Analytics Engineer | Sun Health | 2023-09 to 2024-05
+Led a team of two analysts. Managed dbt projects and data warehouse architecture.
+Analytics Engineer | Banner Health | 2024-06 to Present
+Focus on data modeling and pipeline reliability. Building tests and documentation.
+SKILLS
+SQL; dbt; Data pipelines; Data quality testing; Data profiling; Data documentation; Redshift; BigQuery; Unit testing for data; Agile methodologies; Version control (Git); Data cataloging; Dashboard development; Dagster; Power BI
+EDUCATION
+Bachelor of Science | Information Systems | University of Arizona
+2016-09 to 2020-06
+PROJECTS
+Clinical Analytics dbt Project
+Developed dbt models for patient outcomes. Implemented unit tests and documentation. Technologies used: BigQuery, SQL.
+CERTIFICATIONS
+dbt Certified Developer
+Issued by dbt Labs.
+2023-01

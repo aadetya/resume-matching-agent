@@ -1,0 +1,23 @@
+Candidate P059
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Lead Big Data Engineer | San Jose State University | 2018-03 to Present
+Senior Big Data Engineer | San Jose State University | 2015-07 to 2018-02
+Data Engineer | University of California, Berkeley | 2013-01 to 2015-06
+Big Data Engineer | Stanford University | 2010-09 to 2012-12
+Junior Big Data Engineer | Stanford University | 2009-01 to 2010-08
+SKILLS
+Apache NiFi; Google BigQuery; Apache Iceberg; Apache Cassandra; Apache Flink; Cluster management; Data validation; Apache Hadoop; dbt; Python
+EDUCATION
+Bachelor of Science | Computer Science | Howard University
+2004-09 to 2008-06
+PROJECTS
+University Data Lake Migration
+Led migration of on-premise Hadoop cluster to Google BigQuery with Iceberg tables. Technologies used: Apache Hadoop, Apache Iceberg.
+CERTIFICATIONS
+Google Professional Data Engineer
+Issued by Google.
+2019-01
+Cloudera Certified Professional (CCP) Data Engineer
+Issued by Cloudera.
+2016-01

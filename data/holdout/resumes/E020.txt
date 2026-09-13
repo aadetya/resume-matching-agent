@@ -1,0 +1,21 @@
+Candidate E020
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Retail Associate | National Retail Chain | 2021-06 to 2022-08
+Shift work, customer service, cash handling
+Intern, Data Engineering | National Retail Chain | 2023-06 to 2023-08
+Built ETL scripts using Python, PostgreSQL, and Jupyter Notebook. Containerized with Docker.
+Junior Python Developer (Part-time) | National Retail Chain | 2023-09 to Present
+Developed internal tools with SQLAlchemy and REST APIs. Optimized queries.
+SKILLS
+Python; Docker; PostgreSQL; MySQL; RESTful APIs; SQLAlchemy; Unit testing; CI/CD pipelines; Multithreading; Concurrency; Kubernetes; Jupyter Notebook; Git; Bitbucket
+EDUCATION
+Associate of Science | Computer Science | Seattle Community College
+2021-09 to 2023-06
+PROJECTS
+Retail Sales Analysis
+ETL pipeline for sales data. Used Python, MySQL, and Jupyter. Automated with Docker.
+CERTIFICATIONS
+PCEP – Certified Entry-Level Python Programmer
+Issued by Python Institute.
+2023-01

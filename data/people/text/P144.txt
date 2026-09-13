@@ -1,0 +1,14 @@
+Candidate P144
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Software Engineer (Automotive Sector) | Federal Automotive Research Center | 2007-03 to Present
+Lead technical design and implementation for full-stack projects supporting automotive research. Mentor junior engineers.
+Junior Developer | Regional Auto Parts Distributor | 2002-06 to 2007-02
+Worked on internal systems for parts inventory. Learned agile practices and web development.
+Warehouse Associate | Auto Parts Warehouse | 1999-01 to 2002-05
+SKILLS
+Scrum; Data structures; Continuous deployment; Pair programming; NoSQL databases; RESTful services; Kubernetes; PostgreSQL; GitHub; Jira; Confluence; Postman; Eclipse; System architecture; Microservices
+CERTIFICATIONS
+AWS Certified Developer
+Issued by Amazon Web Services.
+2018-01

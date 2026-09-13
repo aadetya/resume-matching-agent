@@ -1,0 +1,25 @@
+Candidate P021
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+Senior React Developer | MeritCare Health System | 2019-03 to Present
+Lead development of patient portal and internal dashboards using React, Redux, and GraphQL. Implemented SSR for improved performance and SEO.
+React Developer | Sanford Health | 2016-02 to 2019-02
+Developed and maintained web applications for clinical staff. Introduced unit testing with Cypress and improved build tooling with Webpack.
+Junior React Developer | Essentia Health | 2014-01 to 2016-01
+Assisted in building patient-facing web forms and internal tools. Gained hands-on experience with React, Redux, and webpack.
+Web Developer | North Dakota State University | 2012-06 to 2013-12
+Developed and maintained university websites. Worked on SEO improvements and implemented responsive design.
+SKILLS
+React; Hooks; Redux; GraphQL; Cypress; Server-Side Rendering (SSR); Webpack; Vite; JavaScript; TypeScript; HTML5; CSS3; Node.js; Express; Docker; Yarn; Prettier
+EDUCATION
+PhD | Computer Science | North Dakota State University
+2006-09 to 2012-06
+PROJECTS
+Patient Portal React App
+Migrated legacy patient portal to React with server-side rendering, improving load times by 40%. Technologies used: Redux, GraphQL, SSR.
+Internal Dashboard System
+Built a real-time dashboard for hospital staff using React, Webpack, and Cypress for end-to-end testing.
+CERTIFICATIONS
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2020-01

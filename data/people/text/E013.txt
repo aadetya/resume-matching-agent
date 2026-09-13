@@ -1,0 +1,24 @@
+Candidate E013
+Synthetic candidate profile
+EMPLOYMENT HISTORY
+IT Support Technician | Community Builders Nonprofit | 2023-01 to 2024-06
+Handled helpdesk tickets and on-site tech support for field staff. Created Python scripts to automate data entry, gaining hands-on experience with MySQL and PostgreSQL in a production environment.
+Junior Python Developer (Contract) | TechForGood Consulting | 2024-07 to Present
+Developing RESTful APIs for a non-profit client. Implementing Redis caching, improving SQLAlchemy models, and setting up CI/CD pipelines with Travis CI and Docker. Debugging and refactoring legacy code.
+SKILLS
+Python; Multithreading; Redis; MySQL; PostgreSQL; RESTful APIs; Docker; CI/CD pipelines; Debugging; Refactoring; SQLAlchemy; Git; Linux; Bash
+EDUCATION
+Bachelor of Science | Computer Science | California State University, Los Angeles
+2019-09 to 2023-06
+PROJECTS
+Field Data Sync Tool
+Developed a Python tool to sync field-collected data between SQLite and MySQL databases using SQLAlchemy, implementing multithreading for concurrent uploads and Redis for caching. Automated CI/CD with Travis CI.
+Asset Tracking API
+Built a RESTful API for tracking nonprofit assets. Containerized with Docker, integrated with PostgreSQL, and deployed via CI/CD pipeline. Used PyCharm for development and Bitbucket for version control. Technologies used: Python, RESTful APIs, CI/CD pipelines.
+CERTIFICATIONS
+PCEP – Certified Entry-Level Python Programmer
+Issued by Python Institute.
+2023-01
+AWS Certified Developer – Associate
+Issued by Amazon Web Services.
+2024-01
