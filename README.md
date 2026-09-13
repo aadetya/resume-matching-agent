@@ -2,7 +2,15 @@
 
 I built this project to connect the filesystem assistant and resume RAG matcher through a persistent LangGraph conversation. The agent accepts a job description, keeps track of changing requirements, selects ten resumes for review, checks their source evidence and produces a recommendation. The browser interface keeps the conversation beside the candidate records.
 
-I divide screening into three rounds. Initial screening ranks all 200 resumes locally. Detailed screening uses OpenAI to assess the ten selected candidates against the same written criteria. Recommendation compares those reviewed findings. Source quotations, date calculations, uncertainty and requirement revisions remain available for inspection.
+Screening has three rounds. Initial screening ranks all 200 resumes locally. Detailed screening uses OpenAI to assess the ten selected candidates against the same written criteria. Recommendation compares those reviewed findings. Source quotations, date calculations, uncertainty and requirement revisions remain available for inspection.
+
+## Demo
+
+[Watch the demo](docs/media/resume-matching-agent-demo.mp4) · 9 min 57 sec · MP4, 23 MB
+
+The recording follows a search for backend developers through initial screening, detailed review and recommendations. It includes requirement changes, candidate comparisons and ranking explanations, source evidence, interview preparation and reading a resume from disk. Activity and the interactive LangGraph diagrams explain the workflow. It also shows the report preview and how to restore a saved review.
+
+Text overlays explain which steps run locally and which use OpenAI. Processing waits are accelerated with visible fast-forward indicators. The report is previewed, with its Markdown and JSON download options shown.
 
 ## Architecture
 
@@ -154,7 +162,7 @@ uv run --env-file .env python matching_agent.py \
 
 Mandatory skills use AND between groups and OR within a group. `[["python"], ["postgresql", "mysql"]]` means Python and either database. Preferred skills remain separate. `minimum_years` means total employment; `skill_years` records a duration for a particular skill. Roles and skills accept unfamiliar text; the alias vocabulary is not an eligibility allowlist.
 
-I preserve exact request clauses, examples and interpretation assumptions with stable criterion IDs. OpenAI compiles a shared evidence standard before seeing candidates. Unchanged standards survive refinement. A skills-list claim can support basic presence without establishing applied depth or years of use.
+The agent preserves exact request clauses, examples and interpretation assumptions with stable criterion IDs. OpenAI compiles a shared evidence standard before seeing candidates. Unchanged standards survive refinement. A skills-list claim can support basic presence without establishing applied depth or years of use.
 
 Initial ordering uses the learned model's raw relevance logits over complete resumes. The displayed `100 × sigmoid(logit)` is an uncalibrated relevance measure. It is neither a percentage of requirements met nor a qualification probability. BGE/BM25 passage scores do not override that order, and no metadata rule excludes profiles before ranking.
 
@@ -205,11 +213,12 @@ config/                        Skill aliases and screening policy
 scripts/                       Dataset, index, diagram and evaluation commands
 data/                          Source documents, provenance and evaluation fixtures
 docs/                          Architecture, evidence contract and usage documentation
+docs/media/                    Demonstration video
 reports/                       Evaluation measurements and verification results
 tests/                         Contract, failure, workflow and model tests
 ```
 
-Generated indexes, model weights, local session databases, `.env` files and recordings are excluded from the submission.
+Generated indexes, model weights, local session databases, `.env` files and raw recordings are excluded from the submission. The edited demo is included under `docs/media/`.
 
 ## Limits and responsible use
 

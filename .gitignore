@@ -11,6 +11,7 @@ __pycache__/
 .DS_Store
 *.mov
 *.mp4
+!docs/media/resume-matching-agent-demo.mp4
 runtime/
 *.sqlite*
 artifacts/

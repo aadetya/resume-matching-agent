@@ -2,9 +2,11 @@
 
 ## Design
 
-I use the conversation for requests and concise results, with separate views for candidate records, comparison, evidence, recommendations, interview questions and reports. The desktop layout places chat beside the review workspace. Narrow screens use separate Chat and Results views.
+The conversation contains requests and concise results, with separate views for candidate records, comparison, evidence, recommendations, interview questions and reports. The desktop layout places chat beside the review workspace. Narrow screens use separate Chat and Results views.
 
 Status colours have written labels. Candidate scores are retrieval relevance values, while duration findings retain their own evidence basis and units. A score is not a hiring probability.
+
+The [demo](../README.md#demo) follows these views through a complete review, including requirement refinement, interview preparation, the report preview and restoring a saved session.
 
 ## Requests and progress
 

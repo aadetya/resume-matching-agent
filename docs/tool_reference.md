@@ -4,7 +4,7 @@
 
 The registry exposes the four filesystem tools from Milestone 1, RAG search from Milestone 2 and the three additional assignment tools. Pydantic validates every argument object and rejects extra fields.
 
-I keep this boundary explicit so the planner can request an operation while extraction, source checks and path permissions remain application responsibilities.
+The planner can request an operation, while extraction, source checks and path permissions remain application responsibilities.
 
 ## Available tools
 

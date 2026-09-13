@@ -2,9 +2,11 @@
 
 ## Project Objective
 
-I divide the work into three screening rounds. Initial screening selects source passages and a provisional shortlist. Detailed screening performs the candidate assessment. Recommendation compares the completed findings and explains the decision. There is no additional user-facing preparation round.
+The workflow has three screening rounds. Initial screening selects source passages and a provisional shortlist. Detailed screening performs the candidate assessment. Recommendation compares the completed findings and explains the decision. There is no additional user-facing preparation round.
 
 The [interactive diagram](architecture.html) and [SVG](architecture.svg) are generated from the compiled LangGraph. The browser and CLI both use `MatchingSession`; SQLite checkpoints preserve the conversation and human feedback loop.
+
+The [demo](../README.md#demo) shows all three rounds in the application. Activity appears at 6:59, followed by the interactive graph walkthrough at 7:36.
 
 ## Workflow
 

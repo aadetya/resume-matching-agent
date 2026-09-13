@@ -4,7 +4,7 @@
 
 Start a connected session with the current Luna model and the active index. These are review scenarios and expected workflow properties, not claims that every model response or candidate ordering is predetermined.
 
-I keep the checks tied to visible state so a change in interpretation can be inspected without inventing a fixed ranking.
+The checks use visible state so changes in interpretation can be inspected without requiring a fixed candidate order.
 
 ## 1. Search and compare
 

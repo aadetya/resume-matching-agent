@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-I use source-scoped work records to connect a candidate's responsibilities, technologies and dates across the document. A missed association or unsupported inference can affect both eligibility and duration, so the evidence and its remaining uncertainty stay visible.
+Source-scoped work records connect a candidate's responsibilities, technologies and dates across the document. A missed association or unsupported inference can affect both eligibility and duration, so the evidence and its remaining uncertainty stay visible.
 
 The current implementation is [contextual.py](../src/screening_agent/contextual.py), with shared [evidence instructions](../src/screening_agent/contextual_prompts.py). It uses the connected model configured for the session, defaulting to `gpt-5.6-luna`. This architecture has no demonstrated state-of-the-art or broad accuracy advantage.
 
